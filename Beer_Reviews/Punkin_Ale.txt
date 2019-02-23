@@ -1,0 +1,1000 @@
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3 | smell: 3.25 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 Pours a clear, very dark amber with a thin white head that leaves a little lacing. Smells and tastes of cloves, nutmeg, cinnamon, pumpkin, brown sugar, malts and some vanilla. Something quite artificial about the pumpkin flavor. Thick mouth feel, medium to heavy bodied, medium carbonation.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 From notes 10/14/12: Pour a coppery amber producing 2 fingers of off-white, somewhat lasting head that leaves a thin film of lace. Aroma is brown sugar, nutmeg, clove, cinnamon and vegetal pumpkin wrapped in toasted and caramel malt. Taste is like the nose but a little more malt forward. Finish and aftertaste are spice heavy. Mouthfeel is medium-heavy bodied with moderate carbonation, fairly smooth with a light creaminess but a bit sticky.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 The first time I had this, a few years ago, it was my favorite pumpkin. They changed something about it. The aftertaste is really weird, almost metallic tasting. The pumpkin doesn't really taste like pumpkin either. Alcohol is up front and can taste that.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 Clear amber brown body, half finger of fine grained foam  Malts, brown sugar, grain, nutmeg, cocoa  Brown sugar, cinnamon, nutmeg, caramel, cocoa, grain, malt, graham cracker, a little bit of pumpkin  A little abrasive on the tongue  A little bitter, but good   
+look: 4.25 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 2.5 | feel: 2.5 | overall: 2.75 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 A great pumpkin - light pumpkin flavor & aroma, smooth mouthfeel, nice spice, a little sweetness: top notch seasonal release 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 L-Pours a beautiful amber mahogany colored beer with a nice fizzy head that quickly dissipates. Very pretty beer.  S-Smells great and fresh. I get notes of pumpkin spice, cinnamon, nutmeg, apple cider, and maybe some graham cracker and biscuit as well. Smells very good, warm, and seasonal.  T- The taste pretty much follows the smell. Bitter enough from the hops, followed by a nice pumpkin spice and cinnamon flavor.   F- The mouthfeel is relatively thick. Thicker than I expected at least. There's a nice fizziness to it. Not too bad at all!   O- Overall this beer is extremely well made for a pumpkin brown ale. I'm typically not a huge fan of these, or really never a fan at all. But this is by far the best I've had from the style. Overall an extremely well made and enjoyable ale. A pleasure to drink, and it gets me in the mood for halloween. I think I'll get another sixer this October.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Punkin Ale has a thin, off-white head, a clear, bubbly, orange appearance, and no glass lacing. Aroma is of faint spices and pumpkin meat, with some strong malt. Taste is similar, with a sort of high-gravity malt liquor back note. Mouthfeel is light to medium, and Punkin Ale finishes mostly crisp.     RJT   
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.75 | feel: 4.25 | overall: 4.5 My favorite pumpkin ale so far this year. Pumpkin flavor is detectable amidst a cocktail of spices, including cinnamon, nutmeg, and vanilla. Where this ale excels the most is it's body as a brown ale, which creates a naturally rich platform for pumpkin without the overbearing muddiness of a porter.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 3 | feel: 3 | overall: 3.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Only an average pumpkin beer. Nothing spectacular. 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 4.25 A spiced brown ale,(closer to a scottish ale) not overly pungent, but still has a good fall taste. For 7% ABV it is very smooth and easy to drink. Great for halloween parties.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 3.75 | overall: 4 Great tasting way to bring in the Fall here in Florida! Fantastic pumpkin brown ale! 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.25 | smell: 3.75 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 L: Bronze body with light brown 2 inch head. Good lacing.  S: Malty with nutmeg and pumpkin  T: Seasonal spices with strong pumpkin finish. Flavor stays on the palate for a while.  F: Smooth, just the right amount of carbonation   
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 Surprisingly delicious pumpkin ale - this from someone that doesn't really like strong pumpkin flavors and all the spices that go along with it. Nice orange color with some fluffy white head and very spotty lingering lacing. Smells of pumpkin, spices (nutmeg and cinnamon), some vanilla. Tastes similarly, along with some caramel, brown sugar and malt. But boy that pumpkin taste is well-balanced with the beer, and never overwhelms it. Smooth mild slightly creamy mouthfeel. Good carbonation. Dogfish Head does it again! I already have many more pumpkin beers from other breweries to try at home.   
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 Look: Clear orange with a thick white head of foam that quickly dissipates.    Smell: Savory sweet. Pumpkin pie and malt.    Taste: Not as strong as I expected. Mild malt, almost unnoticeable pumpkin pie, and a twinge of bitterness on the tongue from hops.    Mouthfeel: Average thickness, high carbonation.    Overall: While not bad, it's disappointing that the pumpkin flavor isn't stronger.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 Draught pint at The Brass Tap in Baltimore. 
+look: 3.5 | smell: 2.75 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.25 | taste: 4.25 | feel: 3.75 | overall: 3.75 12 oz. bottle poured into a tulip glass.    L---Clear, orange/amber color with a medium, off-white head that faded quickly and left ok lacing.    S---Malty. Fairly slight aroma. Pumpkin pie is there, but not strong.    T---Much stronger than the smell, thankfully. It's nice that they actually use pumpkin in brewing instead of just the spices, like everyone else. It makes a difference. Has a real pumpkin pie taste.     F---Medium body, decent carbonation, refreshing. No bitterness of note.    O---Overall, a quality pumpkin ale.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 Bottled 8/14/18; drank 9/5/18 @ the Yarchives.     See-through orange rust appearance.     A rough pour yielded a nice khaki head; frothy lace.     Mild notes of pumpkin pie, clove & even fainter hints of cinnamon in the nose; not much of an odor.     Medium mouthfeel.     Mild pumpkin & cinnamon flavors up front; macro lager aftertaste on the finish.     Not much flavor here and a bad aftertaste; although this isn't abhorrent, I'd rather have a glass of water.   
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 ‘‘Tis the season.. oh wait, wrong season...    Back to beer, poured from 12oz bottle into a Bruery stemless snifter, reddish clear copper body, white head with light retention    Aroma is definitely there, pumpkin forsure but also some spicy cinnamon and sweet granola, even some faint earthiness    Taste follows the nose but just a tad bit light on the pumpkin for the finish, still solid, pumpkin spice followed by a semi sweet malt    Mouthfeel is smooth, normal consistency but has a slightly sticky lacto feel to it, no alcohol presence detected    Overall for being my first pumpkin style, I’d say it was a good experience and a great example of the style (from the style description)   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 12oz bottle into a pint glass. bottled 8/13/18, so not even 2 weeks old here.     crystal clear deep yellow/orange/amber body. decent carbonation. small off white head leaves light lacing.     The aroma of pumpkin spice is not strong on the nose.    ..but it is strong in the taste. and pretty bitey on the tongue. slightly sweet, with a somewhat sour bitterness towards the end. dogfish advertises this as a "brown ale" brewed with pumpkin and spices. But any brown ale taste is buried by pumpkin spice.     around medium on the mouth, slightly sour spices on the finish.    Overall, and I freely admit that the spice side of pumpkin ales is less appealing to me that those brewed primarily with the vegetable itself, this one was a little to bitter and spicy to be enjoyed by this particular palate.   
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 Poured an orange amber color with a one finger white head that dissipated quickly to a thin film. Light spotty lacing. Faint vegetal aroma with little spice and malt. Light pumpkin pie spice flavor. Clove is more prevalent with brown sugar close behind. Light hop bite on the tail. Overall, this is a very drinkable brown ale. However, there are better pumpkin ales out there. Although not a big fan of pumpkin ales, I do like brown ales and this is very balanced. I would buy this again.   
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 Dogfish Head Pukin’ Ale - 7.0% ABV - 28 IBUs  Date: 08/02/18, consumed on 8/22/18.   Appearance: The color is a mix of amber and orange, curiously not that brown. Its fairly clear and produces a finger of off white head which dissipates rather quickly. Additionally, something I rarely mention is artwork, but the 2018 label is gorgeous.   Aroma: Vegetal pumpkin, some spices, and a good strong caramel malt backbone. Clove sticks out most among the spices, a yeast aroma is also present. Surprisingly, there isn’t a ton of brown sugar sweetness either.   Taste: Big toasted brown ale malt flavors up front, a little pumpkin flavor, some pumpkin spices, which are thankfully used conservatively. The pumpkin pie qualities are all here, but this is a more subtile take on the style. Punkin’ has a medium full mouthfeel and does get a little sweeter as it warms, but its still no sugar bomb. The style helps to beef this beer up, negating the need for over spicing or sweetening. A very pleasant, if unremarkable pumpkin infused brown ale.   Biased comments: I believe using a brown ale as the base produced better more rounded beer that also more closely resembles actual pumpkin pie than the pumpkin ales I’ve come across. I’m also thankful it has some actual noticeable pumpkin flavor as well, I just wish it had more. A worthwhile beer, but honestly, Oktoberfest beers are slaughtering pumpkin beers this year.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 Dogfish Head Punkin Ale, 7% ABV. Pours pale red with a half-finger tan head, which dissipated quickly leaving no lacing. Nose is pumpkin and slight spice. Taste is pumpkin/squash, pie spice, and light citrus, with moderate bitterness. Light carbonation, so good mouthfeel. Overall excellent. One of the better pumpkin beers I've had.   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3.25 | taste: 2.5 | feel: 3 | overall: 3 This beer smells better than it tastes. As it’s marketed as a pumpkin beer, you would expect to taste pumpkin. Sadly, it’s almost nonexistent. It’s a brown ale basically. You will smell the nutmeg and a little pumpkin, but the taste is disappointingly flat. Dfh was a pioneer of pumpkin, but my opinion and the opinion of others I know is that this recipe changed. Something is drastically different from Punkin of old. It used to be better. We don’t know if it has to do with pumpkins or something else, but it’s been a topic of discussion. There are many many far better pumpkin beers on the market in my opinion, once’s with more prominent pumpkin and spice. That said, one thing has never changed and that is DFH Punkin is the best Punkin to make chili with. Again, I don’t know why but I have tried many other pumpkin beers and there is no better beer than dfh Punkin to make chili with. So all is not lost. I would drink dfh Punkin if I wanted a low alcohol brown or if I am having chili, so not very often. Usually I want a mor3 flavorful Punkin or a much stronger Dark brown ale. That’s my opinion. I hope that you will make some chili with it.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 2.75 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.25 | taste: 3 | feel: 3 | overall: 3.25 
+look: 5 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3 | smell: 4.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 Type: 12-oz. bottle  Glass: Clear 14.75-oz. porter/stout tulip  From: Bine & Vine Bottle Shop in Normal Heights, Calif.  Price: $2.78 with 10 percent off for a variety 6-pack   Purchased: Oct. 5, 2017  Consumed: Oct. 20, 2017  Reviewed as: Pumpkin Ale  Misc.: Bottled on Aug. 28, 2017 at 10:53 p.m. ET    Picked this up on a recent trip to Bine & Vine. Hadn’t tried it before, had pretty good reviews (3.93) and I got 10 percent off with a purchase of six different beers overall. Not always in the mood for pumpkin beers, but was tonight. Bottle read, “Our fall favorite, full-bodied brown ale is brewed with real pumpkin, brown sugar, allspice, cinnamon and nutmeg.”    Poured a medium amber-to-copper semi-clear color with 2-to-3 fingers of frothy khaki head. Lots of bubble streams coming up from the bottom of the glass. Very good spotty lacing. Excellent retention. (Sight - 4.25)    Smelled all the spices up front, including nutmeg, allspice and cinnamon. Also notes of toasted brown sugar, pumpkin, red apple and pumpkin pie. More real than artificial and had me looking forward to the taste. (Smell - 4.00)    Taste was not initially as good. First thing I noticed was metallic notes. Got better after though. Also nutmeg, allspice, cinnamon, peppery spices, pumpkin, caramel, Life cereal, raisins, hints of fig, pie crust, roasty malts and wet leafy grass. (Taste - 4.00)    Medium body. Sticky texture. Average carbonation. Long, spicy finish. (Feel - 4.25)    A really good pumpkin ale overall. Outstanding for the style. (Overall - 4.00)    4.04 | 90 | A-   
+look: 2.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 Beer pours a beautiful caramel color but no head. The smell is pumpkin and nutmeg that translate to the flavor. It's a little more carbonated than I than I like. At 7% this is not a bad brown beer.   
+look: 4.25 | smell: 3 | taste: 4.5 | feel: 4.25 | overall: 4.25 Lovely deep amber color but thin head. Not much aroma on this one. Taste is what I expected from Dogfish, very good and complex. The pumpkin is not so obvious and then turns to more beer like. Makes you want more. This is probably the best Pumpkin beer for beerknurds in October. Cheers and Respect. On draft at Ron’s Corner Tavern.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Poured from a 12 oz bottle into a pint glass    L: Nearly clear golden brown pour. Thin white head. Modest lacing.    S: Pumpkin pie spice... squash/pumpkin. Brown sugar.    T/F: Not overly pumpkin-y which is a good thing. Definite pumpkin presence, but also some solid malt presence, spice, brown sugar sweetness followed by some hopping for bitterness which comes through at the end. Medium to light in body... well carbonated without being fizzy.    O: Probably the best of the 'pumpkin' beers... which is kind of like being the thinnest kid at fat camp, but this one's pretty drinkable... kind of an 'after dinner' beer, and I'm good for maybe 2 of these each fall.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 3.75 Pours a deep gold with a light gold, lasting, frothy head but no sticky lacing. Aroma is cinnamon, nutmeg and clove (and it says allspice - so maybe that too?). Taste seems to be allspice up front - again, I feel like the pumpkin is either extremely minimal, or almost entirely masked by the spice. These "pumpkin" beers are really more "spiced" beers than anything. Feel is medium with medium carbonation. Overall, just your average pumpkin ale...better than some..not as good as others.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pint glass at the Green Parrot. Clear copper with a small creamy head. Cinnamon is the major smell, with some other spices (All-Spice?). Taste is very good, but more pumpkin pie (spice), than pumpkin. Nice and easy going down. A very nice fall brew.   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 4 | overall: 3.75 Pours a beautiful clear orange gold with almost no head. Smells of loads of fall spices, pumpkin, brown sugar, and malt. Tastes of powerful spices, namely nutmeg, cinnamon, and maybe allspice, light pumpkin, brown sugar, and some sweeter malt. Medium in body and carbonation. Overall this is an enjoyable beer, but it tastes to me like a spiced beer rather than a pumpkin beer as the spices are incredibly prominent while the pumpkin is barely there.   
+look: 4 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 Poured into a Great Divide cervoise glass.    Look: Very clear copper body with a beautiful, silk-like light cream colored head that recedes to an even soapy film. Very pretty random patches of lacing.    Aroma: Toasted cinnamon bread, spicy ground cinnamon, allspice, alcohol.     Taste: The 7% alcohol seems to really cut through the taste right off the bat. However, sharp cinnamon opens the profile with a more genuine meaty pumpkin flavor in the middle. Hints of brown sugar and pumpkin spices follow. A tangy, hoppy finish.    Mouthfeel: A little dry and boozy.    Overall: The beer is a little too sharp and hot for me, but certainly a nice pumpkin sipper on a chilly Fall day.   
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3 | overall: 3.25 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 This is a solid pumpkin ale. Dogfish uses high end ingredients so it can be pricey but it's worth a try. This is a pumpkin ale that isn't too sweet like some other ones. Southern Tier Pumking is a good pumpkin ale but it's on the sweet side, so if that beer put you off give this a shot. It has a big mouthfeel and is full of malty flavor. Not much hops at all and the spices aren't too overwhelming. At 7% it sneaks up on you   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 L - Poured a clear dark amber with 1 finger white head which receded quickly. Minor lacing.  S - Pumpkin-y, spicy, malty mix.  T - Followed the smell, actually but a little more spicy than pumpkin. Nice.  F - Easy mouthfeel. Pretty smooth.  O - A nice drinking beer. Tasty and enjoyable.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.5 Reminds me a little of Yuengling Lager, with a small taste of pumpkin and sweet. 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 I really like how they put this ale together. Mostly malt. Modest spicing. Thanksgiving in a bottle.  Having Had 14 now from Dogfish Head, I probably am entitled to pronounce them one of the most creative brewers I know. The temptation in a subtle ale is to try to do too much. They did just enough to convince me that having only one this year would be a mistake. Punkin Ale is back on my list.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 12 oz bottle poured into a pint glass. Colour is quite caramelly. Heavy spice especially nutmeg smell. Delicious flavour, easy going pumpkin/gourd with again spice especially nutmeg. It feels quite warm and smooth with lingering pepper like spice.   After note. I slowly drank this beer from 37* F to room temperature and might I add that the pumpkin/gourd flavour was much less "pie" and much more fresh baked or roasted. Wonderful.   
+look: 3.5 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Poured into pub glass.    Appearance: Thin head ring, patchy lace. Pale amber.    Nose: Pureed pumpkin cream and nutmeg    Taste: Same as taste, some wheaty backbone and hop crisp. An almost Oktoberfest base.     Mouth: Not as thick as I anticipated, but nice and smooth.    So often Dogfish goes above an beyond, I was a little surprised this pumpkin ale didn't have a big twist to it. It was just a good pumpkin ale. If that;s the most I can complain, I guess they're still doing it right.   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 A local favorite in the fall. Picked up a six pack early in the season and decided to have one on a late Saturday night. This is a good dessert beer for me. A little sweet for dinner but perfect when relaxing on a fall night. Great balance of sweet and spice and still tastes like a beer. Glad I have another five.   
+look: 4.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3 | taste: 3 | feel: 2.75 | overall: 3 
+look: 5 | smell: 4 | taste: 4 | feel: 4 | overall: 4.5 I like that it does not just say pumpkin spices like some of the fall beers might. It actually says allspice, cinnamon and nutmeg.   Looks great in my snifter glass.  A hint of spice in the smell  Small head that disappeared quickly.   Nice mouth feel.  Easy to drink.  I almost want to make some sort of bakery item with this instead of water in a recipe.  I will drink this again before the season ends.   
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.25 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 For the style. A fairly clear dark amber with a quickly receding head, and very minor lacing on the glass. The aroma is good amounts of pumpkin, brown sugar, cinnamon, and nutmeg. You can pick everything out, nicely. The flavor is nice and punchy, and in your face with all of those flavors. Pumpkin spiced cake! The feel is medium body, dry, and well carbonated. Gonna be my favorite pumpkin brew, for sure.   
+look: 3.75 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 Poured from 12oz bottle into a Standard Pint glass. Bottled on August 12th 2017? Stamp is a bit mucked up. This beer has been highly recommended by a number of people so when I saw it in my local bottle shop I had to give it a try.     L: Slight chill haze, of a black tea like color. Thin half finger white head fades after a minute or so however there is almost a thin blanket of bubbles lingering on top.     S: Smells of spices, nutmeg, clove, allspice and cinnamon. Lots of pumpkin meat here too. Nice aroma and gives me hope for the flavor being balanced between pumpkin and spice.     T: Well balanced flavor of Pumpkin meat and spice flavors, all the same notes as the aroma. Very nice.     F: Medium body, average carbonation, clean finish.   
+look: 3.75 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.25 Pours a deep gold with nice head and sticky lacing, lots a carbonation also. Getting a decent spice on the nose with some brown sugar, pumpkin, and clove essence. The taste is ultra smooth with the flavors following the nose. This is by far my best pumpkin beer so far, its great tasting and not over the top on spice and sweetness, exceptional beer for the class.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Looks dark orange  Smells almost identical to pumking ...lots of cinnamon nutmeg   Taste is like pumpkin, but not quite pumpkin pie. It's even bitter  Mouthfeel leaves a very dry aftertaste.  Overall I have to say I like pumking more but that's got stronger spice profile in the taste which I prefer the stronger beers.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3 | taste: 4.25 | feel: 3 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Love the sweet notes in this punkin ale. Smooth finish with a crisp bite. Just the right amount of spice hints. 
+look: 3.5 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4 This beer pours a clear amber with a large head. The aroma is very reminiscent of a sweet bread - with cinnamon, banana, brown bread, and nutmeg. The flavor is fairly mellow and balanced, with cinnamon and nutmeg leading the way, followed by banana bread, coffee, milk chocolate, and brown sugar. The mouthfeel is reasonably light with a mild, foamy carbonation. Overall this is a nice little beer, very restrained and balanced, and super easy to drink.   
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Pours copper. Foamy, short, off white head that fades slowly with a lasting ring.    Smells caramel malt, pumpkin, spices. All light amounts    Tastes Caramel malt, toasted malt, light pumpkin, light cinnamon, nutmeg and earthy bitterness. Finish is semi dry with pumpkin linger. Medium body and lightly fizzy carbonation.   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 5 12oz bottle poured into glass0.  Look: Amber with no head.  Smell: cinnamon, pumpkin, allspice.  Taste: cinnamon, pumpkin, allspice, malt at the end.  Feel: easy to drink considering the Abv.  Overall: a great pumpkin beer   
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 3 | smell: 3.25 | taste: 3.25 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 The appearance was a murky semi-dark orange color with a slight transparency about it. Carbonation could be seen rising at a moderate pace to fill a quickly dissipating finger's worth of white foamy head that left barely any lace.  The aroma had a soft blend of the pumkin flesh, some bready malts and a blend of nutmeg, allspice, cinnamon, and ginger.  The flavor leaned slightly sweet initially through the pumpkin flesh and breadiness and developed a nice blend of the previously mentioned spices. Semi-crisp sort of flesh-like sweetness and spices embrace the aftertaste.  The mouthfeel was between light and medium bodied with a great sessionability about it. Carbonation felt fine playing with the entire feel and aligning appropriately with the ABV.  Overall, though I tend to lean towards Smuttynose's as my main go-to for pumpkin ales, this is a well worthy second place find to have alongside for Autumn festivities. Good job, Sam and company!   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 Look - copper color with a big lasting slightly tan head  Smell - allspice, pumpkin and brown sugar  Taste - taste like an amber with allspice and pumpkin  Feel - medium body with a slight creaminess and slight carbonation  Overall - I'm not a fan of pumpkin beers but this is ok   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 4.25 | taste: 4 | feel: 4 | overall: 3.25 2009 backlog. 12 oz bottle. Aroma of pumpkin spices, grain. Pours a light amber hue with little head, decent lacing. Flavors just as the label describes. Much more full-bodied than Blue Moon’s Pumpkin Ale and Jack’s (Michelob). Not watery at all. Definitely the best "punkin" beer yet.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 on draft, in shaker pint    appears medium brown in color, white head. nice spicy herbal pumpkin pie spice - nutmeg, cinnamon. not really any pumpkin proper flavor, more the spices. medium bodied.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3 | smell: 3.5 | taste: 2.75 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Look is less murky and more translucent than I expected. Smell is quite like some sort of pumpkin spice liquor. Taste is alright, and drinkable. I would describe this as a pumpkin session for to me it is very light bodied, with a soft tingle of carbonation. This was bottled Halloween 2016, and it is now the end of January   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 Cool little 4 pack on sale for just $4.99 at Spec's in Beaumont - couldn't resist. Julian dating suggests like a 6-7 month old beer or so (I think).     Color is a warm, semi-hazy orange, or at least my color blind ass thinks so.     Small retisicient head with a splash of lacing here and there that falls down into the pumpkin ale from time to time.     Smell is a light malt with a faint pumpkin to it, I'm sure had I grabbed it earlier it would've been much more in your face. That being said there is something warming, calm, and refreshing about the suggestion of pumpkin in the ale. Goes down extremely smooth and tastes great.    Really balanced, safe beer and with an autumn cheer. It is a very unartificial pumpkin flavor that resides in the back of the mouth. Light malts to help guide you to the flavor. Wet and refreshing once again on the palate. I dig this beer and look forward to trying it fresher. It aged quite well.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 Poured into a pint glass    Appearance: Thin white head, golden orange.     Smell: Strong smell of pumpkin     Taste: Pumpkin with nutmeg and cinnamon.     Mouthfeel: A lot of carbonation, takes away from the taste a little.     Overall: A nice pumpking beer saved from the fall. Dogfish comes through with another good beer.   
+look: 3.75 | smell: 3.25 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 From a 12 Oz bottle, fresh to a glass, did not make a long lasting head or much lacing, but it was a great aroma for the season. Very quaffable. I will look for this every fall for sure.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 Pours orange and almost crystal clear with a 2 finger off white head. Not much lacing.    Good pumpkin aroma with light pumpkin spice. Good pumpkin pie.    Pumpkin and spice again, just lighter. A subdued bitterness and light caramel.    Medium in body with rather high carbonation and a moderately sticky and drying finish.    One of the better pumpkin ales I've sampled. Good aroma and taste of pumpkin and a rather substantial ABV.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Saved this beer over the course of three years. Tried a vertical tasting for fun on thanksgiving with my dad (2016).    2014:  Had the most earthy pumpkin flavor with the least amount of spice. Had the perfect amount of carbonation. Favorite out of the group.    2015:  Had a funky taste to it. Very earthy with a bit of clove and pumpkin pie spices. Had the lowest carbonation with a surpringly thicker feel. Least favorite of the group.    2016:  Light citrus notes. Most amount of spice: cinnamon and lots of clove/nutmeg. A slight hoppiness in the finish. It had the most carbonation. Rated second best.      Overall, the beer is alright. It paired well with moms sweet potato pie. It gets an 80/100.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3 | smell: 4.5 | taste: 3 | feel: 3 | overall: 3.5 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 Wow what a great seasonal beer! Probably in my top 3 favorites of October beers. Smells of pumpkin, clove, and nutmeg. Tastes great and very smooth easy drinking beer. Tastes follows the nose for a prefect blended beer. I also taste a graham cracker bready maltiness to the beer. Would definitely buy again because your can never go wrong with Dogfish Head!   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 4.5 | overall: 4 Look - a nice hazy golden orange with a small off-white head, low retention, and spotty lacing.  Smell - pretty subdued, but you get some notes of nutmeg, brown sugar, and bready malts.  Taste - it's so balanced and smooth that you almost don't notice any notes, but if you let it sit for a moment, you get nutmeg, some cinnamon, brown sugar, and there is a perceptible pumpkin note that doesn't taste artificial.  Feel - creamy body, dry finish, moderate carbonation.  Overall, I'm most impressed by the mouthfeel of this beer; it really helps this beer stand out as something special. The aroma and taste are muted, but I still gave it a high taste rating based on the authentic pumpkin flavor that I feel like most pumpkin beers do not achieve.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 This beer is a solid four all the way across the board... color is copper orange with light head that turns to nice lacing. Looks like a fall color. Smell: Like a Thanksgiving setup with all the fixings and the associated spices, not necessarily pumpkin or pumpkin pie though, which it doesn't claim to be. Also sweet smelling, like the brown sugar... which comes through on the tasting too. Ground nutmeg and clove and pumpkin are the other dominant flavors with some bread notes and no notable hops. Feel: Not what I was expecting but very good... crisp, refreshing like biting into an apple, yet soft and sort of creamy after that. If you let it linger on your palate long enough you get some pumpkin mouthfeel, but it is not extravagant by any means. This is pretty refreshing and if it wasn't 7% would be a very sessionable beer!   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4 
+look: 3 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3 I've been wanting to try this for so long I think I came in with expectations that were too high. I am enjoying it much more than other pumpkin ales I've tried though. Very balanced...I am picking up just a hint of the spices. I had this again at a later date and enjoyed it a little more than the first time. A good all around beer, not bad, but not amazing.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 Presentation: 12 oz bottle poured into a pint glass.    Look: Copper coloration with a white one finger head that collapses to just covering the top.     Smell: Pumpkin and spice up front followed by malts.     Taste: Very well balanced. Pumpkin and spice overlay a body of malts with hints of warming alcohol in the swallow.    Feel: Slightly thicker then medium body with moderate carbonation. Just about perfect for a fall beer.    Overall: A very, very good beer. I did not find any faults worth mentioning.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 3.75 It's good, but not enough pumpkin flavor. But better than most pumpkin beers. Orangish color, pumpkin aroma, malt pumpkin flavor. Cream head. 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Bottle poured into pint glass. Nice clear burnt orange color with a creamy head; modest carbonation. Spices and malts are evident to the nose. Taste is similar to nose with nuttiness, cinnamon and spices being well balanced. Easy on palate with no aftertaste; ABV nicely hidden.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 Wow. I have mixed feelings with this beer. It's got a nice light colored and unassuming look and a nice smell. I'm smelling malt mixing with pumpkin spices. Even something sweet on the nose. When I tasted the beer at first, I got some overpowering bitterness but after a few sips now I'm liking the flavor more. There is a definite balance between malt and pumpkin spices and it's not overpowering. The feel is creamy and quite carbonated(burp,excuse me). The 7% is completely hidden. Good beer !   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Poured from a bottle with a clear golden color and a scant head. The aroma was of sweetness (candy-like) and spice. The taste followed the aroma but much more pronounced. There was a spicy aftertaste. The body and carbonation were good. Overall, this is an OK beer but the spiciness seems a bit over-powering. This beer is best-suited to be cosumed alone rather than trying to pair it with food due to the high amount of spice.   
+look: 4 | smell: 3.75 | taste: 2 | feel: 3.25 | overall: 2.5 2016.     Toasted grain color with tints of blonde and clean chestnut, with a creamy head of 3 fingers. 20% opaque. Lighter than I thought it'd be as it's advertised as a brown ale.     I'm getting some nuttiness, with lots of clean aromas of malts and grain only slightly dirty by the brown sugar and faint spices that may or may not be detected depending on the depth of the breathing. Kind of detecting the cinnamon now as I breathe deeper.     And again I'm perplexed by another Pumpkin beer flavor profile. It's not even good. Very malty flavors dominate, with some nuttiness and hay following; some paper; leaving a pale, chalky and bitter chemical finish. Some light toffee or molasses sweetness towards the finish. Honestly if I didn't pay for it I'd probably dump it on the grass (yes this is outside on a balmy, beautiful fall night).     The feel is slightly creamy, but with a bump of carbonation, and hell I guess it ends up finishing slightly dry. Whatever.    Overall, I feel this overwhelming urge to get up and dump it in the sink. Like, my body's moving but my heart isn't committed yet. I've got two more bottles. Any takers?   
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 12 oz. bottle    Pours rusty copper amber orange with a creamy off-white foam head. Smells like pumpkin, autumn spices, cinnamon, nutmeg, allspice, some brown sugar, toasted bready caramel malt, with earthy grassy pine. Tastes like pumpkin, sweet spices, cinnamon, nutmeg, allspice, brown sugar, caramel, toasted bready malt, with earthy grassy pine. Feels medium-light bodied, creamy with moderate carbonation. Overall a nice pumpkin ale.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Appearance - Pours - clear light brown caramel color with decent white head     Smell - Sweet aroma, pumpkin and cinnamon, vanilla, all spice, nutmeg.    Taste - Very mild pumpkin flavor, cinnamon, nutmeg, many pumpkin beers over power the spices this one does not.    Feel - Pretty light feel was surprising, good carbonation, very smooth and drinkable.    Overall – Really solid pumpkin ale great flavors and not overly spiced.   
+look: 3 | smell: 3.5 | taste: 2.75 | feel: 3 | overall: 2.75 Newly interested in Dogfish, I've tried a few great ones including the excellent 90 min IPA and had high hopes for this. I've been drinking every pumpkin beer I can find lately seeing how they stack up to each other, favorite so far being Cigar City's "Good Gourd" or perhaps Big Top's "Pumpkin Stiltskin". This one's among the less impressive so far, it's labeled a Brown Ale but tastes more like a musty Pilsner with some IPA tang on top, not what I'm looking for in either a sweet n spicy pumpkin beer nor a round mellow Brown Ale. The danger with pumpkin beers is sometimes they don't taste like pumpkin, just a regular beer with potpourri added. That's happening here a little bit.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 2 | taste: 4 | feel: 4.25 | overall: 4 Dogfish Head Brewery - I have an unfortunate love-hate relationship with their offerings - some I love, some I hate. This one ends up being a slight mixture of the two...    A clear, orange colored brew reminiscent to a light-pumpkin color, it pours a thick, white head with some staying power and good lacing down the glass. The smell from this beer actually surprised me - it was horrible. It reminded me of a cigarette ash or the smell that emanates from the said tray. I hate to say, I almost considered pawning this off on my son, but I decided to give it a go (and I was glad I did.) The mouthfeel was one of the more complex ones I have come across. It starts coarse then become smooth and then almost watery in texture, but not quite. A very complex feel for me across the board. I noted the pumpkin, some spice and other flavors (thankfully no cigarette ash) and though good, not better than other pumpkin brews I have had. Overall, it's a good beer. Other's may find it's scent appealing, but it will forever make me think twice before pulling one from the shelf.   
+look: 3 | smell: 2.75 | taste: 4.5 | feel: 4 | overall: 4 This fall beer has become an staple for the season, taking a spin on a brown ale by adding pumpkin, brown sugar, cinnamon and nutmeg. Perfect for flannel and foliage, this Dogfish Head seasonal classic paved the way for kooky-ness in the early daze and stands the test of time.     @brewchaz - 4/5   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 2.25 | taste: 2.25 | feel: 2 | overall: 2.25 Pours a rich copper with delectable, fluffy head. And that's about where it peaks. Aroma has a noticeable fusel alchohol not that really overpowers the rest of the nose - not that there is much else besides some Munich malt & just very distant cinnamon. The flavor is very weak, with only the cinnamon showing any signs of life - the rest is a very bland germanic base that borders on the dreaded cardboad, with that fusel peaking in too. It is also a thin & under attenuated, which isn't what I look for in this kind of beer.   
+look: 3.75 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 A good mix between a pale ale and a wheat ale. Slightly hoppy, not too dark, has a nice scent remniscent to an Oktoberfest-style beer. The pumpkin is light and very warm, the spices give a nice nose to this drink. Very sessionable, and I'm someone who hates pumpkin spice anything.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 5 | taste: 4 | feel: 4.25 | overall: 4.25 Dogfish Head's Punkin Ale was an insta buy for me even though I wasn't sure I'd have time to drink (and savor/review) it the night when I bought it. I couldn't resist the adorable and slightly eerie pumpkin design on the four pack this year. I really like how this beer smells, and it has a pleasantly autumnal aftertaste. The initial gulp is surprisingly crisp with some hoppy bitterness that lacks the spice and body that I personally want out of a pumpkin beer, but it's still tasty. Definitely would work alongside a savory meal.    Pumpkin Rating: Mild (but I have had friends respond favorably to this)  Would drink again: For sure, but not before I try other pumpkin beers this season.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 5 | taste: 4 | feel: 4 | overall: 4.5 Great tasting beer. Love the label. It didn't have a strong pumpkin flavor, but it is really good. 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 Nothing special 
+look: 4 | smell: 3.25 | taste: 3.75 | feel: 3 | overall: 3.75 Color on the pour is copper with minimal head. Aroma is slightly pumpkin with some spice notes (cinnamon, clove etc.) The taste is a bit hard to place, maybe an amber ale base with pumpkin spices added? The mouth feel is very fizzy, a bit too much carbonation for my tastes. I've had other pumpkin ales and this one is probably one of better ones. The Balast Point "pumpkin down" is also a good one to try if dig pumpkin ales. I will say that this clocks in at 7% abv but it is really hard to detect, no alcohol heat, it's all very nicely masked.   
+look: 4.75 | smell: 3.75 | taste: 4.25 | feel: 4.75 | overall: 4.25 L: Pours an amber/mahogany color. Color matches the season.  S: Not overly pumpkiny like I'd imagine, but the taste still comes through.  T: Tastes of ginger bread and graham crackers. Decent spice level, especially on the finish. Pumpkin definitely comes through. The malt is the main focus here. Slightly bitter on the top.  F: Average carbonation. Very smooth and drinkable. Gives you that warm-autumn sensation that every other good pumpkin brew gives you.  O: I like it and would drink it again, but my favorite is Pumking from Southern Tier Brewery.    P.S. I drank this alongside a chicken parmesan, and it seemed to work!   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Dark golden color. Slight spice on the nose and a bit more on the taste. This is a pale ale with pumpkin versus a pumkin ale. An interesting hedge for those who don't want the Full Monty.   
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Look: Deep orange in color  Smell: cinnamon and nutmeg come in strong  Taste: an interesting blend of pumpkin spice and malt flavor. I like the brown ale as a back to the pumpkin beer  Feel: smooth like pumpkin pie, perfect feel for the seasonal flavors    One of the better pumpkin beers I have had this season.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.5 pours relatively light copper with virtually no head. nose is light pumpkin with lots of cinnamon and all spice. taste is folloWing the nose with malt and cinnamon leading the way followed by more spice and finishing with lingering cinnamon and allspice. I dunno. most pumpkin ales seem to go crazy on the cinnamon and nutmeg and allspice and the same goes for this one. im not sure why more beers are not like pumpking. this one seems to light and spice forward. not great. not good. not worth it.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 2016 edition:    L -- Lovely mahogany-hued amber. no haziness. off-white head  S -- cinnamon, nutmeg, malt  T -- pumpkin pie spices, caramel, bready malt  F -- lively and nuanced. strong yet balanced flavors from start to finish  O -- excellent ale. one of the best pumpkin beers I've had    88/100    EDIT (9/4/2017):     The 2017 version is definitely still amongst the best pumpkin ales I've had, but it's not quite as exceptional as I remember it being. The current rating reflects this updated opinion. While the aromas were slightly more warm and spiced, the flavors were a little more one-dimensional and herbaceous. Mouthfeel was a little watery as well    86/100   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 3 | taste: 3 | feel: 3.75 | overall: 3.5 Good beer, not too sweet like most mass-produced pumpkin beers. That being said, as a young person, in a blind taste test i'm not too sure i'd have known it was a pumpkin style beer. Definitely has good spice..nutmeg & a little cinnamon flavor to it though.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 awesome seasonal brew, definitely a nice pumpkin note complimented by subtle spice, and sugary sweetness. overall remains very tasty and enjoyable throughout!   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 L - Dark Golden, tiny 1cm head but retention seems good. Very lively and fizzy.    S - Sweet/Roasty with spices, cloves, cinnamon, not very hoppy    T - Spicier than it smells. Not overly pumpkiny, but good enough to get the point across. Tastes very light for a 7% ABV    F - The lively bubbles don't bite too much - very smooth feel with little warmth    O - For a pumpkin/fall beer, this goes down great. The flavor and scent aren't overpowering, and I can imagine it would pair well with any fall foods. Goes down like a 5-6% as well.   
+look: 4.25 | smell: 3.25 | taste: 3.5 | feel: 3.75 | overall: 3.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 Delicious. Jewel tone amber, a huge marshmallow fluff head with thick lacing. Smells of pumpkin pie spice and sweet apple cider. Malty taste of Orange glazed cinnamon rolls with just enough edge. Creamy yet bright mouthfeel. This is an edit of a previous review. Completely different. Different brew this year? No matter, I like this one even better but you can always rely on Dogfish.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 Poured from bottle to shaker glass. Pours a golden color with a thin white head. Spicy nose mostly of cinnamon and some bready malts. Tastes of malt up front, some pumpkin pie flavor in the middle, and fades into a light bitterness on the finish. Finishes quickly. Overall it's an okay pumpkin ale, but there are better versions out there.   
+look: 2.25 | smell: 4 | taste: 4.25 | feel: 2 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 4.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Aroma has nutmeg, pumpkin, cinnamon. A little tart and sweet. Taste has sweet bready malt, ginger (isn't an ingredient but it tastes like it), pepper, nutmeg, vegetables, and a pleasant level of bitterness. The spices are a little too much for me. I would have either dialed them down or amped up the malt background. Also the aroma is a little too vegetable-y. But bitterness and warmth make this an enjoyable beer and better than your average pumpkin ale.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 Copper and pumpkin orange body; thick, creamy head. Good pumpkin and pumpkin pie spice aroma; delicate sense of cereal grains. Light malt flavor at first with a quickly developing pumpkin pie filling taste; ever so slight twinge of alcohol. Medium-heavy body.    A nicely balanced, not too pumpkin-y pumpkin ale that delivers both an ale and pumpkin experience in a decent package.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 A: golden orange to amber    S: pumpkin spices. Hops    T: spices. Cloves. All spice. Ginger. Hops. Burnt sugar    F: crisp bite    O: nice offering for the style   
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 3.25 | taste: 2.75 | feel: 2.5 | overall: 3 
+look: 3.25 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.5 Kinda weird how a pumpkin beer can be one of your more 'normal' beers but that is the nature of the beast when dealing with DFH.     Color of the beer is not indicative of pumpkin, doesn't have orange, its golden like normal beer. Aroma does kick pumpkin down, and some hops. It works.    Taste again is a meld of pumpkin and C hops, it works, it not only works, this is one of the better pumpkin beers out there. After 12oz, I'm good, but that is pretty much a record for this style of beer. Hides the alcohol decently in the mouthfeel, the pie aspect (brown sugar, cinnamon) is not overdone. Impressive.   
+look: 3.25 | smell: 3 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.25 | feel: 4 | overall: 3.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 12 oz bottle. Pours a golden amber with very little carbonation. Aromas strong of pumpkins and malty sweetness. The pumpkin flavor isn’t too strong has a nice semi-dry finish.Good pumpkin beer   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 2.75 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3.75 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3 | feel: 3.25 | overall: 3.25 Poured from 12oz bottle into a tulip glass.     Look is a light amber color with practically no head.     Lots of spicing right on the nose. Cinnamon and nutmeg with a nice malt balance.    Taste doesn't hold up to aroma. Kinda astringent with spices comes off unbalanced.     Picked this up for 99cents worth it at that price.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Love it!! 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 3.75 | overall: 4.25 Bottled on 09/04/2008. Consumed 02/14/2016. 
+look: 4.25 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 This is the pumpkin beer I judge all others against. 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 2.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 Poured from a bottle into a glass.    LOOKS very light to be described as a brown ale. A light peach/orange hue. Tea like. A fair amount of sediment in the bottle, yet pours clear. Virtually headless.  SMELLS of clove, allspice, and sugar.  TASTES like spices, then some dark dried fruits. Ends in biscuity malts and caramelized pumpkin meat. No overly sweet.  MOUTHFEEL is sparkly, medium bodied, slightly slick.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Good Pumpkin Ale...had on draft 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Pours a pleasant bright amber with scant white head. Smells pleasantly of pumpkin, molasses, malts and related spices. Taste is well balanced, sweet malts forward, hint of pumpkin spice (without being overpowering) transitioning to a astringent, clean finish. Light to medium bodied, moderate carbonation.  Overall, this is a subtle, well balanced beer. It hints at pumpkin and highlights the best qualities, without being weighed down by the cloying spices that pervade this genre. I don’t particularly like pumpkin beers – but this is a solid, subtle offering that I wouldn’t turn down at a party – good stuff.   
+look: 5 | smell: 4 | taste: 3.5 | feel: 5 | overall: 3.75 Not much pumpkin or spice flavors 
+look: 4.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 A more crisp, effervescent take on the style with the spices all there but lighter than you'd expect, bringing a light bit of pumpkin flavor in a surprisingly drinkable take.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 4.25 | taste: 3.75 | feel: 3 | overall: 3.5 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 3 | feel: 3 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 2 | taste: 1.75 | feel: 3.5 | overall: 2.75 Metallic flavor on the back end. I haven't had a lot of seasonal pumpkins bit this one is not my fave. 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 5 | taste: 3 | feel: 3 | overall: 3.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Pours a golden-orange copper color with small head and not much lacing. Aroma is subtle pumpkin pie and just the right amount of malt and spice. The taste matches the aroma, it's really well done in terms of the balance and amount of pumpkin/spice. Often times the downfall of pumpkin beer for me is too much spice, so this one is very enjoyable. Medium carbonation and refreshing, mouthfeel trails off with spicy malt.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 A - Orange-red body, mostly translucent but hazy. Slight white head, a bit of lacing, but not much.    S - Mildly sour note, pumpkin spices of allspice and cinnamon, a hint of sweetness.    T - Brightly full of spice and squash flesh. Honey notes. Slightly sour.    M - A good bit of carbonation. Very bright, and fairly light.    O - One of the better pumpkin beers out there. Tasty.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 2.5 | feel: 3 | overall: 2.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 Color is medium orange  Smells of malt and pumpkin pie spice - spice is subtle.  Taste is combination of sweet/spice with some vegetal notes from the pumpkin. Clean finish.   Ample carbonation and highly drinkable.  Overall: the best pumpkin beer I had this year and the only one I bothered to get again.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4.5 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 For me, this is a wonderful beer for the fall holiday season. Not as strong as Pumking or a few other pumpkin ales I know. This is smooth and something you can enjoy with a desert but for me this is begging to be drank with thanksgiving dinner. I'm not sure why, maybe just my palate. In all, I really enjoy this beer. Beautiful color, proper aromas that aren't too overwhelming and a taste that leaves a smile on your face. I'm glad I finally got around to having this.   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 My second favorite pumpkin beer. A good mix of pumpkin spice and pumpkin pie taste with a good all round beer as a foundation. Subtle and pleasant, this a great pumpkin beer. Less adventurous than what I would expect from dogfish but in a good way!   
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 L- a darker shade of brownish orange, with quite a small head that dissipates quickly and leaves a few spots of residual bubbles after only a minute.  S- getting the pumpkin and spices up front, exactly what you would expect for the style. smells somewhat sweet, maybe the brown sugar.  T- very well balanced, with all the flavors working well together. malt, and cinnamon, pumpkin, and a slight alcohol taste.  F- medium feel, with low to medium carbonation.  O- personally im a fan of pumpkin beers and im glad I tried this one. traded a friend a terrapin pumpkin fest for this one. I believe this is my first year trying this beer and I will look to buy it again next year   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 I got this in a mystery bag from Trader Joe's that was given to us as a gift from a friend. Poured from the bottle into a clean tulip glass.    Look: Gorgeous deep golden orange color, perfect color for a pumpkin beer. Clear with a small amount of suspended particles. Very little head, which quickly dissipated. No lacing at all.    Smell: Smells like pumpkin pie or pumpkin bread. Pumpkin and spices are present without being overstated. Notes of cinnamon, raisin, alcohol. Not much hop aroma.    Taste: The pumpkin flavor comes through much more in the taste than the smell. A little more of the alcohol, and some hop bitterness come through to balance the sweetness and malt. I like that the pumpkin flavor is still subtle.    Feel: Medium body, lots of small bubbles, a noticeable astringency from the alcohol.    Overall: Awesome for a pumpkin beer, I would drink this outside the month of October.   
+look: 3.25 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3 | taste: 1 | feel: 1.5 | overall: 1.5 
+look: 3 | smell: 3.75 | taste: 3.75 | feel: 3 | overall: 3.5 Not bad. Sort of watery clear with little head retention. OK pumpkin like flavor. I really enjoy pumpkin beer/ale/porter. This falls a bit short. Drinkable, yes. Overpriced 4 pack of mediocre pumpkin brew. I had much higher expectations considering this is Dogfish's fame making beer. (Awards and TV show to boot. I can't get over the watery texture and clearness. I want to rate the 2017 punkin ale which is much better.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.5 Look: hazy Amber.     Smell: I had a difficult time pinpointing the spices in the smell so I asked my wife. She said it smelled like the floor of a frat house. I had 2 concerns. First I somewhat agreed. Second what the hell was she doing on the floor of a frat house.     Taste: frat house floor    Feel: insufficient, insecure    Overall: ?   
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Best pumpkin ale I've had. I had a few before (Sam Adams and Blue Moon come to mind) but none can hold a candle to this one. Great smell n clean finish. Solid all around n from my trip to South Carolina.   
+look: 3 | smell: 2.75 | taste: 3.25 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Pours a clear deep amber color with a finger width foamy head. Head retention is decent as is lacing. Has a light pumpkin spice aroma with some cinnamon and nutmeg. Has a nice smooth texture with some sweet maltiness up front and some spicy nutmeg and cinnamon on the end. Medium bodied with high carbonation. Decent pumpkin beer but not the best I have had by far.   
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3 | feel: 3 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Does Dogfish do any wrong?? I think not! This pumpkin ale is another winner in their long catalog. A: reddish gold tint, head is non existent. S: really nice, you get the cinnamon and brown sugar more than the pumpkin. T: awesome, slightly sweet, plenty of pumpkin but well balanced with those fall flavors. F: the alcohol is very well hidden. O: another winner from Dogfish.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 4 | taste: 3.5 | feel: 4 | overall: 3.5 Great overall appearance, I personally like pumpkin ales to finish a little sweeter than this one does 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 4 | feel: 3.5 | overall: 4 
+look: 3.25 | smell: 3.5 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 2.5 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.5 Pours a semi-clear medium amber. Below normal head volume, poor lacing, normal retention.    Very light nose with hints of cinnamon and nutmeg.    Medium body with a somewhat creamy texture. Superb carbonation with a nice effervescent middle and a prickly finish.     The flavor profile is good, but lacks intensity and complexity. Balance is outstanding. It begins with a light blended spice flavor that tails off into pumpkin past the middle. The middle brings a light spicy bitterness and a balancing biscuit. The finish is a slow fade with mostly cinnamon notes.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 $0.85 single from Winter Haven ABC. Great, full-bodied ale with enough pumpkin so you can taste it without overpowering spice flavors. definitely my favorite pumpkin beer this season...   
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 With a bold honey color, it has a nice combination of dark, dried versions of apricots, peaches and other non-raisin dried fruits, and roasty, biscuit bread malts that weave within the balanced hops. As the low carbonation smooths out the balanced taste, the fantastically pronounced aftertaste rounds it all out. There is a VERY slight amount of cinnamon and there are no pumpkins in sight, but it is very close to the Alley Cat from Lost Coast Brewing Company. How about renaming this beer the Alley Dog? XD   
+look: 3.75 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 2.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 Pours a clear, copper color. 1/3 inch head of an off-white color. Slight retention and didn't lacing. Smells of sweet malt, slight pumpkin, slight alcohol, spices, and slight pale malt. Fits the style of a Pumpkin Ale. Mouth feel is smooth and crisp, with an average carbonation level. Tastes of spices, sweet malt, slight pumpkin, hint of alcohol, and a hint of pale malt. Overall, poor appearance, decent aroma, decent body, and good blend.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 3 | taste: 2.75 | feel: 3 | overall: 2.75 Not enjoyable! couldn't even drink it! Was so disappointed! Thought this would be a good one! 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3 Another one from Ted.  This was poured into a nonic pint glass.  The appearance was a moderately hazy almost burnt orange color with a light transparency rising up to feed a quickly dissipating head. Fizzled and no lacing slid anywhere, hmm...wondering.  I wonder no longer...  The smell had some light pumpkin hitting what seemed like a cream ale sort of base. Pie-like crustiness leads in and subtly combines with some vanilla.  The taste was mainly sweet through the pumpkin, vanilla and pie-like crustiness of the cream ale features. A pumpkin flavored aftertaste runs in and leads in a sticky finish.  The mouthfeel sat about light bodied with an okay sessionability about it. Carbonation runs pretty nice as a pumpkin ale.  Overall, well, honestly, its okay, but nothing over the top either, its mainly a lighter version of pumking. Eh, nice to try but was kinda hoping for better.   
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 3 | overall: 3 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 2.5 | smell: 2.75 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 This was a hard beer to sell for us and we had it on the same time as weyerbachers imperial pumpkin (which was no competition). It was much lighter and not nearly as spiced as Weyerbachers. To me, this beer lacked anything to stick out in my mind for next year.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 Enjoyed in Vegas. 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 Poured from the 12 oz bottle into a snifter glass.  Pours a ruddy but light amber. Minimal head.  Aromas are nice, a touch sweet.  Flavor is complex, soft and not a spice bomb.  Mouthfeel was good.  An elegant and round pumpkin ale.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3 | taste: 3.75 | feel: 5 | overall: 4.5 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 3.5 | smell: 3 | taste: 4.5 | feel: 3.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.25 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 Man super bready smell on this. Big loaf of Pumpkin Pie. I couldn't resist since it is the pumpkin time of year. Poured into a Duvel chalice which is inappropriate I'm sure. Tastes pretty good but... it's pumpkin ya know. Hard to imagine a 5 star pumpkin ale.   
+look: 3.25 | smell: 3 | taste: 3 | feel: 3.25 | overall: 3.25 Wasn't overly impressed ...first pumpkin beer I've tried 
+look: 2.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Poured from a 12oz bottle (the 12th batch of 2015, according to the code) into a pint glass.  LOOK: Pours with a half finger's worth of white foam that dies into a line after 20 seconds. Gold in color. Rising bubbles are medium in size and so scarce, that I can count them as they rise. Lacing is thin and subtle.  SMELL:Strong aromas of brown sugar entangle with mild aromas of pumpkin and nutmeg and subtle aromas of cinnamon.   TASTE: This is a full on, simultaneous assault of all the flavors: strong pumpkin and nutmeg flavors with mild flavors of cinnamon and brown sugar and subtle caramel flavors (these are a pleasant addition that weren't detected in the smell). As the flavors begin to fade, cinnamon sticks around leaving a nice aftertaste.  FEEL: Somewhere between medium-bodied and full-bodied. There is a moderate amount of carbonation. This goes down somewhat smooth and ends with a thirst-quenching finish. The spices from the brew tickle the tongue.  NOTE: Why haven't I tried this before?!   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 2.5 | smell: 2 | taste: 1.5 | feel: 1.5 | overall: 2 
+look: 4.25 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 3 | taste: 1 | feel: 1 | overall: 1 Dogfish Head Pumkin Ale 7% ABV. A medium dark orange color with a amber hue. Has a clear body with a hint of fog. Not a whole lot of head from the pour in fact next to none. The aroma is difficult to point out, but I would compare it to some of the sours I've had, like a light sour beer scent. No pumpkin but maybe allspice or cinnamon posible . The pumpkin is coming through very discreetly, but it does not shine with cinnamon and nutmeg arriving on the scene fast and furiously. I have tried a number of Pumkin ales now and for me this one rates towards the bottom with a D- and yes thats not giving a shit what other reviews might say. I don't care about other reviews and won't let them sway my outlook   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 2.5 | overall: 3 
+look: 5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 San Francisco, CA - 12 oz. bottle poured into a pint glass 
+look: 3.5 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 3.5 
+look: 4.25 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.5 | taste: 4.5 | feel: 3.25 | overall: 4 From a pint, the 2015    L: Really nice. A clear, dark burnt orange with a lot of carbonation streaming up. A solid two-finger off-white head that dissipates a little quickly but is still pretty good looking.    S: Smells more like an standard ale than a pumpkin ale tbh. Not too much pumpkin but you can make out the spices.    T: The spices come through really nice. The cinnamon, the allspice and the nutmeg really pop. It's very light with only a slight hint of hops and a nice malt hit towards the end. A subtle but sweet pumpkin presence throughout. You wouldn't guess the abv was as high as 7% drinking this. Really good.    F: Light but not thin, with a decent amount of carbonation.    O: A really solid beer, one of my favorites in the Pumpkin Spice category. Sessionable and tasty, just another reason to look forward to fall.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.5 | smell: 5 | taste: 2.75 | feel: 3.5 | overall: 2.75 -Color: Decent Carbonation, medium dark amber    -Nose: You get the pumpkin on the nose. Kind of smells like a gingerbread cookie, even a bit of the nutmeg. You can envision a liquid pumpkin pie getting ready to pass between your lips.    -Flavor: Full of pumpkin flavor. Baking spices, cinnamon, gingerbread cookies, and even get the sugar. Silky smooth mouth feel and you get a bit of the malt on the back end.    -Rating: 2.75/5- It’s a great pumpkin beer but would I say it’s a great beer? No. If I had to buy another pumpkin beer... I would buy this one. Simply because I love this brewery and will support just about everything Sam and the guys are doing there.    -Cheers!   
+look: 4 | smell: 4 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3 | overall: 3.75 Bitter at first, the beer quickly becomes enjoyable. Easy drinking ale for 7% and. I am drinking this because is the beer series by Dog Fish. 
+look: 2.5 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3.25 | taste: 4 | feel: 4.25 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 2.75 | taste: 5 | feel: 3.75 | overall: 4 -Burnt orange, just a ring of head  -Allspice, sugar, toast  -Pumpkin, nutmeg, a hop bite, light flavors   -Tiny bit sticky, medium feel    -best pumpkin beer ive had   
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 3 | taste: 3 | feel: 2.75 | overall: 3 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 A little more bite than I remember. Beautiful color. Great carbonation. Head remains nicely. Spices are big. Huge smell. Aftertaste has almost a slight burn to it on the back of the throat. A little citrus orange mixed with the cinnamon and nutmeg. Nice change from typical pumpkin. Love it.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 Living about 45 minutes from Milton Delaware, the buzz for Dogfish Head is huge. I first tried the 60-minute IPA a few years ago and was not all that impressed. Since then I have only tried a few others from the Dogfish Head collection and can say that I have grown to like them. The "Punkin Ale" is my favorite by them so far. Definitely a prominent pumpkin taste, but doesn't come through as strong as my personal favorite (Schlafly's Pumpkin Ale). Needless to say, the beer goes down much smoother than other Dogfish Heads I have tried. Very easy to drink and 7% ABV is nice, although I would prefer it to be 8 or higher. Quite expensive, i paid 10.99 for a 4 pack before tax. All around a good beer to try but doubtful it will be your favorite Pumpkin Ale.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Had it on tap, and it was okay. Not something I'd go order again 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 2 | overall: 1.75 It was a blind taste test.... So... 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Had to try again. A few years since I've had any kind of pump ale. Not the best style but it can work.    I think they had less pumpkin sugar relative to malt and additional sugar to really make this great.    Definetly better pumpkin ales but you really got to taste to see who is working hard this season on their recipe.   
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 2.75 | overall: 3.25 Poured into a tulip. Deep amber brown color. Smells of pumpkin. Taste pumpkinish with holiday spice. A bit thin on the mouthfeel. Just a slightly below average pumpkin beer. Not as good as I remember it though. A bit of a letdown frpm DFH.   
+look: 3.5 | smell: 4 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 3.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 Light colored for a brown ale. Not very fragrant but has a great full bodied flavor. Good overall beer for fall. 
+look: 2.5 | smell: 3.5 | taste: 3 | feel: 4 | overall: 3.25 Pours no head on a clear straw body.  The aroma is pumpkin pie with lots of spices.  The taste is mildly sweet.  The texture is creamy and soft.  It's fine.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 2015 Punkin poured into a pint glass. Amber and clear, with almost no head. Nose is roasted pumpkin without any sweetness.    Medium mouthfeel with noticeable carbonation on the palate. Flavor is light malt and rich pumpkin. Spices or pumpkin pie flavors are absent. No discernible hops.     Light on the malt for a brown ale, and not lacks the sweetness of many pumpkin beers. But it's straightforward and enjoyable.   
+look: 4.25 | smell: 3.25 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3 | taste: 3 | feel: 3 | overall: 3 Look: A sparkling orange with a lasting head. Spare lacing.     Smell: Nice pumpkin spice smell with a slight hint of brown sugar.    Taste: A nice pumpkin spice taste. Nothing really sweet of note.     Feel: Medium bodied. Can feel the carbonation.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 1.5 | smell: 3.25 | taste: 4 | feel: 2 | overall: 3.5 Light bodied with smooth finish that carries a hint of pumpkin. Not my favorite but not my least favorite either. I recommend it but not raving over it.   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 4 
+look: 5 | smell: 2 | taste: 2.5 | feel: 5 | overall: 2.75 12 oz. bottle poured into a tulip glass. It is the 2015 edition.     L - medium dark orange color with a amber hue. Has a clear body with a hint of fog. Not a whole lot of head from the pour.     S - the aroma is difficult to point out, but I would compare it to some of the sours I've had, like a light sour beer scent. No pumpkin, but dried fruit would probably be a culprit.     T - There really isn't a taste to it. It's obviously in my glass and it tastes like a beer, but not a whole lot of flavor in it. The pumpkin is coming through very discreetly, but it does not shine.     F - sessionable beer for being 7% ABV. Very easy to drink and not to harsh on the mouth. Seasoned beer drinker would down a glass of this stuff no problem.     O - Disclaimer: this is my first pumpkin beer. That being said, I've had pumpkin pie, but this is nothing like that. Since it being a beer, this isn't a pumpkin beer that tastes like pumpkin spice. It has sour beer taste but the pumpkin is not there at all, but that could be from the lack of spices in the beer. So, that being said, this could be the anti-pumpkin spice beer for the anti-pumpkin spice person. Cheers!   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 Comparing 2014 and 2015 bottles here. They pour with medium head and lacing, and obviously, the elder of the two has a hazier dark reddish/brown color than the newer one.    2015 hits all the right notes of a pumpkin spice beer with some nutmeg, cardamom, allspice, and of course, some nice, toasted pumpkin pie smell. 2014 is sweeter, richer, and more intense. The pumpkin stands out a little more here, as does the cinnamon. It's also got a hint of bitter, roasted flavor that stands out more than the younger one.    2015 tastes just as I'd have expected from the smell. A hint sweet, nicely and evenly spiced, and silky smooth with a good amount of carbonation that reminds you that it's still a good beer and not just a gimmick. Likewise, 2014's flavor echoes the scent well. Definitely richer, heavier pumpkin flavor. It's as if the fresh beer is for those who might be afraid of a pumpkin-spice beer, and after aging a year or two, this beer turns into the seasonal beast that it seems to truly want to be.   
+look: 4 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 3 | feel: 3.5 | overall: 3.25 
+look: 4.25 | smell: 3.25 | taste: 3 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.25 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 Rusty gold body that clears as it warms. One finger off white head dissipates to a pencil thin ring.  The aroma is bready malts, molasses and spices, the most noticeable being cinnamon.  The taste is dark bread from the malts with the slightest hint of cooked pumpkin meat, dark brown sugar, caramel, cinnamon, nutmeg and allspice.   Medium bodied, medium carbonation. A light, balanced mouth feel and a bit slick.   
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 pours a dark gold/orange color with a solid white head.    smells like straight pumpkin, some sweetness and slight tartness as well.    tastes like pumpkin pie but isn't full of spice. sweet pumpkin pie.    mouth is very thin, not a full-bodied pumpkin ale (which is what i like, i'm not a huge fan of pumpkin beers but i prefer the thinner bodied pumpkin beers).     overall a good pumpkin beer, one that i would drink again in the midst of cool weather. i have had much worse pumpkin beers but i've only had a few better pumpkin beers, Schlafly Pumpkin comes to mind.   
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3.25 Basically a somewhat toned-down / lighter version of DH's brown ale--which I am a fan of--but as something that's being presented as a limited release autumnal brew, I would unfortunately need to label this one a little underwhelming. Again, as a straight brown ale, it presented well both in color and taste, with a gentle upfront sweetness and a slight bitter finish. However, I'm not personally picking up on any of the spice / flavors that are inherently imparted in this style. For this reason, I'd grade it a C- as a fall speciality beer, but would probably upgrade to a B-, as a straight brown ale.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 Pours medium amber, not a ton of head. Aroma is somewhat muted, slight pumpkin spice there. Mouthfeel is medium density but then the full well balanced flavor moves right in and is very pleasing . Hints of graham cracker toastiness, semi sweet maltiness with light pumpkin and spice in there. This is about the best of this type I've had. Definitely would recommend it.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.75 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 This is actually a very simple pumpkin beer despite Dogfish Head making complicated ales. The blend of pumpkin and spice is just about perfect but the tone is not heavy enough. This could use a 9% ABV base to take it higher.   
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 3.75 | overall: 4 Probably one of the better pumpkin beers out there. You taste a bit of pumpkin, a bit of spice, some malt, and some hops, i.e. a nice balance of flavor.   
+look: 3 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3 | taste: 3.75 | feel: 3.5 | overall: 3.75 Overall great taste not too overpowering but you can tell it's pumpkin. Compared to some other pumpkin ales this is mild. I had Some whole hog pumpkin which is much stronger. after an IPA, don't do that. Pumpkin ales and IPA's don't mix.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Pours a clear, deep amber color with minimal head and no lacing.    The nose is very nice with pumpkin and allspice along with a subtle sweet note.    The taste had a nice sweet finish on the fall spices and pumpkin flavors. It's nicely balanced and easy to drink.    The mouthfeel is slightly thin and medium carbonation.    Overall this is a very tasty fall beer.   
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 5 | smell: 4.75 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.5 Pours an orange color with a thin white head. The nose is pumpkin and spice. It's balanced a little plain but not bad. I have been trying this company's browns for a while and trying to find a version I like. This is one of there better beers but it's not outstanding to me. Also I wouldn't consider this a brown as the label says. it is a pretty light beer with not much body.   
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Color of a märzen, while not overly complex, very crisp and refreshing. 
+look: 4 | smell: 3.25 | taste: 2.75 | feel: 2.75 | overall: 3.25 Punkin Ale was poured into a short ribbed glass from a (recently outlawed) can-type-growler from Big Hops in San Antonio, TX.    Appearance: an intriguing bold orange colored body with one-finger head.    Fragrance: extremely mild notes of spices.    Taste: extremely subtle graham cracker and pumpkin spice flavor that evaporates quickly. I also found a chalky, medicinally sweet aftertaste.    Mouthfeel: surprisingly thin yet crisp mouthfeel with a slightly lingering sting.    Overall: a bit disappointing. That being said, I am not the biggest fan of spiced beers and do not have loads of brown ale favorites. However, I was blown away by how drinkable the beer was with such a high ABV. I found the beer very boring while being equally relaxing and drinkable. I would love to try this beer again on draft or bottle to see if my opinion changes. Having a canned growler may have altered some of my experience.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.5 Appropriate bottle art (2015). Clear amber body, sparse carbonation, barely a head remaining.   Smells of pumpkin spice/ nutmeg, some lightly sweet brown sugar/ gingerbread/ malts.  Taste like the smell's description, but less like a brown ale and more like a spiced ale. Mineral aspect to this too.   Feels medium crisp, warming and mildly dry. I'm not a pumpkin ale type, and I love all efforts from this great brewery. I just enjoy many of their other seasonals more.   I'd rather like to see them try an imperial brown ale with this pumpkin addition, because I figure if you're going to go all-out on the spice ingredients and pumpkin meat with so much of that flavor, the gravity and richness may as well be elevated as well. Just a preference.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 2015 edition drank 9/17/15 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 3.75 Clear amber pour with minimal head and no lacing. Aroma is far milder (a good thing) than some others in this category, though a little more spice would be nice. Again in the flavor, it's mild, and a bit underwhelming, but certainly natural. I'll take this over flavor-added stuff any day. Finish is a little boozy, but otherwise clean. This is okay.   
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.5 An incredibly delicious pumpkin ale. The use of real pumpkin meat is evident, and elevates this ale above its peers in an over-saturated category. Appearance is appealing, and the taste does not disappoint.   
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 Poured from bottle; 2015 edition. Not a lot of head generated in the goblet. Color is a rich, dark brown. This is a very good pumpkin beer. It's not overpowering in aroma, but you get the classic notes of spiced pumpkin and brown sugar, and the taste is not of artificial spices like some other brews. This tastes like a well-made pumpkin beer that uses real pumpkin (because it does). Feel is a little thin, however; adding a little chew to this might propel it into the upper echelon of my book.   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 About as near perfect as it gets for me when it comes to a pumpkin beer. Not overly sweet or spicy, perfectly balanced with a taste and smell that just reek of the fall season.   
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 The smell is very light spices and slightly vegetal. The taste is decent and a bit spicy and boozy. Pretty disappointed with this. I get no brown ale qualities and no brown sugar. Based on the description I was expectiong something closer to Indian Brown with pumpkin and spice. nb   
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 2.75 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 3.25 | smell: 3.25 | taste: 2.25 | feel: 2.25 | overall: 2.75 
+look: 4 | smell: 3.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 4.25 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 2.5 | feel: 2.5 | overall: 3 9/15/15 Poured from a 12oz bottle packaged on ?/?/15. No date given other than 2015 edition, but hopefully recently for the Fall season. I'm primarily judging this beer from comparison to other Pumpkin beers and from DFH's own description on the bottle, which follows:  "A full-bodied brown ale" NOT! It's a light-bodied, overly carbonated at that, pale-amber ale.  "Brewed with real pumpkin, brown sugar, allspice, cinnamon & nutmeg." Tastes like it too - MUDDY.  Why all three spices? There is a lot going on just with the malts, pumpkin and brown sugar...   The Look is brilliantly clear like all other mass produced crap. This is a specialty ale, why filter so?  Smell... I didn't care for it, but maybe it is suppose to smell that way.  I saved the worst for last - the label.. They've changed the look from the traditional, tried and true DFH classic (see this webs pic below) to a half naked nimph covered in ink... The marketing department just jumped the shark on this one!   
+look: 3.75 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Poured from tap into a pint. Nice 1 1/2 inchcream coloredhead dissipates to a light foam coating on the top. Dark copper gold in color. Pick up a little pumpkin in the nose along with a bit of spice. Like this beer. A toned down pumking. Will be looking for some of this come October   
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 I feel like Mick Jagger every time I try Dogfish..I try and I try and I try..I can't get no satisfaction..The Punkin ale..has no bite,no sting no wallop. Kind of neutral, not bad not great. Good? Yeah, it was good. So is a hot shower on a cold morning. Nice, but you can have another one anytime you want. I mean no harm to Dogfish,Total hear the wonderful reviews,but,give me something "Un-Middle-of-the-Road.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3 | smell: 2 | taste: 3 | feel: 2.5 | overall: 2.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 Poured into a snifter. Great looking beer - dark amber orange with a generous tan head. Smell is pumpkin up front, like the smell of a carved jack-o-lantern, followed by subtle spice and caramel notes. Taste is the best part - a not too sweet pumpkin pie flavor with a great malt balance. Big flavor but not cloying. Full bodies with a good feel -moderately carbonated. My favorite pumpkin beer this year (so far).   
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 This is just a straight up good ale from Dogfish Head. The first aromas that hit me were a vegetal smell of the pumpkin, and a baking spice medley (cinnamon, clove, nutmeg). This beer looks great in the glass, nice creamy off white head and a hazy appearance that makes you think you're about to drink a meal. The brown sugar and pumpkin pie spices are nicely attenuated. This beer is not a spice bomb like so many seasonal pumpkin beers are relegated to. The finish is really appealing, mouth coating but not too heavy. That said I think I'd only have one of these in a session. It's a nice thing to start off with as the mercury drops and Halloween approaches.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 L: What a beauty. Nice bronze color with a two inch thick head. Changes from a lighter gold color to a pure bronze near the top. Excellent lace, foamy, thick. Appetizing.     S: Caramel malt with a toasty hint of holiday sweetness. Brown sugar and nutmeg. Faint floral/piney smell, perhaps coriander.     T: Wow. Absolutely outstanding. You get a very warm spiced flavor right up front, like a warm biscuity alcohol flavor. Then it slowly mellows into a soft yet still spicey blend of cinnamon, clove, nutmeg, and, of course, pumpkin. Wraps up with a crisp hint of malt and pine. Very well blended flavor, good drink through with a melange of flavors to enjoy.     F: Unique feel to it. Very warm, sometimes dry and tingly, but also soft, delicate, sweet, and a bit chewy. Complex no question. I usually don't consider feel all too much, but this one stood out.     O: Phenomenal pumpkin ale. I am exceptionally impressed by this one. Pumpkin ales are pretty hit and miss, and this one is definitely a hit. Surprisingly complexity that is well blended. The alcohol taste up front might set a few people down, but when worked in as a whole from bitter, to spicy, to sweet, it makes for a tremendous drink through. Definitely a good seasonal beer to pick up and try if you want a Pumpkin Ale.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 On tap at BC's Pizza & Beer    A: Pours golden orange amber with a creamy off white head that settles to a light layer and laces well.     S: Toasty bready malt, caramel toffee sweetness, and nice spice notes.     T: Bready toasty malt, caramel toffee sweetness, almost Marzen like, backed with nice spice, nutmeg, clove, a little cinnamon, with a light fruitiness, and a kinda floral note on the back end.    M: Medium body, moderate carbonation.     O: Very nice fall beer, not spiced to death. Though, I remember previous batches having the pumpkin be light but noticeable. I can't say I ever picked that up this year.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 2015 Batch. First time trying this beer. Pumpkin flavor is subtle. First sips had all the flavorings associated with autumn but as I continued to drink those flavors became harder to detect and it tasted like a standard brown ale.   
+look: 4 | smell: 3 | taste: 3 | feel: 3.75 | overall: 3.5 I'm a little disappointed by this one, because I had heard such good reviews of it from years past. The smell is quite weak. I didn't detect any pumpkin spice or pumpkin in the nose. Just a malty smell, that was still a bit weak. The taste at first had a slight pumpkin spice flavor to it, but now I'm not picking it up at all, really. It has a nice sweet, malty taste, but not that pumpkin flavor that I'm craving. Overall, I'm just disappointed by this one.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 DogFish Head Punkin Ale.    This one is officially the oldest on my wants list as it sits. Wanted it years ago before I took a break from the crafts but never wanted to pay the $15 four-pack price. Now that they have dropped the price quite a bit and I found it in a single, I am quite excited for it.    Look - Pours a true amber copperish color with a two finger slightly off white head that jumps down to a well kempt cloud formation on the top of the drink, leaving a thick well retained ring around the perimeter. Carbonation appears to be on medium with this guy. Looks pretty much as you'd expect for the style thus far. Lacing is not a factor as the head didn't end up retaining as well as I though it would. 4.    Smell - hmm...well this is new. The malts are all there and dominate over the pumpkin and fall spices. Almost smells like a Graham cracker pulled fresh from the packet. Moderate tinge of cinnamon upon the embrace of a hard whiff, but overall remaining dominated by the malt and cracker levels. 3.75.    Taste - Doesn't change much in this aspect. The Graham cracker notability dominates the majority of the flavor. Not really getting a ton of pumpkin but that isn't necessarily a bad thing as too much can OD your taste buds. As it warms, you are introduced to a new flavor you won't find anywhere else. Ever have roasted pumpkin? Well if not, here it is. All those malts are still there though they take a back seat and even ride shot gun for a few moments upon the inhaled sit. Should also mention that this is one alcoholic heavy pumpkin beer. Only 7%? Coulda fooled me for a 12-14% honestly. 3.75.    Feel - Body is very, very full and highly carbonated with more alcohol upon the tongue than the ABV with let you on to believe. Flavors remains mostly the same although the cracker aspect becomes more pronounced without the burning sensation of overly-spicyness from the fall spices. 3.75.    Overall - Well.......This is one of the toughest rates I have ever had to do. Very solid and different, though perhaps a bit too different for the pumpkin ale traditionalist. Better than a lot of the weaker offerings, but I certainly cannot say it is a favorite. Weyerbacher did the complex boozyness and pumpkin flavor balance farrrrr better than this one. But, that one pulled a 4.45. So again, very solid, but not amazing. 3.75.    This one was a direct split between a 4 on everything and a 3.75. After much thought and discussion amongst the friends, it receives the 3.75 For most categories   
+look: 3.5 | smell: 3 | taste: 2.75 | feel: 3 | overall: 2.75 I had read/ heard a lot of hype in this beer, there wasn't enough of a pumpkin taste for me. Was disappointed 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 2.75 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 4.5 | smell: 2.75 | taste: 2.75 | feel: 3.5 | overall: 2.75 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 2.5 | taste: 2.5 | feel: 4 | overall: 2.75 This years (2015) Punkin Ale is quite disappointing. I was expecting more cloves, spices, and more pumpkin like the previous years. This year it is more of an alcohol heavy (mouth) Brown Ale this year with a roasty flavor and very minimal smell and taste of pumpkin and spices. Somewhat sweet aftertaste. Pours a medium to dark orange color. It isn't bad, but if you call it a Pumpkin Ale it needs to have a little more pumpkin. I would not buy another pack of Punkin Ale this year. There's always next year!   
+look: 4 | smell: 3 | taste: 2.5 | feel: 2 | overall: 3 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3 | taste: 3.75 | feel: 4.5 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.5 Poured into a tulip it has a clear amber orange body with a thin half inch off white head. Smell of pumpkin, nutmeg, brown sugar, all-spice, and some bread-y malt. Taste is of brown sugar, cinnamon, allspice, nutmeg, and pumpkin. You can really individually make out the flavors in this, not just as a round about pumpkin pie flavor. It is much lighter and not as flavorful compared to other pumpkin beers. The flavors dissipate in seconds on your tongue leaving behind a kind of dry pumpkin bread flavor/feel (with no small amount of nutmeg). Small amount of carbonation, slightly sweet, light to moderate body (mostly light), and a moderate mouth feel. Pretty smooth and maybe a tad watery. A pumpkin beer you can drink quite a few of before getting sick of.   
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 Not as good as it used to be in previous years. Still a decent beer, less of a pumpkin beer. Great color, slight pumpkin smell, mild pumpkin flavor, but more of a brown ale.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 Had this out of a pint glass. Nice rich brown color. Aroma was mostly pumpkin with a touch of molasses. Flavor was mild pumpkin and brown sugar. Mouthfeel was just the right of smooth, very drinkable. Good stuff.   
+look: 4.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 4 This beer pours a beautiful dark hue of Orange, completely clear. The smell isn't overwhelming, but I can pick up notes of pumpkin, slight clove, and just a little touch of sweetness. The taste is a bit light for my liking, but refreshing. Very light pumpkin, some cinnamon, allspice, and a clove flavor hitting in the finish. Nice light carbonation, good fizz on the first sip. This is a good pumpkin beer, but besides pumking I'm yet to find a pumpkin beer that stands out.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 4.5 | feel: 4.25 | overall: 4 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 5 Great orange color. The smell is awesome - reminds me of cool weather, fallen leaves, and Halloween. The taste is very balanced; not too much spice, but enough to give you that pumpkin-pie vibe. This has been my favorite pumpkin beer for a while now, so I may be a little biased. Overall, I recommend this to anyone interested in beer (not just pumpkin beers).   
+look: 5 | smell: 2.75 | taste: 1.5 | feel: 2.25 | overall: 1.25 2015's version out of a bottle doesn't compare at all to older versions. Hardly any pumpkin or spice flavor. Quite bland comparatively. Not a bad beer overall, but it's more like a regular old beer than Punkin Ale. If you want a decent brown ale, it's fine, but since I was expecting the old Punkin Ale, I rated it according to my expectations from the past. I was not paying for a plain old brown ale with a hint of pumpkin and spice, I was paying for a full flavor Dogfish Head Punkin Ale - but all I got was Punk'd. Breweries should not change a beer's character so much that it no longer IS that beer - that's a form of deception. If you change the beer, change the name.   
+look: 3 | smell: 2.75 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 3.5 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 1 | smell: 2 | taste: 1.75 | feel: 1 | overall: 1 This doesn't taste like pumpkin at all... the low rating is for the lack of accuracy concerning the name and description of the beer on the label. 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Forgot how good this tastes. It has been a full year. 
+look: 3 | smell: 3 | taste: 4 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Great beer I forgot while drinking this that it was a pumpkin beer don't know if that's a good or a bad thing. The pumpkin taste is there and the spices are not one note and overpowering .   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3 | feel: 2.75 | overall: 3.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Flashback #69 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 A very well made pumpkin beer, definitely one of the better ones out there, plus it has a heavier feel too it because of the slightly higher alcohol content.   
+look: 4 | smell: 4.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 4.25 | taste: 4 | feel: 3.5 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3 | smell: 3.25 | taste: 3 | feel: 2.5 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 5 | taste: 4 | feel: 4.25 | overall: 4.25 I am not usually a fan of fruit in my beer but pumpkin is about as savory a fruit as you will find and it is the exception. This is my favorite take so far on a pumpkin beer.     Best described as an above average amber ale but the pumpkin flavors take it to another level.    Bubbles keep it lively and it feels light 7.0% abv.     Smell is just right for a quality amber ale with an overtone of pumpkin.    Perfect at Thanksgiving. Great gift to bring instead of the usual bottle of wine in the Fall.   
+look: 3.75 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4.25 Pours speckled orange gold color with a ton of sediment floating around in it and a 1 finger cream off white head that faded on the fast side and left decent lacing.     Smells like pumpkin pie with a mix of pumpkin, cinnamon, bread crust, brown sugar, nutmeg, yeast, bready malt, earthy notes and some more light spices. The ingredients used and listed on the bottle all show up front and center and smell quite good. Really good take on the pumpkin beer style, it smells like a real pie.    Tastes like it smells but the spices are more pronounced as the allspice comes out and joins the cinnamon, nutmeg, pepper and brown sugar; seems like coriander and cumin join the party too. Very bready with the pie crust/biscuit/wheat bread and wet cardboard yeast notes following the spices, then shifting to tea leaf, dry flowers and hops which add some balance yet let the spices and malt continue to trick your palate into thinking that this liquid bread is a pumpkin pie.    Mouthfeel is thin and watery with fizzy carbonation and a body that's a little lighter than average; it hides the ABV completely with the spices and flows down easy, finishing spicy and full of malt and pumpkin.    Overall a really good beer...I found this bottle in the back of my beer fridge, and even though it's over 6 months old it was still very tasty and I don't like most pumpkin beers in general. Dogfish Head nails it with this beer.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 2014 Fall bottling. Drank 6.20.15. Poured from a 12oz bottle to a Tulip.    A: Pours a hazy, orange tinted amber with a half finger of medium khaki head that quickly fades to a tall halo and transparent cap. Some suspended particulates, but I am guessing that might be from the age. I can't remember what it looked like when I had it fresh.    S: Spiced gingerbread cookies with a dash of brown sugar. Strong malt. Subtle and appropriate for a fall seasonal.    T: A light brown ale with some baked pumpkin, brown sugar, winter spice, and nutmeg. No bitterness whatsoever. Reminds me of brisk fall evenings.    M: Medium bodied, but feels lighter due to the carbonation. This really prickles at your lips and tongue. Has some after stick to it. A touch of alcohol, but not boozy at all.    O: I hate pumpkin beers. They all usually taste over processed, vegetable-y, or have had way too much spice and nutmeg added to them. But Dogfish did none of that, instead finding balance in subtlety. As a result, this is a beer that I actually like, one that come fall time, I routinely grab.   
+look: 5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Best pumpkin beer out there. 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Probably my favorite pumpkin ale. 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 I am a huge pumpkin beer fan, and this is one of my top three. Pours a beautiful hazy orange color with a finger of head. Smell is amazing. Nutmeg, clove, allspice, along with pumpkin, dominate the smell. Tastes almost like it smells. Along with the spices and pumpkin, there is a caramelized vanilla taste. I would have preferred just a little more pumpkin flavor. Ends with some malty hop bitterness to round out. Feel is medium-full with a little carbonation. A very well rounded pumpkin beer. Perfect for fall/autumn.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.25 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 2 | taste: 2 | feel: 2.75 | overall: 2 "The nutmeg is strong with this one." OK but you know how it is with pumpkin ales. 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.75 Among my favorite fall beers to drink. They didn't overkill the beer with pumpkin flavor making it excellent. 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.25 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.75 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Chocolate porter with pumpkin spices. Not my favorite styles of ale but is a delicious ale. 
+look: 3.75 | smell: 3 | taste: 3 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 I generally don't like the feel of pumpkin beers, because they are a bit too sticky for me. However, despite that, Punkin is a good drinkable beer, with clear pumpkin without overwhelming pumpkin spice. Some pumpkin beers are too sweet. This doesn't overdo it.   
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 Older varieties were much tastier. The current seasonal that is being put out is still good but no where near as good as it was when DFH really kicked off distribution.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 5 | taste: 4.75 | feel: 3.75 | overall: 4.25 
+look: 3 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 Decent pumpkin ale. From the bottle, it pours a medium orangy amber color (at least to me) with a small head that dissipates quickly. A bit of pumpkin to the nose and mouth.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.25 | smell: 2.75 | taste: 3 | feel: 3.5 | overall: 3.25 I don't like pumpkin beers 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 12 oz bottle, 2013 edition poured into a pint glass    Appearance: Pours a beautiful, hazy, golden/orange color with a half of a finger of white head that quickly dissolved into a thin halo of foam that gripped the sides of the glass and formed wispy clouds of foam that collected in the center of the top of the beer.    Aroma: Very pumpkin-y and spicy. Tons of brown sugar, cinnamon, all-spice and nutmeg. Strong notes of malt and freshly baked ginger bread too, however, not much in the way of hops.    Taste: Much like the aroma, tons of pumpkin and spice. Brown sugar, nutmeg, cinnamon, cardamom. Finished with a little sour flavor that I don’t remember in years past. Finally, there is no hops bitterness to speak of, which I overall prefer.     Mouthfeel: Medium-bodied to slightly chewy. Some good carbonation to tickle the taste buds. With an ABV of 7%, there is just the slightest hint of alcohol on the palate.    Overall: A very good pumpkin beer. Great balance between the traditional malty/hoppy flavors of beer, balanced well with the pumpkin and spices. In years past this has been my favorite, but I’ve since had some excellent pumpkin beers this season that have moved Dogfish Head’s Punk down on my list of favorites. That being said, this beer will always have a place on my shelf in the autumn.   
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 3 | overall: 4 Pumpkin beers seem to have lovers and haters with not much in between. Personally, I love them so long as they are not too pumpkiny. This ale fits the bill though the 2014 version is not quite as good as prior vintages. The head and lace are lacking in the latest vintage and this effects the mouthfeel which seems dry. Otherwise a really nice spiciness and flavor. If you like pumpkin ales I don't think this one will disappoint.   
+look: 5 | smell: 3 | taste: 4 | feel: 3 | overall: 3.5 A - Pours a nice honey orange color. Forms a finger of slightly off-white, medium-dense head.   S - Light touches of pumpkin and nutmeg, lots of beery pilsner notes. Aroma is nothing special.   T - Very good. Warm, sweet pumpkin meat, cinnamon, vanilla, brown sugar and alcohol upfront followed by a malty and hoppy bitterness on the back end to round off the initial upfront sweetness.   O - A very good and well balanced pumpkin ale. Fans of the style will enjoy this brew thoroughly.   V - Medium value, came in a four pack of bottles.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4 Best Pumpkin beer out thee. Yes, better than Pumking 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 4 Appearance - 3.5/5  Pours a very clear orange-brown. No head. A moderate amount of large carbonation bublles flow upwards at a average rate. Nothing really special about the appearance    Smell - 3.5/5  Nutmeg, pumpkin, a little bit of tartness. Smells okay, I wish the smell was a little bit stronger and that there was more too it than just faint traces of nutmeg and pumpkin.    Taste - 4/5  Moderately sweet, nutmeg, pumpkin, tart fruit, faint alcohol taste. I really like the slight tartness which the beer has. The nutmeg/other fall spices are not overpowering which is nice. The sweetness is at just the right level Overall this is a nice taste for a Fall/pumpkin beer. The taste is perhaps slightly watered down in seems.    Mouthfeel - 3.5/5  Medium-full in body. A light amount of moderate intensity carbonation. A sip starts of crisp, and becomes more creamy near the end of the sip. Though the beer has a medium-full body, at the same time it tastes kind of watery, and feels a little too watery in the mouth    Overall - 4/5  Overall, I thought this was a good fall/pumpkin beer. This is my first of the season, so maybe my thoughts will be different, after I have tried some other similar beers.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 2 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 5 | taste: 4.75 | feel: 5 | overall: 4.75 A personal favorite out of the pumpkin category... somewhat boozey, good carbonation, nice aroma - pumpkin spice is perfect. Not too sweet. 
+look: 5 | smell: 5 | taste: 4.75 | feel: 5 | overall: 5 I really enjoyed this Ale. Not going to be very descriptive. 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.5 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 2.5 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 Great Pumpkin flavor. Can taste all the spices too. 
+look: 4 | smell: 4.75 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.75 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 3 | feel: 3.75 | overall: 3.5 Hmmm.... a full bodied "brown ale"... not so sure about that. Despite the misleading description, it has a remarkably pleasant appearance. It is jubilantly orange, with an inviting glow when it catches the light. In fact, the playful and vibrant orange color is the attribute I enjoyed the most about this beer. Not far behind is the aroma. The spices and pumpkin meat meld in to an alluring symphony. My wife declared that it is "mouth-watering". She's not even a big beer drinker. As for the taste....This is a little bit on the cloying side with an initial sugary sweetness, followed by a harsh spicing regimen that sticks to the palate and never quite meshes coherently. The phenolic clove characteristics seem to override the malt presence and compete with a boozy fusel alcohol that rides through the whole experience. The pumpkin flavor is struggling to come through, as are the bready malts, but they get whacked in to submission by the booze and spice. Although not offensive, it's simply not the best-tasting pumpkin ale I've had. Not by a long shot. That said, the mouthfeel is quite nice. Creamy, perfectly carbonated with medium viscosity. Overall, this is a decent representation. I wonder if this beer would age well, perhaps mellowing some of the sharper edges with the spice and alcohol. Perhaps this one would be better with a slightly lower ABV? It's rare that I would suggest going smaller, but in this case, I feel like the higher gravity detracts from the beer. As with most quality brews, as it warmed and through the middle of the glass, the flavor profiles came together a bit more. Worth a try for sure, especially if you like palate-wrecking spiced beers. A tad overrated in my humble opinion. If you want a big pumpkin beer, try Weyerbacher Imperial Pumpkin. Of course, there's always Pumking for the over-the-top pumpkin experience. Personally, I recommend Smuttynose if you can get it.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+Matty123 
+TEKNISHE 
+double2chin 
+JNForsyth 
+reagbr8 
+Mole_Playing_Rough 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 This is a pumpkin beer that I (and others, from who I've talked to) will anticipate being released every year. The pumpkin is done perfectly and the beer itself is a perfect combination of spicy and sweet.   
+mberishere 
+SeattleBoB76 
+webweb2 
+Cpcan17 
+look: 3 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3 This is the best pumpkin beer I've ever had. With that said, I'm not a big pumpkin beer drinker but I'm willing to try one every once in a while.     L - Dark Orange Color. Very little head that disappears quickly  S - Light Pumpkin smell with a cloves.  T - Pumpkin and cloves. Not too sweet but  M - Medium body, crisp and not overpowering.   O- Not too sweet and a good reminder what good pumpkin beer should be like.   
+Jcoyle 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 Hard to move the needle in a pumpkin beer. The best of the lot is probably Carton golden squash beer -     A: Clear, orange tea color, decent lacing but a fast fade head (its the pumpkin and the sugar)    S: Good pumpkin pie smell, spice, esters, sugary, gord meat    T: Pie crust, dough, esters, raisins, allspice, cooked pumpkin, caramel, finishes nicely sweet and spicy. Balanced.     F: Smooth, creamy, medium bodied, finish is best part.    Mid pack pumpkin beer.   
+Bearshawks85 
+shiftmaverick 
+johnscooper 
+kwm5067 
+TrilliumFan 
+Leschber 
+DMC5150 
+Pyjack 
+mrn1ceguy 
+Obi-Wan-Bonjovi 
+JustinBrousseau 
+erushing 
+ironchefkook 
+akttr 
+Sanchezrox23 
+Bob255 
+Smaxy 
+fredmugs 
+dtomes 
+derekdclark1 
+GarrettFM 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 4.5 | overall: 3.75 A: Clear orange-brown, bubbles rise slowly, making the body looks pretty thick. White dense head that lasts quite a while. Lacing sticks around for a while. Artwork is pretty sweet.    S: Malt, light pumpkin, maybe clove (boo). The advertised spices are pretty faint, beyond just being subtle, but do provide some complexity.    T: Great combinations of sweet and warm malt, with pumpkin coming in afterwards and a light punch of holiday spices; nutmeg, allspice, fainter cinnamon. There is an unfortunate waft of wet dog every once in a while, but if you use your imagination you can make it seem like another layer of malt.    M: Smooth and thick, almost like melted ice cream.    O: Definitely one of the best beer-pie hybrids. Brought enough of that hedonistic pumpkin/spice theme while still providing real beer character. That wet dog flavor was a major setback, but most everything else was spot on.   
+BeerGuy09 
+ghettobooty88 
+Dinnie 
+jbw5016 
+Cdowd10 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+P0LISH_SAUSAGE 
+SpiritHaus2007 
+Greatscotman 
+ShaneHarris 
+brock125 
+TequilaVoodoo 
+ILuvBeer 
+olradetbalder 
+Adam_Wenger 
+wbeaver 
+chuckgietzen 
+tonyrocknroll 
+jredlich4 
+Stanley23 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 Poured from 2014 bottle, this certainly doesn't appear much like a brown ale, it is a crystal cler caramel gold, with a nice cap of cream coloured head with good retention and lacing.    S- aromas of canned pumpkin, pastry spices, nutmeg and allspice, like a pumpkin pie but store bought rather than homemade, lot of spice and played up pumpkin flavour.    T- notes of baked pastry, more roasty pumpkin, caramel, some robust bitterness, mostly earthy with a leathery dryness, herbal pine resins, some cinnamon and nutmeg spice, full bodied flavour through the middle leading to a drying finish with baking spices.    M- moderate body with a fairly heady carbonation, quite a cleansing effervescence, some nice dextrins to the body lending a somewhat creamy pumpkin pie texture, with a nice dry finish.    I was expecting this to be more porterish in style, as is this is much more a straight shooter pumpkin ale with a moderately caramel malt body. Dogfish. Did a good job of keeping this in balance, it's one of the more pleasing and balanced pumpkin ales that actually carries a solid pumpkin profile albeit with a good dose of spice. Well recommended and this was quite satisfying.   
+msante 
+guyute13 
+scootercrabb 
+RandyPuckett 
+adeliciousadventure 
+JamesV23 
+ExaltedNecrosis 
+NoProblem 
+BeenTired 
+Mdodge8837 
+look: 4.5 | smell: 3.5 | taste: 4 | feel: 2.75 | overall: 4 Poured from a 12oz bottle into a pint glass. The orange color really works for a pumpkin beer.    Smells very much like pumpkin pie spices with some slight maltiness.    Malty brown sugar and caramel flavors with some nice blending of pumpkin pie spices. The spices become more prominent the more I drink it and linger for a while after each sip.    Has a lighter mouthfeel and quite a bit of carbonation that gets in the way of the pumpkin pie aspect of the beer for me.    This is one of the better offerings in this style, but doesn't quite match the quality of my favorite pumpkin beers. Although, I do think I could drink a few of these before getting overwhelmed by the pumpkin pie spices like many of the pumpkin beers around.   
+citruscane 
+ConanSachler 
+jonathancap 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Look- pours a medium light copper color, a decent head and a nice semi thick frothy lace that is mostly ring like and patchy in the middle. Lace is slightly sticky also.  Smell- pumpkin of course, along with spices, possibly cinnamon and nutmeg. There is also an overlying alcohol aroma, perhaps rum, that is pleasant and not overpowering. On the backend of this alcohol aroma, I detect a slight biscuity malt.  Taste- malt forward, bread and somewhat doughy. The pumpkin flavor is there as are the spices. Well hopped but not intensely, the spices and hops act as balancing agents. The finish has an herbal and semi dry feel.  Feel- medium bodied and doughy in the mouthfeel. Softly carbonated but tingly on the tongue.   Overall- One of the better pumpkin beers out there.   
+look: 3.5 | smell: 3.25 | taste: 2.5 | feel: 3 | overall: 2.75 On sight, Dogfish Head Punkin Ale pours clear, pale gold, hinting toward a caramelish brown. The scent it gives off is comprised of brown sugar, slightly caramelized, with hints of vanilla, allspice, and cinnamon. The smell is vaguely creamy, with a hint of pumpkin. On the palate, it starts off slightly sweet, with a moderate mouth feel, and a delicate carbonization. Flavor wise, it’s full of brown sugar, light caramelization, cinnamon, allspice, and a touch of nutmeg. The pumpkin element is subdued, but still present, in a distinctly squashy kind of way. It finishes on the spicier side, with touches of butter and a hint of bitterness.   
+rsquared59 
+Kerrmedic 
+phillipp57 
+Gavilan 
+raceon4 
+HomebrewBrad 
+Domvan 
+MichaelLamb 
+Walts_Frozen_Head 
+tylermac92 
+look: 3.5 | smell: 2.25 | taste: 2 | feel: 3.5 | overall: 2 
+Marvicsin 
+Never can go wrong with Dogfish head 
+auchickie 
+andreaberthelette 
+msquared36 
+teamwiggum 
+Martyrob 
+cdhoward318 
+Dogum 
+lillitnn92 
+Rod_J 
+Alexincj7 
+earlholman 
+antman27 
+Techichi 
+foamheadz 
+Definitely the best punkin ale out there! The only downside is how fast it flies off the shelves. Grab it while you can and as much as you can! 
+sampsonw 
+jayray 
+kevdude 
+JALIEN 
+uwmgdman 
+harryhops 
+PA-Michigander 
+newbeeraday 
+natethamac 
+Scstroud827 
+Phezzzy 
+Gipsy_Danger 
+Soto 
+jmartinger 
+Regardless of the label, this beer showed no flavors of pumpkin, brown sugar, allspice cinnamon or nutmeg. The color was the only thing I liked about this ale, light brown.   
+John213 
+BigTwig 
+Onehumpcamel 
+dannyfayy 
+kwlightner 
+Manbear 
+JamesWhitty99 
+Summer92 
+LeeEvolved 
+JR86 
+Mfbda1daonly 
+Rezknello 
+rvisgaitis 
+fullerisalive 
+tmbgnicu 
+Purpcaper 
+riggiesmalls 
+DHarv 
+TwelveOunces 
+Goosehunter75 
+cbalbrecht 
+HarmonMW 
+Not as heavy on the pumpkin as I expected. Not bad. 
+jessealmlie 
+Nuggetz 
+Limanti 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 355ml Bottle brought home to me from Virginia, USA:  Clear, bright amber to copper with a bubbly white lacing that covers the surface.    Lots of spice initially with pumpkin notes & sweetness. The alcohol content is well hidden & the aroma is well balanced with some bread but is the spices that dominate with cinnamon, nutmeg & various others featuring.    Spicy with some cinnamon & nutmeg alongside the sugar & pumpkin, there's a strong malt presence with bread & background fruits as well. Some hops make an appearance with hints of alcohol but these aren't the strongest with toasted malts & background fruits at the end.    Medium bodied with above average carbonation & a nice spicy feel to the beer that was tangy & had a good balance. The beer was quite easy to drink & smooth with a dry finish.    Easily the best pumpkin beer I've tried thus far & an excellent all round offering that falls short of being a classic but is very drinkable. Starting off quite spicy, I was initially fearful that this one would end up like some other pumpkin beers I've tried (namely Pumpkinhead from Brewdog) but thankfully this one was a lot more balanced & enjoyable, definitely one I'd pick up each year if it were available here in the UK.   
+mgi020 
+AdamTebbs 
+ksbeernuts 
+jtc5632 
+T1i1m1 
+rsmith120686 
+xtonytx 
+cj8311 
+NCMatt 
+Coburn1002 
+AndrewRivera21 

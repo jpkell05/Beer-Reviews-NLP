@@ -1,0 +1,1000 @@
+look: 4.5 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4 Quite creamy, almost as smooth as a nitro. Advertises notes of chocolate and coffee. Chocolate definitely comes through more, though flavor is not overpowering. A reasonable price point at $11/six in Iowa. Will definitely stock this stuff for the colder months!   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Poured into an oversized wine glass. Reddish dark brown body over a tan head that dissipated quickly. Smell of coffee, malts and chocolate. Taste mirrors the smell with a pleasantly understated bitterness. Mouthfeel was slightly thinner than I'd prefer. A very good American Porter justifying all the praise I'd previously heard.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.5 | overall: 4 Pours a very dark brown, nearly black, with a moderate tan head. Aroma and flavor are chocolate, dark roasted malts, and dark fruit/fig. Mouthfeel is somewhat thin.   
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Look: Very dark, almost black.   Smell: Like most porters I've encountered, smells of coffee and chocolate with a taste to match.  Taste: Sweet and malty with a little hops.  Feel: Medium, with average carbination  Overall: My go-to beer when I'm not sure what I want to drink.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 LOOK - Very dark - slight light penetration. Reddish/brown hue.  SMELL - Some chocolate/coffee/toffee - dark roasted grains.  TASTE - Slight hops - nice bite upfront. Chocolate and coffee hints. Quite dry and toasty. Gets even more dry as you go.  FEEL - Medium bodied - hoped for a fuller feel. Got pretty flat pretty quickly  OVERALL - A really good porter - I think of porters being a tad bit sweeter but this is really good.   
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 Pours a dark black with medium carbonation. Aroma is a hint of roast, malt. Taste is baking chocolate, a little roast, some maltiness. Very easy drinking with complex flavor that keeps it from being something you could guzzle through easily.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 On tap at Roanoke  Dark mahogany with ebony highlights, scant tan head  Smells like Chocolate, coffee, peanut  Tastes like coffee, walnuts, dark chocolate  Light enough to drink a lot, no flaws, slight char aftertaste.  Super porter with well deserved rep   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 It pours a dark brown almost black color with a tan head. The smell is of chocolate, mild malts also. Taste is where it shines, sweet chocolate and malts with a little hop taste. The feel is smooth and easy to drink. One of the better porters I have tried.   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.75 The beer is pitch black with a thin head. The smell is a mix of roasted malts, coffee, and a hint of chocolate. The flavor is very similar. There is a slight bitterness that is cut by the sweetness. Beer has average carbonation and is medium bodied.   
+look: 4.75 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.5 | taste: 3.75 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 This beer pours a dark brown almost black color, the head is off white and fade away pretty quickly, There was some lacing left on the glass. I got a coffee flavor that to me was very present. I do not like coffee so the taste was not too easy on my palate. For the style is good, but not something I wood buy again.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 4 | taste: 5 | feel: 5 | overall: 5 Loved it. I’m a big fan of Founders Potter, but this is really good. 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Just had this is Rock Falls Illinois on Draft.  Look poured jet black with a 3/4 tannish head  Smell of roasted malt   Taste smoky taste with hints of coffee  Feel medium body great feel  Overall I’ve had this before from a bottle but first time draft . Excellent draft . Well done !   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Smooth but strong taste. Awesome 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Decanted from a 12 oz (355 ml) bottle into a red wine glass; best by 3/1/19  A: Pours a dark brown color, almost black with brown highlights. Forms a foamy, three-quarter inch, wheat colored head with solid retention and lacing.  S: Light aromas of cafe au lait, cocoa, malta, and almonds.  T: Palate follow the nose. Bitterness balanced and matched to level of maltiness, resulting in an even flavor.  M: Medium bodied with medium effervescence. Creamy and very smooth.  O: Drinkable and highly enjoyable. Very balanced. Had two and will certainly have more in the future.   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 Can’t believe I’ve never rated this before!    Pours a deep, opaque black. With a finger of khaki head.    Smells of toasted chocolate malts, with a crispness rather than sweetness, that hints at a larger presence of hops.    Smooth, creamy, chocolate with a clean crispness that I can best describe as spruce.    As far as body goes, it is a lighter, very drinkable porter. Not sweet, more dry.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4 A: Pours a creamy 1 finger head. Almost no light gets through, a deep deep burgundy    S: Malty, nutty, chocolate. Proving that less can be more.    T: Tastes exactly the way it smells. The toasted bitterness plays well with the bitterness of the chocolate and the malt is the body that binds everything together.    O: A fine porter. Easy to drink on a cold day. Simple, yet well executed.   
+look: 4 | smell: 3.75 | taste: 4.75 | feel: 4 | overall: 4.25 An exceptional American Porter -- Wish it was on the East coast 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 One of my “Island Beers”. Top 5 favorites.    Great aroma. Lots of roasted malts and chocolate.     slight hop kick on finish to get you ready for next sip. Very drinkable easy to knock back a few.   
+look: 5 | smell: 4 | taste: 3 | feel: 2 | overall: 3 Very Thin for a porter. 
+look: 5 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 5 This porter could pass for a black bock, the long cook required for the black appearance makes it too bitter; yet its smooth malts mask that.  Kept me wishing for more alcohol content, and a hint of bitter hops.   Would compliment spruce neuences nicely; will try it in a Black and Tan for sure.   
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Delicious, rich, smooth porter that really impressed me. Dark brown, almost black color with some slowly-fading tan head and some nice sheets of lingering lacing. Smells of roast coffee and dark chocolate. Tastes similarly, along with caramel, vanilla and malt. Amazingly smooth and slightly creamy mouthfeel. Good amount of carbonation. I’m used to a little more bite when I sample porters and this one is just so buttery smooth. Well done!   
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 3.75 | feel: 3.25 | overall: 3.75 It’s probably not the beer’s fault that I give it lower marks as I’m more used to the cranked-up stouts and imperial stouts. Poured a beautiful black without much head, but with lots of sticky lacing. Smelled of roasted coffee and chocolate, toasty malt, inviting but not too complex. Taste follows, with some bitterness from the roasted malt and slight hop bitterness. Feels slightly creamy, but less robust than I would like, thin at times. Extremely drinkable - goes down smooth.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 3 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Dark but somewhat reddish when held to the light. Had a good toasty malt smell. Medium pleasant mouthful and an awesome taste of smooth bitterness with a dark chocolate flavor. Loved this beer I should drink more like this.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 About the color of a cola. An inviting tan-ish head, initially thin then grows to a medium frothy-ness. Though it's a Porter it has more bitterness than most. Bottle declares - "Notes of rich chocolate and coffee, a luscious creaminess and a roasted finish." I'm in agreement with the coffee and roasted finish mostly. Not at the top of the list of my favorite Porters but I'm a Porter guy and would grab this ahead of 80% of the IPA's out there.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3 | smell: 4 | taste: 4.25 | feel: 2.5 | overall: 3.25 Very conflicted about this beer. Overall, the soda-like qualities of appearance and texture put me off, though this porter brings enough flavor and complexity to the game that i can almost overlook the cardinal sin of brewing a highly flavored beer with no discernible satisfaction. It look like less bubbly cola, unfortunately, though the color is really something. The smell is very complex, with some vanilla, malt, and even a bit of hop action. The taste is the same, with a bit of banana and coffee thrown in there as well. Enjoyable flavor, disappointing texture.   
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 Not what I was expecting , most porters are too much like coffee not this one. Its the right blend of flavors to give it a good dark feel without being heavy like a stout.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 2.5 | taste: 2 | feel: 2.75 | overall: 2.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 First Deschutes since the Abyss about four years ago. Let's see how it goes. Here goes:    A: Pretty good. A little too much body carbonation for a porter, but this isn't a deal-breaker. Pours deep black with a red hue, leaves a large head and adequate lacing. Good.    S: More chocolatey than fruity, but neither quality is really pronounced. Lots of burnt malt, actually, with faint hints of chocolate and some prunes. Again, no scent besides the burnt malt is really pronounced, but it's pretty complex nonetheless.    T: Follows the nose. Faint hints of chocolate w/ dark fruit in the aftertaste. Burnt malt coats the palate.    F: Little light, but alright.    O: Good beer, but nothing special.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3 | feel: 3.25 | overall: 3.25 A bit boozy for a porter. Not bad but not my favorite. First deschutes I’ve been disapointed with. 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 This is a solid porter. Roasty malt, clean finish. Lighter body with moderate carbonation. Drinkable, sessionable beer. There are other porters I've liked more, usually with and added flavoring like coffee or roasted coconut. This beer is just a little too light on flavor and body for me. It obviously has a good following for a good reason as other reviews show. Just not my favorite.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 2.75 | taste: 3 | feel: 2.25 | overall: 2.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3 | feel: 3 | overall: 3.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 3.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 3.5 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Dark chocolate taste, a little bitter, heavy in the mouth, gives an awesome buzz. Awesome beer and awesome company! 
+look: 4.25 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 4.5 | feel: 4 | overall: 4.25 Oh this tasted so much better on draft then in the bottle but that seems to be the case with all craft beers this is an amazing American Porter a lot of taste here   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 Bottle BBD 7/24/18, consumed 3/3/18    Poured deep dark black with a small head that left a little bit of spotty lacing.    Aroma is rich roasted malt and earthy hops. Some chocolate and sweet molasses in there as well.    Taste has more dark fruit up front, very different from the aroma, like a dark Belgian without the yeast. Sweet roasted malt is there to fill out the end.    Mouthfeel is light-medium, smooth malt feel, low bitterness and super easy drinking.     Overall, an outstanding porter usually available at a great value. Not thick and substantial, but certainly not a thin, watery blowover. This brew has great complex aromas and flavors. A regular in the porter rotation.   
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4 | taste: 5 | feel: 4 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Pored into tulip glass. Best by 3/18/18. Rich with chocolate and coffee. Surprisingly smooth to drink. 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 2.75 | overall: 3.5 Good presentation and flavor with boring mouthfeel and disappears as soon as it's swallowed. 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Ruby brown body, shimmering and deep. Two and a half finger beige head slowly dissipates to a faint ring.  The nose is malty with some char, mollases and earthy hops.  The taste is rich, roasted malts, dark fruit skins, a touch of french caramel sweetness, faint coffee and earthy, herby hops.  Smooth and light mouth feel with a medium body and carbonation with a slight black coffee aftertaste.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3 | taste: 2.75 | feel: 2.5 | overall: 3 IMO, this is too thin and lacks complexity. Perhaps that's what an American Porter should be (hopefully not), but I found Founder's Porter to be the proper porter that Black Butte is not.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Poured out of a 12 oz. bottle into one of my pint glasses, this beer pours a clear, dark brown color with some deep amber/ruby highlights around the edges when held up to the light. Has a slightly tan head that's about an inch thick when first poured that settles eventually to a film layer of cluster swirls foam that covers most of the beer's surface and a fairly think ring lining the inside of the glass. Aromas of roasted caramel malts along with hints of cocoa and coffee and some roasted nuts. The taste is pretty much the same, with roasted caramel malt sweetness that's followed by cocoa and coffee notes and some roasted nuttiness. There's a bit of an earthy hop presence that has just a bit of bitterness. Nice balance of flavors. Has a crisp, yet smooth and somewhat creamy, medium bodied mouthfeel with moderate carbonation. Has a clean finish with a slightly dry aftertaste. A very solid beer here indeed that's spot on for the style.    Eric   
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 2 | taste: 3 | feel: 4 | overall: 3.5 Easy drinking porter. Got on draft. 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.25 | overall: 4.75 Great looking beer. One of the darkest I’ve seen even held near light. Tan head but not a thick head. Smells like coffee and (ginger?)bread due to live yeast added. Tastes better than it smells imo but both great. Not too much hint of coffee. Just right. Feels smooth like most porters with balanced bitterness. One of the best brews I’ve personally ever had.   
+look: 2.75 | smell: 2.25 | taste: 2 | feel: 2 | overall: 2.25 Poured dark with garnet red tinge. Limited temporary head, slight lacing.   Slight smell is sweet malt.  Taste is coffee with sweetish malt overtone and an almost indescribable green malt lingering aftertaste.  Mouth is watery thin, mild carbonation.  I am puzzled how some rave over this this beer.  I have a very favorite porter and I like several others.   
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 5 | overall: 4 16oz nitro draft presentation into a pint glass boasts a night black body resting beneath a persistent 1/4in blanket of cream colored head leaving erratic webbed lacing.    Aroma is all roasty malt with no particular affinity, meaning neither coffee nor chocolate forward.    Flavor matches.    Mouthfeel is creamy, smooth, full, and perfect with a dry finish.    Overall one of the best.   
+look: 4.75 | smell: 3.75 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 2.75 | feel: 1.5 | overall: 2.75 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 My favorite go to beer. If I am ever stuck on deciding what I want it always ends with me leaving with Black Butte. The smoothness is amazing and taste unmatched by any. Subtle coffee and chocolate as you would expect from a Porter but not overwhelmingly sweet. When people claim to not like dark beer I turn to this to change their opinion and it has not failed me once.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.5 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 3.5 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4.5 | overall: 4.25 Bitter and Robust. Thick and medium carbonation. About 175 kcal which I'd expect for a porter. Widely available and reasonably priced for a quality beer.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 3.25 | feel: 2.75 | overall: 3.5 Totally blindsided by this one. The Bros raved about it, it has lots of fans, it looks beautiful, and smells appealing. Personally, not a fan at all. Maybe Founders' Porter has me spoiled.    L: Looks thin, but pretty dark. Cola colors where light does penetrate. Gorgeous head. Jiggled like jello and lasted quite some time, leaving lots of lacing.    S: Very mellow. Charcoal, chocolate, roast, malt, burnt sugar and coffee-like acidity. I don't notice any hop character.    T: Watery af. Idk where the 192 calories are coming from, because this tastes lighter than Modelo Negra. The roast, chocolate, malt, caramelized sugar, and slight coffee acidity are detectable, but its all very subdued.    F: Even more awful than the flavor. Feels like a cross between an old iced black coffee and a mostly flat soda with a good amount of melted ice in it.    O: Meh. Not for me. I actually prefer my dark beer dark, please?   
+look: 4.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.5 | taste: 4.75 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Goeun's favorite beer 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 3.75 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.5 | taste: 4.5 | feel: 4.75 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 This is a nice porter fir the price at 8:99 a six pack.     L: This has a nice look dark in color with about a finger of head.     S: light hop bitterness , malty , coffee and chocolate and a bit resigns    T: This is a very easy drinking porter. Well balanced on the flavor and overall just a great taste for 5.2 ABV.     F : Slight carbonation, not to heavy, very drinkable.    Overall I really enjoy this porter, definetely a nice balance of flavor and tart just what I expect from a porter. Not to sweet either.   
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4.25 Dark opaque color with creamy lined lacing. Smells of nuts, light coffee, cocoa, and dark malts. Taste is similar with stronger malt and some brown sugar. Goes down very easy with a rich but smooth body. Just a great porter.   
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 4 Quality porter. Didn't notice any chocolate taste, but nice beer. It got better after breathing a bit in the glass. 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.5 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 4 | feel: 4.5 | overall: 3.75 A slightly sweet hearty Porter. Lightly off white head with some light lacing. Goes down smooth. Good mouth feel and very drinkable. Not a complete standout from the crowd, but definitely quality.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 4.25 | feel: 5 | overall: 4.25 
+look: 3 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.25 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Poured into pint glass. It pours nearly black with dark walnut and cola hues when held to the light, and a large, foamy, khaki-colored head and lacing. The nose features roasted malt, burnt coffee, and nuts. The taste is similar to the nose but there is an additional hoppy bitterness at the finish. This Porter is fairly light in body with moderate carbonation, and with an ABV of only 5.2% and only 30 IBU, it's really easy to drink. Overall, it's quite good.   
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 3.75 | overall: 4.25 Deep, dark brown body topped with a thick, frothy, light tan head. Robust aroma of charred grain with notes of chocolate; roasted nuts. Rich, malty flavor; milk chocolate; cocoa and marshmallows; brown sugar hints; fine bitterness for depth and complexity. Heavy body.    It has been many years since I last tried this beer. It still stands up as a fine example of the American porter style. It delivers a lot of dark, rich lusciousness to the palate; deep sweetness without being cloying and enough bitterness and a touch of dryness to balance everything out. An excellent dark ale.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4.5 | overall: 3.75 Super-deep blackish brown with only the faintest of red hues coming through. Big 'ol creamy, thick khaki head that won't quit. Roasty malt is strong on the nose. There's a lot of chocolate in the taste, and there's a rich creaminess, too. Still, a touch of bitterness to balance. Its body is rich and substantial, a lot like a stout. A good beer, but not necessarily one unique enough to seek out.   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 Tastes awesome for Fall weather. This beer is amazing. 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 4.5 | overall: 4.75 Enjoyed with bacon and a chocolate muffin.    Thin head of fine bubbles, plenty of lacing. Two thirds black, with reddish-brown towards the bottom. Fair amount of carbonation.     Smells of malty chocolate with a hint of coffee    Taste follows the nose, understated, with carbonation popping relentless. Taste reminds me of Black Toad Ale, without the without the grimy twist.     The carb storm settles down by the end of the first pint, by the beginning of the second pint, the experience becomes Grand!     Not bad, it certainly seems boring (style, %), at first, especially compared to their ruling Obsidian Stout, but towards the middle of the second pint, it's old charms present itself commendably. Good show.   
+look: 3.75 | smell: 3.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 A bit watery/lighter than expected. Not bad, but not something to go hunting for either. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 4 | overall: 3.5 L: Had this beer on-tap at Rivermont Pizza, poured into a pint glass. Had a dark brown color and an opaque consistency. There was an inch of creamy, tan-colored, fairly long-lasting head. Fair lacing.    S: An underwhelming aroma of roasted malt, chocolate, and a little coffee.    T: Tasted of a little bit of chocolate / cocoa (not nearly enough), light coffee notes, a lot of roasted malt, light hops (mostly in the finish), and slight nutty quality. The problem here is that all of the ingredients seem not to be pushed far enough. The flavor has a bland, watery quality that's inescapable.    F: A decent amount of carbonation with a mostly smooth finish. Medium-bodied.    O: The high rating for this beer is somewhat mystifying. It's not the worst porter ever, but certainly not deserving of so much praise.   
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 4.5 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Well, the old rankings had this at 100 and 92..something like that. Now, 90.2% "like" this beer. I'm really missing the old rating system already. Anyway...    Pours a dark brown with a somewhat creamy light brown head. Lacing is apparent, slow falling but not really sticky.  Aroma is a faint milk chocolate. There's also a slightly wet woody/coffee aroma as well, but not powerful at all.  Taste is sort of woody/grainy light chocolate. Tastes a little roasted.  Feel is light with light-medium carbonation. A bit watery for the style, yet somehow, also a little bit creamy.  Overall, I think this is an okay porter. It's pretty straight up and fairly clean tasting, but nothing I would really recommend, unless you're looking for a very mild porter. I was a little disappointed by this, to be honest.   
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours a dark brown/black with a nice head on a hard pour. The head dissipates living a thinner head and some nice lacing. Taste is roasted malt with chocolate notes with a nice smooth mouthfeel. For me this is the Porter that defines porters. The ABV is low enough that you can enjoy more than one but there is enough taste and mouthfeel to make you happy. I'm glad to see these guys in NC and happy that they are putting an east coast brewery up in Roanoke.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3 | smell: 2.5 | taste: 2.75 | feel: 2.25 | overall: 3.25 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 5 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 from a 12 oz. bottle to my mug, pours dark brown, nice thick mocha head. A pleasure to the nose, sweet, mocha and coffee with hints of nut, tastes like nothing else first bitter, then the sweetness.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 A quality dark brew. Complex bordering on a bit dense (may have over-chilled it). Carries a stiff price tag, though, in my east-of-the-Mississippi burg.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.5 I've been keeping two of these in the fridge for a few weeks and am finally busting out the first one. Expectations are high given the brewery's reputation and how hard it is to get in the East Coast. (ordered from Tavour) Reviewed live.  Pours a black/brown opaque color with a half a thumbnail length tan head. Once it dissipates, it leaves a ring of lace and a small swirl of film.  Oddly enough, my first impression of the nose is of mild herbs and spices rather the roasty aromas associated with porter. This gives way to toasted and biscuity malts, thus highlighting more the base pale malts. However, soon enough aromas of cocoa, nutty tones and light coffee roast begin to develop. They become more pronounced as the drink warms.   When I get to tasting it, it is truly a pleasant surprise. I'm amazed by the lightness and high drinkability. Creamy, silky and smooth along with a moderate but gentle carbonation. The flavors are nutty, cocoa, coffee and lightly roasted malts. Surprisingly there is a nice touch of citrus hops and lemon twang in the finish, adding some refreshing qualities.   Perhaps I'm drinking this at the right time because lately I've become a bit saturated with the often overbearing sweetness and booziness of today's hyped stouts and porters. It is such a refreshing change of perspective to be able to drink a porter that is clean, understated and elegant in its own mellow way. The low ABV is a bonus in that this is a porter that could truly be a session beer. A quiet classic.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 Giant Eagle 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 This is a good-ass porter. Always great to run into a beer of this ilk that's readily available in a city you're visiting - bottle shops, grocery stores, gas stations in Cincinnati. No distro in my home state. Scooped up a chilled six pack, forgot to look for the bottled date.    Charcoal-black pour with a porus, tightly packed brown head that sits and stays. Aroma of bitter chocolate, coffee grounds and char. Taste is right down the pipe as far as porters go - char, chocolate, roasted grains, burnt bread, dark roast coffee, light marshmallow. I seem to pick up marshmallow in porters for some reason. Chewy, thick mouthfeel but still soft. Nice bitter, slightly sweet and roasty feel throughout. Tons of taste for a sessionable ABV. Dinged it a bit on the feel as I picked up a ligering acridity. Great example of the style.   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 3.25 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 4.5 | overall: 3.75 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.75 
+look: 4.75 | smell: 4 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 Beautiful dark porter with great head retention and a good amount of lacing. Strong roasted malt on the nose. A bit of coffee and chocolate on the front of the tongue. Then on the back, you get that roasted malt again with a slight bit of bitterness. Great beer. This is how a porter should be done.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Overall great beer. Black rich and thick hence its name. Dark black in color. Rich in malty taste. about 1.5 finger heard . Rich and bold taste. no after taste. just great   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.5 Poured extremely dark, holding up to the light reveals the beer is a dark copper color, it had a small head  Smells deliciously of dense malt and alcohol     Best porter I've tasted, clean malt taste with a chocolatey finish     A very impressive brew   
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 5 | overall: 4.75 Great beer to relax and have with food. Highly recommended porter with great notes of molasses and a deep complex color. 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.5 | overall: 5 Still my go to favorite!    Pours black with a crimson tint when held to the light. Creamy tan head that hangs on for a while. Smell is full of subtle hints of coffee chocolate toasted grains. The smell alone could sell this beer. The feel is full but not heavy.     The taste comes in as a extremely balanced yet flavorful porter. All the coffee and toasted bread crust and chocolate flavors that are expected from a porter yet balanced so unbelievably well. The finish leaves you with small nuances that only leave you wanting another drink.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 I love Black Butte Porter by Deschutes Brewing. Nice and thick and just loaded with flavor from all the dark malts. Also well balanced with tasty molasses notes.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 For me, the standard of American porter! 
+look: 4.75 | smell: 4 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 Pours a pure black and tan of course. Smells of molasses, caramel and plum. Yum. A perfect marriage of sweet and toasty on the palate with notes of molasses, black grape, roasted malt and taffy. Medium and not watery as some straight porters tend to be.     How in the world I've avoided this classic for so long is beyond me. But having tried it, I can say it deserves its place in the pantheon. A classic style for the modern drinker, but not trendy. Whatever the F that means.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 5 
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3 | smell: 3.25 | taste: 3 | feel: 2.75 | overall: 2.75 
+look: 4.25 | smell: 3.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Pours a coffee black with a tan head. Smell is of coffee beans. Taste is of chocolate and roasted coffee. Mouthfeel is medium. Not quite creamy. Overall great porter.   
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.25 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 Tasted at the Portland Public House, served in a 4 oz sample glass. Deep dark brown, but still some clarity, with a nice foam of tan head. Gentle toasted malt aroma with slight char but still some malt sweetness as well. Silky smooth without being too full bodied, layers of nice malt flavors: roasted coffee, burnt caramel, toasted bread, and earthy hops. Finishes with a clean hop and toasted malt bitterness. Terrific balance - hits the mark for a flagship brew.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Twelve ounce bottle copped from Uppercrust in Phoenix. Pours a jet black ebony hue with minimal frothing. Mellow aroma replete with hints of chocolate and molasses. Similar overall flavor profile.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 The nose on this brew is of toasted biscuit,roasted coffee beans. Lots of lacing here. One finger thick brown tinted head dissipated quickly. Soft buttery mouth feel. Dry finish. 5.2 ABV is hardly noticeable, it just blends into the roasted coffee bean taste really. A dark roast of a brew. Overall it is a very nice porter.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 Black Butte Porter brewed by Deschutes Brewery, with an ABV of 5.20% This American Porter pours out a deep brown color with a small light brown head. This brew has the look of coffee, not saying that is a bad thing. There is also a decent amount of lacing to this brew, it sticks to the side of the glass well. The smell of Black Butte Porter is rich with roasted grians and malts. There is also a nice sweetness and a decent amount of hop bitterness in the smell as well. So far this porter is really inviting. Now for the taste, it is bold but smooth with flavors. There is alot going on in this brew. You first pick up on the sweet Roasted grains and malts and it end with a nice mild hop bitterness. There is a lot going on in Black Butte Porter. This American Porter has a lot going on in it. There is nothing overpowering about this brew, it has a super nice balance to it. I really like how smooth this brew goes down.   The mouth feel is Bold, Rich, Smooth, Roosted, Clean and Refreshing. The body of this brew is a soild medium. I can't get over how smooth this brew goes down. Overall I'm giving Black Butte Porter a 4.75 out of 5. I would definitely look this brew up again givin the chance to. Deschutes Brewery, did a super nice job with this brew. If you are a fan of Porters you should look this one up.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 L -- Very dark brown, slight ruby. Small white had that dissipates quickly from an average pour.     S -- Roasted malt, coffee, chocolate, slightly sweet banana bread.     T -- Coffee comes first, followed by general roast. Chocolate comes in later, with a nice light sweetness. I get momentary notions of the banana bread, which I would be interested in here.     F -- Medium body, good carbonation.     O -- A very nice beer.   
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 Deschutes is an amazing brewer. They dabble in so many styles and do so very well.    Look- Very dark ruby brown. There is a light tan, fairly thick with a creamy appearance. There is a bit of lacing.    Smell- Chocolate and a little banana.     Taste- Chocolate and banana again, with banana being more dominant. There is a mild bitterness.    Mouthfeel- Milky, but not heavy enough to feel creamy. I would list the body as medium. A little bit of a hoppy bite on the swallow. The aftertaste is light, lingering and bitter banana stays with you.    Overall- I am a fan of stouts, so I need to be careful when rating porters. This one is certainly one the better porters I have tried, to date.   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 A dark brown almost black porter except for some dark cherry highlights. Two finger head that dissipates quickly leaving a rim of foam at the edges. Lots of lacing. Smells of sweet malts, definitive chocolate (semi-sweet), with a wonder full tobacco warehouse aroma. The taste is a follow through of the aroma with the addition of mild lightly coffee. Lush and juicy. Chewy. Smooth as silk. Overall this a a fine porter that is only produced by the best of the Craft Breweries. I will definitely keep some on hand. This one leaves you craving another. If you are tasting this for the first time I suggest you buy two. You will need the second.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours jet black and leaves the same color body with a two finger white foamy head that dies within thirty seconds, good amount of lacing left in the wake, smell has a lot of milk chocolate up front but tries to balance with some coffee, taste is exceptionally sweet through the chocolate, smooth on the palate and pretty drinkable, this is a very good American Porter that one should not pass up on if seen.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4 Pours the typical dark porter color. The smell is coffee beans and vanilla. The flavor is predominantly coffee with cream. My only deduction on mouth feel is it's a little thin for a porter but overall a darn good beer.   
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Solid porter. Had on way to Bend. 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3 | smell: 2.5 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.75 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3 | smell: 3.5 | taste: 3.5 | feel: 4.25 | overall: 3.75 At the Deli Restaurant with Jer on St. Paddy’s Day, celebrating his birthday and the like... on draught, brought out with its all-black majesty and a ring of brown head with residual smear in its middle... smells of lactic milk, toasted barley malts, and some earthy, peat/marsh funk... appealing on a snowy, rainy day like this... mouth feel is swift, a bit crunchy and warm at the finish, with an easy-drinking, textured medium body... the prevailing flavor is roasted malt, though enough hops make their way to the forefront to evoke pine and hard fruits--apple, pair... a solid, unspectacular porter that is as it should be--not to be confused with its bourbon-barrelled cousin, but no insult there...   
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4.25 | overall: 4 Poured hard into a frosted pilsner glass. Quite active thick creamy head. Over two fingers. After 5 minutes mellowed to a tan overcoat with light irregular lacing. Color is brown almost black. Nose is faint chocolate and coffee. Taste is a smooth roasted, dry earthy character with coffee upfront then bitter dark chocolate. Nice. Finish is lightly carbonated with medium body. Definitely a well done porter.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Smoked coffee, and slightly acidic. Hops come through subtly, creating a satisfying contrast. Almost a meaty and chocolate taste on the finish. Deschutes is making some of the absolute best beers. Masterpiece.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.25 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 Good and balanced porter. Acidic malts with some roasted notes are balanced with citrus hops mostly on the tangerine and the orange. This beer is quite dry. The carbonation is a bit low.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Poured from 12oz bottle into Seidel. Best by June 20th 2017.    L: Black oil with ruby edges. Thin beige head fades quickly into a ring.     S: Rich coffee, bittersweet chocolate, leafy hops.    T: Again, coffee, chocolate, leafy hops. Astringent bitterness, toasted biscuits, really a well rounded brew. Very good.    F: Silky smooth, creamy, good carbonation levels, Medium-full body.     O: Great porter. Great beer. Noice.        Revisit:    Poured from 12oz bottle into Bell's Oberon Pint Glass. Best By July 22nd 2017.     L: Black with ruby edges. Finger width beige head stays around for quite some time. Good stick to the glass as well. Bumping up this beer's looks.     S: Bittersweet chocolate and leafy hops with coffee undertones.     T: Pretty on the mark the first time, not sure I would change much here.     F: Same again with an added note that this is dry.     O: Again a really stellar beer and porter.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Pours the darkest brown, a touch of red, almost black. Thick tan head. Malty, bready, toasty, roasty, smooth. A hint of hops. Definitely bready, but more on the dark toast side than fresh-baked. Dark, but not overpowering. Overall, a great beer, and a good Porter.   
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 5 | smell: 3.75 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 really liked it better than their stout. Very drinkable, with a nice mellow background flavor. The flavors are subtle. Creamy mouthfeel, no bitter aftertaste, and smell is also somewhat muted. Good if you are going for mellow.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 Being new to drinking, this is my 2nd true craft beer I've had, and the 6th one overall.   The look is dark, an almost dark amber color. Very nice foamy head after an aggressive pour.  As for the smell, you can definitely smell some coffee and chocolate, as expected of a Porter. No boozy or off putting smells to be had.  The taste is vibrant with coffee and bakers chocolate, not much bitterness.  The feel is very creamy, and very easy on the palate. No dryness on the back end, and not much of a lingering aftertaste.  All in all, probably the easiest craft beer to drink that I've had so far. At 5.2 abv, it is highly sessionable and all the more enjoyable. I love that it's available in a 6 pack, especially since I just got off work! It's definitely worth a try if you want to go beyond pale ales and lagers   
+look: 4.25 | smell: 3.75 | taste: 4.75 | feel: 4.75 | overall: 4.5 Poured from a 12oz longneck bottle into a nonic pint. Extremely dark brown, almost black, with just the barest hint of light coming through the edges. The head is two fingers tall, pillow-you, falling away slowly while leaving a good bit of sticky lacing.    Aroma is mildly sweet, roasted malts, with a bit of toasted bread.    Flavors start out with dark semisweet chocolate up front, with a bit of caramelized sugar. This leads into rich tones of coffee, toasted nuts, with just a touch of herbal hops in the background. The finish is drying and bitter with both hop and coffee notes but not overly long on the palate.     Mouth feel is medium bodied, smooth, very easy drinking, lightly carbonated. The alcohol at 5.2% ABV invites you to have more than one.     Deschutes hit all the marks with Black Butte- rich flavors and easy drinking character make this the model of what a great Porter should be, for me. It's great out of the bottle, and amazing if you cam find it on draft... this one is definitely going to become a go-to beer for me.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 Poured from a bomber into a Spiegelau stout glass.  L- Amber cola color from the bottle which settles into a dark brown liquid in the glass with a brilliant, clear amber glow. Good carbonation and thin, tan head atop.  S- Chocolate, dark fruit, bread, citrus from the hops, earthy beets smell, and a distinct caramel sweetness.  T- Same as the nose with an upfront smoky dryness which helps calm the sweet notes.  F- Medium bodied with a lingering dryness.  O- A very drinkable beer. It stays true to the style and does try to do anything extravagant. I do find it a bit too thin and would like bolder flavors   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.25 Black with mahogany highlights. Brown head with plenty of lacing.     The aroma is immediately burnt - little bight of a chemical or charcoal. Some sugar cane. Earthy and sweet    Taste follows the smell closely. Dense burnt rye flavors with just enough sweetness to recognize it as a porter. Lots of dates and raisins in the back end and noticeable hops in the finish. Smokiness and a sugar tackiness lingers. A bit light and perhaps lacking in alcohol.     Smooth full bodied and light carbonation that allows the flavors to remain in the front.     Ideal american porter   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 3 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Poured a black body with one-finger tan head and left lace ring. Aroma had bits of charred malt and coffee along w/ bitter chocolate. Smooth beer w/ a light to medium body that had a subtle chocolate sweetness that made beer easy to drink and then it finished with a slightly roasted coffee taste.   
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 Deschutes Black Butte Porter, 5.2% ABV, 30 IBU. Pours medium viscosity and dark brown/light black, with not much head on a careful taproom pour. Nose is sweet malt, taste is malt, chocolate, and a slight bitter close. Mouthfeel is just OK, due to a bit of over carbonation. Overall decent.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 A: Black body with a large rocky tan head.     S: Caramel, chocolate, and dark malt. Brown sugar, grainy bread in the finish.     T: Chocolate, and caramel with a nice malt backbone. Finish is bready and delicious.     M: Medium in feel, with fine but plentiful carbonation.     O: Overall, just a damn fine porter.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 12 oz bottle. Pours a dark brown with a thin, long-lasting off-white foam head. Aroma is chocolate and mild roast. Flavor is chocolate, roast, and coffee, with a creamy, slightly bitter mouthfeel.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 5 | feel: 4.25 | overall: 5 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 2.75 | smell: 3 | taste: 2 | feel: 2.5 | overall: 2 This was very disappointing. Got a 12 pack on recom of the staff at distributer..like a cross between a Budweiser and a Guiness. Watered down.   Will avoid.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Great balance. Easy drinking. 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 4.75 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Very traditional, hits-all-the-notes porter, lots of dark toasted malt flavors with a little bit of hop zing at the end (served from a bottle around May of 2015)   
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Dark color with little head. Nice aroma but a little mild. Taste was very good without any alcohol evident. This a a good but not excellent beer and will not improve with age.   
+look: 4 | smell: 3 | taste: 3.5 | feel: 4.5 | overall: 4 
+look: 3.5 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 5 | overall: 5 Nice smokey char flavor definitely a good selection. This Porter separates itself from others with this complexity 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Poured from a 650ml bottle,best before 04/14/17  Well 1,534 reviews i really don't have much to add.  Its a dam good porter! I will always have one in my fridge.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 12 ounce bottle, best by date of 04/23/17 printed on the label. Served in a Spiegelau Stout glass, the beer pours dark brown with about an inch tan head that stayed around for a little while. There's also a good amount of lacing. The brew smells like roasted malt, bittersweet chocolate, coffee and some dark fruit. Taste is similar to the aroma, but there's also some bready/grainy malt and caramel noticeable. Mouthfeel/body is medium, it's a bit slick and is well carbonated. I think it's a good porter overall. With that being said, I remember trying this (and liking it more) in the past, so I'll have to revisit this one soon. $1.79 a single.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 A very dark beer with a decent sized tan head It looks black, but there is some light visible through the edges.    This is the nicest smelling beer I have come across in some time. Chocolate, coffee, sweetness. It reminds me a bit of the smell of a chocolate cake baking.    Chocolate up front, hints of coffee and nuts, and a hint of sweetness. This is almost liquid chocolate cake with nuts on top.    Nice and smooth going down, just a hint of tingling from the carbonation.    I don't know why I didn't try this sooner based on it's reputation, but it does live up to it. This is just a very flavorful beer, and well balanced. For sure, this is one beer that lives up to the word of mouth, well worth trying.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3 | taste: 2.75 | feel: 3 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 12 oz bottle from Kyle C, poured into 2016 GABF mini snifter.   A: pours a Coca Cola brown red body color, +1 off-white finger foam head, spotty lacing, some carbonation.  S: chocolate, cocoa nibs, roasted malt, molasses syrup, chestnuts  M: medium body with a semi dry finish on the tongue  T: hints of coffee, dark cocoa, roasted malt powder, buttery, hints of roasted Chestnut, slightly sweet prune, hints of coca cola  O: fantastic Porter, could easily drink a few these in one session, glad I got to try I will seek more.   
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 5 | overall: 4.75 Nice dark look. Textured color. Good head.   Nice malty hoppy smell. Sometimes like chocolate, wish this smell was more consistent from batch to batch.  Same issues with consistency on taste which is my only reason for the lower score in the taste category.  Feel and smoothness is great.  Overall strong and almost perfect.   Variability in nature must make it tough!   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 This was my first porter (and dark beer in general) right after I turned 21, so I'm coming back now that I got another case recently. God I love this beer. So much chocolate, coffee, toast, and deliciously roasted malt. I was one of the people who thought he'd hate dark beers, but this one started me on my journey.   
+look: 4.25 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 toasted nuts, roastyness, brown sugar, dark malts, earthy cocoa, hint of vanilla and dark fruit. creamy texture nicely supports the flavors, but light bodied keeps it really drinkable.   
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 Pours intense, dark brown, immediately wafting toasty aromas.     I like beers that do this - stand their ground on one, decent flavour profile, rather than trying to be 4 things at once. Black Butte completely forgoes the cold brew coffee fad of some porters to focus instead on earthiness - roasted malt and baker's cocoa. Sticks in the throat like morning coffee breath.    The feel is perked up by both light carbonation and mildly hoppy undertones that spur another sip, then hugs the gums and tongue as things warm up. A top-of-the-fridge mainstay for stews, chilies, and me.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 "Best by 6/21/16"; drank 1/1/16 @ the Yarchives.     Poured from the bottle into a glass.    Opaque dark brown appearance.     A rough pour yielded a huge tan head; frothy lace.     Fresh earth, lemon & coffee notes in the nose; unique!     Medium mouthfeel.     Fresh earth & lemon flavors up front; smooth cream notes on the finish. This is super fresh & perhaps a touch hoppy, but the lemon notes are actually quite interesting. Very nice.   
+look: 5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 Pour from bottle to pint glass. Espresso pour with thick creamy head, nice lacing.  Deep, chocolate~ty, sweet aroma.  Intense charred, roasted coffee, toffee and hint of sweetness with light carbonation.  Overall, decently brewed porter for dark beer lover.   
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 I am an IPA person. Porter, or any other style beer is strictly change up. But *oh what a change up* this is delicious. If you like dark beer, you will.enjoy this. Yum.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3 | taste: 4 | feel: 4 | overall: 3.75 Dark brown with tan head. Smell is quite faint, perhaps a bit of chocolate. Blackberry and boysenberry flavors followed by a nice chai spice. Well carbonated.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 Nice dark appearance, about 3/4 inch head on the pour. Not much smell, and not as much coffee undertone as Inexpected (based on the label). Very smooth, lacks a little richness but otherwise a very nice porter.   
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.5 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Very dark brown in color with a half finger of tan head that quickly settles to a thin layer. Decent lacing down the glass. Small amount of carbonation when I rock the glass. I get a nice a nice dark roasted malt, chocolate, minor coffee quality in the aroma, malt-o-meal, and maybe a bit of an earthy vibe. Same with the flavor. Nice amount of roasted malt and chocolate with no charred or burnt characteristics. Feel is medium bodied, average carbonation, and dry. Damn good stuff.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 Poured into pint from tap in Columbus ohio worled of beer. Nitro tap. First nitro I've loved. Looks fantastic, thick Lacey head, and taste like chocolaty stout heaven. Fantastic.   
+look: 5 | smell: 4 | taste: 5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 "Notes of rich chocolate and coffee, a luscious creaminess and a roasted finish." Brewed in the style of an American Porter, available in 12 oz. bottled 6 packs and on year-round draft.     Poured from a 12 oz. bottle to a snifter glass.    (Appearance) Pours a smooth, creamy foam head of a moderate tan color over a deep brown body with ruby highlights and ample carbonation. Retention is good and lacing is light and spotty. 4.5    (Smell) Rich chocolate malts, soft roasted grains, black patent and gentle coffee bitterness with a high cleanliness and a light sweetness. Potency is moderate. 4    (Taste) The flavor is largely the same with cocoa malts, a touch of light caramel sweetness, finishing subtly with a high cleanliness, a pinch of roasted grain, clean coffee bean oils and earthy bitterness. Nicely balanced, very drinkable and highly sessionable. 4.5    (Mouthfeel) Texture is silky, slick, clean, mildly dry. Carbonation is mild, generating a mild frothiness and a mildly crisp finish. Body is medium for the style, medium overall. Balance is nearly even sweet to roasty and earthy bitter. Alcohol presence is light and there are no off characters. 4.25    (Overall) A very ordinary, but incredibly well-done example of the American Porter. Nice presentation of chocolate, roast coffee and caramel tones in this beer throughout, and yet it carries an incredible balance and maintains high drinkability, for a porter that certainly warrants another to immediately follow. Of course, I will have to savor my one bottle and dream of the opportunity to get another in the future. Solid beer in a regularly underwhelming style, well worth seeking out. 4.25    Deschutes Brewery's  Black Butte Porter  4.31/5.00   
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 Pours deep brown, almost black with some red highlights. Aroma is of coffee, chocolate, dark fruits, toffee, caramel, no hops. Taste is well balanced and friendly, no acidity. Lot´s of chocolate, toffee, nuts, coffee and a hint of smoke. Overall great American Porter. Cheers   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 4.5 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 2.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3 | overall: 3.75 
+look: 5 | smell: 4.75 | taste: 4.25 | feel: 4.5 | overall: 4.75 Pour deep dark opaque black with creamy head. Scent is powerful toasted malts and chocolate. Look and smell stacks up with any stout. Taste and mother are tamer in line with Porter style. Sweet toasted malt with hints of chocolate. Typically feel porters cone off as watered down stouts but this one really brings the flavor.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Poured from a bottle into a nonic pint.     Overall: A great porter. Balanced, and not too charred or overpowering. Not too heavy or stout-like.     Look: deep dark brown, nearly black with some ruby highlights. Thin sudsy head that turned creamy.   Smell: dark chocolate and roasted coffee. A little sweet and roasty.   Taste: More chocolate than coffee. Slight char-roast tang. A nice malt finish.   Mouthfeel: A medium full body, not too heavy. Fairly smooth. Moderate carbonation.   
+look: 5 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 5 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Good inexpensive porter for a daily drinker. 7/10 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 Dark brown with ruby highlights, opaque, with a negligible head.     Strong biscuit aroma as well as that of a refreshing morning blend coffee from the malt. The biscuit and roast nose is present and pleasant throughout the entire experience. There is a very nice herbal/floral component from the hops in the background. Burnt sugar, slight raisin ester, and more floral aromas make themselves apparent as the beer warms.    Initially the beer is malty sweet, which evolves into the taste of a wonderful, flaky biscuit, and finally collapses into a oddly satisfying char on the finish, which remains in the after. The herbal hop character is quite noticeable in this porter, and it is very agreeable. A pleasant, medium bitterness and a nice, roast character are in balance. The aftertaste of roasty toasty malt, hop, and slight char is memorable. There is also a light tartness that appears mid-palate, which adds to the overall amenity of this brew.    Zippy throughout most of the sip; a medium-bodied and fairly lively dark beer. Slightly chalky, dry finish really accentuates that fantastic aftertaste.     This is a friendly Porter! A great aftertaste and mouthfeel highlights this extremely well-made beer.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Poured into a Duvel tulip. Label says Best By: 01/31/17.    A- Pours a 99% opaque black color with a 1/2 inch light tan head that retains decently before becoming a thick ring around the edge of the glass and a mostly full sheet of sheer surface foam. Semi-resilient lacing leaves large clots behind.    S- Somewhat sweet roasty aroma with notes of milk chocolate, vanilla and nuts.    T- Quite roasty, bordering on charry but has a good balancing sweetness bringing to mind black licorice, coffee and more vanilla. Also a decent amount of hop bitterness.    M- Slightly creamy with medium carbonation and a fullish body.    O- Certainly more complex and tasty than your average porter but I think Edmund Fitzgerald edges this one out on best widely available porter.   
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.75 Pours a very dark color with ruby highlights shining around the edges topped by a thick foamy and kind of soapy tan head. Also saw some particles floating in there.    Smells like toasted bread with a faint hint of bitter chocolate in the background.    Taste is rich decadence of a nicely roasted beer. The bitter chocolate is in there somewhere cause I can find it on the back of the swallow.    Mouth feel is actually pretty light and has a clean finish.    Overall this beer is high class stuff that comes off the shelf at a bargain price. Love to pick up a 12 of this every now and than for me and the wife. The particles were interesting as I am far from the best buy date on the bottle and I don't believe this is bottle conditioned. If some one is worried about a dark beer being to heavy this would be a real shocker because it so light, tasty and refreshing. Had to pick some more up since I had not reviewed it when we have had it in the past. And I am damn happy I HAD to get some more just to review it :)   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 L: Pours opaque black with very nice head; beautiful ruby tone revealed when held up to light.   S: Roasted coffee beans and chocolate.  T: Delicious. Rich chocolate / mocha taste that dissolves to a lingering flavor of coffee. A fair amount of carbonation, as the ample head suggests.  F: A bit thin, perhaps, but the carbonation enhances the flavor.  O: A simply wonderful porter.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Look: At first it appears to pour completely black, but holding up to light reveals a very beautiful dark ruby red color. Just a finger of tan head that dissipates pretty quickly.    Smell: Lots of chocolate and roasted malt. Just a little bit of coffee in there too.    Taste: Delicious chocolate right away. Not too sweet, and definitely not bitter. Dark fruit undertones are there as well. The aftertaste left is chocolate and coffee.    Feel: This is the most balanced porter I have ever had. There's not a lot of carbonation, but enough to make it almost crisp, which is slightly unexpected for a brew like this. I'd expect something a little creamier, but this beer does really well with the lighter body. It makes it very drinkable overall.    Overall: I love this beer. It is my all time favorite. It's the most balanced and delicious porter I have every had so far, and it's my go to for it's great aroma, delicious taste, and drink-ability.   
+look: 3.75 | smell: 3.5 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 12oz bottle poured into a Natty Greene's pint glass:    Look: Pours a nice jet black with about an inch of a creamy head. Some lacing is present with some retention.    Smell: Notes of chocolate and a small amount of roasted malts. Wishing for more roasted malts. Seems like maybe a slight presence of hops as well.    Taste: Slight roasted malts, chocolate, small amount of caramel, and a slight hop bite. This porter is lacking roastiness.    Feel: Medium bodied. Wish this was a bit thicker.    Overall: Solid porter here but a step below Founders Porter and Great Lakes Edmund Fitzgerald in my opinion. Needs the roast of the Founders to take that next step. I was expecting slightly more out of this beer but it is still very solid and I will pick up at a later date and give it another shot.   
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 I wanted to try a different porter so I bought this beer at my local beer store. It was just a single bottled beer. It's nothing special. Poured into a big glass. It had a brown head that took forever to dissipate. Nice chocolate toffee smell. Even that seemed a little under power. The taste was very light. I could barley taste dark chocolate, coffee, and toffee notes. Seemed a bit watered down. This beer lacked certain qualities that I like in this style of brew. I'd probably stay away from this one. Ill buy Founders, Bells, or Great Lakes Porter any day over this one. Ill give it a decent score though because I've had worse.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 This beer is nothing crazy to me. Very forgettable.     The dark roasted malt flavor is lacking, it feels and tastes watered down. But with that, it's easy drinking.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 Poured from bottle into a tumbler glass. Pours a dark brown with a tan head of about a finger. Smells of fresh tilled earth and toffee. Flavor is roasted malts with a faint hoppy bitterness and a bit of chocolate towards the end. Smooth, medium body beer with no carbonation. Overall a nice porter, good representation of the category. There are better ones out there, but this is certainly enjoyable.   
+look: 5 | smell: 5 | taste: 4.5 | feel: 4.25 | overall: 4.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Pours near-black with a finger of dirty white head.    The nose is mild. Roasted malts, chocolate, and peanuts as it warms. A touch metallic. Nothing overpowers.     Very balanced and light for a porter. Chocolate covered cherries and nuttiness. Cherry cola, coffee, fig. Drinking this faster than your average porter. Not towering, not bold, but deliciously drinkable.    A model for the style. Just don't expect something super bold and roasty. This is tame.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 I very much enjoyed this beer. Is exactly what a mild porter should feel like. Easy to drink, little bite, smooth and expertly crafted. I will pick up more of these when a get a chance.   
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 2.5 | taste: 1.25 | feel: 3 | overall: 1.75 I don't know why I'm so far off from everyone else. I don't love porters, stouts and other thick dark beers ... well, I do LOVE Woot Stout but that's a different story. Either way, I don't crave them but will drink them and sometimes enjoy them. So I got a Deschutes sampler and really enjoyed each one until I got to this one ... it harkens back to the late nineties ... it was a late night of drinking crappy beer. Walking through my house in a slumber, avoiding sleeping bodies and incapacitated friends, I spot an abandoned soldier ... the beer left behind. With double, blurry vision, I reach for the beerverage I deserted, only to take a massive slug of half a warm beer, steeped in a friends dip/snuff - it tasted just like this beer. I'm sorry ... I love Deschutes but this one was not for me, clearly.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Looks great. Super dark.    Smells earthy, toffee.    Slight but present hop profile. Roasted coffee, slight earthiness. Not incredibly complex, but very high in quality of existing flavors. Highly balanced. Slight minty aftertaste. Really superb.    Smooth!     Overall, 4.5 across the board, because it doesn't bring anything new to the table, but what it does bring is excellent, and quintessential of the style.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 One of the best porters I have tried. Not too sweet, not too bitter, everything is just right. Flavor notes: roasty, nutty, a hint of char and coffee. Served in a tulip.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4.5 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 5 | feel: 4.5 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 Great porter, sweet with a thick and heavy mouthfeel. Sweet but not overpowering. 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Had on tap at Deschutes' Portland location. I think this is a really stellar porter. It does what many other porters do but just does it really really well. Beautiful black/brown/ruby color with light tan head. Chocolaty, vanilla, coffee aroma. Tastes the same with some mild hoppiness. Really smooth, creamy, light mouthfeel. Could have a few more of these. Went beautifully with the elk burger.   
+look: 3.25 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 Less than average SRM for a brown colored beer, not overly sludgy, solid off white 1/2" head on it. Aroma was a lot of C hops. Bitter.    Lots of roasted malt, bitter C hops, light bodied chocolate malt aided by a substantial amount of carbonation for style. Very much like the black ipa craze a few years ago, this has been around forever. Its one of the archtype hoppy porters from days of yore, still popular today.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4 | overall: 4.75 
+look: 3.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 This is a review of BB-XXVIII. This is the 28th release in a series of bourbon barrel aged brews with adjuncts consisting of "peated malt, cocoa powder, vanilla bean, and orange peal, 50% of which is aged in bourbon barrels". Hyperbole aside, it's a tasty brew that comes a little short of XXVII. Which I tasted embedded in a vertical flight - 24 through 28, it's a challenging effort to compare these vintages with opinionated friends with discriminating pallets My personal favorite: BB-XXVII - cacao nibs pomegranate molasses (!), Chinese 5 spice(!), apricot, and rosewater (really). Barrel aged. 50%. Bourbon barrel   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 I remember reading about Black Butte Porter in The Brewmaster's Table by Garrett Oliver. I could write my own review of it, but after taking a look back in the book, his description is so on point that I'm just going to leave his words here instead of mine.    "This porter is deep brown and has a complex aroma of hops, dark fruit, licorice, and coffee, with a hint of mint. The palate is soft, and bitterness is restrained as caramel and gentle coffee and chocolate flavors play through the middle, showing a flash of malt sweetness. It glides into a chalky dry finish, though it leaves a fruity impression, as if it had been sweeter." - Garrett Oliver, The Brewmaster's Table    I couldn't have described it better myself. The bottle conditioning adds a unique element to the beer. Highly recommended to any lover of Porter/Stout.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 A-pours a dark brown with dark ruby highlights and two fingers worth of light tan head     S-aroma is of chocolate and lightly roasted malt    T-taste is of lightly roasted malt, chocolate, and a slight bitter coffee finish    M-medium body and moderate carbonation     Overall a very good example for the style, easy to drink, very enjoyable   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 L: Dark brown that turns reddish in the light. light beige finger of head with good retention and nice lacing as you drink  S: chocolate coffee and a mild floral hop presence  T: roasted malts, chocolate, and hops. Nice balance.  F: Slick and light  O: Easy drinking porter. Good flavor.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 3.75 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Bit more tart and bready than obsidian, prefer obsidian but this is still good 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Nice flavors on this beer. Very similar to the obsidian stout that deschutes makes year round as well. Obsidian stout 8s superior to this beer in my opinion.    Great transition beer to get you started on some tastier stouts.   
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Brownish black in color. Mildly sweet. Roasted malt flavor is fairly prominent but slightly ashy. Not too bitter but not as drinkable as I might like. Medium carbonation. Lighter bodied than expected.   
+look: 5 | smell: 5 | taste: 4 | feel: 5 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 My first good porter! Have only tried 2 or 3, so not exactly sure how to rate it...all i can say is that is very smooth, tasty and enjoyable. Nice toasty notes that perfectly match the abv and mouthfeel...i can now add Porters on my "try" list thanks to this smooth offering. Thank you deschutes!   
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.5 355ml bottle poured into a pint glass.    Very dark brown to almost black in color, the pour yields massive bubbly tan head with excellent durability, it just slowly subsides and leaves plenty of nice lacing web as well as eternal foamy crown on the surface. The appearance is so appealing.    In a nose, you get creamy, chocolate, coffee, roasted malt, dark bread, charcoal, citric hop and a little glimpse of spiciness.    Big roasted profile with a note of burnt wood, coffee, and charred malt, sweetness draws in at the middle with a moderate touch of creamy chocolate and biscuit. Hops cut in thereafter with a citrus and bitter profiles while finish with a slight astringency that also continues together with slight hop bitterness to generate a pleasant aftertaste.    Light body with smooth mouthfeel and lively carbonation to crisp up the palate, finish is dry and clean.    So sessionable and very high drinkability, this Porter is very well balance and holds devilish quaffing quality. It will lead you up to next sip instantly and bottom up before you are aware of.   
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 5 My favorite Porter. I tend to sample a lot of porters and stouts during the winter months, and this is one I always tend to go back to. 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 A: deep espresso to block. Smedium khaki head    S: Cocoa. Bitter chocolate bar. Roasted coffee. Licorice     T: Cocoa. Hops. More dark chocolate     F: soft. Light. Fluffy. Creamy. Good palate coating    O: amazing example of a porter. Simple as that.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.75 | taste: 5 | feel: 4 | overall: 4.75 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 One pint at MKT.    Pours a very dark brown with one and a half fingers of tan head that leaves kindergartener's sponge painting lace as it recedes.    Smells of cocoa powder, coffee grounds, roasted caramel malt and mild leafy hops.    Tastes of more semi-sweet cocoa powder, creamy coffee, mildly sweet black licorice, caramel and soft hoppy bitterness.    Feels fluffy and smooth. Medium bodied with creamy carbonation. Finishes dry.    Verdict: Vigorously recommended. Very tasty and easy to drink.   
+look: 4.25 | smell: 4 | taste: 3.25 | feel: 4 | overall: 3.5 Chika chicka soda pop. Cola as cooking ingredient. Cola in chili. Malt layered cola chocolate cake. Over carbonated fountain soda. I imagine it's wonderful with cheeseburgers.   
+look: 4.25 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 From bottle pours a dark brown colour with a good tan head that disapates to a small layer. Aroma chocolate, coffee, malts. Taste sweet, chocolate, coffee. Very nice and smooth.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 12oz bottles into a Guinness stout glass.  Pours dark, with tan head. Nice aroma of malts, chocolate, and what think is a cross between caramel and vanilla. Tastes of light chocolate, and that caramel/vanilla vibe, with a nicely balanced malt shine. A really sweet tasting beer, very smooth, with a nice lingering mouthfeel.     While this beer didn't overwhelm me, it is still a very good tasting beer. I will revisit again, and again...   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.75 | smell: 3.75 | taste: 3.25 | feel: 3.25 | overall: 3.5 Poured from 12 oz bottle into pint pub glass - NOT ICE COLD - 45F - 50F    Look is perfect for style. Careful pour produced 2 finger head dissipating to thin pancake. Lacing remains all the way down the glass. Smell is roasted malt, yeast, and dark rum(?). Feel is too smooth (almost nitro-like). Taste is good but nothing stands out. Too well balanced? Too mild. Porter is my favorite style. I was disappointed in this one.   
+look: 4.75 | smell: 4 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 4.75 Wow. Randomly picked this on the menu at a trendy restaurant in flagstaff AZ. Knocked my Keens off. (Not wearing socks at the time or those would be gone too.)   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Bold flavor a bit bitter aftertaste but overall an all around enjoyable beer. 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 The 12 oz. bottle had an "Best before" date of 9/11/16 and came from a 6 pack.    Into a Riedel Ouverture beer glass it poured very dark brown/black. The head was tan and a bit over 1 1/2". It makes a very attractive porter.    The smell was coffee and chocolate.    The taste was coffee with a bit of chocolate and some roasted malt. No real bitterness in the finish that I could detect. It all comes together rather well making it what I would call a well-balanced porter. From beginning to finish the beer is smooth with restrained carbonation.    Overall this porter is very, very good. If you like the coffee more than I do you might say excellent. I've been having it with lunch for a couple of weeks now. I highly recommend this porter.   
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 One of the best porters I've ever tasted. Smooth, hint of chocolate, excellent aftertaste. Love this beer. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 3.25 | taste: 3.5 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 Dark black with beige creamy head. Light roast grain aroma is followed by full on toasted chocolate taste. Medium Mouthfeel and light, mellow palate make this an easy drinker.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3 | smell: 4 | taste: 3.5 | feel: 2.5 | overall: 3.5 
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 Nice taste on the pallet. Great flavor. Not too hoppy and not too thick. 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 I've had Black Butte, it seems, every other year for a decade. My opinion has improved each time.    Looks are black to opaque; making this one of the early black crafts born in the 1980s.  Smells convey lots of well-roasted and sweet malts... and coffee.  Tastes convey the same, but we get some chocolate for dessert. (I detect no bitter hops, but at 32 IBU I usually would.)  Feel has this lingering dryness that is more of burnt sugar than hops.  OA: Black Butte just may be my standard for dark and dry without using lots of bitter.    Black Butte is reviewed in the "1001" and most definitely deserves to be on that list.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 This is one of the best porters out there, American or British. The color is rich and dark with a lingering tan head that tickles your nose with light coffee, charcoal and roasted grain aromas. The taste is dark roasted smooth with just a breath of hops that finishes off the coffee, cocoa and toasty bread flavor.     Add the great taste to the fair price and generally good availability, and you have a porter that you can keep in your fridge all the time and it will still stand with the best of its type around the world.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Dark brown in color, but not nearly as dark as I would have expected for something called "Black Butte Porter." Similarly, I was expecting a lot of flavor up front (you know, how a butte rises dramatically from the landscape), but the flavor of this is all in the finish. Mild chocolate flavors overscored by roastiness with a dry finish, this lacked the intense character I was really looking for.   
+look: 5 | smell: 4.25 | taste: 4.5 | feel: 5 | overall: 4.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.5 | overall: 4.25 
+look: 4 | smell: 3.25 | taste: 4 | feel: 3 | overall: 3.5 Bottle poured into glass stein  A-Black, one finger head with aggressive pour, no lacing.  S-Weak coffee, hint of chocolate, roasted malt  T-Coffee, chocolate, some complexity with both bitter & sweet.  Touch of a mineral like quality    M-Somewhat creamy but also an odd thin almost watery feel common   with many of the Deschutes brews, or maybe it's just me.    O-Easy drinking chocolate coffee porter.   
+look: 5 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 My first porter was smoother than any Stout I've had. Working in Manhattan, KS we have Tallgrass on tap at our office. I can get Buffalo Sweat and Pale Ale or 8-Bit almost any time on tap. But I love trying the new samplers and found this porter to be my new favorite, even over the Vanilla Bean Buffalo Sweat. It's not as heavy and has a great taste. Had chocolate with it and was amazed at how it added to the flavor. I think it's my new favorite for sure.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 Look (4): Lighter in color then I'm use to, but that's how porters are suppose to be. A brown color with light that shines through and also with a creamy cloudy head. As you drink it the bubbles toe to cling to the edge of the glass.    Smell (3.75): Mild roasty coffee notes. Chocolate and caramel vanilla aroma.    Taste (3.75): Roasted malted smokey coffee flavor. Not to intense, doesn't build past the point of it being unwelcoming. Not overly sweet, but still that sweet bready taste. Maybe raison bread?    Mouthfeel (4.25): Beautiful balanced. Not overly sweet upfront, good dryness at the end. Creamy and smooth. Light plus to medium bodied.    Overall (4): There's a reason why this has been a flagship for Deschutes for so long. Thanks guys for this amazingly balanced brew!   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Nice porter. Good chocolate notes. Not too hoppy. Rated a 30 IBU by Deschutes. Very drinkable. 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 4.75 Black Butte Porter | Deschutes Brewery. Poured from the bottle into a pint glass, this beer's head is three fingers thick, with solid lacing, and an otherworldly dark brown body.    Smells like subtle yet pleasant notes of milk chocolate and dare I say,cappuccino? Please let me know if I'm insane for thinking its that and not just the garden variety"coffee" I and all of you have used to describe porters and stouts countless times. But if I am insane for thinking that,yes, this DOES smell like cappuccino, then please let me see what this tastes like before I'm in a straightjacket....    I taste semisweet chocolate, roasted malts, and, yep, muthafuckin' cappuccino! If I get taken away for being a complete loon for thinking such outrageous-ness, please let me have a few of these once in a while.    The mouthfeel I'm picking up is medium-heavy and velvety smooth. Very light on the carbonation;as a porter should be.    Overall, I'll choose to rate Black Butte Porter | Deschutes Brewery with a very well-deserved 4.75. Please try to pick this up while in the "porter mood".   
+look: 3.5 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 awesome brew if you like coffee and chocolate! 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 From my home state which I am biased towards as we have some of the best and most creative brewers in the US of A. This is my favorite beer for almost any occasion. I is a slightly sweet bold porter with nice aroma and good after-taste. You can find it almost anywhere in the northwest, so it is very available. I find that a 12 oz. bottle goes down very easy, which I find as a sign that the beer is very drinkable. one of my 10 best beers.Clean, rich taste. Creamy flavor. Nice smell.  I wonder how this beer would taste if they nitro'ed it?   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 BBD 5/7/16. Pours black. World class head volume, lacing and retention.    Quite outstanding nose of chocolate, caramel, light roast and even lighter hops over a sweet base that has char notes.    Very light medium body that is smooth and has a light subtle creamy aspect. Superb carbonation level with a tickling middle effervescence that fades to the final burst in the finish.    The flavor profile is outstanding. Intensity is a bit laid back, complexity average and balance is superb. Flavors of the nose all appear - roast and char lead then flow into the sweeter mid-flavors of caramel and chocolate. Hops begin to shine in the middle against a light bitterness in a very unique way - earthy hops become the dominate flavor through the slow fading finish with a complimentary roast note.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4.5 Yes! 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Had on tap. Very nice back chocolate coffee look. Taste was of chocolte and coffee. Really enjoyed this. Is one of the better coffee porters I have had. Will be drinking this again.   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 L: Very dark with just a hint of light coming through. Decent head, has some retention.     S: Roasted malts are the dominant smell. Has an underlying sweetness though.     T: That underlying sweetness really comes out in force. Not a sugary sweet or anything, but a sweetness that reminds me of sweetbread, probably because it compliments the roasted malts so well. Has s nice flair of bitterness at the end.     F: Medium body. Could drink it quick if you're not paying attention and trying to take it slow.    O: Not a complex porter but has the fundamentals down perfect and isn't that what really matters when it comes to a good beer?   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 4.25 | taste: 4.5 | feel: 5 | overall: 4.75 I've only been recently getting into "decent" beers - and have been favoring darker beers recently. Picked up a 6-pack of these to try over the weekend. I'm thoroughly impressed. Damn good beer.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 This is a classic American Porter, and the standard as far as I am concerned. Great all around, including value, and one of the beers credited for my love of craft beer and specifically the style. Cheers!   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3 | taste: 3.25 | feel: 3.75 | overall: 3.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 3.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 Nice clear dark brown pour that lets a little light through. Little bit of lacing left behind. The smell is amazing roasted malts that reek of coffee and chocolate. There is a nice sweetness in the nose as well. The taste is a superbly balanced medley of coffee, make malt sweetness and bitter chocolate. There is a bitter coffee aftertaste that balances the lingering sweetness. This is a really great porter.   
+look: 4 | smell: 3.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 12 oz bottle poured into a stone glass.Smell is a chocolate smell.Taste chocolate with coffee.I liked it very much.Nice smooth taste that went down real easy.This is my first Deschutes but it will not be the last.Give it a try.   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 First had poured from 12-oz. bottle, stamped best by "07/25/2016," into tumbler. Was rather surprised I had not tried before, but this early effort to revitalize the style is holding up well against the onslaught of porters in recent years.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 A- Pours a dark brown with ruby hint in the light, big and fluffy off-white head.  S- Chocolate, sweet dark roasted malts, coffee   T- Bitter chocolate and coffee, roasted malts balance well with the light, but well-done hop character.  M- Medium body, silky yet highly drinkable, mild carbonation, finishes a bit dry.  O- One of the best porters I've ever had. Clean and pure through and through.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4 | taste: 5 | feel: 4.25 | overall: 5 Exceptional richness in flavor and mouth feel. A great find. 
+look: 3 | smell: 4.5 | taste: 3.25 | feel: 3 | overall: 3.25 multifaceted taste, a little bitter on the aftertaste, very flavor full.. A decent porter. 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 One of the better porters out there. Very dark with a thin off-white head. The flavor is what sets Black Butte apart; a hint of the smoky/toasty malt, but only a hint. Dark and smooth. One of my favorites of the style.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Had on tap at local bar, poured into tall pilsner glass. Created a thick milk chocolate head on top of a very dark brown body. Light roast, not very sweet, some chocolate hint, malt. Overall smooth flavor. A little light on the body. This one would fit the gap I sometimes experience when I want a nice stout, but wish I had Something a little lighter for a session. Should do the trick nicely.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 Deschutes Brewery - Black Butte Porter. 5.2% ABV. 12oz bottle poured into snifter. Best by 5/31/16.    Look: Settles pitch black, with some light brown highlights in the light. Thick, creamy one finger tan head from aggressive pour, which settles into thick lacing.    Smell: Some toasty coffee, dark chocolate, and dark fruits like raspberries and black cherries.    Feel: Medium to light body, fairly carbonated.    Taste: Bitter roast coffee up front, with some hints of bitter chocolate and dark fruit backing it. Leaves a smoky sweetness on the aftertaste.    Overall: This was pretty good, I can see where it gets the good ratings. Great roast and smoky characteristics with prominent coffee flavors.   
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours dark brown, thick 2 finger head that retains a heavy cover throughout.    Light roast coffee mostly is the smell. Some chocolate.    Taste again is mostly light roast coffee. A little bit of chocolate. Very roasty but doesn't carry much bitterness with it.    Lighter body. Does have a dryness to it.     Very good for a light easy drinking porter   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Great coffee, roasted malt, burnt toast, and tad of chocolate smell. Great same characteristics in the taste, with a bit of sweet chocolate mixed with a bitterness. Leaves a slightly bitter dry aftertaste. I would absolutely get it again.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Bought 6-pack $7.77 Don Quiojte  Dark black color  Coffee and caramel smell  Smooth taste of coffee and caramel, but not over powering  Heavy mouth feel  Low carbonation  Overall its an easy to drink beer because the flavors are not overpowering, but at the same time because the taste is subtle its not a memorable taste so I rate it as an ok beer that I would drink if offered, but would not seek it out.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 5 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4 Great rich dark color. Pours to a nice head. Attractive coffee and caramel smell. A heavy bodied beer. Perfect carbination. Nice blend of tastes. Slightly bitter after taste keeps me from rating it a 5, but excellent Porter!   
+look: 4.75 | smell: 4 | taste: 5 | feel: 5 | overall: 4.75 IMHO, this is one of the best porters available. Delicious 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 Pours a robust black, topped with a medium, foamy head in dark khaki. Lacing is present, but minor. Notes of roasted malts, coffee, and milk in the aroma. The taste features a little bit of coffee, chocolate, and milk, with a roasted malt undertone. Mouth feel is really nice. It feels robust and smooth, without finishing too watery. Overall, great, readily available porter right here.     Served in a 12oz snifter.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 12 oz bottle (best by 03/05/16, $1.79 from Copper Vine) into a nonic pint.    A- A normal pour creates 2-fingers of tan head atop a near black body that shows dark red edges. The head becomes a spotty film, and leaves awesome webs on the glass.    S- Lots of coffee and chocolate, like a cup of medium roast with a packet of sugar and a splash of cream. Hints of vanilla.    T- Very flavorful. Roasted malts, don't get too charred. More of the sweetened coffee as noted in the aroma. Semi-sweet chocolate mixes with lighter vanilla. Pretty bold.    M- Medium body and medium-light carbonation. Fairly creamy. Dry finish.    O- A really solid Porter. Up there with my favorites (Bell's, Founders, Great Lakes). Flavorful, while staying an easy drinker for sure. Could do quite a few in a sitting. I like my beer a little more local, but I wouldn't hesitate to buy this again.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 3.5 | taste: 4.5 | feel: 3.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Coco hint, very dark and thick 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Draft pint, sadly poured into a chilled glass that caused frozen particles while consuming.  A- deep dark color with nice Carmel head that dissipated quickly  S- hint of coco   T- (beyond the ice particles) nice coco/chocolate flavor on the back side, roasted malts  F- creamy, very smooth    A very nice Porter that can be easily enjoyed with a nice fire!   
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 3.5 | overall: 4.25 
+look: 4.5 | smell: 3.5 | taste: 4.25 | feel: 4.25 | overall: 4.75 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Poured 12oz into a Belgian Snifter. Initial sips around 40 degrees.     Thick light tan head. Excellent lacing. Light can get through even the core of the dark brown body (with hints of red), but not much.     Smells like a typical medium roast. This clearly isn't a coconut & cherry infused, push-the-limits-of-what-we-can-still-call-beer beer. It's just beer. (I like push-the-limits beers)    And it's a very solid beer at that. Very well balanced roast in the taste. But still plenty of flavor to let you know this isn't water. This is one of the few beers I've had recently that was < 8% ABV, and it kicks the cahones out of the others in the flavor department.     This is the kind of beer that could make me second-guess my devotion to big honkin stouts. Nothin special, I wouldn't say I love it. But what it does, it does very well. Will definitely buy again sometime, especially if I'm in the market for something more session-y.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 A really good beer. Great flavor for a low ABV beer (not that low ABV = flow flavors, but that seems to be a trend). This is one of my go to non-craft stouts.   
+look: 4.75 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 4 On draft. 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 Dark cola color, clear. Pours creamy tan head with good retention    Nice chocolate and roasty malt aroma, some coffee. A bit of creamy sweetness. No big hop aroma.    Gently sweet malt aroma, chocolatey. Not much roasty bitterness. Very gentle finish with some subtle roast, but more sweet than bitter.    Medium body and carbonation. A bit of creaminess. No astringency or warming.    A kinder, gentler porter. In spirit it seems more British than American, and is definitely not a bold Robust Porter like most American Porters.   
+look: 4 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 4.25 | overall: 3.75 
+look: 5 | smell: 3.75 | taste: 5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.25 | overall: 4.75 One of, if not, my all time favorite porters. I have been drinking this beer for over 20 years and never get tired of it! 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.25 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 Matte black with a shimmering red edge and a dense but thin tan blanket leaving impressively permanent curtains of lace.    Smell is smoke, cigar, milk chocolate, roasted nuts and toast.    Taste is milk chocolate, nuts, semi-bitter roasted coffee, cigar and tangy cola.    Medium to thin with a moderate froth and semi-dry finish.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Had this one tonight on draft at Serafina in Seattle and was blown away by how good it was. Creamy and chocolately and drinks nice and easy. Really great Porter   
+look: 5 | smell: 5 | taste: 5 | feel: 4.5 | overall: 5 
+look: 5 | smell: 4.25 | taste: 4 | feel: 3 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 4.75 OMG this is so delicious. I was thrilled to come to this page after finishing my first-ever glass of this beer and see it get 100 from the Bros after I decided it was awesome. Poured from bottle into clean tulip glass. Opaque black, truly amazing. Two fingers of beautiful butterscotch-colored foam with trippy lacing. Smells slightly of molasses, tastes of molasses, coffee, chocolate, some of the usual tastes of a good porter but in the smoothest possible blend with buttery mouth feel. If you are looking for bite or kick it doesn't have it, but it's near-perfect winter solace. Or, in this case, reflection of the warm pre-Christmas foggy downpour outside.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Great creamy coffee flavors. Very enjoyable and drinkable. 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4 Thin porter feel with intense banana taste 
+look: 4 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 There is nothing else that I want from a porter. Lots of coffee and chocolate on the nose. The taste is slightly oaky, with lots of coffee. Mouthfeel is moderate rather than creamy.     Just a great representation of what a porter should be.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 3.25 | taste: 4 | feel: 4 | overall: 4 Poured from a 12 oz bottle.     A: Dark, a very dark reddish/brown almost black color. There is a minimal off white colored head that dissipates quickly.     S: A very mild roasty malt aroma – chocolate and coffee.     T: Mild. Very creamy with: chocolate (not sweet), coffee, and some vanilla. The flavor is mild/balanced and does not linger.     M: Very thin, lightly carbonated.     O: Very drinkable beer being both smooth and creamy (despite having a very light mouthfeel) and at a good price point ($9 for a 6-pack). I will buy it again.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3.75 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 3.25 | smell: 3.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 From a bottle marked best by 6/05/16. Pours an opaque black with a thin cream colored head. Smells of roasted malt, coffee, and chocolate. Rich mouthfeel and slightly bitter chocolate flavor. Excellent, one of the best porters I've had.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3 | taste: 3.75 | feel: 3 | overall: 3.75 **  10/11/14:   "Aroma. Smokey, malt, sour something.  Look...dark black, small head.  Taste. Some wang. Chicory. Coffee.  Feel. Low carbonation.  "** 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4.75 | feel: 3.5 | overall: 4.75 I find this to have great flavor balance. Nothing is overpowering which makes it easy drinking and very easy to like. Not creamy. A little lighter and slightly more carbinated. I like it a lot.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Poors a nice dark brown/black with a thin head. Very nutty sour milk smell with scents of coffee and chocolate. Taste is a nice bitter chocolate which you get with taste from start to finish. Very unique but good. Getting some hints of a barnyard with both the smell and taste which is not off putting. Almost some grain in the smell too. I enjoyed this one. Good job Deschutes.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Poured from the tap into a pint glass. The appearance is a dark brown color with a medium sized tan colored head. The aroma is a fantastic blend of roasted malt and cocoa. the flavor is rich and full and is a perfect match for the appearance and aroma. The taste is roasted malt with cocoa and coffee as an aftertaste. This is one of the best beers I have ever had.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 A: Dark, black-reddish tone. Short lived 1/4" tan head. Very short lived weak lace.    S: Mild aroma at best. Hint of coffee smell comes through.    T: Bland taste. Far from offensive, not quite up to par with the high ratings I read.    F: Light body. Thin and watery. Hint of over carbonation.    O: Forgettable experience. A bit too light for my taste. If you like Anchor Porter, you should try this one. Both of them have a very similar feel.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 3.5 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 This was poured into a nonic and gives off a jet black color with a two finger white foamy head that dies within thirty seconds. There was a good amount of lacing left in the wake. The smell has a lot of milk chocolate up front but tries to balance with some coffee. The taste is sweet through the chocolate with a nice balance of the smooth roast in like Flynn. Its smooth on the palate and pretty drinkable. This is a very good American Porter that one should not pass up on if seen.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Look - dark black w reddish tint with light off white head; good lacing    Smell - standard roasted chocolate and malt smell for a porter    Taste - sweet malt start with the roasted chocolate; good hop balance; coffer aftertaste...all this without a strong bitterness.    Feel - creamy, medium bodied, good carbonation...a little thin for my porter wish list    Overall - very drinkable and good porter...at 5.2% and the thinness and carbonation, good for those having more than one nights. I like Founder much better but that's my pallette.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 4.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.25 | overall: 3.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.75 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 This is one of my favorite go to porters. It's not anything amazing, but is very palatable and great for a cool night. Very roasty and malty with nice chocolate notes on teh finish.   
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 Wow - not a dark beer guy but this blew me away..very good. 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3.75 | taste: 3.25 | feel: 3.25 | overall: 3.5 Very dark brew, clear at the edges, with a small tan head with OK retention.    Roasty aroma with a touch of dark fruit.    Flavor follows: it's quite roasty, with a large cola-like flavor.    Lively, medium-light feel.    This isn't a bad brew, but there are many porters out there I'd reach for first.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours very dark, with a decent creamy head. Very well balanced taste. Not overhopped, just enough to balance the sweetness of the malt. The overall intensity of flavor is right for a porter.   
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 One finger head, with lively activity. A lot of small bubbles, which seem to remain relatively static. A nice black color, with some red opacity in it.     A creamy sweetness dominates the taste, with some roasted chocolate flavors as well. A subtle, yet marvelous, smell.     The taste is quite constrained, with a milky chocolate flavor making an appearance in the aftertaste. The carbonation does not dominate the beer, but offers a nice tingling sensation alongside the sweetness of the chocolate. This does not break any conventions, but is pretty damn close to the perfect session porter.     Paid $9.99 for a six-pack.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.5 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3 | taste: 3 | feel: 2 | overall: 3 
+look: 4 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 A solid hoppy porter. I must have had this before but never rated it. Looks like a porter. Great aroma. Taste follows nicely, better as it warmed. A slightly more roasted character would be good.   
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 12 oz bottle poured into a pint glass  pours a deep caramel brown with a small tan head  smells strongly of caramel, chocolate, peat and coffee delicious!  taste of coffee and smoke, slightly sweet  feel is light and drinkable with a slight bitter aftertaste   been drinking this for years.....always a treat!   
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 Black body, the silky tan head is a flash of decadence until it quickly fades. Smell is underpowered but good- chocolate, roasted malt, a misplaced floral note. Taste improves and expands- chocolate, real coffee, burnt wood, hop acidity on the finish. A little sweet. Finish is quick. The body is a little light, and carbonation is the opposite of smooth, but this just means high drinkability.  It hits a high point with all the roasty chocolatey coffee flavors you could want, but the strange floral element in the nose, the quick finish, and the drinkable but light body keep it from being amazing. Great for a shelf beer, but it fell short of incredible for me.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Had on 12 oz. tap, pours a deep dark brown, smells amazing, a truly delicious porter. Mildly sweet smell, solid mouthful. I'm hoping to obtain some bottles to try as well.   
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 Pours a nice dark brown/ light black with a white foam. I think the smell is missing a little punch. Looking for more in the taste as well. this is definitely a lighter beer that goes down easy which i can appreciate a darker beer that you can easily drink two or more of without being drunk. Would like a little more flavor though, as the beer is off the palate as soon as swallowed.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3 | smell: 2.75 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Serving Type: Bottle (Best By 2.14.16)  Consumed: 10.6.15    A: 4.5 Pours a very dark brown, almost black, with a bit or red around the edge. The one-inch, light tan head lasts a couple minutes, only leaving a bit of lace.    S: 4.25 Roasted malt, bittersweet chocolate, vanilla, and dark coffee are the most prominent aromas. There’s also a bit of hop character thrown, which blends nicely with the more earthy aromas.     T: 4.25 Flavors start off sweet and mild, but quickly move into the roasty elements from the nose. After the roasted malt and coffee flavors comes a wave of both malt and hop bitterness. Finish has more bitterness with some toasted bread flavors.    M: 4 Body is a little too thin, but it really helps drinkability at the same time. Carbonation, however, is on point.    O: 4.25 This is a great example of a classic porter. Nice flavors and very well balanced. Not quite as rich and flavorful as I remember, but still appropriate for the style.   
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.75 wonderful the best beer i had in a while sexy dark wow drink it all the night dont let it go 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 12 ounce bottle poured to wine glass  Appearance: dark brown to black  Aroma: Toasted grains  Taste: very good  Mouth feel  Overall: excellent beer, something to look forward to repeating  Drank on : March 9, 2016   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.5 dark brown, nearly black with a great thick head of foam. This one has been around a long time and I don't know that I have had a better porter. Wonderful smell- grainy, molasses. Malt forward as a porter should be but there is a hop presence. Perfect amount of carbonation. I have had this many times on tap and in bottles and it is always good.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.75 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 4.5 | taste: 5 | feel: 4 | overall: 4.75 
+look: 4.5 | smell: 3 | taste: 4.75 | feel: 3.5 | overall: 4.25 Very smooth & easy to drink. A little thin. 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 Poured from a 12 oz bottle into shaker pint.  A - Deep and dark, beautiful creamy mocha cap.  S - Cocoa, tobacco, roasted malts and a subtle hint of raspberry.  T - Follows the nose, beautiful roast malts, a nice chocolate and toffee, blend.  F - A bit light in body, but well rounded in totality. A fine mouth feel with just enough bitter to clean the palate out.  O - Simply a wonderful porter, American style, with a nod to the Brits.  Cheers   
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 Silky smooth pour into a snifter. Dark brown with a light brown head and decent lacing. The smell is my favorite: sweet and smoky. The taste is malty and nutty with some caramel. It went very well with hatch green chili stew.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4.5 

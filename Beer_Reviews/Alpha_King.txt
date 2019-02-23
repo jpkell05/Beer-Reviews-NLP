@@ -1,0 +1,1000 @@
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Very Early hop forward - bitter 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 Citrus, caramel, malt, gret mouth feel. What's not to like? Very good. 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 5 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 descent APA 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 |  overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 Had at Pequods in Chicago. Nice pale ale. Not remarkable to me, but a very good beer. 
+look: 4 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 5 | smell: 3 | taste: 3.5 | feel: 4 | overall: 3.75 The hop character and profile was delicious, but I found the sweetness and malt/caramel flavors to be too heavy for my taste. Not unpleasant but I expected perfection and it seemed a little unbalanced.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 
+look: 3 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.75 
+look: 3.75 | smell: 2.5 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 A: poured from a 12 oz bottle into a pint glass, red caramel colored with a short white head that dissipates leaving some lacing, hazy    S: sweet caramel with a nice pine hop profile    T: huge pine resin blast, caramel malts in the middle, assault of bitter pine and grapefruit on the finish    M: full and sticky    O: good quality pale ale that isn't very pale, more of a red ale   
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 2.25 | smell: 1.75 | taste: 2 | feel: 2.75 | overall: 2.75 
+look: 3.25 | smell: 2.25 | taste: 2.25 | feel: 2.75 | overall: 2.75 Really not that great Does have a piney taste but A little too bitter. 
+look: 4 | smell: 3 | taste: 2 | feel: 3 | overall: 2.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Tap    Pours mostly clear amber, yellowish white head is finely textured and retains well.    Aroma of biscuit, caramel, walnut and dry woody hops.    Flavor is of biscuit, walnut, almond, pine and earthy hops.     Medium body, lightly stinging carbonation on the roof of the mouth.    This is an exceptionally well balanced IPA. Good flavor and body. Would have again, very enjoyable.   
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 3 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3 | taste: 3.5 | feel: 3.75 | overall: 3.5 9/12/18 (Chicago): Purchased at Three Floyds 7/21/18 ($11 six pack). Dark murky copper pour, light off-white head and lacing, Faint lemon citrus aroma. Unique blend of citrus, lemon, hops and malt. Balanced, not bitter. Slightly dry mouth feel, thin texture, slightly fizzy, easy smooth drinking. Overall very good offering.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 3.25 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Poured from a the tap into a pint glass at Beer Head Pub in Schaumburg, IL. The appearance was a dark Amber color with a large white head. The aroma was citrus driven with some malt tossed in.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 Pours a hazy copper color, big billowy white head that slowly fades. Faint aroma of lemon and a little soap. This is basically an IPA posing as a pale ale; quite bitter, nice floral hops. Appropriate carbonation, medium bodied. Overall a good beer.    8/14/18  12 oz bottle dated 6/31/18  4 rating   
+look: 5 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 12 oz single from Whole Foods - bottled June 28/18 - so just over 3 weeks old. Poured out a near clear golden amber with off white head. Aroma is citrus peel, a bit of caramel, some floral hops. Taste starts with the sweet caramel, but then overtaken by the hoppy citrus - some mango, pineapple. This is a (great) hoppy pale ale (IPA wannabe) -medium in body lingering bitter finish - just plain great!!   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Their flagship brew, I think. Hop-forward but with excellent balance. Strong but not too strong. 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 One of my favorite IPA's 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 Along with Zombie Dust, it’s a hop lover’s friend. 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 4.25 | feel: 3.25 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 4.75 The best beer I’ve ever had. 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 People go nuts for Zombie Dust, but Iactually like this better. It has a much more complex set of hop notes. I know citra is all the rage, and they are delicious but,this one takes it for me.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 Have we a better APA here? 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 This is the best pale ale (in most cases, IPA) in the world, hands down. You don't need commentary if you've tried it. 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4 | overall: 4 A great beer, although it has somehow become the bud light of 3F offerings for me. Maybe just because it is so available? Still, a great beer, no doubt.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 4.5 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 3.25 | taste: 3.75 | feel: 4 | overall: 3.75 This beer pours a rich amber with a large head. The aroma starts with a decent note of caramel, followed by a huge whiff of pine, then lemon and orange peel, dried mango,and roses. The flavor starts with a good balance of bitter and sweet tones, with notes of caramel, pine, dried mango, violets, roses, orange peel, lemon peel, and butterscotch. The mouthfeel is swiftly approaching fullness, with and solid amount of bubbly carbonation. Overall this is a very good beer, with loads of bitterness and solid balancing malt. but I must admit, it fails to capture my attention as much as I thought it would - maybe my expectations were to high, but while this is tasty, it is not exceptional.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 One of my personal favorites 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 On tap. Yum. 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 Poured into a clear glass. Has a very dark orange appearance, along with particles floating around from within the beer. Has moderate carbonation, thick head, good lacing.    Has a lot of herbal and floral elements, along with caramel malts. Also earthy and piney. Tropical too, with smells of tangerines, oranges, pineapple, and other sweet citrus. All very sweetly pungent.    Tastes grassy, earthy, and piney of course. Has a very relaxed caramel malt that balances with the bitter hops. Also tastes of grapefruit and lemon peel. Feels medium bodied, thick and crisp.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Pours amber/copper with with thick white foamy head. Head doesn't go anywhere fast and leaves abundant lacing all over the glass when it does. Hop, citrus and pine on the nose, taste follows with a smooth almost creamy mouthfeel with rich maltiness and perfect carbonation. Great beer!   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 Poured from a brown 12oz bottle into a pint glass. Brought back from a trip to Kentucky.    Appearance - Pours a beautiful cloudy copper color with a thick white, bubbly head that sticks around forever and leaves wicked (say it like folk from Boston do) lacing on the glass. The lacing is like glue on the sides. Probably my favorite feature of the beer.    Smell - Malty, a little bit of bitterness, some fruit. Not as strong of a nose as you would expect.    Taste - Excellently balanced between malty goodness and a nuanced hop flavoring that is superb.     Mouthfeel - Another stand-out aspect of this beer. Goes down smooth, perfectly carbonated, a bit chewy, just excellent.    Overall - As the ratings and other reviews indicate, this is a must drink. Not quite Zombie Dust, but close. Very well done.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Smooth citrus depth with a beautiful lingering aftertaste. A pale ale you must try! 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.75 A - Pours a nice amber/golden color with a nice white head.  S - Great citrus and hop notes. Maybe some pineyness in there.  T - Excellent blend of pine/orange/dankness/hops.  M - Light/medium bodied, aftertaste was excellent with lasting hops/citrus flavor.  O - Excellent execution of an APA, but the stand-out aspect for me was the citrus profile. This was hands-down the best orange/citrus flavor that I've ever tasted in a beer. Most PA's have a (IMHO) fatal flaw in the citrus profile where it is either too bitter/sweet/distorted/muted/sour to rank high on my list. This may not make it fantastic for others, but in my book it makes it shine. Buy more (and more) for sure.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4.25 12oz bottle (date missing) poured into a tulip pint glass at fridge temp (no ABV listed on bottle). The beer pours bright honey colored amber with sticky khaki colored head. The aroma is citrus and pine. The taste is faint caramel followed by grapefruit, pine and an exclamation point of bitterness. Mouthfeel is medium bodied, adequately carbonated and mostly dry in the finish. There is some hop stickiness in the finish, but no sweetness. Overall, very good. This bottle was a gift and probably a little long in the tooth. Still enjoyable, but not what I remember.   
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 Poured from a 12 oz. bottle into a pint glass.   Dark gold in color with some orange hue. The crown is a light golden color and about half a finger worth.   The smell is dank and malty. It's got a sweetness to it.   The taste is amazing. Lightly dank with a very nice malt backbone that is sweet almost like honey.   Mouthfeel is wet and sticky.   Overall, this has always been a classic to me.   
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4.5 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 Pours a nice amber to goldish orange with a nice traceable white head, not too thick.    First whif of the head is intertwined malt and hop.    The taste was quite layered, first tastes are caramel and malt with a nice medium mouthfeel, aftertaste gives way to an almost pinelike bitterness with fading hop flavor.   
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 3.75 Gifted by a friend - first beer I've had from these guys. No date found but likely two months old.    Pours a surprising amber color for a pale ale. thin white head that laces well on the glass.    Smell is mostly sweet malt with a hint of citrus peeking through. If "aggressive" citrus was a goal of the hopping it doesn't really come through in the aroma.    Taste is similar to the smell in that it is malt forward with a nice solid base of caramel malts with a layering of citrus hops on top that come through closer to the finish. There is a lingering bitterness in the finish that works well to counteract the sweetness up front.    Feel is slightly sticky as this is a medium bodied beer with all the malt., but otherwise it has a clean finish. There is a slight alcohol burn in the finish - I guess due to the unusually high ABV of 6.66% for a pale ale.    This is like a pale ale that wishes it was a strong ale. Flavors are clean and well balanced and I can see how they want to make this a flagship beer. My personal taste is for less malt, especially in the a APA so this is not one I would reach for again. That does not take away from a grade as an excellent beer though.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 5 | taste: 4.5 | feel: 5 | overall: 4.75 Sweet and tasty, good beer! 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Too malty, but still tasty enough. 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 A very nicely hopped , smooth pale ale with a great finish. I enjoyed this far more than zombie dust. Only down side is the price. Otherwise this is one of the best pale ales in the area.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Poured from a bottle date smudged out into the. test glass  A - Beautiful summer straw color, aggressively carbonated leading  S - lots of fruit, pineapple, guava, oronge and some onion,   T - Sweet malts, nice tropical structure, following the nose well  M - Medium body, sweet Start, excellent dry finish.  O - This was a surprise gift, so hlad to have experienced such a wonderful APA.  The water profile is a bit hard, and adds to the offering g   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 For what is meant to be a Pale Ale, this pours way too amber, and with a head that is about 2 fingers. The aroma is floral but what I'm getting primarily is a malty sweetness. The taste is similarly malty with a faint late bitterness and some floral notes in the aftertaste. Not a bad beer but it tastes more like what I expect from a not so terribly fresh English Pale Ale and not an APA.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.75 12 oz. bottle    Pours hazy red amber with a dense creamy off-white foam head. Smells sweet and floral with toasted bready caramel malts, toffee, brown sugar, vanilla, molasses, orange citrus, grapefruit, berry, candied papaya, with floral resinous spicy earthy herbal grassy pine. Tastes like orange citrus, grapefruit, berry, candied papaya, toasted bready caramel malts, toffee, brown sugar, vanilla, molasses, with floral resinous spicy earthy herbal grassy pine. Feels medium bodied, creamy with moderate carbonation. Overall a real nice balanced pale ale.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 From a 32 oz growler (growlette?) purchased at the Nova, into an Spieglau IPA glass...because there's no way that this isn't an IPA. Pours a clear deep rusty carmel amber, with 1 finger of off-white head and good retention. On the nose, this actually reminds me of a lot of a number of oldish school ipas from the PNW: caramel (almost candied carmel) and biscuity malts with some resinous pine, candied grapefruit peel, and just a little faint spice. The taste carries the nose forward, providing a little more of the spicy and earthy hoppiness, especially at the end. It is very well constructed and everything fits together great. For all the serious flavor and hoppy heft, this one is also quite smooth. Even though there is a great deal of bitterness that always feels right around the corner, it never really bites...in fact, with the biscuity malts, there's also something kind of like honey in there that really mellows it out in places, while at the same time balancing that with some spicy and green herbal notes. Though it is fairly substantial in feel, it isn't too heavy or boozy. A little sticky sweet in the middle, but dries out decently by the end, and finishes clean.     Always nice to find this one, even if I have to cross a state line or two...can't believe I haven't rated it before. The more I think about it, the more this one kind of reminds me of a Boneyard beer, which is probably the last really nice, really memorable beer-in-style I've had. Now that would be a fun side-by-side.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 I had this on draught at a pub in Cincinnati. 16 oz. pour served in a pint glass. It pours a beautiful, rich amber with a finger of light beige head and thick lacing that coated the glass and never dissipated. It's a very attractive pour. The nose features grapefruit, caramel malt, pine needles, and floral hops. It's a pleasing - but not overwhelming - aroma. The taste is magnificent: a solid base of caramel malt and some subtle sweet fruit notes balance the pine and earthy hops. The favors compliment each other very well. This ale is medium-bodied and fairly creamy with pleasant carbonation and is easily drinkable with a temperate ABV of 6.66% Overall, this is a stellar APA that absolutely merits its lofty rating. I'm very pleased to have finally experienced this gem of a beer.   
+look: 2.5 | smell: 3 | taste: 2.25 | feel: 3 | overall: 2.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 I thought I reviewed this one before.     Old school Pale Ale, really an IPA. Soft pine and great malt combo with a hint of grapefruit in the end. Three Floyds yeast is the character here with good feel overall. I haven’t had this in a few years but I’m glad I grabbed some again. Great beer. Doesn’t get old. I like the fruity iPas but they can wear down the palate. Alpha King is refreshing. It’s a solid 4 beer   
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 Relatively fresh, 6/11/17. Bee honey color with a buttery popcorn colored head. 10% transparency.     Aromas of sweet grapefruit, tangerine, and orange pith. Very sweet, candy like. Some floral notes.     My initial remark is that it's very bitter, very resiny, with an overwhelming hop presence. Slight insect repellent. Underneath all of that is a pleasant grapefruit-tangerine flavor, with honey and herbs. Finishes on pine and hop oils. Slightly palate scrubbing.    Feel is resiny, oily, and mildly carbonated.     Overall, definitely respectable but WAY OFF THE CHARTS bitter for an APA. Way more herbal than fruity, lots of pine and honey. Zombie Dust is 4x better when you can find it.   
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Bottle purchased 8/15/17 at brewery. Poured into Belgian ale glass.    L: 3F head with good retention, lots of lacing and a cap and ring. Beer is a very deep clear amber color.    S: Caramel malts and some grapefruit-like bitter citrus. Earthiness.    T: Generally follows nose. The caramel malts predominate, but the bitter hops have their say on the finish.    F: Medium-ish body. Moderate carbonation. Construction is good, balance I guess could be a tad better as bitterness pretty pronounced. Still quite drinkable.    O: LOL on the ABV, of course. It's good, but I guess not my favorite way to do an APA.   
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 Bottled 10 weeks ago.    L -- Pours a moderately turbid tawny color with an average-sized off-white head that retains minimally and laces fairly well  S -- Herbaceous and earthy upfront. Some citrus flesh, lemon peel, pine, and citra rubberiness  T -- Grass, earth, pine, light biscuit malts, and a touch of caramel. Not really getting any fruitiness, which may be due to the age of the bottle  F -- Nice and crisp, much like Zombie Dust. The hop bitterness is definitely there, but doesn't overwhelm. Medium+ carb, medium mouthfeel  O -- Not getting the hype on this one. Pretty standard west-coasty pale ale that is judiciously hopped but lacks the brightness of what's coming out of the northeast these days    74/100   
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 Nice very drinkable ale. 
+look: 4 | smell: 4 | taste: 5 | feel: 4.5 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 hardy pour from a 12oz bottle into my sierra Nevada spiegelau glass. bottled on 6-1-17; 1231 marked underneath it.    Appearance- it's a slight transparent amber color with an off white frothy head. leaves decent lacing.    Aroma- candied hops. you get some caramel but you also get pungent citrus hop notes as well. one of the best smelling brews I've had in awhile.    Taste- not the like smell. it's much more hop forward in the smell. caramel malt is battling the pungent citrus hops and it is winning. bitterness is there but nothing crazy. bummed it doesn't have more hop flavor tho. abv is well hidden.    Mouthfeel- solid medium bodied. good carbonation.    Drinkabilty- easily crushable. shoulda grabbed 2 sixers of this stuff.    Overall- this beer for some reason reminds me of (a good batch) short's controversi-ale. to some it might be like an ipa but to me it's a great example of an American pale ale. both malt and hops are matched but I feel the malt is the winner. for those people who whine and complain about ipa's not being balanced well this is their beer.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 amber with a finger of white head that lingers and sticks to the glass. a bit hazy with lots of activity going on in the glass.    maybe i'm getting old, but this is citrus hops character that i like - bright but not over the top. doesn't make me think of mandarin oranges or freshly squeezed anything. taste keeps a bit of the citrus spark, but the hops bitterness quickly outweighs it, but not in a bad way.    mouth is well carbonated and just a bit sticky, but the bitterness never really overwhelms the beer. not balanced by any means, but not over the top.    i'd travel to the nova again to buy this one. i really love these old school beers.   
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 6/19/17 - On tap at Cindi's rooftop bar in the Chicago Athletic Association. Served in a basic pint glass with 1/2 inch head and great lacing. Nice aromas and excellent hoppy taste. Awesome view of Millennium Park and Lake Michigan. We need Three Floyds in Philly!   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Poured from a twelve ounce bottle into a straight ten ounce mug the same temperature as the beer. Beautiful dark amber that's hazy to almost opaque. Surprisingly pretty combo. Three finger rocky light caramel head that lasts a while. Good sticky lacing to the end. Big piney hops hit the nose first followed immediately by grapefruit rind and some lighter floral notes. A little brown sugar.    Taste follows the nose with big pine. Good dark malts in the background that provides good balance. The citrus rind in still there. As the beer warms the malts step up to form a fine hoppy/malt finish. Not to dry. Medium body with good carbonation. This is a very good beer that reminds me of an IPA with fewer hops. A very good great flavored brew with an excellent balanced profile. Think it will find a place in my beer cooler.   
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 4.75 Superb deep amber color with lingering, tight, foamy head. Clean citrus hops aroma with flavorful hoppy taste up front with balanced finish. Pretty flawless overall and definitely my favorite APA.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Had on-tap at the Yard House in Indianapolis. Poured into a pint glass.     L: Semi-opaque golden copper pour with 2 fingers of fluffy white head. Great lacing.    S: Tropical fruits and citrus. Estery and juicy.    T/F: Light caramel malts and grains with a juicy yet subtle hop profile. Not overly bitter.... nuanced and delicious. Citrus and pineapple... mango mixed with floral notes. Crisp, clean, and refreshing.     O: A top notch APA.... 3 Floyds rules this style and this is just an outstanding beer.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 12oz bottle dated 04/13/17 poured into a pint glass shows a dark orange gold body and floats a 1/2in white head with mixed bubble sizes with excellent artistic lacing.  Aroma and taste is exactly what I expect from beer. Clean, fresh, airy, doughy biscuit malt, and ...did I say clean?  Mouthfeel is light and leaning medium with an oily, yet satisfying finish.  Overall this is the beer that staked their claim to hype, and it doesn't disappoint.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 An outstanding Pale Ale. Extremely well made and balanced throughout. Great hop profile with a great lingering finish, that is never bitter or harsh. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 Have tried on tap and bottle. Both awesome if you get a fresh bottle. Hopped up Pale and if it did not have such a nice caramel malt backbone it would be an IPA.  Lovely copper color with tropical fruits and pine with a sweet malt smell. Taste follows the nose. Tropical fruit taste first then a bit bitter followed by a sweet malt backbone. If a really good IPA hooked up with a really good Pale this would be the result. I think it is every bit as good as Zombie Dust.   
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Alpha King brewed by 3 Floyds Brewing Co., With an ABV of 6.66 % This American Pale Ale pours out a nice brown amber color with a nice foamy white head. There is a nice amount of lacing to this brew, it sticks to the side of the glass well. The smell is rich with hop bitterness, and a slight sweetness in the smell. There is some nice grain and malt notes in the smell of this American Pale Ale. Really digging the copper color of this brew. Now for the taste it is bold with hop bitterness, and a slight sweetness. You also pick up on some nice grains and malts in the taste of this American Pale Ale. There is also a slight roosted flavor in the taste of Alpha King . It is really hard to pick up on the 6.66% ABV in this brew, it is just that smooth. The body of Alpha King is a nice medium to heavy. There is nothing overpowering about this brew, it goes down nice and smooth. The mouth feel of Alpha King is bold, hoppy, clean, smooth,and Refreshing. Overall I'm giving this American Pale Ale a 4.50 out of 5. I would definitely look this brew up again givin the chance to. 3 Floyds Brewing Co., Did a super nice job with this brew. If you are looking for a dark yet smooth pale ale look this brew up.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 A very good IPA from a very good brewery.    This beer pours a dark amber with a thin white head and some lacing. The nose comes across as fruity, tropical, and maybe sweet---but in a bubblegum kind of way---combined with some very faint dankness. The flavor is remarkable in balance---it's bitter, tart, and malty all in equal measure. There's an alcohol bite at the end, that kind of unfolds across the palate. All told, a superior contribution to the IPA canon.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Poured Alpha King into a Belgian Tulip.  A - Pours a light amber with a finger and a half of off white head.  S - Grapefruit, pineapple, and citrus on first sniff. I'm also getting some light coconut with dank hops.  T - The flavor mimics the aroma. Tasty stuff here! More hops, pineapple, citrus and a touch of coconut.  M - Medium carbonation with medium to full mouthfeel.  O - A Pale ale thats on steroids. Delicious!   
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 From Untappd 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Poured from a 12 oz bottle into a tulip glass.    Bottled on 3/27/17    A++ appearance. Deep amber/red hue. Big foamy head with excellent retention. Beautiful sticky lacing.    Aroma is all hops and near-perfect. Big citrus notes of grapefruit and citrus rind accompanied by piney and floral hops.    Flavor follows the nose with big citrus, piney, floral, and earthy notes balanced by a good caramel malt backbone.    Medium-full bodied and crisp.    Overall: When fresh, this APA can stand up to any other. Great hop flavor balanced by sweet maltiness. An outstanding beer!   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.75 This is outstanding stuff. Pours full and is just a beautiful deep amber. Excellent lacing and the smell is just so hoppy and perfectly bitter its almost a shame to drink it. Its aroma actually fills the room. Its full of flavor yet really clean and refreshing. Wow the citrus hoppiness just explodes on your palate. This might be very well the best ale I have ever had and I can kick myself for not buying a case when I had the chance. I have a strip steak ready for the broiler and I cant wait to sip after a bite of fine beef.    This is a great , great ale.   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 Deep mahogany, tall off white head, and great lacing. Caramel and citrus aroma. Notes of burnt caramel, Hawaiian roll, orange flesh, grapefruit rind and wet pine needle. Smooth, well carved, medium body and lightly dry. Really nice pale ale that is different than the pack.   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4 | overall: 4.75 FFF brewery only 40-50 minutes away (I thought for sure I had rated this already.).... this bottle=dated 3-20-17 ....so fresh...Alpha King has one of the best balances of hops to malts out there. That is my opinion....but with this one you get the hops blended so well with the malts that it isn't too bitter or too sweet.   
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 The legend from a 12 oz bottle in a snifter via a friend from work---Thanks KEVIN!  This fine ale pours a deep red tinged amber with an excellent head of off white foam   that subsides to a thick ring, thin spotty pool, and features some very nice lacing. Nose of  grapefruit, subtle pine, rich caramel malts, and light herbal notes. Flavors exceed the nose  by presentation with caramel malt backbone loaded with citrus notes of grapefruit and a touch of  mango and a dash of pine hop notes. Excellent mouth feel; smooth, medium body, lightly sticky  coating with hops and caramel, and a subtly dry medium carbonated finish.     Overall, this is one near perfect pale that lives up to the standards.    Excellent!   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 Hard to see how it looks since I'm pouring into a blue solo cup, but what I could see when pouring it looked redish to brown color. I would say 1 finger. Nose is citrusy. The taste is more malty than I expected. There is still some of the bitterness of the hops. Nice body to the beer. A decent offering from 3F.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 Pours amber red with a billowy off white head. Nose is of grass, light pine and malt. Taste of pine, light floral, grass and a sizable malt backbone. A bit of underlying citrus but very minimal. A light stickyness, pine gum like on the mouth. A dry crisp finish with a bit of a alcohol kick as the beer warms. Where as zombie dust is a citrus bomb and IPA like Alpha King is a true malty piney pale ale, west coast like in smell and taste.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Bottled on 3/6/17.     A: Aggressive pour into Libby tea glass. Two fat fingers of head. Beer is transparent orange/amber. Head is slight off white/tan. Carbonation is minimal in the glass. Excellent head retention. Very sticky lacing. Looks nice in the glass.     S: Hops are run to classic west coast style. Piney, some citrus and grapefruit. Biscuit/carmel undertones.     T: Moderate slap of bitterness up front. Hops in the taste go more towards stone fruit in the palate. Pears and red apple transition into moderate tropical fruitiness. Finish is mostly dry, with some residual maltiness.     M: Medium bodied. The maltiness is more prevalent on the tongue. Finish is medium dry with some malty/toffee notes (but not sweetness) on the finish.     O: Good pale ale. I'm still a bigger fan of Zombie Dust, but this one is no slouch.   
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 2.75 | overall: 3 
+look: 4 | smell: 4.5 | taste: 5 | feel: 5 | overall: 4.75 A-Dark Orange, almost brown in color, with a slightly off white head that lingers and remains   S-Subtle sank hops and lots of caramel and toffee with a little pine and citrus underneath  M-Medium and resinous mouthfeel that is quite nice. Low carbonation   T-Sweet all around with very little bitterness  O-This beer reminds me of 60 minute...it is a solid pale ale.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 This brewer maintains a nearly legendary reputation here in my hometown. It's not easy to find, often bought in bunches when found, and is often discussed as one you must seek out. I was thrilled to see my local specialty grocer (Jungle Jims) have an endcap full of this variety. The reputation is well deserved. This was top flight all around and deserves mega kudos.   
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3 | smell: 4 | taste: 2.5 | feel: 3 | overall: 2.5 Poured from a bottle, BOD less than 1 month old, into a beer glass. Pours very dark orange. Little head and zero lacing though the ale was carbonated well enough. The beer smells well enough, strongly of pine, but the taste doesn't translate. I immediately regretted buying the 6 pack. It's drinkable but for the price this is probably the worst beer I've ever had.   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Had this delicious Midwestern classic today at the South Park Tavern in Dayton, Ohio. Pale in appearance but sporting delicious tropical fruits in the odor.     Tasty and full of citrus and late pine. Light malts accentuate the flavor. Bright and enjoyable throughout. Among the better examples of the style.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Appearance - nice lacing, copper color.    Smell - piny hops and slight fruit aroma.    Taste - bitterness up front, fruit in the middle, then finishes with a nice malt flavor.    Overall - this is a very nice beer. I feel like they kept it simple and balanced.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Botttle poured into pint glass; hoppy- goodness and fruits greets the nose. Nice carbonation leading to creamy head that remains to the last drop; blood orange color. Citrus, Malts, hops and fruits to nose. Medium feel, well balanced with hops on front and malt sweetness on back.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 12 ounce bottle into a tulip glass. Bottled 1/20/17, had 2/5/17.  Pours an amber/orange, hazy, with an inch and a half foamy head, a good amount of foamy lacing. Lots of citrus in the smell- orange, grapefruit, lemon, hint of lime, pine, some yeast, malt, a light dankness. The taste also starts with big citrus- orange, grapefruit, lime, lemon, malt, pine- especially on the finish. A good amount of hop bitterness up front, the malt tames it thereafter. A light sweetness overall. Smooth, a solid medium body, well carbonated.     Very good citrus aroma and flavor. Well balanced between the hops and malt, really feels more like a DIPA. Pretty straightforward. but really well executed. Well worth a purchase.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4 
+look: 3 | smell: 4.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.5 Pours a deep, murky copper color with a nice foamy white head. Decent retention. Minor lacing. Was pretty stoked to come by this as FFF is hard to come by in my area, and found this at a place I rarely visit just a few blocks from my house.    Citrusy aroma, with some floral aromas noticeable. Can definitely detect the sweetness that is to follow.    Sweet, tropical flavors immediately greet the tongue. Hoppy, but not overly, well balanced with caramel malts. Has a very pleasant candied sweetness to it. Does an excellent job of making the sweetness taste very natural. A lot of times it will come off artificial. Fruity flavors take over as it warms, giving way to pineapple and peaches.One of the most well-balanced beers I've ever had. A touch of bitterness lingers on the tongue that quickly transform into a fruity aftertaste.    Moderate carbonation. A tiny bit syrupy, but still very drinkable. With it's medium level of hops and ABV pushing 7%, this is a dangerous brew.    I'm always keeping an eye open for FFF wherever I go (this is just my second beer from them. Narrowly missed ZD not too long ago), this reiterates that the eye is worth keeping on them. Supremely balanced and very tasty, this is a great beer for any occasion.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Poured from a bottle into a snifter. Bottled 11/28/16.    A: Pours a hazy, reddish, burnt orange, copper color with a 1/2 inch foamy, tan head with moderate retention. Thick, billowy, white lacing throughout.    S: Aromas of citrus and pine accompanied by milder notes of tropical fruit. Sweet caramel. Grapefruit rind, melons, pineapple, and tangerine.    T: Taste matches aromas well. Starts with orange and grapefruit, followed by big caramel malt notes, then a hint of pineapple and melons, and ends with piney, earthy, resinous hop bitterness, which lingers shortly.    F: Medium bodied, smooth, and crisp with medium carbonation. Slight dryness.    O: Overall, a good APA. Differs from pales I'm used to with the big caramel malt notes, but it's well done. Would definitely try it again, but would like to try a fresher bottle.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours a deep, clear orange color with a hefty off-white head that lasts forever.    The smell seemed a little muted to me, but caramel sweetness, copious citrus with orange and grapefruit. Malty, sweet, a bit of yeast, and I think I can smell peach or apricot.     The flavor and feel are hard to separate. This beer is luxuriously smooth in the mouth feel and the flavors are incredibly well-blended. Obvious grapefruit, some pine, orange. Caramel sweetness. Very mild bitterness, slightly dry, carbonation is on the money. Just a small taste of peppery spice that cleans things up nicely and leaves a nice, lingering taste.    This is a fantastic drinking beer, recommended, and I would enjoy it again, no doubt.   
+look: 3.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 3 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 Poured from bottle to tulip. Opaque dark orange color with a few fingers of foam that settles to swirls and leaves spotty, sticky lacing. Aroma is fruity and sweet, with caramel. Taste is big biscuit and caramel, with tropical fruit, floral hop notes. No boozy tones in aroma or flavor, but feels substantial. Feel is smooth, slick, and on the fuller side. A bit of bitter finish, a little dry, but not much.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 12/30...pours rich amber with heavy white foam. Laces. Malt caramel nose. Sweet. Inviting. Slightly sweet open spills into a tasty bitter backed malt. Incredible balance. Sneaky bitter finish. Outstanding, like everything 3F does.   
+look: 4 | smell: 5 | taste: 3.75 | feel: 4 | overall: 4 Have had several times both on bottle and on tap. Smells amazing; just a huge pleasant hoppy kick. The big disappointment is that the taste does not live up to the smell. It is a good solid well balanced beer but no big hop flavors stand out to me. Overall a good beer just not enough stand out hoppiness for me (guessing just a personal preference).   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 From a 12oz bottle, dated 12/02/16. Served in a tulip.    Pours a semi-opaque burnt orange with a finger-plus of dense ivory head. Retention is good for a minute or so before settling back to thick, bubbly ring with loose sheets of lacing.    The nose starts massively hoppy, sharp and peppery, fading off into prominent peach and sweet caramel.    Taste is straight-on malt forward, sweet toasted grains and caramelized corn syrup. Bitterness is low, some spruce and citrus pith, some bubblegum, a little black pepper. Finishes with grand marnier, slightly dank and sticky.    Feel is medium bodied, thick, chewy and mouth-coating, with just better than adequate carbonation.    Overall, a better-than-decent APA.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4.5 | taste: 3.25 | feel: 3 | overall: 3.5 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 Dark orange beer with an off white head that leaves ribbons of lacing behind. The smell is citrus, caramel, yeast and pine. Nice sweet, caramel and orange beer with a nice balanced pine bitterness. Nice medium body with good carbonation. This is a really great beer.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Bottled 4/13/15; drank 5/31/15 @ the Yarchives.     Semi-opaue, rusty orange/red appearance.     A rough pour yielded a big eggshell head; a curtain of tree-rung lace.     Grapefruit & caramel notes in the nose.     Medium mouthfeel.     Grapefruit & caramel flavors in equal measure up front; a mildly dry finish. Well balanced & very drinkable, if a bit staid. I'd have another.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 Caramel brown with a light haze, a little carbonation, and topped with 2 fingers of off white head.    Smells of peaches, mango, black tea, and a hint of pencil shavings.    Tastes of black tea, peaches, mangos, and a hint of pencil shavings. Some fruity effervescence also.    Nice, light, tingly sensation in the carbonation. Slightly flat and foamy like a UK style brew, quite chewy as well, with a tannic finish.    Really good brew, very surprising in its style which is so different from Zombie Dust. More like a UK style. Really enjoying it. My Bro gave it to me in Stratford, ON, and he picked it up at the brewery this year. Drinking it Nov 4th, 2016, in Chiang Mai, Thailand.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.75 | taste: 4.25 | feel: 4.5 | overall: 4.5 Very cloudy with a light brown color. Small but lasting head. Rings of lace after each sip.     Creamy with a bit of caramel. Beautiful floral hop nose. Great balance. Lightly sweet.     Brief toasty malt but the hop kicks in quickly. Chewy body with decent carbonation. Full on flavor with interesting shifts in tastes.   
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 4.5 | overall: 4 Most complex relationship I have with a beer. Was the first micro I tried without being told "try this, it's good." It was good; early '00s at Sheffield's in Lakeview. Since, the quality just wavers, for whatever reason. So I always recommend with reservations. This bottle is dated 9/8, being consumed 10/25 and is as good as hyped. Acquired from a mix-a-six at a Mariano's. Yet. Yet, I have gotten cases of this directly from FFF in Munster and regretted nearly every bottle. Don't know if the formula changes ever, but oh does the quality. Keeps me from being an FFF devotee.     If anyone asks, it's a malt-forward, rich pale ale. The Replacements 'Let It Be' of beers.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.25 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 On tap,clear copper russet , one finger off white foam cap , good lacings     Aroma of citrus , orange, tangerine     Grains with a hop note , well balanced    Dry finish , not much of a bite    Very good beer   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Clear, copper hued body; fine carbonation; thick, rocky, sticky head. Big citrus aroma; oranges and grapefruit. Juicy and softly sweet flavor; cereal grains; toasty; well-balanced hop bitterness. Thick and chewy body; somewhat coarse on the palate; dry finish.    Outstanding depth and complexity going on here. Nice balance of flavors and aroma and very pleasing to the eye. A top-notch beer.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 Burnt orange bordering on crimson w/ one finger off-white head. Smell is over-ripe tropical fruit and pine sap. Earthy flavors, more sticky pine sap with a touch of sweetness.   
+look: 3.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 L - pours an evil-looking crimson red with twangs of caramel brown. Crystal clear with lively nucleation. So many tiny bubbles flying up from the bottom of the glass. Head looks awesome. Almost looks like cinnamon was sprinkled on top due to the faintly mocha toasted marshmallow color.     S - huge whiff of Juicy Juice after popping the top. Musty pine and sweet apples. Deep, earthy and malty. Slight citrus a la orange and a sweet sugariness.     T - strong punching malt flavors infused with hop oil. Wouldn't call this a malt bomb since the juicy citrus still finds a way. Hints of caramel and marmalade. Think orange jelly. Crisp dry hoppiness comes out as the beer warms and my palate develops to these flavors. Slight resin. Hell of a backbone on this beer. Holds strong through and through with robust, meaningful flavors. No half-measures here. Solid beer.     F - thick and full-bodied for a pale ale. Almost syrupy with a low-level creamy carbonation that slightly opens up as the sip progresses. Neat.     O - fantastically solid beer. Can't say it enough. So many flagships are designed to be approachable and end up weak as a result, but Alpha King delivers the full bam shapow in the best way possible. Drinkable and a great introduction to FFF but at the same time something seasoned drinkers can enjoy time and time again.   
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Dank, spicy, peppery hops abound! This is a legit pale ale with some definite backbone. A little heavy in the body, but otherwise a near perfect brew. Second only to Zombie Dust in his category. 3 Floyds delivers again.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 "Pepperiness" is the primary note of this beer, and a near-perfect note it is! Stimulating but never overpowering. Alpha Kings gets an "Alpha" from me---it is a world-class beer.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 Just had a fresh bottle and I revise my initial view. Dark and malty with a complex spiced floral nose and a full hoppy flavor with a long finish. Much better!    My bottle is from 7/21/16, so perhaps some of the hoppy complexity has faded. Interesting nose but not much citrus. Also, a bit darker than I would have expected. Taste has good balanced bitterness but Maltier than is usual for a pale ale. I will seek out a fresher candidate for comparison.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 2 | taste: 4 | feel: 3.5 | overall: 3 Poured from a bottle. I think I may have an old bottle, because this didn't do a lot for me. Very little nose and not a very complex flavor. Mostly malt with a bitter finish. I would like to try it fresh.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 Pours a clear pale amber producing 2+ fingers of foamy, light tan, somewhat lasting head that leaves motes & streaks of thin lacing. Aroma is floral, pineapple, a little citrus, a hint of pine & caramel malt. Taste is tropical fruit, citrus & earthy floral, caramel & biscuit, some pepper finishing with a slightly prickly bite & floral hint backed by caramel sweetness that become the dominant early component of the aftertaste which transitions to a lingering, floral, dry, lightly astringent & moderately bitter aftertaste. Mouthfeel is light-medium bodied with moderate carbonation, prickly finish, dry & astringent aftertaste.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.5 Smell is floral, pine, citrus, some caramel malt, and just a hint of booziness. Taste is pine resin, malt sweetness, and a slight herbal flavor. A well put-together APA, but the malt heaviness relative to the hop flavors just is not my cup of tea.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 12oz bottle (bottled on 06/17/16) served in a milkshake pilsner glass.     Appearance: Hazy copper-amber. Thin off white head, lots of fine persistent lacing all over the glass.     Smell: Pine, orange. Not much else.     Taste: Very hoppy. Strong pine and citrus hop flavors, with some herbal notes as well. A bready and mildly caramelized malt for balance. Finish is not as hoppy as I would have expected. There is some bitterness, but it is muted pine and orange tea.     Mouthfeel: Quite smooth, nicely thick. A bit chewy. Light carbonation.     Overall / Drinkability: Very drinkable. Full flavored, good balance between hops and malt, very hoppy, but not a palate wrecker. I could easily have another of these. Went well with burger and grilled corn. A very good APA.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 A - copper clear beer, white head sticks and leaves okay lacing  S - big gummy bear, fruit punch, pomegranate; some dank resin, piney hops in the background  T - big grapefruit, peach, pine, hop resin, fruit punch, gummy bear  M - light, alcohol is covered, aftertaste is grapefruit and gummy bears  O - great beer, unique, I'm not sure how they get that candy sweetness in there, it's not cloying at all, just tastes like eating gummy bears   
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 mint, pine, bubblegum 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 L: a very nice copper tone. poured into a tulip glass, leaving minimal head.    S: getting a lot of malt on the nose -- undercurrents of guava and citrus.    T: very robust tropical taste (guava and passionfruit) balanced by white grapefruit and a strong malt backbone. The nose and appearance suggested malt-heaviness, which it is, but this is nicely balanced. Hops in abundance. Probably the most balanced malt forward PA I have had.    F: creamy and full bodied.    O: a tremendous malt-forward pale, and one of the most complex and flavorful pale ales that I have had.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 The first beer I had from FFF. Copper in color, good 1/2" white head. Drops plenty of hops in the nose, not citra, but you know the other c hops that are almost underappreciated these days.     Good citrus impact, caramel and honey malts lightly toasted. Floral, pairs well with spicy food. Could drink this all day. One of those beers you don't mind drinking 50oz of in a sitting.   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 Only 2 weeks old, I brought a suitcase of 3 Floyds back with me to Oregon.     A: a light copper, with beautiful lacing and a persistent 1/4 head.    S: this is the best part. Lots of pine sap and resiny hops.    T: surprisingly deep for a pale, fresh pine and fruits upfront with a bitter finish.    F: very full-bodied, finishes clean.    Overall: God, I love this stuff.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Alpha King is a winner, smith for an IPA. Drinkability is excellent and bitterness is a a good level. Enjoyed the aroma of citrus and hops. When my wife took her first sip she said WOW. We both like IPA's and this is near the top of the list. Haven't had a Zombie Dust yet. Looking forward.   
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 2.75 | taste: 4.5 | feel: 3.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 poured out of a bottle. a little over 4 weeks old.    pours a dark orange.     smells of grapefruit, lemon, citrus and hops. taste is very similar, citrus forward. a wonderful beer.   
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 4 A copper look with a off white head poured in a pint glass giving me a sort of cascading head. Faint smell of citrus mostly all you get is hops with a hint of carmel. Taste is a bit tart but overall enjoyable.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 On tap at MacNiven's in Indianapolis, IN.    An easy drinking beer. Not your typical pale ale! 4.25    A - Pours a clear amber with an off white head 3.75    S - The floral perfume of a bouquet of knockout roses. 4.25    T - A malty APA, some sweetness melded with piney resiny hop flavors 4.5    MF - Medium body with a slightly dry finish 4   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Had at Mother Bear's Pizza, Bloomington, Indiana, poured from 12-oz. bottle into tumbler.     Alpha King is a big but well-balanced APA that complements spicy food very well.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.5 | taste: 4.5 | feel: 4 | overall: 4.25 A 12 fl oz. bottle bottled on March 31st 2016 and poured into a mini Mikkeller long stemmed tulip glass.    Appearance: It poured a clear copper colour with a one finger off white head that had decent retention and left nice lacing.    Aroma: A bit light but grapefruit and pine come through along with some caramel malt.    Taste: Bitter citrus grapefruit, lemon and orange peel, sweet lemon tea, lightly sweetened tea, pine and caramel malt in the background.    Mouthfeel: Medium bodied with moderate carbonation.    Overall: Nice and well balanced. Good mix of bitter and sweet.   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 Pours a hazy, copper color with a 1-finger off-white head. Head has good retention and leaves some splotchy lacing.    The aroma is very light but I get some pine and a good amount of citrus, as well as a bit of caramel.    The flavor starts off with tons of citrus, followed by a touch of pineapple. Has a nice caramel malt flavor. Finishes piney and bitter. Good balance.    The feel is medium bodied with decent carbonation. Goes down very smooth and leaves a nice coating around the mouth.    Overall, a very good pale ale. It's not overly hoppy or bitter, but there's still a nice hop bite. Very well balanced.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 3.5 Pours dark amber with a 1 finger head. Aromas of grapefruit, pine. Bit of nail polish alcohol, eucalyptus, and honey. Tastes of sweet hops. Honey and grapefruit syrup. A pungent hop concentrate in the back end. Not a lot of perceived bitterness here. Mouthfeel, carbonated well. Overall, good IPA!   
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours a dark orange color with a thin white head. Lacing is left on the glass as the head dissipates.    Smell is a subtle but clear aroma of citrus, pineapple, pine with a solid malt aroma also coming through.    Taste follows the nose with some flavors of pineapple, citrus zest - orange and grapefruit - coming through. Nice malt backbone gives some hints of caramel and bread - but truly just hints. Slight piney bitterness on the finish that is pleasant and not overly bitter.     Feel is very smooth, supremely drinkable and refreshing. Medium carbonation provides a slight initial tingle.     Overall a great APA from FFF. Somewhat overlooked in the pantheon of FFF brews, but this is still a great one right there with the best brews from FFF.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 On the hop side of the spectrum, which I like. Simply the best pale ale I've had. 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 3.5 | smell: 3.75 | taste: 4.75 | feel: 4 | overall: 4.25 Bottle dated 5/5/16    Look: deep, hazy golden color, finger of white head, fairly heavy lacing  Smell: citrus, pine, hops   Taste: sharp citrus flavor. mostly grapefruit, a little bit of lemon and orange. faint pine note as well. tasty but mild hops in the aftertaste   Feel: medium body & carbonation. easy to drink    Overall: this is a very good pale ale. I will be getting more of this in the future!   
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 5 | feel: 4 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 I'm not a huge IPA fan, but I usually take down 2-3 sixers of this each year. And when it's on tap it is hard to top. Really a solid IPA that can be found year-round.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 3.75 | taste: 5 | feel: 5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 12 fluid ounce bottle  Bottled on March 3rd, 2016  Reviewed on May 16th, 2016  Served in a Pint Glass    Eyes  Poured a slightly hazy burnt orange body. An eggshell white head slowly collapsed and left a good amount of lacing.     Nose  Dank. Sharp notes of citric hops. Pine. Dense and sweet malt backbone.     Mouth  Hops up front. Sweet grapefruit. Orange peel. Lemon zest. Taste gradually became earthier as the sweet malt backbone weakened. Pine. Finished semi-dry with lingering citrus and almost medicinal notes of herbal hops. Medium-bodied. Moderate carbonation.    Notes  Very easy to drink given the combination of bright hops and dense malts. Not much to critique here, quality pale ale done well!   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 Belated birthday gift from my folks' trip to 3F brewpub. Poured into my fav glass, a Stella tulip, for review. Pours a pale Amber with somewhat hazy clarity with nice head and some good lacing. Smells of American citrus hops with some underlying caramel malts. Tastes citrus hop forward with sharp bitterness that evens what seems like crystal malts. Very balanced yet hoppy without being overly aggressive. Medium full bodied with no warming alcohols. Love that the ABV is apparently 6.66%. Overall, a very nicely done APA - I like the fact that 3F likely included crystal malts in this beer while the current trend is to shy away from using any crystal for today's hoppy beers.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 Amber American pale ale. Hops and malt compete for dominance within the aroma. Quality malt is noticeable within the first sip, followed up by American hops balancing out the back end. Balance is the key word here, what a great Amber. 10/10 would drink again.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.75 | overall: 4.25 Look - copper and almost red. Not much foam. Some lace.    Aroma - orange, grapefruit, resin, mild earth and a touch of floral.    Taste - orange, grapefruit and caramel malt. It tastes quite a bit better than the description. The sweetness of the malt is balanced nicely by the hops.     Feel - Medium-full body. The smooth and somewhat sticky malt coats the throat. Long and very pleasant hop finish that never gets rough. This is a quality many recent hoppy beers lack.    Overall - a very good beer. My only complaint is this beer is nearly red and should not be considered a pale ale. Who cares? My rating would be the same if it was in the Amber category.   
+look: 4.75 | smell: 3.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 3.75 | smell: 4.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 5 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 4.25 
+look: 3 | smell: 2.5 | taste: 3.25 | feel: 3 | overall: 3 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 smell: malty piny slight citrus   Taste: big malty sweetness upfront followed in the middle with that pine bitterness breadiness orange peach grapefruit bubblegum finishes with a lingering grapefruit bitterness.  Feel: very dry in the mouth grapefruit lingers in the aftertaste.  Overall: it has a nice malt backbone but balances out with the hops nicely. A really awesome beer!   
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 5 | smell: 5 | taste: 4.5 | feel: 5 | overall: 4.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 2.75 | feel: 3 | overall: 3 
+look: 4.75 | smell: 5 | taste: 4.5 | feel: 4.75 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Poured into a snifter. Slightly hazy amber color with a thick light-tan head. Nice lacing in the glass. Aroma right out of the bottle on the pour with candied oranges and floral notes. Taste followed with a floral and citrusy punch with aggressive bitterness to balance things. Clean and crisp finish. A classic for good reason.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Appearance: Slightly hazy, copper color with two fingers of off-white head that fades slowly with chunky lacing.    Aroma: Lots of citrus and tropical fruit hops over a nice, caramel malt base.    Taste: Full bodied and creamy up-front, then a blast of super dank citrus rind bitterness. Slightly bready on the back end, almost nutty, then a lingering, bitter finish.    The Rest: A super-solid hop bomb. Very good.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Heavier IPA with piney resin. Tastes of pine, pineapple, lemon, limes. Moderate to excellent lacing. Overall a nice strong IPA with more kick than Zombie Dust. When I have had a few good beers I can drink this no problem   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Not a bad Pale. Drink Chilly! 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 Great extra, happy to try this. deep copper with medium white head. Plenty of citrus on the nose but the nice biscuity caramel flavors really pair well with the aggressive hopping. By the numbers this is more of an IPA, but i think the distinct malt base really do make this more of Pale. Just a great beer.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 On tap at the brewery. This is the beer that sets the tone for 3 Floyds. Very well done beer. One of the better American Pale Ale. Highly recommended!   
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 East coast BA excited to get my hands on this - enjoyed a couple 12 oz bottles about a month after bottling. Aroma and taste are in synch - roasted malt that's more caramel than cracker, a little pine and citrus. Nothing tropical or juicy or overly sweet - very balanced like a classic pale ale. Drinkable and clean. I prefer more of an imbalanced hop profile but this is a great beer. I always read the brewer's description after I drink the beer and I'm glad I did in this case - the phrase "aggressively hopped" is often out of context in this day and age of super hopped beers.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Beautiful pour with a slightly cloudy appearance. Nice light head. Slightly pine scented. Wonderful mouth feell, smooth and gentle. Light citrus taste with hops on the front end. Clean finish.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4 | overall: 4.75 Fantastic! 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 Poured from a 12 oz bottle dated 1/28/16 into a pint glass. Pours dark amber / copper colored with a white head that refuses to die down, great lacing.    Smell is sweet, malty, some fruits. No hops. Taste starts with some caramel, sweet fruity notes, immediately changes to very bitter, some resin notes, finishes with a lingering bitterness and a hint of grapefruit. Final finish is wet, body is heavier than expected. Overall a mediocre/decent pale ale, very malty and bitter. Kind of surprised that a beer rated this highly would be this disappointing.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 Loving my malts, I'm braced for this beer.  I taste it.  How do they do that ?  68 IBU is above my tolerance level and.... I like it.  As brewers tell us, it is hard for the malts to balance with lots of hops.  This one does. I'm glad it does. In fact, it is such a pleasurable ale, that I don't mind being wrong.  I since have tried to buy a six pack for every summer.  And if I can't get around to finishing it, I give it as presents.   It makes up for the rest of my personality.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 Bottle from Dale. Almost as good as Zombie Dust. This could be the benchmark for rating APAs. Other than an average pour, this brew’s got it going on, an and then some. Aroma is perfect blend of hops and malt, taste follows with equally excellent blend of sweet caramel malt and bitter hops. Bliss!   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 A-a copper color with two fingers worth of rocky cream colored head that sticks to the glass     S-smell is of citrus and caramel malt    T-caramel malt body with citrus, and a pine bitterness finish     M-medium body, crisp carbonation    Overall easy to drink and very flavorful, very nice   
+look: 4.5 | smell: 3 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 The slightly less complex older brother of Zombie Dust. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.25 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 2.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 2.25 | taste: 4 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 5 | taste: 3.25 | feel: 3.25 | overall: 3.25 Amazing aroma of tropical fruit. One of the best smelling beers I’ve had. Pours a nice copper color with lacy white head. Initial taste is grapefruit/citrus. Goes down very dry and slightly bitter. Dry aftertaste lasts a while. Overall it’s good but I expected better.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 Big shout out to my friend Bill F. who brought me back one of these from a trip through Indiana. Thanks, Bill!    Appearance 4.25: Pours out a dark amber. Completely translucent. One half inch head is impressive. Excellent lacing.    Smell 4.5: Wow, great bouquet on this one. Sharp, pleasant hit of citrusy hops and a very nice malt hit.     Taste 4.5: Front is slightly malty and somewhat sour. Middle also has a remarkable sour quality in the mid-palate, along with a big hit of low-level bitterness hops and some more very nice maltiness. Finish is dry, like a broom sweeping it all away. Aftertaste is almost non-existent, which makes me want to pick up the glass, drink more and try to figure out these crazy flavors!     Mouthfeel 4.0: Somewhat dry in the mouth, but satisfying.    Overall 4.25: Great beer. It has this very unusual sour quality blended with a pronounced maltiness and a very appealing hop blend. Would be a great sessioner and I imagine it would be equally impressive paired with any number of foods...my mind goes to a char-grilled cheeseburger as a perfect pair. Now I just made myself hungry. Anyway, this brew is worth the hype, IMHO, and worth tracking down. Thanks again, Bill!   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.25 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.75 Awesome Pale Ale! Definitely agree with the citrus hoppiness and caramel sweetness. Had hints of grapefruit, such a solid brew! I'm happy to be able to get this through ordering online at The Beer Temple!   
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.5 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 Needs to be available in a can. It's a tragedy - a literal tear-jerking, lip-quivering, crying chick-flick shame - when your buddy knocks an unopened Alpha King off the island or tailgate to the hard surface below, leaving the distressed beverage to the German shorthair retriever ... Not that a good dog doesn't deserve a taste after a long slog in the Dakotas...   
+look: 3.5 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 Close to two fingers of light tan foam, some islands of bigger bubbles across an otherwise flat surface, the broad lacing streaks slowly slide off, not great stickiness. Gauzy amber-brown color, on the darker side of the spectrum, a few randomly arrayed lazy bubbles. Soft nose of pine needles, wet flowers, tangerines and blood oranges, caramel, honey and ripe peach, apricot, mango fruit scents, steady power. Full-bodied, creamy with a bitter grassy, peppery tang in spite of its general sweetness. Thick apricot, nectarine, peach, pineapple fruit with equally dense pink grapefruit, tangerine citrus. The carbonation is strong, whips up a creamy froth more than a sharper prickle. Pine, tea leaf, some light breadiness. Hoppy but smooth enough to keep it in a “pale ale” rather than IPA category. The flavor sticks with you long after you swallow.   
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 A wonderful pale ale. Hard to find any beers from 3F that I do not enjoy.     Has a lovely aroma (big citrus smell) and a very balanced taste. 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 12oz bottle poured into a tumbler glass    A- A deep amber/orange with a big ol' rocky, foamy off white head. Great lacing.    S- Straightforward grapefruit oriented hops, with some biscuity/caramel malts hiding underneath.    T- Balanced. Biscuity/slightly caramel malts have some depth from some fruity esters, and some grapefruit/floral hops balance. Not overly bitter, very approachable.    M- Lighter side of medium, ample carbonation.    O- Very nice american pale. I feel like I've had this beer before (other beers that are similar) but at the same time, there's something slightly different about this one.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.75 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 I like the alpha klaus better (I know most people don't agree). Good hop profile with a nice malt backbone. Overall, it's pretty much what you would expect from three floyds.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.75 | smell: 4.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 3 There's no hype behind this one so I can't taste it as well. Seriously though, was unimpressed and found it more bitter than I was ready for at the time.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 5 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.75 fantastic appearance and smell. very balanced taste, that is not overly hoppy. smooth mouth feel and finish. overall, a great beer. 
+look: 4.5 | smell: 4.5 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4 12 ounce bottle into pint glass, no bottle dating. Pours slightly hazy/cloudy deep orange/copper color with a 2 finger dense and rocky off white head with great retention, that reduces to a nice cap that lasts. Nice dense soapy lacing clings down the glass, with a moderate amount of streaming carbonation retaining the head. Fantastic appearance. Aromas of big grapefruit, tangerine, pineapple, apricot, mango, melon, lemon zest, orange peel, light pine, caramel, brown sugar, toasted bread, and floral/grassy earthiness. Fantastic aromas with awesome balance and complexity of juicy citrus/tropical hops and moderate dark/bready malt notes; with great strength. Taste of big grapefruit, tangerine, pineapple, apricot, mango, melon, lemon zest, orange peel, pine, caramel, brown sugar, toasted bread, and floral/grassy earthiness. Good amount of pine/citrus rind bitterness on the finish; with lingering notes of grapefruit, tangerine, pineapple, apricot, mango, lemon/orange peel, citrus rind, pine, caramel, toasted bread, and floral/grassy earthiness on the finish for a while. Incredible robustness, balance, and complexity of juicy citrus/tropical/piney hops and moderate dark/bready malt flavors; with a great malt/bitterness balance and zero cloying flavors after the finish. Moderate dryness from bitterness as well. Medium carbonation and body; with a very smooth, moderately sticky, and fairly creamy/bready balanced mouthfeel that is great. Alcohol is very well hidden with minimal warming present after the finish. Overall this is an incredible pale ale! All around fantastic complexity, robustness, and balance of citrus/tropical/piney hops and moderate dark/bready malt flavors; and very smooth and easy to drink. A highly enjoyable offering.   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Name makes you think it's going to be overly hoppy, but in reality is the definition of balance. Not sure whether the sweet and bready malt backbone support the hops or if the bright bitterness compliments the malt. Let temper out of the fridge a bit to reveal a sweet, hoppy, Brown ale.   
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 Nirvana in a bottle. Deep, rich copper colored. Fantastic malt profile. Phenomenal dry hop character. I can pound this all night long. Please, please, try this one.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 12oz just bottled on 11/23/15 poured into a pint glass:    Look: Pours a very nice copper color with about an inch of head and lacing present.    Smell: Citrus, pine, fruitiness, freshness.    Taste: Plenty of hops and citrus coming thru but there is also a nice malt backbone that balances everything out quite nicely. This bottle is super fresh and dank.    Feel: Medium bodied.    Overall: This is my first offering from 3 Floyds I have been able to get my hands on and I hope it won't be my last. Just bottled on the day my buddy picked these up on his way back to PA for turkey day. This thing is super fresh and has a nice balance of hoppiness and malts. This is one of the better pales I have had to date. I wish they would have had Zombie Dust in stock so I could compare the two.   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 Poured from a 12oz bottle into a tulip:    Appearance: amber-copper color, totally translucent, with a solid off-white head. Head doesn't last long, and not much in the way of retention.    Aroma: don't get a ton of any one thing here. Not overly juicy, citrusy, bitter, or earthy. Smells slightly sweet, with maybe a touch of tropical fruit, but really not much.     Taste: again, a little bit of sweet caramelly flavor here, along with a medium dose of tropics. The hops come through better in the taste than in the smell, but again, I want more. It does have a nice balance of malt and citrusy hops, but it finishes more malty than hops to my palate.    Feel: Medium-bodied, with a lingering bitterness on the finish.     Overall: It's a good APA, but not a great one.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 A - Coppery colour with a haze. Mild carbonation and a nice one finger soapy white head. Spotty lace and no retention.    S - Citrus, grapefruit, pineapple, sugar.    T - Huge flavours. All intense notes of dankness, citrus, grass, and a lemony finish.    M - Nice bitterness, good carbonation, medium body.     O/D - Really drinkable and enjoyable. Missing a certain special thing to take it above and beyond like the hype says it should be, but I think this is a nice APA.   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.75 Straight out of the bottle. Goes well with Pumpkin Spice Oreos. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.75 What's not to love? I'm just upset I haven't tried this sooner. Definitely a new favorite. I love the color, the smell, and the taste. Must try. 
+look: 3.5 | smell: 4.25 | taste: 3.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 Bottle dated 9/17/15 at 42 degrees into nonic  Unintended IP trade with Ryan at Consumer Beverage, Lancaster, NY  Aroma weak, slightly flowery, doesn’t last  Head average (Three cm, aggressive pour), off white, creamy with a few rocks, diminishing to seven mm ring and broken layer  Lacing poor – few irregular islands of tiny bubbles  Body medium orange, slight chill haze  Flavor weak, somewhat citrusy, ends slightly bitter; no alcohol, no diacetyl  Palate light, watery, lively carbonation    Appearance 4.25, Aroma 3.5, Flavor 4, Palate 4, Overall 4   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 12 oz bottle poured into a snifter bottled on 9/10    A: Nice soapy creamy looking head that dissipates to a sticky film amber in color with some haziness     S: nice fruity pineapple with a candy vitamin smell and a decent sweetness    T: nice caramel sweetness mixed into a fruity, kid vitamin taste. pretty sweet and just a nice malty beer with a huge dose of fruity hops.    M: fairly smooth with a bit of syrupiness     O: Excellent pale ale its nice caramel taste with a big dose of fruity hoppiness make it a beer you cant quit drinking. I would grab this any time I saw it.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 pours out orange with one finger head reduced to half    good malt sweet scent and hops give off citrus and pine and bready yeast    thick citrus to the scenses, malty pleasure on the nose of bready sweetness    chewy fruit flavor not too bitter,lingers a while    three floyds brews great beer, this is one in my opinion. if your new to three floyds beers try this one because of its availability compared to zombie dust, tho dust is better.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 First taste of this beauty, and I walked away impressed. Very solid malt taste that works very well with the hop profile. This APA tasted very much like an IPA, which is fine by me.    Heard good things about Zombie Dust, so I'm excited to give it a try after trying AK.   
+look: 3.5 | smell: 4 | taste: 4.25 | feel: 3.5 | overall: 4.25 Poured from a 12oz bottle (bottled on 04Sep15) into a Mikasa ale glass. Consumed in 17Oct15  LOOK: Pours with a half finger's worth of off-white foam that halves itself after 1 minute. Amber in color with a high amount of cloudiness. Rising bubbles are hardly there. Lacing is thin and moderate.  SMELL: Mild aromas of bready malts, caramel, and gummy fruit snacks meet with hints of floral hops.  TASTE: Mild bready malt and caramel flavors enter initially and are immediately followed by mild floral hop flavors. Mild flavors of oranges, tangerines, grapefruit, and gummy fruit snacks enter lastly as all flavors persist, except for bready malts, which grow slightly stronger.  FEEL: Somewhere between medium-bodied and full-bodied. Moderately carbonated. Goes down somewhat smooth and finishes with a mild dryness.  NOTE: A very balanced APA, although you couldn't tell from the aromas. Received in a trade. Could be a possibility as to why my rating was lower than others. Heat along with being bumped around probably did a good number on this guy.   
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 I think I like this more than I do zombie dust. it has a great malt backbone that elevates the great citrusy hops. perfect body and carbonation make me wish this was more available in my area.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 12oz bottle poured into a snifter. Pours a beautiful russet-amber with a 1 finger tan head. Absolutely beautiful beer to look at. Nose is fruity and hoppy, with just hind of underlying breadiness. The palate leads with hoppy citrus, but doesn't go to the almost juice-like citrus extreme of some more modern pale ales and IPAs. The fruitiness here is anchored to a solid, bitter, hop base. The bitterness carries through in the finish, with a touch of maltiness. Mouthfeel is neither too thin nor too thick. Overall, a beautifully balanced pale ale. The bright, bitter hops, and chewy malt finish make this easily one of my favorites in the style.   
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3 | overall: 3.5 to me its just ok. It's 3 floyd's flagship beer. look is fine, smell is ok the taste is a weak zombie dust, over all i don't think its special, they have better.   
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 Excellent 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.5 | taste: 4.5 | feel: 3.25 | overall: 4.25 L - copper, not super see through, but a pleasant color. white head that seems to clear pretty fast  S - fruity and hops, little must which is a bit unpleasant  T - much better than the smell, sweet malts with a pleasant bitter finish - nothing earth shattering in terms of aggressive flavor but very well done and solid for the style.  F - little watery at first, but a solid effervescence - I could chug it if I wanted to waste its deliciousness - basically a nice balance of bubbles  O - pretty big fan, prob one of the best pale ales I've drank - worth coming away from reviewing beers to come back to note it for my own reference    out of a large wine glass poured out of a bottle   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 Not as good of an experience as Zombie Dust, but still a highly satisfying pale ale. Not my favorite from FFF, but I would certainly drink again. A refreshing combination of malts and citrus would make me search for this again.   
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 On draft at The Map Room in Chicago, IL. 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.25 Full head of foam, covers an almost Amber looking beer.   Aroma is dominate with citrus hops and a heavy malt character.  Taste is caramel and orange citrus.   Mouthfeel is nice and bold, good balance, heavier on the malts.  Overall... Been wanting to try this for some time and it's a good beer, just not my style.   
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.25 | overall: 3.75 nothing stands out in this beer compared to other 3 Floyds. I feel this is too bitter and monochromatic in complexity, 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 4.5 | taste: 3 | feel: 2.75 | overall: 3 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 Tons of floral, spice, herbal notes, sweet caramel malts, a touch of citrus....maybe a little orange. Drinks like an IPA. Quality APA. I've had better though that are much easier to get. I would most definitely drink again....I just wouldn't go out of my way to seek it out.   
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 Appears amber in color. Has a relatively strong citrus smell. Taste is well balanced with a nice citrus taste at beginning and end. Has a smooth feel. Overall a great beer would definitely drink again.   
+look: 3 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 5 | smell: 5 | taste: 4.25 | feel: 4.5 | overall: 4.75 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 12 oz bottle. Pours bright coppery amber with slight haze. Head fades into lots of lacing. Big fruity bready aroma. Taste is outstanding balance of malt and citrusy flowery hops. Has a creamy mouthfeel but then ends crisp and dry. Overall a full flavored greatly balanced pale ale. Yum!   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4 | taste: 4.75 | feel: 3.75 | overall: 4.25 Poured a illustrious amber, the scent of grapefruit and juniper if delightful! Taste is well balanced... well hopped and slightly sweet. Overall, its not a beer I would have many of, it is however one that should be appreciated slowly and down to the last drop and then repeated!   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Pours a reddish amber hue with a respectable foam topping. Lacework going down the glass in an epic way leaving foam rings like clumps of styrofoam on the glass.    Aroma bright and hoppy with some floral, fruity elements, a bit of caramel and ale yeast fruit. Fresh and hoppy smelling this bottle is under a month old.    The taste has fresh hops, with pine, citrus, herb, and melon elements. A bit of fuggles type action perhaps with the tea like and herbal element. Floral, nicely bitter. Tasty. Well carbonated ale, not overly bitter but certainly fooled some blind taste subjects into thinking it was a west coast IPA. It is tasty, and has good bones, which is to say the recipe is quite good. If the price was right and I could get this all day, I would.   
+look: 4 | smell: 5 | taste: 4 | feel: 5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.25 | feel: 3.5 | overall: 3.25 A: Deep amber, pretty two finger head, seemingly quite effervescent  S: the perfect marriage of hops and malt, a very pale ale kinda breadiness  T: malt and a tinge of sunflower seed like bitterness and after tastes, it tastes like wort smells, very sweet in its own way, smells of fresh fruit in a generic sense, a bit of acidity in the aftertaste and some melon juiciness  M: juicy   O: oh how I wish this were as good as zombie dust, it's still quite good but nowhere close in comparison. I wish that I had tasted this first so that I could have been fair to it.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Solid pale ale that I usually grab a six of whenever I see it (unless gumball head is too). Well balanced and love the crisp look and mouth feel. I prefer more hop foward beers but this is good for pale ale.   
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 4 Sweet and malty. Not my favorite style, but I could still appreciate how solid this glass of beer was. 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3 | smell: 3.5 | taste: 2.25 | feel: 2.5 | overall: 2.5 L: Copper, slightly darker than expected. Pretty clear. Great lacy head.    S: Great citrus smell.    T: Strong malt and some undesirable bitterness - I love a bitter beer, but this as too malty/metallic and I didn't enjoy it. Citrus finish is the only saving grace.    F: Appropriately carbonated.    O: Good smell, look, and feel but the taste was not enjoyable for me.   
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 3 | taste: 5 | feel: 5 | overall: 4.75 L - copper like a penny. White head  S - not picking up much of anything. Some malt but no hops. Odd.   T - extremely surprising given smell. Plenty hops. Plenty malt. Working very well together. Hops are overbearing.   F - medium carb and just a slight tingle of hops on the tongue.   O - very well done. My first FFF and I'm excited for others   
+look: 4 | smell: 4.5 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours copper, dark for a pale ale. Slight citrus hop aroma covered up by sweet malt. Sweet carmel malt flavors up front followed by a fairly good citrus hop bite. Easy drinking and the malt really cuts the perceived bitterness down. A favorite pale ale but I tend to favor pale ales and ipa's with a good malt backbone to balance out the bitterness.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 I am surprised by this, I usually love everything by 3 Floyds, especially their Pale ales, unfortunately this one isn't as good    I could drink this, but I thought it was far too bitter for my liking, it was less than 2 weeks old so it wasn't a freshness issue.     Strange, but still a solid beer.   
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 4.5 | feel: 5 | overall: 4.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 I am drinking this a week after it was bottled from a hotel water glass. It pours brilliant amber with a moderately thick off-white foam cap. It has a spicy hop nose while the palate starts with fruit and a little sweetness to finish dry and grainy with a bitter hop accent. The carbonation is medium low and the body is medium. A very very good pale ale.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 Pours a copper / light amber color. Has a nice aroma of malt and hops. This is an incredibly drinkable beer. Nice notes of hops, malt with a crisp light citrus finish. Overall a very good beer   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Caramel and malty, as advertised. Slight bitterness on the finish as well. Pine pretty subtle. Clearly a solid, quality pale ale. I prefer piney crispness to malty sweetness, but again, this is a quality ale.   
+look: 3.75 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 A real solid pale. The hoppy bitterness is well balanced by a heavy dose of malty/carmel sweetness. The smell is mostly carmel with a little herbal grassy/ hops, the taste follows suit. Has a medium body, but great for a pale ale. I did get a really fresh bottle so take that into consideration. (Bottled on 7/21/15). Do I dare say a baby Pliny the Elder?   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 3.75 | overall: 4 
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 A hazy copper color with an light tan head. A big fruity aroma with good citrus, peach, and some tropical fruits. Also a nice malt sweetness in the aroma as well. Flavor follows closely with big fruit and a nice balanced maltiness. A moderate pine bitterness in the middle which blends well and finishes clean. A very flavorful beer for an APA.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.5 | feel: 3.5 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 Stood up to its name . Really nice pale ale 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 Pours a cloudy dark copper with a creamy white head that leaves lasting lacing.  Great aroma full of fruity goodness. Citrus, peach and apple jelly.  The taste is as big and bold as the aroma. Lots of citrus pith bitter right up front, a very juicy middle that's almost puckering, a resinous and drying finish.  Mouthfeel seems about medium.  Just an outstanding pale ale with more flavor than most IPA's.   
+look: 3.5 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 No noticible bottle date. This seems to be happening a lot with FFF brews over the last few months. Pours a fiery amber-orange with perfect clarity. The head rises aggressively to the top of the glass and holds strong before fading slowly. The nose feels like it's trying to hide a spicy hop behind some sweet malts. First sip and "BINGO!" The hops are really balanced out well with a nice sweet malt presence. Great all around beer for all times of the year.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 3.75 | taste: 5 | feel: 5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3.5 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4.5 | feel: 4 | overall: 4.25 Look is malty. Smell is malty and somewhat unappealing. The taste is pretty damn good for a pale ale. It's like lagunitas sucks without the hoppieness    Btw, bottle date is may 8, 2015   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 Really great beer that's readily available. I could drink it all day. Among FFF beers, would still take Zombie Dust over it, and maybe even Gumballhead just because it's lighter and unique for a wheat beer.   
+look: 4.75 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 Dark reddish-amber brew, translucent, and topped with a massive fluffy cream-colored head. Fantastic retention and nice lacing.    Pine and grapefruit peel hop notes meet you immediately, balanced against some caramel malt.    Flavor follows, with a focus on grainy and biscuity caramel and a sweet brown sugar kiss on the back half. Hops present much the same as in the aroma, carrying a nicely balanced bitterness throughout.    Lively and smooth feel, albeit a touch watery. Fairly dry finish.    This is a very good beer, but I personally feel as though something is just missing.   
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 12 days old. Pours a dark amber. Piney and great smell. Taste has some fruit to it as well. Tastes better than lots of IPAs that I have had. Dry and bitter on the back end. Awesome brew.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Typical of a APA, pour if a hazy and copper with a beige head that leaves a lacy trace on the glass.  Pine, lemon, bread notes and malt.  Taste is very similar to the aroma with subtal grapefruit at the back. Delicious.  Feel is dry with great carbonation and bitterness!  Another great beer from 3F!!!   
+look: 4.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 Pours a dark amber color with a thick white head. Smell is quite malty. I'm thinking this isn't too fresh. Date on bottle looks rubbed off. Slight citrus and pine. Taste follows the nose. Pretty malty, with a good amount of citrus. Quite bitter for an APA. Mouthfeel is a little thick but very sessionable and crisp. Overall a decent APA. A little sweet for my taste. ZD is much much much better.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 

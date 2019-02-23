@@ -1,0 +1,1000 @@
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 3.5 | feel: 4.25 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.25 Delicious, great 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 I am not a very good reviewer, but I do enjoy this year's batch even more than usual it seems. The 2018 version seems to be an almost perfect brew to me. I am also a Sierra Nevada Torpedo fan, but this seems a bit less overwhelming. To me it is just the right amount of hoppiness, carbonation and body. These days there are so many over hopped IPAs that I will definitely miss the 2018 Celebration when it is gone.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 3.5 Pours a very old school deep orange/amber for an IPA. Nice off white head with great retention and great carbonation.  Smell is brightly piney with light citrus notes and a pleasant crackery sweetness. Again showing a very old school bent compared to the tropical fruit salad of modern american IPAs.  Taste is pleasantly balanced between sharply bitter pine hops and rich bready malt. Reminiscent of a hoppy amber or red ale. The sweet/bitter flavor dance plays out well across the whole flavor.  Mouthfeel is nicely crisp with an adequate body. This is definitely a classic crisp IPA.   This is a classic and an old favorite of mine but I do feel like it's showing its age. Not so exciting as it once was and certainly not the best fresh hop beer available anymore. A nice yearly treat none the less though.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 3.75 Based off the look i was very excited about this ipa but the taste was a slight let down. It's not bursting with flavor it is pretty mild, still enjoyable, but not what i was expecting. Given the opportunity i would drink it again but would first check my other options.   
+look: 3 | smell: 4 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 5 | smell: 3 | taste: 2 | feel: 2 | overall: 2 I haven’t ever tried an ipa before this and wasnt convinced with this guy. The reviews are high on this, so I don’t know if I grabbed a bad one. It came off really bitter and tasted like paint with a bad after taste. Maybe just my palate. Glad people can enjoy it, just wasn’t me.   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Consistently awesome seasonal - beautifully balanced IPA. This beer will stand the test of time and trends.    You never have to worry about a bad bottle, because it is only around a short while.   
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 3.75 i don't know about nose, finish, or notes but my feeling is that this is a confused ale, in general. i like specific things, particularly body and color - but the flavor, based on those two aspects which elevatec my expectations, was surprisingly bland. to my palate, i expected a little more tang (fruit forward?) and on the tongue, more zip. on the other hand, it accompanies and complements a meal rather well so i will buy more of it.   
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 12 oz. bottle. Pours clear copper with a small tan head, good retention. Steady fine carbonation from the bottom of the glass. Aroma: not much, I just can’t get much more than malt and a hint of citrus. Maybe my smell sensor is in need of calibration. Taste is roasted malt and citrus, with some pine. Bitter finish. Good but not great.   
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4.25 Fresh hops make a difference. Sweet and bold hops smooth and tasty. 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Serving: Bottle (2018)  Bottled: Oct-15-2018      A:  Pours a crystal clear, ruddy amber with a monstrous root beer float head. Great retention; doily lacing. (4.5)    S:  Bright pithy, piney West coast hopping and a little spicy, caramely malt. (4.25)    T:  Follows the nose. Hops and brown bread with a little spice and a light caramel flavor to finish it off. (4.25)    M:  Medium body with active carbonation a meaty feel with the malt and a fairly dry finish. (4.25)    O:  Excellent beer. Pleasant seems like the best descriptor to me. I can't believe I've never managed to have this before.  Lovely looking in the glass. The nose is pungently hoppy but not overbearing. Bright pine and bitter citrus. There is also some nice malt character and both carry over into the flavor. It is easy to drink and we'll balanced between the various parts of the proverbial whole. An excellent beer that I will seek out in future years. Sucks that it isn't more available outside the US as a seasonal (or in Quebec at least). Glad I have 5 more to drink. (4.25)   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 3.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 This season delivers most years as the perfect harmony between malt and fresh hops. It's a welcome variation on the typical winter seasonal beers that are often over spiced.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Bottled 10/4/18. Pours a somewhat hazy amber with a tightly packed white head. Subdued grapefruit and lots of pine on the nose, definitely a strong hop presence. Super clean hop-forward taste, lots of pine and a slightly fruity aftertaste. Medium-bodied, good amount of carbonation, slightly sticky mouthfeel. A solid IPA that I wish I bought two months ago!   
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 Pours an amber color with a white head with decent retention and leaves some lacing on the glass. Smells of bready malt and floral, citrusy hops. Citrusy, floral hops lead the way with lots of grapefruit flavor. A bit of sweetness in the strong malt backbone is overshadowed by the firm bitterness. Medium bodied.     This is an exceptional IPA that I look forward to every season.   
+look: 3.75 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 It not bad, the SN Torpedo is better 
+look: 5 | smell: 5 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 Pours a beautiful amber color with a nice 2 finger foam head with a mildly stubborn lace noted. It has a beautiful hoppy aroma, filled with fruit and bread wrapped up in slight piney scent. It tastes even better. It has an incredible hop taste-bready with fruit and pine throughout-that has a slight burn on the roof of my mouth. Having this brewed just once a year makes it a true "Celebration" to have, but if Sierra Nevada wished to brew it year-round, I would gladly buy it VERY often. Yet another phenomenal hop-filled offering from Sierra Nevada!   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Crisp IPA. Pours reddish amber with good white head. Smells of fruit and pine. Tastes of cirus with good mouthfeel. Very drinkable beer despite being not my style.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 My absolute favorite winter seasonal. I look forward to this one every year. Copper pour with thick foam. Strong hoppy aroma. Very flavorful. Has a slight malty balance with a bitter finish. Perfect on a crisp Christmas morning.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Piney and citrusy. 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Nice clean, crisp IPA that pours a nice amber color with decent fluffy white head and spotty lingering lacing. Smells of nice fruity and piney hops. Tastes of fairly juicy fruit - orange, pineapple, lemon - as well as fainter piney hops, caramel, bread and a great malt backbone. Clean smooth thin mouthfeel, good carbonation. A nice, easy to drink IPA but not that exciting - and that makes it a little disappointing considering the other reviews here.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 Delicious is the best way for me to describe this beer. 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 Just another brilliant example of Sierra Nevada. Their beers are, in my opinion, are particularly clean. So much there to enjoy, nothing there which would distract. Pours a beautiful amber color, a bit unusual for the typical IPA. The hop aroma is very front and center, citrus and pine, a mild yet assured bitterness, At 6.8 ABV this is definitely higher in alcohol, but you won't even notice while drinking. Perfect balance between hop and malt. The fresh hop character is beautiful, it appears I fall in love with everything from Sierra Nevada.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Poured a beautiful copper color with a three finger tan frothy head. The head lingered and dissipated to a nice film that remained. Heavy lacing was present. Aroma is light and fresh piney citrus. Balanced malt and hop flavor with a bit of pepper and citrus mixed in. Moderate body and carbonation. Overall, a very good IPA.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 5 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 3.75 Draft pints. It's always on tap at restaurants in town this time of year.  Pours a dark amber with two fingers of creamy head. Full curtains of lacing.  Faint piney scent along with bread and caramel notes.  Well balanced hop and malt flavors. Pine, pepper, and citrus in the background. Very faint spice.  Full smooth feel, enduring head and carbonation, slightly sweet finish.  Glad to see this in wide distribution and I enjoy having a few each year, but I'm not buying six packs.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 A: Pours a thick 2 finger head.Color is dark rusty orange. Some wonderful intricate lacing all around.    S: Citrus, grassy, oily hops. Grapefruit, bready.     T: Grassy hop forward starts off with good bitterness, then the malt comes in and tangos with the hops until the hops ends on a mellow long note. Lovely balance, well restrained.    O: Nice IPA for the season. Flavorful, well balance. Solid.   
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Fantastic IPA, great price. Highly recommended 
+look: 4.25 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 Superb IPA with a unique and delightfully malty hoppy taste. I'd be hard pressed to point to a better winter IPA - and at $13 a 12 pack at Total Wine - there is no better deal. In an ever widening sea of great IPAs - Sierra Nevada still stands out on quality and value.   
+look: 4.75 | smell: 3.25 | taste: 4.25 | feel: 4.5 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3 | smell: 2 | taste: 2 | feel: 3 | overall: 2.5 Too bitter without being compensated by interesting aromatics or malty goodness. I have liked this beer in previous incarnations, but this years iteration just didn’t cut it.   
+look: 3.75 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Appearance - crimson body with beige head    Smell - pine, citrus: grapefruit, caramel    Taste -citrus, headlined by grapefruit, pine, caramel    mouthfeel - medium bodied, medium plus carbonation, citrus upfront, piney/bitter hops at the back end    Overall - nice IPA here, well done & worth a try    Price Point - $1.99/12 oz single   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 I look forward to this beer every year and it never disappoints. Outstanding creamy head with great lacing. Nose is a little light this year but great hop forward flavor and resinous finish.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Picked-up a twelve pack of bottles at Bradford's in Plymouth for about sixteen dollars. A fan of Sierra Nevada, but don't typically seek it out, with so many good brews in NE. I have had this beer before, but never reviewed it. Solid brew, unique taste.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 4.75 I always look forward to the Celebration release, and this year's release lived up to my anticipation, and some. Maybe it is a little better than previous years, or my anticipation has enhanced my enjoyment of this years.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 This is a good one folks and if you've never had it, get some. Has a little bit of many things going on. Malty, hoppy, slightly sweet with a little spice but nowhere near as spicy as some other holiday brews. I always buy some extra to crack open in the Spring.   
+look: 4.75 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 12 ounce bottle poured into a tulip glass.     L---Slightly hazy, rich amber color. Thick, slightly off-white head with very good retention and excellent lacing.     S---Pine & citrus, as advertised. Not very strong, but they hit what they aimed for.    T---A touch of dankness. Rich with pine & fruit (orange & grapefruit). A bit of resin as well.     F---A little sticky. Full mouthfeel. Alcohol isn't noticeable. Full carbonation leads to a creamy feel.    O---Excellent beer. Can't believe I've never had this one before. Hopefully, there's some more at my shop so I don't have to wait until next year.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 Looks amber/honey colored with a creamy head. Nice lacing in Spieglau IPA glass. Smells like pine cone, tangerine, buttered biscuit. Tastes piney,tropical, earthy. Feels sharp and almost dry. (Which is good), who wants oily,viscous IPAs. Overall this is a solid beer as always. (I used to believe there was actually some cinnamon, nutmeg) This is a fantastic fresh hopped ale which I am surprised I never rated-   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.75 12 Oz bottle poured into glass  Look - dark amber color, massive foam head with lots of lacing on glass  Smell - dank hops, very earthy and fresh. A little pine and a little fruit. Can pick up some of the malt sweetness as well.  Taste - It's just a very good IPA. It has the typical hop to malt ratio that balances it out real nice. The hops taste super fresh, not all that bitter but it's certainly going to be bitter with the amount of hops they added. It's medium carbonation and medium-heavy bodied. I love this beer with my Thanksgiving or Christmas meal, it's not too heavy that it fills me up but it's smooth and adds some different flavor to the meal.    Overall, this is a very hoppy beer. If you don't like it, you probably don't like the taste of hops. I love this beer and to me it's hard to beat this time of year. Grade is an A+   
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Wonderful example of what an IPA should be 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 3.5 | taste: 4 | feel: 4.25 | overall: 4.25 They should replace hazy little thing with this year round. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 talk about solid. you see that logo you know it's worth checking out. a tad over a month old, dumped into a pint glass a deep clear copper color with a nice foamy head, tons of lacing. nose is a ton of sweet caramel malts and piney/grapefruit hops. nothing else needed there. taste follows, earthy, piney and slightly citrus hops with a good sweet malt base. medium bodied with a lasting hopiness. i'm two deep in the past 45 minutes, but hey it was affordable.   
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 Poured from a 12 oz bottle 10/02/18 into the test pint glass.  A - Deep copper color, wonderful clarity, active carbonation, a pillow of off white resides topside  S - Sweet malt, surrounded by earthy hops, some hints of caramel, and white pepper.  T - Follows the aromatics to perfection.  M - Wonderful feel, just bossy enough without being overwhelming. Semi sweet start, malt waves ridden by fresh hops. Finish is dryer and delightful.  O - I appreciate the annual offering , this fresh is outstanding.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Maybe the hops just weren't as good this year, but here's another green/wet hop beer that disappointed me a little bit. Decidedly earthy and malty like an amber, it simply lacks pop. slightly musty like an old beer, but this is fresh. Doing get me wrong...It is still a pretty solid beer. It just isn't special. On the other hand, I'll still buy it next year.   
+look: 5 | smell: 5 | taste: 5 | feel: 4 | overall: 5 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 From the first whiff and sip, I liked this beer. I bought a case with only BA reviews to guide me in my purchase. I knew it was a score, though, because, Sierra Nevada. A very pleasant beer to imbibe, indeed.   
+look: 5 | smell: 3.25 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 This beer is an exceptional value as well as flavor. It has all the qualities of a great ipa with a winter warmth. Very enjoyable and the price is unbeatable.   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 SN excels at making IPAs, and one would be hard-pressed to find a better one than Celebration at any price. When you factor in price, nothing comes close to Celebration!   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Look Forward to this release every Year!!! 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Rating IPAs is tough. Here in New England we have brewers like Tree House that turnout exceptional craft beers. But for many/most of them you have to drive an hour or two, stand in line, and pay $4 +/- a can. How can you compare that to beers like SN Celebration that, in season, are available almost everywhere at about $1/bottle? If money is not to be considered, and drive time is not to be considered, and standing in line time is not to be considered, then Tree House Alter Ego or Green or etc is a somewhat better beer than Celebration. But those factors have to be considered.    On a value basis, considering all above, this beer stands with the best. Easily. It's great fresh, in November thru January. But I just had a bottle now in August. The character has changed but not the satisfaction. Smoother, richer, still unique. Don't be afraid to buy several cases in late Fall and if you don't finish all of them you'll still have a treat 9 to 12 months later (I'm going to cellar a few and see what happens after a couple years, a la the Trader Joe's/Unibroue Christmas beer).    Spectacular value.   
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 3 | overall: 3 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Christmas, piney 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 Nice amber complexion, smooth hoppy flavor and aroma. 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 3.25 | overall: 4.5 One of my favorites. A red IPA and when fresh, a taste bud tingling sensation overload. Piney and hoppy and fruity but also backed by a toasted caramel malt foundation that brings out visions of Christmas hearths and pine trees and sweets.     Perhaps my favorite beer by Sierra Nevada and my excuse to drink IPAs during the holidays!   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 2.75 | taste: 3.75 | feel: 4 | overall: 3.75 It had a weird skunky smell, not sure if it is actually how the beer smells or just something wrong with that particular bottle. The taste was pretty good but the smell was overwhelming.   
+look: 3.5 | smell: 3 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 This was a pretty good beer for the style. 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 5 This is by far my favorite beer. I wish it wasn't a seasonal, but maybe that is one of the reasons I appreciate it so much. Every year around Thanksgiving I start looking for this to show up at the liquor section at Hyvee. I was also fortunate to drink it on tap this year at one of my favorite alehouses. Wow...nothing better. Rich in dark amber color, Perfect blend of 3 different hops, and an amazing balance of bitter pine, citrus, and caramel toasted malt will satisfy any fan of a true American IPA. the only downside is that when it is gone...it is gone for about 10 months...that makes me sad!   
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 Sierra Nevada's Fresh Hop IPA was surprisingly smooth and citrusy with slight pine throughout the palate. I had this at a restaurant.  This gives a 2 finger head.   The color is a medium cloudy straw, because some yeast is left in the bottle.   The aroma is a slight piney citrus.   The taste is a distinct citrus crispness with light notes of ptne. Bitterness is moderate toward the middle to back of the palate with a hint of malt which offers a smooth finish. I just find this to be one of the best palate cleansing, refreshing beverage any time of the year.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3 | smell: 2.75 | taste: 3 | feel: 3 | overall: 2.75 I noticed that there are no spices are added to this beer, they could have fooled me. This is very bold tasting even for an IPA. I am not too keen on this one. It's okay but I don't see myself celebrating with this beer again. Cheers! C   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 This is what an IPA is supposed to taste like, no grapefruit juice here... Another crisp and clean one from Sierra Nevada. 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.25 Like a cross between a Scottish ale and an IPA. A bit of caramely sweetness crossed with citrusy and piney hoppiness. It was good, would drink again but probably not buy again. There’s just things I like better but it was a good change up.    The look of it is awesome though. Deep caramel like like a heavy IPA with a thick lacy white head.   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Awesome, awesome beer! One of my favorites from SN.   Abundance of fresh hop taste and aroma. Surprising balanced taste as it smells like complete hops overload! Color is an awesome deep red amber color. Everything about this beer is so much better hop bullet which I have now as well.  A few others have pointed out that this beer does seem different year to year. I remember it being a bit more malty a few years ago.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 Cloudy amber color with a nice thick white head that laces well. Lots going on with the nose. Plenty of tropical fruit and some hints of forest, violet and honey. Taste a little on the weaker side compared to the smell hints. Front palate of pineapple, lemon and lime with a malty, earthy finish. Medium feel with a lingering finish. Overall a nice woodsy winter IPA.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 3.75 | taste: 3.75 | feel: 5 | overall: 3.75 From Decervecitas. 2017 version. In Teku glass. Playing Bloo Kid 2. Smooth feeling and great aspect, with a thick, persistent foam. Pleasant but surprisingly malty for a beer labaled as fresh hop IPA, with hops giving a soft bitterness but not much flavors   
+look: 4.75 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Rust orange color, just above average carbonation and body. Aroma is a really nice blend of hops with malt in the background. Taste is very similar, the bitter hops are there but really softened nicely by the malt. I'm not an ipa drinker typically but I found this to be really very enjoyable   
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 Poured 1.5 bottles into a pint glass with a handle. The bottled on date was 10/10/17. The color was a deep orange/amber with a small amount of head. The taste was a little hoppy but, that is to be expected with a fresh hop IPA. The hop flavor really stands out and the alcohol warms ever so slightly. Overall this is my favorite winter seasonal beer and I always have at least 6 bottles of this beer in my fridge at all times during the winter.   
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 5 How long have I been wanting to try this Celebration IPA! Ever since I read about it first and heard stories of its freshness...  Now finally I found this around and it was relatively still fresh, with a bottling date of 31.10.2017, about two months and a half ago (of course over in California I might have been get it when it came right out but now we're talking about Europe and small batch imports - I am happy that it got here at all).  Still it's quite fresh. Has an amazingly rich color, a vivid amber/dark golden that talks about the purity of this beer and its ingredients. And they don't let you down. Its smell tells you that Sierra achieved an outstanding balance between aroma and bittering hops and they are overflowing, still ripe with freshness. And the taste... I was dumbfounded by its smoothness. The way the hop bitterness flows, first dense and intense, grassy, piney, earthy aromas that are thick like honey - and turn to fruity, piney bitter bitterness in the end. A magical composition of hops.  It is a Celebration ale, to bow your heads down before the greatness of hops, the brewing genius of Sierra Nevada. It is perhaps not as in your face as you might expect such a beer but the depths, the complexity and the content is amazing. It is a beer that I was most happy to drink and would enjoy having it again and again. Sierra Nevada at its best. Bravo!   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 Very nice ipa. This usesmalt right. It doesn’t overpower or compete with the hop flavor, but takes a backseat and let’s the hop shine while still being there to give it support when it needs it.     Had it on tap and in bottle, and it is way better that hazy little thing and hop bullet.    Not as good as torpedo but still, try it! Especially if you like a bit more malt   
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 Pours a coppery, brown coloraion with a large, creamy head. Smells of sweet, bready, bsicuity malt with a strong pine presence and just a touch of tangerine citrus. Taste follows the nose, with strong, biscuity malt and pine and just a touch of dank, floral, slightly citrussy hops: orange peel, tangerine and toffee, followed by a medium bitterness. This review is from a 2015 bottle which was about 2 1/2 years old. Would love to taste this fresh for comparison. I guess the hops have faded a little, but this is actually still quite nice with the strong malt and pine notes with just a hint of citrus. Actually reminds me a lot of Uerige Jrön, a fresh hopped Alt beer.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3 | taste: 2.5 | feel: 2.5 | overall: 2.5 **  01/31/15    On tap at wildflowers too. Brown color. A bit flat.   Taste: soapy , Ashy, Spice, caramel.     Disappointed. I feel like this beer has definitely changed for the worse over the years. Used to be maltier, but it's been hopped up to apease IPA-folks.  **        **   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 L: beautiful amber. Thick golden head that clings to glass. Hazy.   S: Hints of malt and pine and citrus.  T: a little more bitterness than expected. Boozy for a 7%  F: Slightly thick on the pallet for an IPA. Very little fizz.  O: Not my favorite but ok for the price   
+look: 4 | smell: 4 | taste: 4 | feel: 3 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Bottle (2017)    A: Citrusy hops with light pine, floral, balanced with moderate biscuit-like malt sweetness.    A: Amber color, totally clear with a moderate white head that quickly recedes into the glass.    T: Crisp, piney and light resin hop flavors, fruity, with a caramel, biscuit-like malt sweetness, moderate hop bitterness with a dry finish.    M: Medium bodied with moderate carbonation.    O: Tasty; every year it's interesting to see how Sierra Nevada slightly changes up the recipe. Always enjoyable to drink annually.         l flavor is present. The taste was more assertive than the smell for sure. Was also bitter in the aftertaste with remnants of grapefruit peel. Altogether crisp and refreshing.   
+look: 4 | smell: 3.75 | taste: 3.25 | feel: 3.75 | overall: 3.25 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 No need to add comments as this is obviously a very well-known quantity and one of the gold standards for American IPA (borderline DIPA by any reasonable standard), other than to add, should separate pages exist for each "vintage" (or any other limited edition/seasonal beers) as they vary from year to year? I have a bunch of these (plus Bigfoots, Thomas Hardy's, JW Lee's Harvest, some Bells products, and others--all on lees of course) going back quite a few years (some from the mid-'90s) and it's interesting how they change (not always for the better, especially for hoppy beers, but these hold up quite well). I had a New Holland Y2K (do the math) the other day and it was mind-blowing.   
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 Poured into a clear glass. Has a cherry-amber color (festive) and a thick dark-golden head that gradually dissipates. Good carbonation.    Smells citrusy, orange and grapefruit peel masking the nose. Also smells of pineapple. Other sweet malt and piney scents that may remind the drinker of Christmas trees and sweets. Floral notes. Faint biscuit smell. This all balances the hoppy smell which strikes the nose very well.    Tastes piney and very fruity, the flavors of cherry and pineapple being the most prominent. A light caramel flavor is present. The taste was more assertive than the smell for sure. Was also bitter in the aftertaste with remnants of grapefruit peel. Altogether crisp and refreshing.    This was quite exceptional. A very refined combination of citrus, pine, and floral flavors that makes the drinker imagine Christmas throughout the whole experience.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Same as every year, hop bitterness with balanced malt. A fine Christmas tradition. Pours red-gold, smallish head, decent lacing, Smells of pine and biscuits. Taste is balanced again this year. Sure, there are better beers, and more hoppy beers, blah blah, we still look for it every year because it's damn consistent and goes down good on these cold days and nights.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Good, but not great. Amber in color. Bottle 10/28 so maybe a bit past it prime. Malty and sweet with a bitter finish. 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pouring from a 12 oz. bottle into a becher glass. This beer pours out golden amber in color. It forms a one finger, rocky, off yellow/gold tinted color crown. The smell is sweet and malty with notes of toffee & caramel with slight pine notes. Almost smells like a hoppy brown ale. The taste comes in with a strong pine that I love and follows up with the sweeter malty backbone. Seems like it's got a lot more spice kick to it this year. Like a spicy rye character to my taste buds. Very good treat.   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Celebration Ale is becoming a nice staple of the holidays for me. This pours a crisp amber color, and has a great piney malty smell and taste ....light hoppiness is a nice reminder that not all beers have to be the NE DIPA. Great beer....please never stop  Just had my last one from my 12 pack. Better tradition than Chris Truskey’s seasonal blueberry beers, which he buys after selling the donations from the ‘Toys for Tots’ boxes   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Large head, a beautiful dark amber, almost perfect would get a 5 if the head wasn't so retentive   Smell is fresh and piny with hops, malt and alcohol underlying  Taste is amazingly hoppy, malt blends in perfectly and the alcohol is warming.  A near perfect brew   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 3.25 | taste: 4.25 | feel: 4.75 | overall: 4.25 Nice copper brown body with off white, cream head. Crisp taste with the right bitterness. Not much in the smell. Great feel with little to no maltiness.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 This beer pours a clear Amber color. Head is white and 1 finger. Retention is moderate.   The nose has a nice hop presence. Citrusy and pine.  The taste is, well, pine forward. Quite hoppy, but it isn't crazy.  Feel has a hop feel. Maybe slightly lighter than I would expect, but bad.   It is a good winter IPA.   
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 2017 edition - pours a deep clear copper colour with 1 finger off white head. Caramel malt with a bit of piney bitterness on the nose. Taste of hoppy malt followed by grapefruit/citrus rind with pine bitterness that coats the palate and hangs on. Really nice hop forward beer.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 I look forward to this beer every year. It pours a dark red copper with a small foam head that lingers. Smell is sharp pine with hints of citrus and malt. Taste is bitter forward with malt backing. This is an old school red IPA. It could be “modernized” with a little more juicy hop flavor, and slightly less bitter. But somehow, the fact that it doesn’t change and remains true to its roots makes I like it after all these years. It might be somewhat of a relic from a past era, but it still holds up well.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 Sierra Nevada’s Celebration Fresh Hop IPA is an excellent winter seasonal beer. Pours an amber color with a heavy off white head. Has great lacing all around the glass. Very fruity aroma with wonderful hops but nothing that overpowers the palate. The hops are present but are very delightful. A great IPA to have during the fall/winter season!   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 Celebration 2017 is a very enjoyable ale. Lovely dark amber with foamy white head and lacing. Pleasant aroma. It has a smooth taste with a bit of orange but not the accompanying bite that some IPAs have. Overall, a very tasty and palatable ale.   
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Sierra Nevada 'Celebration Ale' @ 6.8% , first tried in 2013 individual bottle's only $2.80 , fast forward to 2017 finally served in a 6pack of 354ml bottle's purhased for $17 , a rare find here in Victoria BC ,  A-pour is a pale gold from the bottle to an unclear amber in the glass with a medium white head leaving a streaky lace along the spiegelau ipa glass  S-fresh PNW pine forest , with a malt sweetness  T-big hoppy IPA , crisp & clean , you can still taste the freshness of the new hop  MF-good carbonation , feels full bodied , good beer buzz going(4pack) so far   Ov-great Winter/seasonal IPA , glad I got to try it , such a great beer still , buy it if you can find it & enjoy  prost LampertLand   
+look: 4.5 | smell: 3.75 | taste: 3.5 | feel: 4.25 | overall: 3.5 
+look: 4.75 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.25 | smell: 2.5 | taste: 3 | feel: 2.25 | overall: 3 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 2017 seems even better than past years. 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 2.75 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 What can I say about this brew that hasn't already been said? It has a nearly perfect balance of light yet almost chewy roasted malt sweetness and piney/grapefruity hops that linger yet don't overpower or sting the tongue. From the time you inhale and it passes the lips, across the tongue, down the throat, to a final exhale, this gorgeous rusty ruby hued ale is like it's making sweet love to all of my senses.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 5 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 4 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 3.75 | overall: 4.5 12 oz bottle poured into a tulip glass.     L - Pours a rich, clear, red-amber color with a generous inch of soapy, white foam. The head lingers throughout the session, with generous bubbles and a lot of sticky retention to the side of the glass. Probably the best-looking beer I've poured.     S - Smells almost like an amber or red ale. Sweet caramel malt, citrus rind, apples, pears, berries. The piney hops shine through all of the fruit and sweetness giving it a pleasant aroma.     T - A near-perfect balance of bitter hops and malty sweetness. Orange rind and apples up front, biscuity roasted malt follows, and a metallic alcohol bite at the end.    F - Drinks a typical west coast-style IPA--light-to-medium bodied with a creamy, smooth head. Fairly carbonated with an astringent mouthfeel towards the end. Sippable, though not something to gulp down.     O - A very enjoyable seasonable offering from Sierra Nevada. I love their pale ale, and this is like the flagship beer with a bit more oomph to it for the colder, winter weather. A very unique IPA with a lot of character, both in looks and in taste. Definitely worth trying, if not purchasing consistently throughout the holidays.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.75 | taste: 3.75 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 This is another solid brew from this brewery. Slightly darker and maltier than their main selections. Really good stuff! 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Poured from 12oz bottle into glass. '100317' is stamped on bottle.  Body is dark amber, pillowy off white head, and lots of lacing.  Aroma is caramel malt, pine, and citrus.  Taste is chewy malt, with pine and citrus hops. A little sweet, and a touch of bitterness at the end.  Medium mouth feel.  Very well balanced, with good looks, and very enjoyable tastes.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 2018 likely my favorite so far. Hoppy and piney. 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 This is a great beer. Looks beautiful. Tons of flavor, but not too fruity like a lot of IPAs. Gives off a wintery vibe. Has a decent kick. Perfect for a Christmas party. I’m definitely getting more.   
+look: 4.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 It's ruby red, foamy cream head screams Christmas and snow. Although a bit watered down it is still tastey with flavors of pine, malt, citrus, and cherry.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 Had several times and enjoyed enough to wish to say something positive about this beer here.  The appearance was a strong burnt dark orange to malted brown color with a cap of a little white foamy head that swiftly died off. Some lace, somewhat stringy and sliding off fairly quick.  The aroma had that strong smooth West coast styled malt bill flowing over a clean crisp bright citrusy to sprucy needle-like hoppiness. It has always smelled like that to me for as long as I can remember.  The flavor was an awesome balance of the sweet clean malts to the bitter and bright citrusy and piney hoppiness. Mainly a malty aftertaste with a touch of those sprucy to citrusy hops.  The mouthfeel was about medium bodied with a fine sessionability about it. Carbonation felt good. ABV felt as projected. Nice crisp semi-sweet malty to sweet hoppy and semi-bitter finish (the same as always).  Overall, what's not to love about this beer. It's got over 10k amount of reviews and sits at 4.15 out of 5 on BA at the moment. Of course, I come back to this every year and seems like it doesn't even need me to talk about it to anyone as it has stood the test of time and will continue to do so.   
+look: 4.5 | smell: 4 | taste: 5 | feel: 4.5 | overall: 5 This is my first review though I've followed Beeradvocate since 2011. Don't expect eloquence or flowery, descriptive language in this review.   A: Beautiful reddish amber with a two finger khaki head and nice lacing.   S: Describing smell is a weakness of mine. So I'll pass. It's nice, just can't describe it.   T: Awesome-- nice hop bitterness comes through. It reminds me of grapefruit rind and pine. Malty sweetness balances this out, but the finish is a nice hoppiness that's calling for me to have another sip.   F: Medium body, nice finish.   Overall: Perhaps my favorite IPA, seasonal, and beer of all time. It's solid year in and year out.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4 This beer pours a rich amber with a large head, The aroma features pine, cannabis, resin, orange peel, cinnamon, and caramel. The flavor starts somewhat sweet, with orange peel and clementine flesh, the it dried out with bitter pine, cedar, cannabis, and an oily, resinous finish. The mouthfeel is full with lush carbonation. Overall I see why this is a classic - it does have exquisite balance, and a host of classic, bitter flavors.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 An interesting and quite enjoyable fresh hop ale. Beguiling reddish color and moderate tan head. Aromas of fresh fruit and grass dominate. The palate is assertively bitter yet refreshing. Just lacks the depth of a truly excellent beer. [fresh 12 oz. bottle into a goblet glass]   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 3.5 | overall: 4.75 I look forward to this excellent seasonal brew every year. I had a pint at the SN brewery several weeks ago in Falls River, NC. Slightly piney and definitely hop-forward taste. If you like fresh hop IPAs, you will love the Celebration Ale!   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Copper colored brew with a decent off white receeding head. Scent of a citrus and malt IPA. Decent piney and citric flavor with some blending malt. Quite tasty. If you like SN beers you will like this one for sure.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Great beer. Very clean for all the spices and caramel. Aroma is mostly caramel taste is malty with piney hops cutting through but the caramel is what makes it. Full mouthfeel. Very satisfying.   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 3.5 | overall: 4 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 Enjoyable pine and citrus hop infusion into a well balanced hop formula. 
+look: 5 | smell: 3.5 | taste: 3.75 | feel: 5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.75 | overall: 4.5 Str8 zinger 
+look: 5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.25 | taste: 3 | feel: 3.5 | overall: 3.75 Bottled ~5 weeks ago.    L -- Pours a tawny body with a three-finger off-white head produced with moderately aerated pour. Great retention and lacing. Some fine hop particulate floating around   S -- Barely getting any aromatics at all, surprisingly. Just a bit of floral, grass, metallic herbaceousness, and citrus peel   T -- Black tea, orange peel, fresh pine resin, caramel malt, grass, tobacco leaf, earth, grapefruit pith, and biley hop oils   F -- Standard drinking IPA     67/100   
+look: 4.75 | smell: 4 | taste: 5 | feel: 5 | overall: 4.75 worth the try :)     taste: roasted malts, pine, grapefruit, orange peel, raisin, melon     bitter hop aftertaste like torpedo 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 This is one of the most refreshing winter beers without gimmicks. Delicious, dependable, and true. $40 a case in PA. I swear it taste cleaner since they started distributing from NC and it's certainly easier to get my hands on.   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 Bottle packaged on 1/03/17. Pour is copper in color and the head doesn't last two long. Nose is hops, citrus, caramel malts. Taste is caramel marls hops, pine, faint citrus notes, candy sugar. Mouthfeel is more on the creamy side and goes down very smooth. Overall it's very nice. I've had this beer about three years ago and from what I can remember, that version was a little better than this years version. More aggressive hop presence.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 12oz canned 10/13/17 poured into a tulip pint glass at fridge temp 6.8% ABV. The beer pours bright reddish amber with sticky khaki colored head. Retention and lacing are above average. The aroma is pine and faint citrus. The taste is nicely bitter pine with an equally nice semisweet citrus & caramel malt balance. Mouthfeel is medium bodied, well carbonated and mostly dry in the finish. There is some definite hop oil presence that adds a slickness while never going too sweet or sticky. Overall, wonderful and made better with 19 day old delivery in cans.   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Look: Very generous, foamy head that stays up a long time. As it subsides, it gets pillowy like cumulus clouds and leaves behind microfoam that clings to the side of the glass with a lot of coverage. Impressive and fresh, with a brew date of 10/3/17 being consumed on 10/31/17. Color is brownish amber and is actually pretty clear, unless you tip the bottle over all the way and let in the yeast to your glass.    Smell: Simply great. Fragrant apple, orange blossom and peel, pear, and berries. An amazingly American fragrance that will not fail to impress. I don't get much pine at all, maybe a tiny bit, which probably makes it unique among the high-quality hop-bomb American IPAs these days.    Taste: The taste is where the hops come back, with your familiar iconic west coast IPA pine and citrus. I also get orange peel and a lot of bright but not sour fruit flavors, which I interpret to be berries. There's also a bit of roasted maltiness to it, but the hops take center stage much more than in Pale Ale.     Feel: There's a creamyness to it from the many small bubbles in such a fresh brew. Sweet, but still crisp. Medium herbal bitterness around the level of Pale Ale but overall brighter than Pale Ale. Malts are of the roasted kind and not the crackery kind of lagers, but the malts are very slight. The finish is probably the weaker spot of this otherwise flawless American IPA as it's not as malty as Pale Ale and not as hoppy as Torpedo or Hop Hunter. But you have to keep in mind that Celebration has been around since 1981, a year after Pale Ale and long before craft beer drinkers got accustomed to the hop bombs of today.    Overall: Most brewers use their winter seasonal to concoct pumpkin spice dark malt agglomerations without the pumpkin, but Sierra Nevada was not founded on such gimmicks. They built themselves on being the one of the first masters of American hops, and Celebration reflects their history and focus. Despite being a winter seasonal, Celebration has nothing to do with Christmas or spice and instead is instead a celebration of the start of the hop harvest, featuring the freshest hops of the year. This is well reflected in the outstanding head, aroma, taste, and texture of this beer, even compared to Sierra Nevada's year-round beers. The only glaring flaw is that the finish is surprisingly not as hop-heavy as Torpedo "Extra" IPA or even Hop Hunter, which probably reflects the fact that Celebration is a much older ale than the hop bombs that craft beer drinkers have gotten used to.   
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.75 | taste: 5 | feel: 4 | overall: 5 beautiful beer, look forward to this one every year. very nick malt backbone, then the hops kick in with a nice dry finish. Nice candy like taste up front and thick mouth feel. wonderful fall ipa.   
+look: 5 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 5 • Oct.2017 edition. Just released.   12 oz. bottle into a half-liter Belgian beer glass.   Clear, bright, amber color.   Subdued floral fragrances.   Rich, malty (caramel) flavors. Smooth.   And then the fresh hops kick in.   A feast.   Maybe not litterally an India Pale Ale.   But an outstanding American Dark, hoppy Ale for the winter season.   • May the supply last through the Holidays!   (Edited Milwaukee 12 Jan. 2018:   Got hold of the last 6 and 12 packs I could find, as it looks like we're not getting any more now.)   Let the Maibocks come now.   
+look: 3.75 | smell: 3.75 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 Pours a clear copper with a white head. Smells of pine, hops, light citrus, and some malt. Tastes of tons of pine, fresh and bitter hops, light citrus zest, and a nice malt balance. Medium in body and carbonation. Overall a pretty good fresh hopped ipa.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Thick, foamy head with a lot of retention. Hazy red-orange appearance with a lot of rising bubbles. Pine and citrus aromas and flavors throughout, with a nice balance of malt and rye coming in on the finish. Hop profile is well pronounced, but not overwhelming. I'm not sure if they change their recipe slightly each year, or there's just something inherently different about their processes from year to year, but I've had this several years in a row, and I think this and in 2014 were my favorites.   
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.25 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 Excellent American IPA. I'm not an IPA aficionado but really liked this one. 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 4.75 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 A bit sweet, but still a nice well balanced IPA. 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 How do you rate an Icon of the style?    What is style, what are forms, what is beauty...What is a shared experience...How do we know what we perceive or sense is something translatable in a way that others (or the perceived others) can appreciate and understand in a manner which is consistent to the manner in which one understands...    The French say it best, "C'est la Vie!"    2016 Vintage    Poured into a generic tulip resulting in a clear deep hued brown with nice bubbles and consistent off-white head.    On the eyes, everything one would expect for a strong American IPA - dark, clear and promising.    On the nose, hops, hops and more hops - even though this is the 2016 Vintage - Please note that I tend to let these West Coast Types (Sierra Nevada, Lagunitas, etc.) sit for a year to "take the edge off" the hops, as it were - just a personal preference...Candi sugar and malts on the nose as well -     Up front, through the middle and back follows the nose precisely - no surprises...What one would expect from an Icon...    Geez, has it been 20 years? Been partaking in this Seasonal Icon for the better part of 20 years and it has been consistent, but again, this is what one expects with an Icon.    Thanks for reading...   
+look: 4.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 From Untappd 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4.25 | taste: 3.5 | feel: 3.5 | overall: 3.75 Finally! This one has eluded me for a while, for whatever reason since it's not that inaccessible, but hey, what better opportunity than when at the taproom in NC?!    Dark amber-copper, nearing red, with a frothy, light tan, two-finger lumpy head.    Smell is catty, sticky dank peaches, and leafy CTZ-like hops.    Taste is more bitter than I anticipated, with weed, grapefruit, orange zest and cracker.    Dry and chewy.    So glad my first true pour of this was fresh at the brewery.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.5 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 A brew I always look forward to and one that never disappoints.   From a 12 oz bottle in a snifter this fine ale pours a luscious deep  amber with a fantastic head of off white foam that subsides to a   thick ring and layer with beautiful sudsy lacing. Nose of rich deep  caramel malts and pine laden hops with a touch of citrus rind of  grapefruit. Flavors follow the nose with heavy pine notes awash in   sweet lightly syrupy caramel malts touched with bitter grapefruit  rind and sticky hops. Excellent mouth feel; smooth, approachable,  medium light carbonation that is lightly lively, and a sweet malt  back boned finish awash in bittering pine and citrus laden hop notes  with a warming finish.    Overall, a fantastic IPA that is welcome and inviting.    Cheers      Cheers   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 12 oz bottle in pint glass. Bottled 7 weeks ago.     Pours amber, thick creamy head that lasts.   Though not described anywhere as an "unfiltered" beer, there's lots of 'hop bits' in suspension. Be careful not to leave any of those last, sticky drops behind in the bottle !!     Taste is more malt-forward, aftertaste a bit syrupy. Love it. Truly a "malty IPA", as opposed to the typical, purposely misnamed amber ale that so many other breweries use to ring the till.   A real craft beer. As in crafted...by craftsmen.   A great recipe for early winter...I do look forward to this one every Christmas...now a very festive tradition!   
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 Beautiful amber color, almost more like a red IPA with a nice frothy, eggshell colored head. Citrus and pine in the nose, with the taste to follow. I was expecting something more suited to the season, but this just tastes like your typical, albeit amazing example of your everyday west coast IPA. Balanced approach of sweet malts and bitter hops, with a silky smooth mouthfeel. Nothing mind-blowing like the hype led me to believe, but an overall excellent example of the style nonetheless.   
+look: 3.25 | smell: 3.25 | taste: 4.25 | feel: 3.5 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.5 | feel: 4.75 | overall: 4.75 Celebration 2016    Look - Pours a hazy, deep gold colour with a 3 1/2 finger off-white/gold head. Good retention.    Smell - Malt and orange zest stand out from the beginning with a suggestion of potential spice and an inviting freshness    Taste - Now, I'm not a huge IPA fan, but I can tell this is a good one. Sweet malt balanced by a bitter hop. That being said, there's a bright orange peel taste to the bitterness and a green, grassy, herbaceous flavour behind it all.    Feel - I wasn't expecting much fullness until I saw the colour and, again, I am not let down. There's a bready fullness to it that coats your tongue with a thick layer. This is a better mouthfeel than I've seen in many darker beers.    Overall - I was hoping for something special and I was not let down. I wish this was more available than only on Christmas.   
+look: 3.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4 Dark amber, no head with very little/no lacing. Nose is strong pine. Taste is balanced with a lingering notes of tropical hop and malt. 
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 Balance of piney hops and caramel malt. Great winter beer. Will definitely go for more. 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 My most anticipated season brew. This beer defines IPA for me. 12oz bottle poured into a Sierra Nevada pint glass. Hoppy, balanced, and bitter. Yummy. In my top 10.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.75 L - light brown/amber with a nice light tan head that sticks around - nice amount of lacing.   S - citrus, pine, malt   T- citrus and pine mixed with a smooth and sweet malt backbone - finishes with a nice hop bite. Very clean and pure tasting.   F - full body with medium carbonation - very smooth   O - A very solid winter IPA. Nice citrus and pine notes with a malt backbone.   
+look: 3.25 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 2 | taste: 4 | feel: 4.25 | overall: 4 I bought a 6-pack of this in Trader Joes in Bellingham. It was a month before Christmas and I wanted some US beers for the festive season so I was sold on this beer's snowy label. As a result, I was expecting a spicey, sweet ale but it's not. To that extent, I was initially disappointed when I tried it one evening with other winter beers but, take Christmas out of the equation and this is an amazing beer.     Firstly, that head lasts forever and I love constant lacing on the glass u till the last mouthful. It's darker than most IPAs and that's the only element that fits Christmas.    I found the aroma lacking but I've been suffering from a nagging cold so it's perhaps that.    The taste is full and the mouthfeel is great. The bitterness really hits you in the finish but you expect that with a fresh hopped IPA.    Bottom line; this is a great great beer regardless of the time of year. I may keep one to see how it ages; whether the bitterness fails over time or the caramel notes improve.....: who knows.    Definately worth a try.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 This will please your tastebuds to no end. .. at least, that is my opinion . The look is rather pleasing as well. Although I am new to this site I am thinking the bottle is incorporated into the "Look" score? Oh well.   
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 3.25 | overall: 3.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Simply outstanding in every category. 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 5 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 Pours a dark murky copper color body with an off white, frothy tan head. Its apperance reminds me of autumn.  Smell is very mild malt and citrus hops.  Taste is a great mouthful of piney hops with pops of flavor from dank resinous fruits. Followed by that light malt bready backbone that i always detect in SN brews. Body is well balanced and full. Med to high carbonation makes this easy to drink.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 This is such a classic ipa that has really stood the test of time.    The appearance is a really pretty copper/amber with a billowy two finger white head that lingers with good lacing.    The aroma is a classic west coast ipa with pine and citrus hops along with a sweet bready maltiness.    The taste follows the nose with a  piney citrus hop note along with a bready caramel malt sweetness that balances out the hoppiness.    The palate is medium with lingering piney resin and bready malt sweetness.    Overall this is a classic of the craft beer world that is still one of the better winter seasonals around.   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 SNCA pours a deep amber with a massive & long lasting dark tan head. Fresh piney hops and massive malts soar from the glass, beckoning one to taste. Beautifully balanced; bitter, slightly sweet and mouth coating, its hard to believe this brew originates from a micro-macro brewery having such massive distribution. It is a quality craft product all the way, a truly outstanding and impressive effort. So satisfying for a mid-weight brew, its fantastic with or without food, the taste lasts for several minutes in the mouth. Seek it, buy it, enjoy it!   
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 Look: Pours a rusty orange hue with a billowing 3 finger cream colored head.    Aroma: Sticky caramel, dank pine sap, grapefruit oil and lemon rind.    Taste: Upfront mild seeet toffe, notes of acidic coffee and savory caramel. Midpate bitter pine and grapefruit oil, followed by a dry aftertaste of tangy orange and delicate vanilla.    Feel: Smooth, dry, slightly sweet and creamy. 7% abv is hidden well.    Overall: Quite good. Malt bill is complex and savory - candy like flavors are in tune with the christmas season and balanced by a classic sierra nevada hop profile. A nice wintertime IPA.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4 | feel: 4.5 | overall: 4 This is a good tasting IPA with a fantastic appearance and a pleasant aroma. For whatever reason, the taste bends more towards bitter, which I don't usually mind, but there doesn't seem to be much balancing out that bitterness.   
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Poured from 12oz short bottle into Spiegelau IPA glass. Bottled on September 28th, 2017.     L: Clear copper, three finger off-white head has magnificent retention.     S: Super dank, herbal and citrusy. Just a wondrous aroma here.     T: Again, a lot of dank pine and herbal and citrus. Wonderful IPA.     F: Light, crisp, dry.     O: Wonderful IPA.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4 | overall: 4.5 This is a really great IPA from Sierra Nevada - I'd have to say it's up there right alongside some of my favorite craft brewed IPAs. Great hop flavor and floral nose, with clear hints of pine and grapefruit. Mouthfeel is just right - not heavy at all, but perfectly balanced. Very reasonably priced selection that I'd highly recommend.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 L: Pours our clear copper. In the glass, a slightly hazy, translucent amber with visible streams of bubbles. The head is tight, slightly creamy, and beige. The retention is fairly good, but dies down somewhat after a minute. The lacing is excellent, though. Sticky and splotchy.    S: Bright and hoppy; spruce tip and pine sap, lots of grapefruit flesh and peel, spicy with an almost minty herbal thing, and then a solid malt backbone that is both caramelly and toasty.     T: Like biting into a grapefruit. The bitterness and the oils of the peel and pith, and the juicy, tart, sweetness of the flesh. This blends with a bright, green spruce character. The malt backbone is sweet, but not detracting. Caramel at first, and then toasty to balance it out. Instead of detracting from the hops, the toasty sweetness of the malt combines with the hops, lending an even sweeter red grapefruit flavor, and almost a tart cherry kind of thing. The finish is more earthy, spicy pine, like the pine resin, which makes this beer very balanced, and then there's just enough of dryness and a lingering citrus bitterness to demand another sip.    F: Medium-bodied, but feels full and oily on the tongue, yet with ample carbonation to push it quickly across the palate and scrub your taste buds clean.    O: I haven't had this beer in two years, and it still tastes as good as I remember despite how much my palate has changed. When it comes to freshly hopped, old school west coast IPAs, Sierra Nevada still nails it.   
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Its remarkable how peppery and spicy these hops are. Last year I called it stale and rated it straight 3.75s. This year (2017) I still see where I was coming from but I'm enjoying it more. Straight 4s for 2017.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Presentation: 12 oz bottle packaged 09/29/16 poured into a pint glass.    Look: Beautiful amber color with an amazingly thick, off-white, two finger head. Excellent head retention.    Smell: Light malts, hops, and then citrus finishing with a sharp hop bite.    Taste: Very well balanced. There is a slight hop bitterness on the swallow but this is pretty laid back for an IPA.    Feel: Almost creamy mouthfeel, medium body. moderate carbonation and a bit dry.    Overall: An excellent beer.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 Look: Orangeish, goldish red with an offwhite head that lasted a minute or two and reduced to finely bubbled lacing  Smell: Hops, pine  Taste: Like you'd expect out of a Christmas IPA... hop forward, bitter, sweet, red fruit  Feel: Smooth, small carbonation bubbles, resiny, oily/syrupy, heavy and foamy  Overall: Very good. For not liking IPAs all that much, I dig it and wouldn't turn one down if offered.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3.25 | taste: 4 | feel: 4 | overall: 3.75 Great head leaves superfluous lacing over a red body.     Taste is light and fluffy. Hops are upfront and prevalent but quite tasty, general citrus followed by some bitter pine     Quite good.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 Unique look that is a little darker than other IPAs. Spicy citrus aroma with a full glass, but more of an earthy aroma when empty. Fresh and flavorful, with a smooth swallow. For me, the post swallow revealed the Chinook hops, with a spicy pine aftertaste. A must have for your winter beer selection. Light a fire, play some vinyl, pull your girl close, and split a sixer of Celebration Ale. You won't be disappointed.   
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 This is one of my all time favorites. Dark amber in color with a beautiful cream colored head. Lacing is also solid. A hoppy brew thats perfect balanced with sweet malts. There's no spices or dark fruit used in the brewing process which is a plus for me. I have to believe that this beer inspired many breweries that are popular today. Of the 100's of beers that I've tried in my day, Sierra Nevada celebration is probably still the best. Buy it - you won't be disappointed   
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 4.75 12oz bottle into an IPA glass.  Pours a crystal clear dark copper color with 3.5 inches of thick, off-white head. Some of the head was still in the bottom of the glass after I finished the beer. Gobs of sticky lacing.    Aroma is all hop. Citrus, pine, minty notes abound.    Taste at the start and finish is a terrific hop bitterness with a touch of bready malt in the middle. Moderate carbonation and a pleasant, slightly oily mouthfeel.  Overall, this is a superb beer. Definitely my favorite Christmas brew. In my top 3 favorite beers ever. Seek this out.   
+look: 4.5 | smell: 4 | taste: 5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.75 Poured from a bottle into a pint glass    L: Dark golden color, small head that lingers for a minute or two, slight lacing left behind    S: Earthy and piney hops, a tiny bit of citrus and malt    T/F: Sweet and piney at first, fades to bitter (but not overpoweringly so) with a lasting aftertaste. Medium body and carbonation with a smooth finish.    O: I'm still fairly new to IPAs, but I'm glad I tried this one. Probably not something I would drink more than one of in a sitting, but I certainly wouldn't turn one down if I come across another.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 Rich dark amber pour with beige cap that fades to a ring. Aroma is earthy hop, floral notes with a hint of pine and just-noticeable bready malt. Flavor follows identically as the well-balance ensemble of flavors meld with a slightly hop-forward advance throughout the sip. Super tasty, and very pleasant aftertaste. I usually have this each year and enjoy it, but don't remember it being damn good.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 4 Damn, is this frothy! Gave it a nice pour & it provided me with a nice thick frothy head which I've had to wait longer than normal to die down so I can have a sip. I can certainly smell the hops as I wait. Now minutes later, the head retention is incredible. Impressive. Now let's see how it tastes. There is definitely a good strong hop kick, but not as many flavours as I'd like. Mostly pine & some spice, not much else but quite a bit of bready maltiness in there as well which doesn't quite do what is needed to balance out the harshness of the hops. Not a bad drink, full marks for head retention, but not a taste that I will seek out when there are so many tastier IPAs out there. If you like hops first & don't care much for a more complex blend, you may like it more than I did.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 4 Sampled from draft 
+look: 3.5 | smell: 2.5 | taste: 2 | feel: 2 | overall: 2.25 I can't believe how bad this beer is and how grossly overrated it is. It's not just Celebration either but most SN offerings... the power of icon I suppose.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 5 | feel: 5 | overall: 4.25 This beer is so smooth  So well balanced.     Picking out a particular flavor isn't so easy..all I know is it's one of the smoothest beers I've had. 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 Poured from a 12oz bottle,into a Cigar City pint glass.    Thick,frothy,off white,2 finger head.Copper in color,with heavy carbonation.The head retains well,as does the carbonation,leaving a beautiful lacing on the glass.It is a pretty clear beer,bit also has a decent amount of haze to it.    On the nose i get mostly pine,and earth from the hops.Maybe a little bit of sweet malt scents,but not much.Maybe a little bit of spices.    The palate is very hop forward,with an earthy/piney taste.There isn't much sweet malts to speak of,just enough to make it a well balanced IPA.I'm also getting some spices mixed in.Very nice bitter aftertaste.    The body is medium,I get a lot of fizzling on the tongue,from the hops and the carbonation.Nice dry finish...Pretty smooth.    This is a pretty damn good IPA.Not something I would drink regularly.But a very nice IPA for the winter time.   
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 5 | taste: 5 | feel: 4.5 | overall: 4.75 An excellent winter ale! Next to Torpedo, this is probably my favorite offering from Sierra Nevada. They don't try to dress this seasonal brew up (as other brewers do) with too many different flavors. Sierra Nevada sticks to what they're good at: hops, and it's damn tasty.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 12oz bottle poured into a tulip. Pours a far more amber (a far darker) color than anticipated, with a relatively thick 1.5 finger head. The nose is relatively standard SN IPA, but the palate is something somewhat different. They definitely bring out a better hop blend than their base pale ale and single hop beers (something more akin to hop hunter), but an unusually malty base is present that plants this beers much more squarely in the East Coast IPA camp than any of the beers I have tried from them to date. Not a bad beer. Very pleasant as far as ECIPAs go. Just not a beer I'd go out of my way to buy.   
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 L: Copper Amber gold color with a medium creamy light tan head and nice lacing around the glass. Very nice looking beer.    S: Earthy and Piney hops, some notes of fresh grass, can definitely notice the fresh hops, some sap, the malt isn't too noticeable, definitely hop forward.    T: Piney and bitter hops, some notes of caramel malt, some floral and sap. Malt isn't too noticeable this is the beer for those that like hops, definitely a little unbalanced forward hops.    F: Medium body and carbonation.    O: A beer if you like very hop forward beers. Solid but would like a little more balance   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 This is a winter beauty in the stout and porter season. Definitely carries its own. Pours amber with nice light-khaki head. Smell of pacific hops, pine, and roasted malts. Wonderful bitter sweet balance in this IPA that hits the mark. If I am pining for an IPA this winter, this medium-bodied one that sticks to your cheeks and coats your palette with hoppy evergreen is it.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 Pours a beautiful dark hazy copper with a nice thick frothy tan head. Leaves a nice lacing on the glass as well.  Smell is very floral with a citrus note. Something like a pineapple smell here also. A bit of dank grassy smell in here as well.  Flowery citrus taste with a burn of hops across the middle of the tongue and a bunch of bitter on the back of the swallow. There is just enough malts here to counter a massive over rush of the hops.  Mouth feel starts at an almost medium and a bit oily but on the back end finishes pretty dry with some bitterness following.  Overall this is a very refreshing and tasty IPA. It seems interesting that this is only offered once a year as I could see this selling quite well. Perhaps Sierra Nevada does not want to compete against other offerings in their lineup.   
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 4.75 Always enjoy seeing this one on the shelves this time of year. A reliable classic from one of my favorite breweries; the price to quality ratio is just damn impressive. From a 12 oz bottle into a chalice:    L: Pours with a beautiful brownish amber color and about one finger of fluffy beige head, with very fine bubbles. Carbonation persists fervently and the lacing forms very attractive wavy rings around the glass. Beautiful. I'll call this a 5.    S: Piney, peppery and a little sour. Very herbal too, with hints of mint, camphor and clove as well as a rich malt profile--including toasty french bread and nutty oat notes.    T: This is the second time I have been surprised with how tasty this beer is. One of the few IPAs I have tried that opens with malt flavors (which I strongly appreciate): the first that hits me is a caramelly sweetness, which immediately blends with bitter-piney and peppery-spicy hop oil, but is fought back against by complex roasted barley malt profile. Not much fruitiness to this beer. Perhaps some pear, apricot and lemon. A finish of pure pine and menthol. I certainly don't miss the overdose of grapefruit rind I find in almost every west coast IPA.    F: Perfect. Thick but not sticky, carbonated but not frothy, smooth but not oily. An expert balance.    O: Perhaps the most affordable seasonal beer worth getting excited over. Cheers!   
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 I have been drinking this beer every holiday season for decades, & this years batch was excellent as usual. Coppery colored with a tan, foamy head. Streak lacing. Aroma is light citrus and tropical fruit with some caramel malt. Citrus and pine and some grass notes, well balanced with a sweet malt base. Medium body with a dry finish. Pleasant hops aftertaste. A great holiday tradition   
+look: 4 | smell: 4.75 | taste: 4 | feel: 5 | overall: 4 Fascinated by this beer. What they put on the label is a perfect description. It has a unique balance of pine and citrusy hops as well as a full malt. If you love both IPAs and other, more malty, Ales you shouldn't be disappointed. There are some other European IPAs I'd like to taste next to this one, I feel like they may have had some inspiration from some specific ones.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 3.75 A bit surprised that I am a bit lukewarm on this very highly reviewed beverage. Good? Yes? Amazing? Not really. The usual high quality you expect from the folks at Sierra Nevada, just not a game changer on this overdone style.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.5 L- Pours a murky, rustic orange with a thin, off-white bubbly head. Lots of carbonation.  S- Piney hops and lots of malt, and spice.  T- Wow! Piney hops with tons of malt balance that allows the resin to stick around. Spices add to the taste. I get a slight cinnamon taste.  M- A medium bodied APA that gives a nice warming feeling from bitterness and spices.  O- Very good and unique APA. Lots of good things going on.   
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Poured into a snifter/tulip/wine hybrid glass from a 12 oz bottle    A - a deep dark copper red, one finger off-white head and some serious legs/lacing     S - Christmas/thanksgiving and fall/winter comes to mind right out of the gate, lots of creamy sugar, dry and sweet malt/grain, slight citrus, nice pine, sap, soil, very earthy, baking yeast, holiday spices, crisp, fruit cake and just smells as fresh as the season.     T - huge malty awesomeness (the malt/grain is very dry and sweet at the same time), huge pine, the hops is super bitter in the best way, lots of earth, soil, baking spices, baking yeast, ripe fruits (dates, figs and the like), fresh everything and sexy as heck    M - full bodied, great balance, great complexity, medium carbonation, medium plus acidity and a hoppy-malty-sugary finish.    D/O - For how rich and creamy this IPA is it is somehow warming and at the same time refreshing. Each and every year I know it is the "holiday season" when this ale shows up in the cold boxes around town. Whether it is a six or 12 pack this ale is just a wonderful delight. Taste and looks like fall/winter and fall/Christmas. Grab a glass pour some ad enjoy the sounds, tastes and weather of the season! It's not your usual winter warmer but, awesome indeed.     Final thoughts - the price of this awesome ale is seemingly inexpensive at $8-9 a six pack and $12-15 a 12 pack. The 6.8% ABV is perfect and age or drink straight away, your choice.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 2016 version poured from a bottle into a tulip glass. Almost could have used a Wiezn glass for all that head!    L: Dark amber/ copper color. Very large off white head with great retention. Very sticky.    S: Earthy, dank hop aroma. Also some fresh mint and a little malt.    T&F: Very hoppy, but not overly bitter. Very earthy hop flavor along with fresh mint like the nose. There is a good malt flavor in the background that is covered up by the hops, but not in bad way. Gives a warming feeling in the stomach. Finish is dry and crisp, but does not have an unpleasant bitterness. Has a pine aftertaste that lingers for awhile.     O: This is probably my new favorite IPA (granted, I have not had that many). Very balanced. Manages to be very hoppy without being overly bitter. Goes down very smooth and easy and makes me want to keep coming back for more.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 This has been an outstanding IPA for a REALLY long time. Earthy, grassy, spicy hops abound. The nose is beautiful. The taste lingers. The hops. So good.     If you've never tried this gem, get it. Don't let the ubiquitousness fool you. This is a top notch IPA.   
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours a clear deep amber with a one inch, we'll retained white head that left lacing all the way down the glass. Smells of citrus, pine, grass and a hint of sweetness from malts. Taste is dominated by the hops but offset perfectly by the malts in the background. Light bodied, well carbonated, slightly dry mouth feel, excellent beer.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.25 | taste: 4.75 | feel: 4 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours an amber color with a thick off-white head. Smells of pine, a little of toasted malts, and a hint of tropical fruit. The first thing I noticed with the tastes was a hop bite, pine, a little toasted malts, and some citrus. Mostly the piney hops. Overall though it's a very solid IPA and I was finished with the glass before I knew it.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 Pours a beautiful clear amber with a thick ivory head that lingers and leaves great lacing. Smells fruity and piney with a sweetness up front in the taste that turns a little bitter in the end. Well carbonated and well worth the price.   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 2.5 | overall: 3.75 bottle into glass, 2016 fresh hop    A: lovely deep red color with a creamy one finger heard with good retention, beautiful (really) lacing  S: immediate aggressive piney notes as well as some lemon  T: the first thing that is apparent here is the strong (toasted maybe) malt body followed by more subtle touches of the piney bitterness  M: i personally like my IPAs to be stickier  O: the more wintry IPAs are not my favorite kind of IPAs and IPAs are definitely far from my favorite style though I do like them. All of that being said, this beer is not really for me, but I did greatly enjoy it and would buy it again, hard to go wrong with anything sierra nevada puts out   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Very nice amber color with caramel foamy head and good lacing. Smells of piny hops, some citrus, and a little floral mix. The taste is pretty good, you get a hoppy bite up front with a mix of molasses, citrus, and pine cone. The finish is pretty dry. This is a classic west coast IPA in my mind, very fresh hops and a good overall beer, 2016 is stacking up to be another good year for Sierra....   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.25 | overall: 5 This limited brew has a gorgeous clear, amber color and a piney, fruit aroma. Taste is piney with a hint of grapefruit - a great balance with a little lean toward the citrus hops. It's an outstanding refreshing brew and one of my favorites.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 A bit bitter on the finish 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Pours amber with a nice thick frothy head, with excellent retention and lacing. The aroma is light compared to the bolder flavor. Basically, it smells nicely hoppy. You could say floral, but not nasty perfume floral. Piney, but not overtly so. The best description I can think of is fresh green hops. It tastes like a great West coast IPA, with a more present malt base. Moderate bitterness. Heavy and smooth mouthfeel, with a dry finish.   
+look: 4.75 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Absolutely delicious. Not too hoppy, not too dry. Nice and smooth 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 From a month-old bottle, pours a clear, deep copper. An inch of dense, off-white foam leaves lots of lacing.     Smell has an earthy quality along with hints of pine and grapefruit. Some malt on the nose as well. Taste is spicy, earthy hops balanced by the malt. Nice dry bitter finish. Feel is substantial but very drinkable.     Overall, this is an long-time favorite of mine, which I first enjoyed probably 30 years ago. Still really good, though what was cutting edge then has become an old-school classic. Like the Beatles, it's hard to explain how revolutionary Sierra Nevada's beers were back then, when all you had before were kegs of Bud and skunky green-glass imports. Crazy.   
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4.5 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 Fresh. Bottled less than a month ago. Pours deep amber with slight hazyness and a perfect 3/4 inch off-white head with excellent retention. Lacing is also very good. Aromas are piney American hops with some spice and some herbal overtones. Earthy yeast and some fresh baked bread from the malt is also present. So drinkable. Medium/light body, resiny texture and crisp carbonation and just a slight astringency makes for great palate. Flavors are all a close to perfect balance of hop flavors, mild malt sweetness, and enough bitterness to qualify it as an IPA. Beer finishes dry with the hop IBUs making a late appearance. This is an old-school IPA that contrasts with today’s IBU bombs and less bitter English IPAs. - So drinkable and a classic!   
+look: 3.5 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Pours a hazed copper color with a light khaki head. smell was spicy pine hops with caramel. taste had pine hops on the front end with tropical and citrus notes finishes with sweet malts , a smooth creamy and hoppy mouth feel, this one ages well also.   
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.5 | overall: 4.75 Dark Hoppy beer great for the sipping in front of a fire when the weather is cold outside. 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4.5 
+look: 4.5 | smell: 5 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 nice Christmas Ale though did not see the color as drank out f the bottle. Nice aroma of spices and good flavor. Not my favorite Christmas ale but a good one.   
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.75 
+look: 4 | smell: 3 | taste: 3 | feel: 3.75 | overall: 3 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 Served cold (too cold really) from 12 fl oz bottle into tulip glass. I paid £4 for this and when I got it home realised that it is 5 months out of date. Hmmph.    L) Reddish-copper colour, hazy, head is off-white foamy.    S) 'Creamy' hops, reminiscent of Sweet Action by Sixpoint. Definite fruit sweetness but I fully appreciate this isn't a fresh bottle, so the original hops aroma may have diminished.    T) Nicely balanced, there is sharp bitterness for sure, but it has a soft sweeter side too.    F) Nicely drinkable, there is a nice fizz and a good bitter bite at the end. A nice creaminess too.    O) Really good, would love to try a fresher one. SIerra Nevada haven't made a bad beer that I have tried.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Hazy dark amber color with golden highlights.    Aroma is like walking a path between a Southern Pine forest and a citrus grove. Strong but not intense, nicely balanced.    Taste is beautiful. Hops forward with an entering sharpness of citrus peel but quickly melding into something richly multi layered. Hops on levels I've rarely experienced with each being richer than the one that preceded it. Well played. Malt appears mid palate and builds growing bolder all the way into the aftertaste where lt lingers until added to by a final hop flourish.    Full, round, creamy texture.    Overall it's impressive, I cannot find any fault with this brew. Malt is rich and full enough to offset the considerable hop presence and manages to be a partner rather than a prop. An underlying malt sweetness is also present but that emerges mostly at the finish. I suppose it had been there all along but that's where I really began to take notice. That or I was drinking too fast. My first thought on tasting this Ale was back to the store to get a second six pack before this one ran out.   
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3 | overall: 3.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 3.25 | feel: 3 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 2017 version: Pours a foggy ruby-red with a finger and a half of white head. Head retention is moderate with great lacing left behind. Citrus, pine, and spruce hops dance together in a decidedly hoppy, but balanced aroma. Flavor profile is pine, spruce, and citrus hops with biscuit malts. As per the Sierra Nevada usual, this IPA is hoppy, but sublimely balanced and approachable. Mouth feel is a little fizzy, but otherwise smooth. It has a medium thickness. Overall, a sublime IPA with great balance. It features some pleasant earthy hops. Easily approachable for even the most novice of IPA drinkers, and yet complex enough to tickle the taste buds of the seasoned.     Served in a 12oz snifter.  ____________________________________________________________________________________________________________    Pours a hazy, murky amber-orange. Thick beige head that retains for seemingly ever. Good lacing left behind. Aroma is composed of strong citrus, orange, and resin hop notes. Delightful. Taste is citrus forward, with resin hop notes following them up. Good solid orange/citrus taste at the end. Feel is medium in consistency, with good drinkability. Goes down easy, despite a more DIPA feel. Overall, an absolute fantastic rendition of the IPA. Really tasty, easy to drink, with an impressive look. Well done.    Served in a 12oz snifter.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.25 | overall: 3.5 I've Had this many, many times (Let's say 7.) The hops recipe is supposed to be slightly different each year. But then as now, I found it too hoppy for a session. This year I tried it with bar food. It runs interference on the food's flavor. Piney, hoppy after-taste is its biggest problem. I couldn't finish it and no one else at the table wanted more than a sip. If I ever have this again, it will be with spicy food.     Started in 1981 and securing SN's Celebration Ale the status of a classic, MJ's 1999 "Guide" commented about the hop experiments... but did not rate it because of those changes. Listed in the "1001 Beers To Taste Before You Die," it deserves to be there... but not based on my recommendation. This is a hop-head Celebration. Not much joy for Malt-head Nation.   
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 12oz bottle.    Pours amber with an off-white head. Lacing aplenty and solid retention. Candied pine in the nose with citrus backing it up. Medium bodied with a slickish, tacky mouthfeel. Bitter and piney on the palate with sweet malt underneath. Citrus and pine bark. Finishes with a lingering bitterness and resinous pine.     A great beer but the sweetness from the Crystal malt keeps me from have more than one at a time.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3 | feel: 3.5 | overall: 3.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 This might be my favorite Christmas beer. To handicap that statement, I'm not a big fan of spiced beers. That said, the wet hop on this is spot-on with a nice, almost vegetal piney-ness that is wonderfully fresh. The look is a little light, but probably to be expected. Other than that, a fantastic beer.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 A solid, all-around IPA, regardless of the subtext, calling this a "winter beer" or whatever. Light-medium golden in color with a big ol' fluffy white head. Citrus, dank hops, pine, and light tropical fruit on the nose and taste. Very little spice. More or less a traditional American IPA done right.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Sierra Nevada Brewing Co. - Celebration Ale. 6.8% ABV. 12oz bottle poured into a snifter. Packaged on 10/19/15.    Look: Settles a hazy, deep red/copper color, with an impressive two finger off white head that slowly dissipates into sticky lacing.    Smell: Some floral hops, citrus, pine, malts, and caramel. It also does seem to have a somewhat spicy aroma like cinnamon, but since it's not brewed with spices, I have no idea what it's from.    Feel: On the lighter side, relatively smooth and creamy with a little carbonation.    Taste: Some light hop bitterness and bitter pine up front, but some sweet malt and caramel appear. The aftertaste is reminiscent of honey graham crackers.    Overall: This is a good change for a winter beer without all the spices (not saying either is a bad thing). This keeps it simple with hops, citrus, pine, and malt.   
+look: 3.75 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 Fantastic IPA. Lots of maly and bitter balance on the front end. Strong bouquet of flowers on the front and back end. Great IPA. 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 One of my fav seasonal beers! 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4.25 pours nice thick red. can't see through the brew with nice thick head. not much nose maybe some pine and spice. taste is malt up front followed by some pine amd resin as well as maybe some clove. finished with lingering bitterness and piny resin. ive always liked this beer and as it warms the complexity expands. good solid ipa that I look forward to every year.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Great beer but cannot match the freshness of sculpin 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.25 | taste: 3 | feel: 3.5 | overall: 3.25 
+look: 4.25 | smell: 3.75 | taste: 4.75 | feel: 4.5 | overall: 4.25 One of my all time favorites! 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 All right, a winter/holiday season brew that isn't all "spiced up". Sure some of them, like Shipyard's Prelude, aren't super spicy, but this one isn't spiced at all. In fact, it reminds me of Sierra Nevada's Pale Ale and their Torpado extra IPA. Will be sure to look for it next year..   
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Poured from a 12 OZ bottle into a pint glass. The appearance is a clear orange-amber color with a medium sized white head. The aroma is a refreshing smell of pine. The taste is a great hop flavor. An excellent seasonal.   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 Poured from 12 oz bottle into tulip glass    Appearance: pours a 3" pillowy off white head that falls very slowly and leaves abundant lacing behind. Color is cloudy reddish-amber.  Aroma: strong pine and citrus dominate but there is an evident malt in the background.  Mouthfeel: medium bodied, viscous and quite sticky with a quite dry finish.  Flavor: fine balance between the hop notes with a bready-sweet malt.  Overall: extremely well done. I am a rare IPA drinker but this one is definitely worth having.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.25 | taste: 3.5 | feel: 4 | overall: 3.5 From a 12oz. Bottle, dated 11/03/15. Obviously, I forgot to look at the date.    Pours a deep medium-hazy copper with a scant finger of creamy head, decent retention and gobs of lacing.    Smells like apple juice... apple juice? Apparently so. Otherwise, the nose is very faint - some yeast, honey, something vaguely floral.    Tastes better than expected after three months. From the nose, I had expected sweet malts but what I get is undifferentiated bitterness at the start, with black pepper and balsam following and, finally, the apple juice taste which, I guess, must be the underlying malt shouldering through the fading hops.    Mouthfeel is medium-bodied, mouth coating and amply carbonated.    Overall, should I even be rating an elderly IPA? Well, yes. Ultimately SN is accountable for it's chosen distribution channel and the fact that I will never, apparently, get to try one of their beers before it's died of old age. I bought this bottle as part of a mixed sixer with five Smuttys that had all been bottled within the past two weeks.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 4.5 | taste: 4.25 | feel: 5 | overall: 4.5 Surprisingly good 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3 | taste: 3.75 | feel: 3.25 | overall: 3.5 This beer looks great in red with a thick foamy yellowish head.    Smell is dare I say vomity.    Turning off the nose at this point but the taste follows.    Feel is far to refined for a Michigan beer lover.    In fairness I gave one of these to a friend in an effort to get rid of them. He reported back that it was DELICIOUS caps lock on in his enthusiasm. I have a few left and will experiment with temperature and glass shape but I felt obligated to review this because the score is so far from what I tasted here.    I love most of SN's IPA's. Perhaps I got an old six pack. Top shelf under the bright lights of a 24 hour Walmart. Last warm back washed swig just now tasted great, but who has time to wait. Gonna try my next one at room temperature.    If you want a solid ABV in a reddish IPA I say you should sniff around a Safety Meeting. ;-)   
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 Pours a very nice deep golden orange color into a typical pint glass with plenty of off white colored head. Very good carbonation. The smell is much like their Torpedo but more settle. Initial taste is surprisingly smooth for being hoppy. The bitterness does not build up at the finish like many IPA's I've tried lately. The Lacing is very good also. Overall I feel that this is another solid SN brew that I would be glad to drink more of.   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Sierra Nevada Celebration Ale - Sierra Nevada Brewing Co. Poured from the bottle into a pint glass, this brew's head is 2 fingers thick and off-white, with solid lacing, and a clear reddish brown body.    I smell a nice blend of the pine and citrus hops mentioned on the label.    Tastes pretty much just like the elements described above, with a very small malt sweetness. Very drinkable!    The mouthfeel I'm picking up is clean and smooth. No lingering hop oils.    Overall, I'll award Sierra Nevada Celebration Ale - Sierra Nevada Brewing Co. with a very solid 4.5. Definitely pick this up during the season.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.25 | taste: 3.25 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 3.25 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 3 | smell: 4.25 | taste: 4 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 3.5 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3.5 | taste: 2.75 | feel: 3.5 | overall: 2.75 A 12 fl oz bottle with a packaged date of 19th October 2015. Poured into a Spiegelau IPA glass.    Appearance: It poured a clear dark copper colour with a two finger cream coloured head that had great retention and left lots of nice lacing.    Aroma: Citrusy lemon, apple, piney hops and sweet but slight biscuit malts. There was also some herbal and spice here and there.    Taste: Light citrus and hop bitterness before it kicks in with some strong maltiness and surprising booze but nice spice.    Mouthfeel: Creamy, medium bodied with moderate carbonation.    Overall: This was definitely more malty and boozy than I expected (and not in a good way). However, I will retry this again to make sure, but at the moment, I definitely prefer Hop Hunter and Torpedo IPA over this.   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 Wonderful looking ale. Excellent hop flavor. Not over hopped, Not too citrus or pine. Malty warmth shines through and delivers a nice crisp mouthfeel.   
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 A bit on the red side for an IPA, nothing wrong with that.. just different.    Aroma: lots of pine,    Taste: a great balance of hops and malt backbone. pine and slight citrus.    Feel: slightly thick body and mouthfeel.   
+look: 4.25 | smell: 2.75 | taste: 3 | feel: 3 | overall: 3.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.25 | smell: 3.75 | taste: 3.25 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 darker copper orange, faintly hazy.  Much darker and malty for an American IPA.  Nice bitterness but balanced against the grainy sweetness from the malt.  Good balanced IPA. Perfect for colder winter conditions.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 3 | smell: 3 | taste: 4 | feel: 4 | overall: 3.75 Poured from a bottle into a I guess a standard pint glass. It was a cold bottle, produced a small head that quickly dissipated. Dark coppery in color.    Smells citrusy, smells pretty good in my opinion. Maybe I can smell the pine like others below, but isn't pine kind of a citrus smelling scent??    Taste - I'm not typically a season type of beer person. Most beers I taste it seems like we're throwing all kinds of seasonal spices in the mix just because we can. Yes there are some that stand out for me and Seirra Nevada's Celebration Ale is going to be one in the future. It's pretty damn good. I like the grapefruit flavors that take over at the end. The malt is there and some hops of course like any IPA, just not over powering like some I taste. Then you throw in just the right amount of seasonal spices.. This is pretty damned good.    Mouthfeel is like all my other reviews if I like that crisp carbonation I give it a high score, and this beer is definitely crispy and plenty of carbonation if that's your thing.    Overall this is a pretty damned good beer - least that's my opinion - I would say it's easy drinking and heck would be a session beer for some of my friends. I hate to knock it because of the looks and smells but otherwise I like it.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 Dark copper body under very light tan head that holds its own while producing a beautiful lacing. Smells sweet and piney, citrus. Layers of flavorful hops that really take you for a ride. Celebration indeed, this is an awesome IPA!   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 Poured from a chilled, single bottle, dated 10/01/15 (it is now 1/7/2016). Purchased at a local HEB here in Beaumont, TX. Normal glass, nothing fancy.    Pours a rich copper with minimal foam or lacing to be seen. Smell is very muted, with the slightest malty, nutty, pine hints - along with some barely detectable biscuit/cracker tones. No citrus as the label suggests. Taste - almost exactly like the smell. Well balanced but also very conservative hop touch on the end. Where this one shines is in the mouthfeel, quite sessionable and easy to put a few back, I'd reckon. You'd have me fooled with the alcohol content, I swear I can detect a buzz before I'm done with the glass.    Overall a Very reserved, safe beer. Probably too reserved for many. Wouldn't necessarily go out of my way to purchase again given the amount of options available, especially as far as IPAs go. I must admit I have only tried maybe a half dozen IPA's, I am quite a new craft head. However I also would never turn it down if offered. I personally prefer something more exciting, but it was nice to give a try and widen my experience with the style.    Cheers and happy new years!   
+look: 3 | smell: 3 | taste: 2.5 | feel: 3 | overall: 3 Look: Attractive gold color; decent lacing; No significant  head formation.    Smell: floral-pine hops and citrus    Taste: The 1st small sip or two produced the fleeting ghost of some malt and spice  perhaps, but the tsunami of grapefruit flavor that presents almost immediately,  just annihilates any such presence overall. Just really extreme citrus that lingers  on the palate: (If you momentarily disassociated yourself from the realization that  you were drinking beer, you'd swear you were drinking grapefruit juice). It felt stronger  than a 6.8% ABV.    Feel: Full, nicely carbonated.    Overall: I had this many moons ago before becoming a craft aficionado, so looked forward  to revisiting. In spite of the amount of press & +reviews this beer continues to garner, it just didn't  work for me. In the end, just not enough depth and nuance in flavor--holiday or otherwise--to   counterbalance the massive tidal wave of citrusy hop bitterness.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 5 | taste: 4.25 | feel: 5 | overall: 4.75 Pours a dark Amber color, smells hoppy and has a rich head that leaves excellent lacing. Has a satisfying bitterness that the malt profile fights against in a wonderful way. The cascade hop flavor shines in all of its glory. My favorite American pale ale 3 years running!   
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 I was a tiny bit disappointed with this. It poured (perhaps a bit too vigorously) a reddish brown color with a colossal 3+ finger, cream colored head that never quite went away, beautiful beer. It smelled a lot more hoppy than I thought it actually tasted. The taste was much more malt, roasted nuts, and booze with dry bitterness mostly on the finish. Between the color and taste, this seemed more like an amber ale...which I love, but I was expecting much more hops than I got. I would drink another one (or six) for sure, it was a solid brew, but I didn't think it was quite worthy of all the hype.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 Piney, sticky, and crisp. Perfect IPA for winter but there is just enough fruity and maybe mango that you will want to drink it all the time. 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 5 | overall: 4.75 Sierra Nevada Celebration Ale brewed by Sierra Nevada Brewing Co., with an ABV of 6.80% This brew pours out a reddish amber color with a nice off white head. The look of this brew put you in the hoilday sprit. The smell of this ale is rich with hops, grins, and malts. You also pick up a hit of spices and sweetness in the smell of this brew. The taste of Celebration Ale, is rich with flavors. You first pick up on the hops and spices in this brew. Then you pick up on the smoothness of grains and malts. There is a lot going on in this brew. Sierra Nevada Celebration Ale , has a nice balance to it there is nothing overpowering about this brew. I like how this brew is different from most IPA's on the market. This IPA seems to be smoother, not saying that is a bad thing. The mouthfeel of Celebration Ale is, rich, bold, smooth, clean, spicy, and refreshing. You really can't pick up on the 6.80% ABV in this brew, it is just that smooth. Overall, I'm giving Sierra Nevada Celebration Ale a 4.75 out of 5. This was way better than what I was expecting. Sierra Nevada Brewing Co., did a real nice job with this one I would buy this brew again.   
+look: 3 | smell: 3 | taste: 2.5 | feel: 2.75 | overall: 2.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 3 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4 | taste: 3 | feel: 3.5 | overall: 4 Hop lovers will go nuts over this holiday celebration brew. Incredibly bitter thats the first thing that screams at you, and it gets evened out with a citrisy sweetness that is yet again overpowered by that forresty bitter flavor that I am not too fond of. This is a high quality premium beer but not one I don't think I would pick up again, still I can totally understand why people wait each holiday season for this annual offering, a spectacularly crafted beer from Sierra Nevada.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Poured from bottle into a pint glass. It's nice to have an IPA for a seasonal holiday drink.   A: amber with lots of dusting of a beige head. This cascades down the glass. Nice looking beer. S: fresh hops and bready malts. T: nice and balanced.. Hoppy, piney, similar to their classic APA but more bitter. Nicely ending of that biscuity malt. Good stuff. F: pleasant bitterness left on the palate. Goes down fairly easy, depending on your preference on an IPA. O: a seasonal well worth the wait. I'll like to have this in 2016 again.   
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.75 Look:  Deep orange brown color. 2-finger head upon pouring from a 12oz bottle. The head recedes a bit, but stays a bit foamy with the replenishing bubbles from below. This is fairly hazy as well.    Smells:  It smells slightly tart and citrusy like from fruit and hops. There's an earthy aroma that smells woodsy.    Taste:  Kicks in with bitterness that is pretty powerful. It quickly moves to an earthy funk that you can't quite describe. At first is seems like it has went bad as it is a strange and unexpected flavor. It fades rather quickly and kicks into sweet malty flavors. It starts to get bitter once again and the funk seems to come back. As the flavors fade, you are left with citrus / pine / bread and malt aftertastes.    Feel: Light side of medium on the mouth feel. Not thin and a bit slick. Stays fizzy which is quite nice.     Overall:  Decent IPA. I believe that hops used for this (wild ones?) gives it the funky flavor. Tastes like they threw in the hops, the vines, roots, and dirt all in this one. Very earthy. It is ok to drink a few, but I don't see myself buying a 6 pack or a 12 pack of it. Worth a try though.   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 3.5 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 So refreshing to have a winter beer without the holiday spices! Great offering from a great brewery. 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Pours a light brown with a prodigious head.. Managed to get some yeast into it so a bit hazy. Smell of sweet malts, some sherbet, bit of resin, bit more pine. a bit subdued to what I was expecting. Flavour is a good balance of malts and hops, although there are no clear flavours standing out. Some orange pith there maybe, bitterness doesn't hang around long. Good carbonation level, not watery and only a hint of alcohol.    Above average   
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 3.5 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 This is a fabulous beer. Great mix of fresh hops and malt. Just the right am out of spices. Pours copper with a full and strong head. Good lacing. Great beer.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Good, very citrus-y (with some flavor I don't quite love), but not as good as Lag. Born Yesterday. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Bought a whole 12-pack of this. Delicious winter IPA. 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 12/24/15 Chicago (Pour from bottle into pint glass).     Copper pour with off-white head, decent carbonation. Aroma of pine, malt and spice noted. Nice mix of malt and sweet taste, enjoyed the texture and felt good going down. Very good beer and I'm looking forward to more of these down the road.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3.25 | taste: 3 | feel: 4 | overall: 3 thought I was going to love this one, but I was actually slightly disappointed. pours a pretty dark orange/brown color with no haziness. smell is very balanced between piney hops and bitter roasted malts. doesn't smell like a fresh hop IPA whatsoever, more like one of those run of the mill IPAs that are always on the shelf going bad. taste was slightly less than smell, those bitter roasted malts really take over the entire taste after the initial, short lived hop bitterness. feel was decent, wouldnt expect any less from SN. overall very underwhelming and underpromising. would not seek out again.   
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Poured from 12-ounce bottle into a glass goblet. This sample was approximately two months past the bottle date. Hazy, dark amber in color, with a dense, long-lasting off-white head that left tons of pretty lacing. The strong malt structure is evident from the aroma, which is bready and a little caramelly. Well balanced, with plenty of citrus, grapefruit zest, and pine. The bitterness is assertive and quite pleasant. There is a little bit of a resiny finish, with the bitterness lingering long afterward. Outstanding beer.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Poured from a bottle into a pint glass. 2015 edition.    L: Pours a deep brownish amber color. Two fingers of off-white head with great lacing and retention.    S: Evergreen and herbal notes dominate the nose, citrus presence and grapefruit.    T/F: This a pretty big hop bomb for a non-Imperial IPA. Biscuity malts keep the beer grounded, and serve as a great platform for the hoppy goodness of this brew. Pine and spruce mingle with herbs on the hop profile, with subtle citrus flavors in the background. Medium in body... easy, easy, drinking, and a nice crisp clean finish.    O: A great winter seasonal IPA, and a fresh winter treat every time I have it... and amazing how consistently good they make it year to year. Sierra Nevada does some great things with their IPA's and this is one of their best.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 Dank-a-licious! 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Surprisingly an above average beer. Highly recommended! 
+look: 3 | smell: 3.5 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Great looking Amber color for this IPA. great piney, resin and lift citrus flavor. Great carbonation. Unfortunately mine was already 2 months old. Still very great. Need to try it fresh for the full taste.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 On tap in Durham at Pompieri 
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.5 After a few weeks of trying several ales which others raved about and I found "meh," I tried SN's Celebration. Now I remember why it is good to experiment. This one is a winner.     If you love a hoppy IPA, this has just the right balance. I really like that there is, IMHO, little or no malt sweetness to ruin the fresh hop bonanza.   
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 I love every beer I've ever had from SN. I didn't think they could top all the other varieties are be tried, and I've tried quite a few. But this might be my favorite SN brew.    Very dark copper. One of the darkest I've seen for this style. The head and lacing were works of art.    Hoppy, malty, rich, complex, spicey finish. Oh so good on a winter night.    A true treat.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 12 oz bottle. Hazy amber with two finger off white head, great retention and lacing. Sweet malt n pine/grass aroma. Very fresh taste with piney hops that come to the front and last beyond the sip. Good balance by some caramel but the hops dominate like they should. Full creamy mouthfeel. This brew is so good when fresh, piney n clean n soft.   
+look: 2.75 | smell: 3.25 | taste: 2.75 | feel: 3 | overall: 3 
+look: 4.75 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.75 Quite possibly the most perfect beer. 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.75 A - Pours a clear, cedar color with an incredibly fluffy, white 2 1/2 finger head. Good head retention with lacing notable.     S - Very simple yet beautiful blend of aromas. 100% dominated by the aroma of pine and citrus scented hops -- the aromas imitate the sensation of hiking in the woods without the effort! Clean and refreshing.     T - Although there is very little to describe the beer regarding complexity and subtleties of flavorings, it is by far one of the freshest and cleaning tasting beers I've had. Dominated by pine and citrus hops; identical to the nose.    M - Crisp, sharp and enjoyable. Leaves a hoppy aftertaste to the mouth; very enjoyable all in all. Perfect mouthfeel in regards of an IPA with a medium-full body. Very drinkable all in all.    O - An exemplary IPA that states sometimes simpler is better. Very straightforward and very enjoyable beer; if you enjoy IPA's, you'l love this beer.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3.75 | taste: 4.5 | feel: 4.5 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 3.75 | taste: 3.5 | feel: 4.25 | overall: 3.75 I don't really understand the hype over this one. It's a fine beer but to be getting scores in the 90's doesn't make much sense. I guess I just don't prefer the "first hops of the growing season" as Sierra Nevada says. Thought the aroma and flavor profile of torpedo was much more to my liking.   
+look: 4.75 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 2.5 | smell: 2.5 | taste: 3 | feel: 3.25 | overall: 3 
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Beer is a clear dark amber, with a nice dark ivory head. Some nice lacing. Aroma is lots of pine with a bit of bread and orange. Taste is nice malt up front with a bitter, piney hop finish. Mouthfeel is good. Beer is quite substantial, but not too heavy. Overall, a tasty, chunky beer. Bitter, flavorful, nicely balanced. A good winter IPA.   
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 Poured from a 12oz bottle the 2015 one.  Very good Fresh Hopped IPA ,smooth drinking with a good hop kick.  Better than all the Fresh Hopped IPA's from British Columbia this year.  The 2017 version is just as good.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Nice looking beer with notes of heavy pine and some citrus. Very smooth taste of pine, pine and a little more pine with a little citrus. Highly drinkable. Enjoyed this very much   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3 | overall: 3.75 Why Not its a Sierra Nevada IPA ...Time to Celebrate! 
+look: 4.75 | smell: 3.75 | taste: 4.5 | feel: 4.75 | overall: 4 Great-looking IPA with a slightly cloudy Amber color, red hues, and big, persistent head with lacing. Tastes lightly fruity with pine and comfortable bitterness. Flavor is smooth and nice, but not too prominent or complex. A good IPA, goes well with the Christmas season.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 Really good holiday IPA. It is very resiny, but not super bitter. Like licking a pine tree in a good way? I could have a few of these and not get bored with them. Well done SN.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.25 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.25 | feel: 2.75 | overall: 3.25 
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 3.75 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 12 oz bottle poured in a charmay goblet.Smell is citrus and pine.Taste is very good with a heavy citrus taste.Overall I would say I like it very much.The price was nice at about 8 dollars a six pack.I would buy it again.Give it a try.   
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 3.75 | overall: 4 Bright ruby red. Off white head   Smell of pretzel dough. Pine. Citrus. Orange peel. Pine. The taste is the same as the smell. Feel is medium. Medium carbonation.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.5 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 3 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Bought from Times Supermarket $7.49 6 pack. Slightly cloudy amber color, Medium mouthfeel, slightly malty taste, smooth and not bitter, overall ok. I was expecting more of a stronger taste being that it is a winter release, but it seemed to be nothing special.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4.25 L: a clear medium amber. With an off-white head and decent lacing.  S: not as much smell as I was expecting. It is piney and hoppy however.  T: Taste is full of pine hops and malt. A little bit of citrus as well.  F: High carbonation seems to suit this beer well.    O: Very good Fresh hop IPA that is more piney than fruity. Would love to try it fresh as the one I had was 6 weeks old.   
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 5 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 This is another good brew from Sierra Nevada (it seems that is a common statement about their brews). My 6 pack was packaged on 10/19/2015 and I just purchased it on 12/4/15. Some hop aroma may have been lost since I am drinking it almost 2 months after bottling day. But nonetheless, the aroma is piney and malty. It smells pretty dang good. A little weaker than I expected. But the taste is great: malty, bread, and decently hoppy. A little citrus, but quite a bit of pine, which I love. The finish is fairly dry. Carbonation is pretty high, but good. Overall, this is a great beer. The bitterness is perfect for the style. And you can really taste the freshness of this years just-harvested hops.   
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 4.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Balanced. But those of us hopheads who feel "balanced" is a just euphamism for malty, I can't recommend. A perfectly fine beer but not for New England haze hunters.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 3 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3 Bottle from Albertsons. Surprised its taken me this long to get to this one. And a bit disappointing to boot. I guess was expecting a bit more from SN for a seasonal. A touch more bitterness and bite than the norm. Still good, but I was hoping for a bit more "Wow!"   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 Clear copper body, few lazy bubbles rise. Very pale tan rocky dense head with lots of 3D lace. Aroma is mostly citrus and malt: orange and grapefruit with equal parts caramel and bread. Flavor, too, is perfectly evenly balanced, with citrus notes being immediately balanced by bread, crisp bitterness being immediately balanced by sweet caramel and malt. Full body, smooth.  Incredibly balanced brew here. I don't care much for the huge grapefruit-y citric hops, but I can't deny the appeal to those who do, nor the perfect execution of the balancing malt. Big flavor, big aroma, great feel, sexy appearance. High score is mostly based on style, but if I were to rate subjectively it'd land just below 4.0.   
+look: 3.5 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 L: pours a clear light ruby. Head dissipates to a thin tan.    S: Fresh floral hops, mostly pine. light caramel with some orange peel and a bit of bread crust.    T: Piney hops with moderate caramel sweetness. finishes fairly dry.    F: medium full body, velvety. moderate carbonation.    O: an outstanding brew with a big fresh hop flavor. Not overly bitter and balanced well with the caramel sweetness. Love the drier finish. Definitely a winner.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Poured from 12 oz bottle into pint glass (after my Broncos beat the undefeated Patriots)     L: A beautiful beer ... nice transparent amber/gold with a thick, frothy head and gorgeous lacing ... super inviting    S: As advertised, it has a "fresh" aroma ... orange peel, pine, caramel, honey, a little fresh-baked bread    T: Just delicious ... a solid malty, caramel-esque base with notes of fresh-squeezed citrus juice and pine ... finished with pleasantly bitter notes of grapefruit and lemon peel ... refreshing and dynamic    M: Medium mouthfeel and fairly light on the carbonation, but that just helps highlight the awesome flavor profile    O: An incredibly tasty, malt-forward IPA that has become a winter classic for good reason   
+look: 4.75 | smell: 3.75 | taste: 3.5 | feel: 4.25 | overall: 4 Amazing look. Smell is Meh and taste is meh. But the crisp feel is amazing. 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 3.75 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Pours a beautiful red-orange with a fluffy, off-white, thick foam head. Smells like sweet caramely malts, mild sweet citrus and light pine. Taste is full forward with fresh pine, light citrus, and sweet caramely malt. Feel is medium bodied, slightly creamy and slick. Overall a delicious, sweet malty IPA with a pure, fresh pine needle bitterness to cut through and balance out the sweetness. Perfectly balanced and simply well made. Really great beer!   
+look: 4 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Aroma: incredibly fresh, incredibly green (in a good way), herbaceous, resiny, grassy hop character. Apricot, peach, strawberry (?), pine, and grapefruit make for an incredible hop bouquet. A touch of candied orange peel here too as well as just a bit of nice, warm malty sweetness to support it all.     Pours a deep red-orange amber color. Hints of darker brown. A nearly white, tight, dense, frothy head sticks around and leaves beautiful sticky lacing. Nearly perfectly clear, with a bit of haze, presumably from the hops.     A hop-forward palate brings a very resiny, sticky, piney, citrusy hop character. Pine, grapefruit, orange rind, and a bit of spruce greens prevail. It is medium bodied, with medium carbonation, and a very middle-of-the road, slightly sticky mouthfeel. The malt body comes in at the very end with just a touch of dark caramel and a bit of biscuit, but mostly stays out of the way. I get the tiniest bit of roast here as well - chocolate malt for color perhaps?    Overall this is a phenomenal beer. This year's is a bit more balanced in years past, but the complexity is through the roof. It goes down easy, but leaves you satisfied and wanting to crack another and another. Love the sticky lips. Beautiful.   
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.5 It is just not Christmas/Holiday time until I get a 12 pack of this. My second favorite SN after Hop Hunter, and maybe my first due to the limited release and those fresh hops. A beautiful orange copper color with a small head. Aroma is pine, grapefruit, melon. Taste is crackery, pine, plum, plenty of hops for any hophead with just the right malt balance. Love that this is a winter beer that is not heavy or too malty. ABV is just right. Mouthfeel is thinner but substantial, refreshing yet with some heft to it. This is one of my favorite beers that I always come back to, and I always associate it with a special time of year. Comes with that amazing Sierra Nevada value. First rate classic IPA full of fresh flavors and a beautiful color, with a label that just puts you in that holiday spirit like a Bing Crosby song.   
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 Look: It pours a cooper color with slight hazing with a large off white head that leaves plenty of lacing.     Smell: It has a malt aroma of nuts and caramel. The hops are piney and citrusy with floral being prominent.     Taste: It has flavors of nuts and a hint of caramel with the pine and floral flavors taking over the majority of the flavor sensation. The are hints of dark fruits as well.     Feel: It is medium bodied in texture with a bitter knock on the palate that is long lasting, but enjoyable.    Overall: it is a medium bodies IPA with the malt more reminiscent of an English IPA. It has complex hops flavors with a long lasting bitter finish.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 3.75 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Another staple in the fall/winter. Pours brown but with ample clarity to it, and some deep red. Very professional looking beer. Aroma, c hops, centennial, chinook.     Taste, solid winter warmer type of ipa. Cornerstone. Bang at least a case of this every winter.   
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 Bottle dated 10/07/15. DFH Tulip.    A: Remarkably dark for an IPA. Looks like an amber ale. Pours a hazy amber with just under 1 finger khaki head that fades to pretty much nothing. Moderate carbonation. On a second pour, retention was much better. Lacing was good, but not great.    S: Grapefruit and sugar. Very sweet nose, some resin and pine. Smells like a malty IPA, but not really getting much complexity.    T: Initially a dry and malty arrival, with some pine. Mid palate fills out with resin and slight sweetness, closing out with a very firm and lingering resiny bitterness. Bitterness really lingers. Very traditional resin/pine hop character; not much in the line of tropicals or citrus on the palate for me.    M: Heavier side of mid-weight, but with little viscosity. Lighter carbonation.     O: I first had this been knowing nothing about it, and drank it from a nearly-three-month old bottle. I thought it was an okay, hoppy brown ale. Now knowing that it is a holiday IPA (and having it a lot fresher) I can see why it has the cult following it does. It comes off to me as a low-alcohol DIPA. But I am a fan of maltier beers, so I like it and would certainly buy it again. Just not an annual must-have beer for me.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Best start to the Christmas season! 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.25 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3 | taste: 2.25 | feel: 2.25 | overall: 2.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Look: What a classic. Pours a beautiful deep reddish-amber with a slightly tan rocky foam head.     Aroma: Light biscuit, floral and slight citrus hops accompanied by pine.     Taste: The flavor is somewhat malty upfront, but quickly yields to the robust hoppy bitterness you would expect from a longstanding IPA favorite. There is a pleasant level of spiciness throughout, it's just right for this variety of seasonal beer - definitely not overdone.     Feel: The bitterness from the hops lingers for a while, but doesn't make this beer any less drinkable; nice carbonation and very smooth.   
+look: 3.5 | smell: 3.75 | taste: 3.25 | feel: 4 | overall: 3.75 As far as an IPA goes this is exceptional. Great lacing, great taste, very drinkable. My only complaint is its marketed and sold as a winter beer. There's nothing "Christmas" or winter about this brew. Sierra Nevada should sell it year round. I could easily drink this on hot day.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Just picked up a couple of 6 packs of fresh, 2015 vintage, and realized I hadn't reviewed this. 12 oz bottle poured into a pint glass.    A: Clear, amber appearance, with a small, fluffy head. A couple rings of lacing are left after a few sips.    S: Hop-forward nose with a citrusy, floral bouquet. I just went through a lot of fresh-hop brews from the September harvest, adn this smells very similar.     T: The hop essence defines the flavors but it's floral, grassy and nuanced rather than bitter. NOtes of green apple and citrus rind are countered by honeyed biscuits and toasty grains. There is some bitterness toward the back of the sip, joining a touch of warming alcohol. Closes with a medium finish, with lingering bitter residuals.    M: Medium-light complexion with an oily slick mouthfeel.    There's good reason everyone clamors over this brew this time of year. It seems all of the fresh hop IPA's available have only made this more popular. Get it while you can.   
+look: 4.75 | smell: 4.25 | taste: 4 | feel: 5 | overall: 4.75 Sierra Nevada Celebration     Look 9/10  Smell 18/20  Taste 36/40  Feel 10/10  Drinkability 20/20    Overall 93/100   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 Classic Sierra replete with dry, slightly astringent finish. One of the winter offerings I annually look forward to. 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Bottled 10/02/15... consumed on 11/23/15. Wishing I got to try this a week or two after it was bottled, but wishes don't always come true.    Pours a nice transparent orangey-ambery colour. About a full finger head (pointer finger, not pinky). Some decent lacing building on the sides just from the head, haven't even moved the glass yet. **About halfway through the beer and there is still a misty foamy .0001 inch head on top. I love it when beers can pull this off. Ive noticed some of Sierra Nevada and Deschutes beers having this ability.     The nostrils pick up grapefruit, orange, pine, apricot, plus a wash of sugary malty goodness. There's actually not a strong aroma accompanying this ale, but I concede that this could be due to the style (fresh hop) and the time spent in the bottle.     First couple of sips are met with a lemon zest and grapefruit blockade. I know grapefruit is probably the most overused describer of IPA's.. but it is front and center for this celebration. With warmth, I start picking up a some caramel, some buttery biscuits, beechwood, and anise.     I love the body and mouth-feel that is the result of whole cone hoppage. It's like every nook and cranny inside my happy little cheeks (you know I mean face cheeks...come on guys) get the creamy yet bittery goodness. Landing on a 6.8% abv, it's a little stiff for me and needlessly heats up a would be remarkable feel.     I have had this beer for the past several years, but this is my first time reviewing it. Like I mentioned earlier, this review is from a beer that is almost two months old. While that may not be a big deal for most styles, I believe it does affect a fresh hop ale. It was still really really good. Celebration is one of the most accessible and well rounded fresh hops you can get. I wouldn't have minded the alcohol being tuned down just a tad. Otherwise: celebrate hops, celebrate tradition, and celebrate good beer.     Happy Holidays   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 4 

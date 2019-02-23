@@ -1,0 +1,1000 @@
+look: 4.5 | smell: 3.5 | taste: 3 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 5 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Pours a bourbon brown color without much head.  Has a sweet kinda smell, which follows to the taste. Very smooth going down and through the aftertaste.  Just a hint of a punch to it, probably due to the high abv   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 A: Pours a nice one finger head. Color is a nice darkish amber, like maple syrup    S: Hoppy and caramel. Some maltiness.    T: Sweetness definitely shines through. Hop forward with a good malt backbone. Top of my mouth is bitter while my tongue is sweet. Definitely a new sensation. Finishes with an interesting taste. Pine nuts?    O: Quality brew with an interesting twist. The name is well deserved. Alcohol is undetectable for a 10% beer. So smooth.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 Quite a nice strong ale with some well-balanced malt and hoppy notes. Pours a honeyed caramel-amber color with a little bit of head and lingering lacing. Smells mainly of brown sugar, malt, caramel and a little trace of herbal hops. Taste follows the nose, in addition to some brown sugar, molasses and raisin. Almost reminded me of a stronger version of a barleywine. Smooth, mild, slightly thinner mouthfeel with decent carbonation. Higher ABV was fairly well-hidden.   
+look: 4 | smell: 4.25 | taste: 5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 Surprising the taste they got with such a monster ABV. Just delicious. Has a bit of a tang once it sits on your taste buds for about ten seconds, but nearly flawless.   
+look: 4 | smell: 3 | taste: 4 | feel: 3.5 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Purchased six pack on 1/09/19  Glad I did   Lagunitas has exceptional beer at an exceptional price point.  Tastes great 
+look: 3.5 | smell: 4.5 | taste: 3.75 | feel: 4 | overall: 4.25 A bourbon hue without much head and dissipates quickly. Caramel brown sugar nose. Hits with hops first, then you get the caramel sweetness, then a bitter finish. Well-balanced but also not that complex. Pretty easy and tasty to drink for a strong ale. Could spend an evening with this.   
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 Superb! 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3 | taste: 3.25 | feel: 4.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Pours a golden honey color, with a eggshell / very light brown foam head of 1-2 fingers. It has a sweet aroma with a heavy malty biscuit flscor with moderate caramel and pine overtones. Despite being 10% APV, it does not have an overwhelming alcohol taste but is very intense with malt and caramel. It is somewhat fik yet does not set too heavy. Overall it is a another good seasonal offering from Lagunitas.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 Normally, I don't like sweet high alcohol beers. This is an exception. It pours with a nice thick and persistent head. The color is a nice deep amber. The head laces nicely as it settles. Nose is nothing special. The mouth feel is thick and smooth. It is sweet but there is enough alcohol and hops bite to balance it.   
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 This is a good beer, but not as much of a sugar bomb as I expected based on the marketing hype. The hops (51 IBUs) mask the sweetness somewhat and the alcohol is very well hidden. This beer tastes like a barleywine/American strong ale that leans sweet. I would have preferred lower hop bitterness so that the sweet malt could shine through more, but this is a pretty good offering and a great value for the price.   
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 3.75 Nice clear, light brown color with beige head. Lacing was decent. Smell is a little sweet and definitely displays alcohol content. Flavor is malty, sweet, and boozie and finishes bitter and crisp.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 From notes 10/29/12: Pours a clear, coppery amber producing 2+ fingers of frothy, variously bubbled, beige, moderately lasting head that leaves beautiful webs and bubbles of lace. The degree of lace left behind is variable from purchase to purchase. Aroma is biscuit and toasted malt, brown sugar, figs and hints of caramel, fruity candied apple, yeast, alcohol, pine and citrus hops. Taste is similar to the nose with the fruit being vinous throughout; the alcohol more noticeable as warmth and spice form mid-sip into the aftertaste; and more pine resin and citrus hop flavors especially in the finish and aftertaste. Mouthfeel is full bodied with moderate carbonation, thick and warming it has a dry finish.   
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4.25 12oz bottle into hop rastal glass   Bottled on day #295 of 2018 10/22/18  Pours clear copper with tan head   Sweet sticky aroma, resin, citrus pith  Big hefty caramel malt, loads of booze, grapefruit bitterness, with a resin-y finish  Medium bodied,  big hefty, syrupy   Overall a unique beer that is big and hefty that has some drinkability, and also nicely balanced between malt hops and booze   
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 bottle dumped into a snifter as a probably regrettable decision at about 1 am. amber beer with an off white, finger or two head that left a single line of lace and nothing else left. nose is a sweet mess, lots of the obvious brown sugar, caramel and a smack of earthy, almost musty hops. taste is straight sweet malt, bitter hops and a certain booziness. drinks almost hot but the sweetness numbed my taste buds enough to not really notice anymore. full bodied and quite drinkable. considering the price of these things they're pretty solid.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 12 Oz Bottle poured into glass  Look - Golden amber color, lots of bubbles, medium foam head has decent retention and thick glass lacing  Smell - like a very sweet IPA...can pick up hops but the overall aroma is sweet like a sugary syrup  Taste - It's certainly sweet no doubt about that. Initial strong bitter hop flavor turns into a sugar rush and heavy malts. Body is medium-high. Carbonation is medium. High ABV is mostly disguised as this feels like a simple IPA with a fuller body.  The kind of beer that is easy to drink but I'm not sure I would want more than one..    Overall, it's better than the rating suggests. It really packs a punch in both flavor and ABV. I liked it even though it is super sweet and will look for it again as a single, not something i need to buy a six pack of. Grade is an A-   
+look: 4 | smell: 2.5 | taste: 2.75 | feel: 3.75 | overall: 2.75 just taste like an average IPA, way too much hopes.... Overall not a bad beer if you’re going for an IPA but I was expecting more of a Strong Christmas ale or a Strong Amber Ale   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 4.25 | overall: 3.75 Color: Dark red  Aroma: Hops, faint malt  Taste: Hops with a nice malt backbone. I like it  Conclusion: 10% abv is well hidden, great balance of malts & hops. It taste better than I expected. Cheers! B   
+look: 4.75 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Poured into a chilled 12oz glass. Dark amber with a thin lacing head. Nose is is spicy and aromatic. Mouth feel is full and creamy. Taste is WOW, sweet, lingering with a very malty aftertaste. Definitely in current parlance a definite "do over"!   
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 4.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3 | overall: 3.5 Boozy but smooth just not much flavor. Good taste in back of throat but not on the front palate 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 Had a pint at Stub & Herbs in Minneapolis.    Look - Vibrant clear brown amber body with a lively long-lasting white head.    Smell - Weak notes of the titular brown sugar, sweet caramel malt, peanut butter. A very weak smell, but a pleasant one.    Taste - Short bread cookies is the flavor of the day here. Sweet, malty, and refreshing.    Feel - A medium chunky body with with a decently appropriate carbonation. A smooth drinker.    Overall - This is a malt lover's dream. Full of sweet bready flavors and incredibly drinkable, I almost wish it was weaker so I could drink more.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Copper filtered with little carbonation and 2 fingers of off white head.    Smells slightly of caramel, then dank, pot like hops.    Tastes slightly sweet of brown sugar, then of dank, west coast hops, catnip, green leaf, and a hint of bitterness.    Medium body with moderate carbonation. Really covers the alcohol.    Got at Walmart, and drinking for the first time in Redding, CA. Excellent brew.   
+look: 4.25 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.5 Try it but don't buy the full pack, get it as a single especially if you have not had barleywine type things. They are unique and Not for everybody. First off, this will f&*& you up, compared to other beers at a similar ABV this one would consistently put me to sleep for some reason after just one. It's really sweet but not particularly molasses-y; though that comes through, its not as carmelized as a darker beer. I was expecting big things but it was not something I will try again.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 First off I look at the other reviews and I think am I drinking the same beer as these other people? I am a novice reviewer and take what I say with a grain of salt. Cut to the brass tax, I liked this beer but it won't make my favorites list.  I was expecting a real sweet taste and I must be one of the oddballs out there because I didn't taste much sweetness at all.  I drank it straight from the bottle, did I mention that I am a novice? One person mentioned a slight grapefruit taste and I agree. Another person said you could never tell that this is a 10% beer I agree with that too, absolutely no alcohol burn. Brown Shugga' goes down real easy, I am a sipper, not a guzzler but if I was I might be tko'd. This beer has very little bitterness in my opinion. Try this beer you might like it, one thing I can't get over is how much my experience with this beer is different than others.   
+look: 4 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 Very pleasant, strong smell right from the bat. Taste has after kick to it, makes your tongue a bit numb in all those flavor. Definitely has that rich smell and taste of sweetness in it. Strangely the resulting feel is a bit weak compared to its strong smell and flavor. But still enjoyable beer. Love the high alcohol volume.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4.5 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 From notes:    Poured into a snifter/tulip/wine glass from a 12oz bottles    A - a beautiful translucent, blood red copper, nearly tan two finger head and some serious sugar lacing/legs    S - lots of sugar (brown specifically), sweet hops, fresh baked bread (yeast), oaky, musky funk, slight peach/pineapple, citrus orange,     T - rich sugar, nice huge sweet and toasted/roasted malts, nice booze, chewy grains, fruity and earthy hops, terroir, bread yeast, floral, pine, some pineapple and peach,     M - full bodied, well balanced, nice complexity, medium acidity, medium carbonation and a huge sweet feom start to finish    D/O - this is one of my favorites. The fact that this ale happened by accident adds to the awesomeness of this ale. Hearty, balanced, refreshing and perfect for this time of year when the weather can't decide if it is season appropriate or not. If you aren't a fan if huge sugar, malt and hops, this one is not for you and on the other hand this one is for you in so many great ways.     Final thoughts - at nearly 10% abv and less than $10 a six pack, what more could you ask for from a brewery that has mastered the seasonal ale   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.25 | taste: 2 | feel: 2.25 | overall: 2.25 Poured hazy copper color with a small head. Lacing retention was pretty good throughout. The smell was strong with grapefruit and brown sugar. Taste has an overpowering grapefruit taste that ruins any sorta sweetness the beer could've had. The feel is thick with a strong aftertaste.    This beer wasn't for me but is worth a try at least once.   
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.5 | smell: 4.25 | taste: 5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 Pours a very hazy dark copper color with a thick foamy head. Head retention and lacing are both excellent. Sweet aroma. Brown sugar, hint of brandy, Belgian yeast. It is pleasant. Taste is very smooth. Brown sugar, slight brandy, maybe some caramel and a little bit of bitterness. Aftertaste is a little too bitter. Medium bodied with moderate carbonation. Good beer but may be too sweet to drink much of it.   
+look: 3.75 | smell: 3.25 | taste: 4 | feel: 3.75 | overall: 3.75 Pours copper. Smell is hops. Not much else. Taste is hops, oranges up front. Caramel in behind. Balances nicely as it warms. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 4 | feel: 3.25 | overall: 3.75 
+look: 4.75 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 really well balanced strong ale. easy to drink, maybe too easy. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 5/17/18: $1.66 12 oz bottle from Binny's Niles, poured into a snifter. Generous tan thin head, copper color, generous carbonation. Wine and cinnamon sweet aroma. Aptly named sweet taste, malt, wine, rum. Thin texture, carbonation holds, smooth drinking. Overall good offering.   
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 1.75 | taste: 1 | feel: 2 | overall: 1.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 2.75 | taste: 4.25 | feel: 4.5 | overall: 4 Pours a pleasing maple brown. Not much of an aroma surprisingly. Nothing really to decipher to the nose. Tastes of red wine and hops. You could never tell that this is a 10% beer. Goes down almost like a lager.    = A good offering from Lagunitas. The aroma leaves a lot to be desired but the mouthfeel and taste make up for it.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.75 | overall: 4 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 Good color  Too sweet  Bad lingering aftertaste 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 Got a 6pack of 12s for $6.99 on sale at totalwine, that’s a good price and I knew they’d hold up well enough so screw it why not?     Normal pour into a brandy snifter produces a half inch of slightly off but otherwise white head, nice retention with a still frothy collar, deep amber body, decent lacing    Aroma is awkwardly light, I guess the age could have effected it but it’s not very old, I remember it being stronger before but it’s been months, literally can’t smell anything but a hint of booze so I gotta write it off as my nose being weird today..     Taste is slightly bitter hops the first few sips but really mellows out into a sweet barley-like malt, slightly dry with some biscuit notes    Feel is lowly carbonated, slightly thicker then other comparable strong ales, no alcohol burn    Overall it’s another solid offering from lagunitas, I think the aging brought it down from what I remember so drink fresh..     That being said it’s still not the most memorable I’ve had from them but definitely worth a try.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.75 | smell: 4 | taste: 2.75 | feel: 3.25 | overall: 3 Deep Carmel and super sticky sweet. Too sweet for me, too much sugar. 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 3 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 4.75 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3 | smell: 3 | taste: 2 | feel: 3 | overall: 2.5 It looks real nice, but that's about it. Very hoppy and bitter. This is a once and done for me. 
+look: 3.5 | smell: 3 | taste: 2.75 | feel: 2.75 | overall: 3 Surely a favorite to many, but not this guy. I found it deceptive, with hops and bitterness persisting more than a thick, sweet, brown sugar I expected.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Poured from a 12oz bottle into glass. Stamped info on bottle '262 7 2 2301 0249'.  Slightly cloudy, deep amber colored body. Off white head settles to bubbly cap. Some strings of lacing.  Caramel malt and hops in the nose.  Sweeter taste malts, piney and citrus hops. Strong tastes throughout.  Medium mouth feel.  A strong, sweet tasting ale, quite well balanced with the malts and the hops. Alcohol burn is present.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Another good brew from lagunitas ..    Basically a cheaper sweeter version of arrogant bastards. Big malt and big hops, strong flavor beer..    I will buy again for sure.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 I have never tried a Lagunitas that I liked and I picked this beer for my 200th review. That being said this is probably my favorite offering from them. Beer pours red with a white head. The smell is hop forward but the flavor is orange, lemon and other citrus. Nice and smooth overall not a bad beer at all.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 This may be the first I've had of this style. It's a good looking beer. The smell actually has a little hop to it among other unidentifiable to me things. There is no heat in the taste but there is a slight alcohol taste. This one is hard to describe. The first time I had it I thought I tasted strong brown sugar but this time it's my first beer of the night and I don't taste it. There is some bitter to the finish. Overall it's not bad and I would recommend trying it but I wouldn't buy it again.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3 | taste: 3 | feel: 3 | overall: 3 This was a surprisingly hoppy beer. I thought it would be more malty but it is very bitter. Not a fan! 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 Brown Shugga pours a darker copper color, with a smaller, but long lasting, lacing head. Sweet malty aroma, with hints of earth. Flavor is bold, roasty, malty and earthy. Good body and feel. Overall, a solid, and easier drinker strong ale.   
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 Look: light brown, almost almonds looking  Smell: sweet  Taste: sweet, almost malt like 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 3.5 | smell: 2.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Poured from a 12 oz bottle into a tulip    L: Clear copper pour. 3 fingers of fluffy white head leave crazy sticky lacing all over the glass. A little bit of yeast sediment.    S: Sweet caramel and brown sugar (no surprise) mixed with lagunitas hops.    T/F: Follows the nose. Sweet brown sugar and caramel malts. Well balanced by the hops... piney and citrus. Floral... sweet.. ABV not subtle. Medium bodied... sticky and carbonated. The finish is more brown sugar and hops.    O: A delicious strong ale. Super drinkable despite the noticeable ABV. A few of these would be super dangerous. Delicious beer.   
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.25 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 taken from notes> 297 72 2380 0135 marked on bottle.     Appearance- from a hardy pour into a pint glass it's a transparent amber color with a frothy off white head that leaves thick heavy lacing.     Aroma- dank and citrus. hoppy. nice.     Flavor- tastes like the smell but with a heavy chocolate malt presence. abv is really noticable. pretty sharp in the booze department.     Mouthfeel- medium/ heavy bodied. alil silky. good carbonation.     Drinkability- def going to drink more of this in the future. really nice for the winter.     Overall- i was expecting a more malty of a brew but coming from lagunitas this one isn't neglecting the hops. to me this is a really nice imperial ipa brewed with a ton of specialty malts (chocolate and maybe oats).   
+look: 2.75 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 Pours a darker amber color with a large thick white head on top. Has a super sweet hoppy smell to it. This has a very overpowering sweet taste definitely get the sugar taste.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 This has become an all time favorite of mine - Lagunitas has made many solid reasonably priced beverages, and this is on the top of my list.    Pours rich copper with a little head, just right..    Smells floral and sweet, I get grapefruit also.    Aah, the glorious sip! SO JUICY! RIch and syrupy, tastes of citrus - a mix of sweets and tarts. No taste of strong alcohol at all.    Mouthfeel is also glorius, not thin like many beverages - almost syrupey. Fizz is solid.    Finish is clean.    This is a favorite go-to high-gravity brew!   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Lagunitas knows how to do it. I'm a huge A LITTLE SUMPIN' SUMPIN' fan, but this will do. 
+look: 4.5 | smell: 3 | taste: 1.75 | feel: 1.5 | overall: 1.5 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Maybe the best bottled strong ale you can buy. only surpassed by some of my local craft brewers like Due South's growlers 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 12 oz bottle poured into a snifter.    Appearance  Amber. Good clarity. Light carbonation. 1 finger of white head.    Nose  Molasses, caramel, toffee, overripe pineapple, mango, grapefruit, and dank.    Taste  Molasses, caramelized brown sugar, and toffee. Grapefruit, overripe pineapple, and musky mango. Off-dry dankness with lingering pine and grapefruit zest.    Mouthfeel  Medium bodied, silky, smooth, moderately bitter, and off-dry.    Overall  HIGHly malty with a tropical hop bitterness that cuts the sweetness well. Molasses, toffee, and a brown sugar dryness stand out.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 One the best brews I've ever had! Mmmmmm good. 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 5 | taste: 4.25 | feel: 4.25 | overall: 4.5 Clean taste for a strong ale. Well done. 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 I am addicted to hops, so actually prefer the "Sucks" substitute, but this is a very tasty ale! 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.5 | overall: 4.25 Pours a lovely mahogany color with a thick, white head that is slow to fade and clings nicely to the glass. Smell is fresh baked bread, pine, and a little grapefruit pith. Taste is grapefruit up front, dark fruits and malt in the middle, fading to a sweet, almost cloying finish that takes a long time to fade. Fully body. Slow winter sipper, delicious in every stage, flirts with being too sweet and yet somehow doesn't cross that line.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 Pretty beer. Like light molasses. I can mostly smell the alcohol. The taste matches the name - brown shugga and strong ale. A sweet, late night sipper.   
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 Amazing flavor with little alcohol taste. 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 12oz bottle poured into a pint glass.     Appearance: Pours a clear, deep copper with 1/2 finger of white head    Smell: Piney hop aromas and baked bread    Taste: Hop bitterness up front with plenty of dark fruit and malt in the middle leading to a slightly sweet, boozy finish that reminds you how big this beer is    Mouthfeel: Full body and heft, cloying in the finish    Overall: This beer is not about balance at all in my opinion. But thats what this one is all about. Up front it has a lot of character of an American-style barley wine with the aggressive hop character, yet the malt comes in and hits you even harder leaving the boozy finish. Yet, I still go right back for the next sip.    A winter-warmer for sure.   
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 Served from the bottle, 2017 seasonal brew into a chilled mug. A bit of a thin light brown, creme colored,head, good up front hoppy burnt roast flavor. Seems to taste like grapefruit and a hint of juniper scent in there too. Looong finish on the hops that sits in the back on the roof of your mouth, a finish I enjoy. It is a little bit warm on the finish, a very slight hint of alcohol hot, but well concealed by the loads of hoppiness on the back end. I would buy this again in a heart beat. Really nice finish as the last of the contents warms up a bit. A full rich hoppy California style Ale. Exceptional value if you can get a case of it for the Holidays.   
+look: 3.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4 Overall a delicious American strong ale. Finishes smoother than most in this category. This is a release I look forward to In the holiday season. It would be my go-to if it was available year round   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 12oz bottled on 11-7-17  Beautiful, clear, clean red/brown beer with a 1/2" off white (sand) head. Good looking lace rings left behind.  Caramel malt, pungent weedy, grassy hops.  Earthy, slight sweetness - molasses like. Earthy, root-like hopiness. Grainy.   Full body, slick...well carbonated. Lengthy finish. Sweet up front but enough hops to balance.  Transcends styles..kind of like Arrogant Bastard did when it was new....interesting beer.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 Friday, November 24, 2017	5:48 PM	  Bottle 12 ounce poured to wine glass	  Sight: Light amber, small head, almost no lacing	  Smell: hoppy aroma, slight boozy scent not overpowering	  Taste: Medium bitterness, sweet, bold and complex	  Mouth feel: very good, ice follow through, long finish, sticky, strong bitter aftertaste	  Overall: Excellent beer, specially with the price. Definitely something to look forward to.   
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 An absolute favorite. Pours a wonderful copper brown. Deep rich flavor, warms you up for the holidays! Really great both ice cold out of a chilled mug or a bit warmer than that out of a snifter. No way to tell the high ABV while drinking it's so smooth and pleasant, but you'll know when you're done.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Very good strong ale. A bit sweet but the little alcohol warmth at the end balances out this beer quite well. 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 The first time I had seen this offering from Lagunitas, so I had to try it. More of a dirty penny color, dingy off white head, had to describe it as having an IPA crispness, or a dominant maltiness. Very smooth, really well balanced between the hope and malts. Have to agree with others, the 10% alcohol is a slow, pleasant, warm surprise! Be very careful with this one! And oh yeah, I really like this ale. Using one to simmer a small ham in for the first weekend of Deer Camp! Enjoy!   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Very tasty beer with some very good "horsepower" to it. At 10% by volume it has some punch to it. But its not overpoweringly bitter. A very tasty combo between bitterness and alcohol content. I would recommend trying it if its available in your area.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 4.5 | taste: 4.25 | feel: 4.75 | overall: 4.25 Look: amber, tons of bubbles, huge off white head, plenty of lacing. What more could you ask for?    Smell: fresh, hoppy, citrusy, fruity, smells like a well done IPA     Taste: huge hops that mix bitterness with citrus and tropical fruit, balanced by a solid maltiness, faint brown sugar     Feel: medium carbonation, smooth and creamy    Overall: not as sweet as I was expecting, very faint brown sugar and huge hops. One of the most deceptive and least boozy 10% brews I've ever had. I feel like I don't like this as much as my rating indicates but it is a very good beer, it's objectively well made, and I'd be remiss to lower any part of it. Great beer for the price as well.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Pours a nice clear deep copper with an irregular little foamy beige head with tons of sticky lacing.  Smells sticky if that is possible, syrupy, almost sickeningly sweet with warm stone fruit, red grapes, brown sugar, some molasses and caramel, a little grapefruit, and maybe even something like baked apples.  Taste is sweet and congruent with the smell with an unexpected, bitter, hoppy back. The hops are pungent, dank, as well as citrusy and grapefruity and you suddenly understand their contribution to the aroma. You were smelling them the whole time but didn’t realize it was the hops contributing a sweet fruity smell.  Body is medium in terms of weight but a bit syrupy from the sugar and resinous from the hops, all balanced out into mouth coating goodness. I seriously can’t believe it’s 10% ABV. I also can’t understand why this isn’t rated higher.  Much better that Arrogant Bastard and most other American strong ales out there.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4.5 Why all "4's" in every category, but a "4.5" overall you ask?  Because this smooth operator will get you WRECKED son!  One of, if not THE, best American Strong Ales I've ever had.  Super smooth, alcohol barely noticeable, and tasty! Which was part of the problem for me.  Took an entire SIXER to the face while watching a hockey game one evening.... woke up on the lawn.  Good stuff!   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 Next to Hop Stupid my favorite Lagunitas. Really good 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 A perfect example of an american strong ale. Nice copper colour with a tan head and some nice lacing. Smells of caramel and mild malts. Tastes a great balance of malts and hops with slight brown sugar creeping through. The 10 abv is hard to detect which makes this a great winter sipping beer. Two of these and a comfy blanket will make for a great winter nights sleep. Prost!   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Pretty much the perfect Strong Ale. The hop and malt balance is perfect. Its not boozy at all considering the ABV. A really nice fall/winter beer. 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 Dark amber with average cream colored head. Decent carbonation. The taste is quite unique, there is the sensation of brown sugar but it’s not really sweet. It is very malty but the hops even it out. It’s a good drink. I don’t think I could drink more than 2 or 3, it’s quite strong. Very filling. Highly recommend for the sake of something different if nothing else.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4.75 | smell: 2.5 | taste: 4 | feel: 3.75 | overall: 4 I thought this beer would have been sweeter but honestly the taste is delicious. I find it hard to believe that it's ABV is a whopping 10 percent! Great color and good head too. Definitely will look forward to drinking a few more!   
+look: 3.75 | smell: 1 | taste: 2 | feel: 1.75 | overall: 1.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.25 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 12oz bottled 9/2/17 poured into a Duvel glass at fridge temp 10% ABV 51 IBU. The beer pours bright red hued amber with sticky light khaki head. The head never really goes away and spotty lacing is present all over the glass. The aroma is pine first with some citrus. The taste is semisweet caramel first before a rush of piney, citrusy bitterness. Mouthfeel is medium to full bodied, adequately carbonated, sticky but somehow dryish in the finish. Overall, great. I love this beer. A very fine example of big malt and big hop bitterness interacting in the best possible way.   
+look: 5 | smell: 4.75 | taste: 5 | feel: 4.25 | overall: 4.75 Lagunitas beer is never bad, just varying degrees of awesome. This is one of the awesomest. 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 I love this beer. Couldn't have been named better. Sweet sweet and just a hit if bitter on the end. Beautifully coppe color. Good head. Medium bodied. Enjoy this guy. Dangerous to drink at 10%.   
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 Looks light copper with small lacing  Smells like hops and alcohol  Taste is strong and hoppy, plenty of malt to carry the liquor, quite good  This is basically lagunitas ipa except stronger with more malt, it's really good   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.75 
+look: 3.75 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4 Draft pours dark amber or brown with a tan head. Good aroma of sweet malt with some hops coming through too. The taste it is sweet with some prolonged bitterness at the end and with a surprisingly floral aftertaste. I can definitely taste the brown sugar too! Medium body. A very enjoyable beer.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 3.5 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 going into this beer I thought it was gonna be a sugary mess. It definitely did have some sweetness to it but it was also very hoppy. It has a little bit of a darker reddish color with a fingers worth of white head. It actually smells pretty damn hoppy with some tropical apricot and pine smell . Taste is semi bitter on the front followed by a little sweetness from the malts, kinda caramel type sweetness. it had a fairly thick chewy mouthfeel and definitely would be a beer I would buy again.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4.75 Do yourself a favor and buy this but don't drink it. It tastes like some off balance monster IPA which is gross. Instead sit on the golden egg for a good 3-4 months and then crack one open.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.25 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 6/21/17...pours rich sharp amber with light layer of white foam sitting on top. Some lacing. Malty brown sugar nose. Sharp medicinal taste, puckers but not in a sour way. Edgy bitter at the end. Unique no easy drinker More WTF than anything else.   
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3 | feel: 3 | overall: 3.5 Pours a orangish-amber color with a thin but frothy off white head. Only slight carbonation. Smell reminds me of a pale ale. Initial taste is quite bitter up front but mellows out to a sweet dry finish. Overall, a little to bitter for my taste but can definitely see why others enjoy this brew   
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 This is another great one from Lagunitas.......same rich, hop burst experience you get when drinking about all of the other ones I have tried from these guys.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Reviewed from notes. The appearance was a hazy brown colored body leaving a one finger white foamy head that appears and leaves some nice slightly thick yet spotty lacing in rings around the sides of the pint glass. The body is too hazy for any carbonation to be seen rising. The smell had the hops up front to form a mostly bitter aroma. The malts play nicely in the background coming more forward as the beer warms. The taste was excellent as the hops and the malts combine just about perfectly. On the palate, she sat about a slight sticky feel in my mouth and on the tongue, ranging on the medium side. Though the ABV is pretty high, this is quite drinkable. Overall, I’m thoroughly impressed and most likely will have this again.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 Amazing orange mohgany color. Immediately the aroma let's you know this won't be a common beer drinking experience. Malt,sugar,followed by perhaps fruit and mild hops. The alcohol effected the taste a bit as it was a bit overwheming. Malt and brown sugar was forefront but there was some mild hop finish . It was a well made beer and very unique but not something I could drink a lot of. People who appreciate craft beer should definitely give this a try just to experience something different   
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 2.75 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 Amber caramel color with super pillowy light khaki head. Amazing lacing and clinging foam that continues for the duration. Smells just like a fresh biscuit. Taste is much sweeter caramel with light tangy bite. You definitely feel the high abv but not offensive.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3 | taste: 1 | feel: 3.5 | overall: 1.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 This beer to me is in between an ipa and a brown ale or red. It has the strength of a dipa and the lingering hoppy flavor too. It also has a certain sweet maltiness in the initial flavor. It's like a sweet version of an ipa to me, but not syrupy. Very intriguing and worth a try.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3 | taste: 1 | feel: 3 | overall: 1 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 Malt forward, definitely a sweet body. No strong alcohol taste initially. Dark amber hue. Smooth mouthfeel with a lingering floral hop aftertaste. Not a huge fan of reds, but this is one that is quite quaffable.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Malty but not much else out of it. It was ok. Enjoyed it much more the first time, but i realize now I favor browns, Porter's and stouts over many reds. If it is a red, I want it sweet. This just isn't.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 2.25 | feel: 5 | overall: 2.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3 | taste: 3 | feel: 2.75 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 It pours dark amber or brown with a tan head. Fairly clear. Aroma is sweet malty with some hops coming through too. With regard to the taste it is sweet with some prolonged bitterness at the end and with a surprisingly floral aftertaste. One can definitely taste the brown sugar too! Medium body. A very enjoyable beer.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 4 The look is a nice brown, with a nice foamy head. The taste is a bit sweet and it's hard to tell it is 9.80%. The feel is nicely smooth and overall it is a good beer. Usually If I'm going for a higher abv I'd prefer an imperial stout or IPA over an APA or anything barrel aged, but this is a solid APA.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 1.75 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3 | taste: 4.25 | feel: 3 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 3.5 | overall: 4.25 
+look: 4.25 | smell: 3 | taste: 2.75 | feel: 2.5 | overall: 2.75 I got almost nothing out of this beer when I drank it aside from a very hoppy flavor. It's pretty to look at, but in taste, I can't get anything other than hops. Bitter, strong, and not very smooth, I think this beer is mediocre at best.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.5 This beer pours a deep clear ruby-hazel, with a large head. The aroma offers lots of sticky, piney hops, resin, cannabis, and caramel. The flavor i sweet and sticky with resinous pine, cedar, and caramel. The mouthfeel is rich and sticky with lots of carbonation. Overall this is a straightforward beer, but completely delicious. It is malt driven, but the hos also play a huge role, with all their cannabis and resin suggesting tones.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Poured from a 12oz bottle into a speiglau IPA glass.    Look is a dark amber bordering on cola with a big white head.    Aroma is malty alcohol lotta biscuit to it.     Taste is a very strong hoppy barleywine. Similar to fresh Bigfoot.     Good, but I'd kinda like to see the hops integrated more thoroughly.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 2.75 
+look: 3.25 | smell: 3.5 | taste: 4.75 | feel: 5 | overall: 4.5 L- a brownish amber, thin head vanishing swift, with nice, long lasting lacing.   S- fruity malt, Christmas spirit wafting on the west wind!  Taste- a complex yet cozy, wholesome affair, the label of this six pack states a 9.7%, which is well hidden, yet a big, big beer it is, it's potency lingers on the mouth's roof, while the holiday spice-tinged citrus and other fruits explode with each precious gulp, lol    Feel / Overall Too strong for causal drinking, a sipper indeed, warming like an Imperial, but not the 'burning down the throat' sensation, that several Lagunitas Imperial Stouts have provided me in the last couple of rainy ( rather pleasant) months ... after numerous (Imperial) Stouts, this is a refreshing, complex, well-balanced fruity, malty change of pace!   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 Deep amber holiday ale. Its a good strong ale with rich flavors. You can taste the malt presence in this beer, but the hops are there too. The flavors are noticeable in the smell and this is a smooth beer. Its good - but the malt might overwhelm a bit, so it's a sweet offering.   
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 Pours a clear reddish brown color. Couple finger tan head dissipates laving tons of sticky lacing and a thin residual head.     Smell has aromas of brown sugar, oily floral/grassy hops, sweet malts, and touch of fruit - notes of citrus.    Taste follows the nose with a strong sweetness up front giving way to a surprisingly bitter hoppy finish. Lots of orange peel, brown sugar, caramel and pine. Pretty sweet overall. Pleasant malty base comes through     Feel has mild carbonation. Thick sticky mouthfeel thats likely from the sweetness. Dry finish.     Overall its a pretty good beer- solid old ale.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Deep amber in color, slightly hazy. Orange cream head with a fair amount of lacing and retention. Sweet caramel malt aroma with spice, burnt sugar, and orange peel. Sweet taste, brown sugar and spice with orange and caramel. The flavor lingers on the palate with a resinous, fir and citrus finish from the hops. Excellent!   
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 4.75 12oz bottle poured in to a tulip.     Appearance is amber and ruby and golden, befitting the holiday season. Id have certainly enjoyed it as a Christmas brew had I been aware of it then. Head was generous and creamy, retention was pleasing because it stuck around long enough to admire and not long enough to get in the way of a clean sip.     The smell is great, very unique and sweet. You pick up vanilla and malt as well as pine and hops. The citrus qualities were unexpected but fitting. Again, a great Christmastime brew.     Taste is top notch. sweet malt and sugar are in the front. I would describe the sugars as "toasty" or slightly burnt. Pine and citrusy hops are present on the palate in the finish, allowing the beer some very refreshing qualities that distinguish it immediately from a sweet stout or anything of the sort.     Mouthfeel is smooth and balanced, the sweetness being present without ever being syrupy or heavy and the pine and citrus are in the mix without ever being too dry or astringent. Alcohol is undetectable despite the high ABV so take care not to get too drunk, cause it'd be easy to knock these back all night long.     Overall, unique and beautiful brew. Outstanding.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Look is a deep amber, with a thick and creamy head.     Taste is rich, with subtle burnt sugar (not as much as the name suggests), vanilla, and pine. And of course some hops. Mouthfeel is dense and smooth.     Extra points for this brew being so flavorful, so alcoholic , and so drinkable at once. It's like a barleywine, but disguised as a sweet and spicy holiday beer (albeit a rich one). Very unique to my experience.     have had this on tap a few times (the first time I did not realize the abv and had 3)   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 Bottled on the 357th day of 2016. Consumed on 1/14/2017. Pretty fresh! Around 3 weeks old. I give this beer a B+/A- :)    L: The beer is a golden/amber color combo. I didn't pour the beer aggressive enough so I had a one finger head that dissipated, but leaves a trail on your glass as it's consumed.     S: As its name suggests, this beer has a sweet and very unique smell to it. Sweet malts with some citrussy pine mixed in there upon pouring,, but as the beer warms the sweet malts become the dominant aroma. Very unique and hard to describe at first.    T: Just like the aroma, this beer has a very unique taste. It tastes and smells kind of like a "prettier" Arrogant Bastard. Fairly sweet, caramel malts, with some citrus/pine notes that come through at the end. As the beer warms, the caramel malt becomes the much more dominant flavor. The alcohol is very well hidden, you would not be able to tell it's a 9.7% beer, very impressive and dangerous ;).    F:I think this beer is easy drinking. Lighter side of medium carbonation. Balanced    Overall to me this is a great, nicely executed, and very unique beer. The most similar beer I've tried to this is the Arrogant Bastard, but that doesn't say much because they are still very different. The 6 pack was $12 and which is such a great value. Lagunitas is becoming my favorite brewery, because they make great beers and their value is almost unparalleled.     Would I buy this gain? Yeah probably next year. Not really an everyday beer to me, but probably something I would not want to miss out on when its released. Cheers! :)   
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 5 | overall: 4.75 
+look: 3.75 | smell: 3.25 | taste: 4.25 | feel: 3.75 | overall: 3.75 Generous head over a clear amber body. Lotsa lacing.     More hops than expected. They are the dominant flavor in fact. Malt is not biscuity but rather sweet. Generally sweetness with hop bitterness as an aftertaste. Mouthfeel is smooth.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 4 Great beer. Has a savory smell to it with a hint of that wonderful brown sugar it's named after, sort of thick in mouthfeel...full and satisfying on the pallet. I can hardly taste the alcohol at all. I love the color, the slight haze in the pour and pretty much everything about it. Little bit of hippiness on the back end but I don't think that's really what this beer is about, but it's there anyway. Good job Lagunitas.   
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Cookies. Got your attention? I can't escape the general sensory experience of warm, snickerdoodle cookies while drinking this. The look is closer to an Amber than I would expect of a debatably "dark" beer, but in terms of all other criteria, this pup lives up to the name. I saw Lagunitas' brewmaster describe this as "technically a barleywine," which makes sense, as barleywines are my thing next to never, given their black licorice and raisin business, and I won't say that I would drink this regularly, but should I have a slab of pumpkin pie before me, and grandma holding a gun to my head (she's that kind of lady), Brown Shugga would go down just fine. Look forward to seeing you next Christmas, fellas.   
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 Disclaimer: these big American hopped beers used to be in my wheelhouse, but are no longer my favorite. That being said, this is a well made beer. I've been drinking this 12 oz bottle from my favorite glassware for the past hour, and it's retained a fine head and beer still laces when I take a swig. It's relatively balanced for a big, boozy beer. I personally would prefer a little more biscuit and roast for balance. However, nice hop nose, good bittering. Call it an American Strong of Malt-focused Double IPA, this is a solid, big American Ale. What you'd expect from Lagunitas.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Lagunitas makes some intense brews, and this is a good example. 9.7% abv. 1.100 o.g. 51 ibu.     Dark honey/amber color. Mid sized foam cap, solid white. Decent lacing left over.    Thickly sweet malt bomb aroma. Caramel scented malt with some red fruits and tangy citrus from the hops. Smells like fruity whisky.    Freshly poured from the bottle and into a mini snifter glass, the flavor has a very intense fruity hop kick, high alcohol heat buzz and a long, caramel-sweet malt that turns, woody or cask-like. I'm imagining this stuff out of the barrel!     A massive full body, nice crisp punch that mellows to long, slick malty finish. I'm thinking of pairing this with smoked cheddar cheese at some point, if I have any of this beastie liquid left by the time I'm hungry.     With Big, strong ale's I find it important to comment on how well the flavor changes as the liquid warms. After all, you really should sip on this or you may become too drunk, too early in the night. Go slow, and let it warm up some. Usually the malt gets more complex and sweeter.     I believe this style of ale is what Kings and Vikings would drink if they came back to rule the world, or if this type of brew was around then.....although, maybe they would demand a Gold colored brew......anyway.......    As it warms, the aroma strengthens, more fruity hops, bigger , sweet, cask barrel malty tones come out.     I'm thinking of this brew to be the Mike Tyson of beer. Just F'in rugged, street smart, slightly ignorant, but demanding respect....always. It's giving me major attitude as I type this. Pretty sure it wants to take a swing.    Big in all ways, complex and honestly, the balance is just right for this style. Que to Stones song.....   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 Pours the color of a clean penny with a small off white head that vanishes quickly, leaving some nice lacing.  I hate the word aroma, so I'm gonna say I smell some malts and piney, citrusy hops.  This has a nice sweetness upfront and a mild citrus finish.  This is one of those beers that sneaks up on you. The ABV is well hidden. Another terrific offering from Lagunitas.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 Poured from bottle into tulip, monster 2 finger light tan head, recedes rather slowly, great lacing. Darkish amber in the glass, crystal clear to look at. Smells of malt, crystal, caramel some pine on the nose. This is an in your face caramel sweetness on the front end, followed up by piny citrus hops in the middle with a mild bitterness and finishes up with malt sweetness. Very thick almost syrupy mouthfeel, great mouthfeel. I like this, and don't mind having it every now and then, but this one is just a little too sweet for me to drink quite frequently. I grabbed a six pack of this last winter and never got around to rating it. I told myself I just didn't like it and didn't know if I would finish the six pack but that puppy disappeared rather quickly, so maybe subconsciously I like this more than I think.   
+look: 4 | smell: 2.5 | taste: 1.25 | feel: 1.5 | overall: 1.5 This has got to be one of the worst beers I've ever tasted. Cannot comprehend how this has such a high rating. All you can taste is nasty astringent hops and heavy alcohol. Tastes terrible and also brings on a killer headache. If you're looking for a winter beer like I was, stay away from this one!   
+look: 4.25 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Drank two 12oz bottles back to back, 1/2/17. No bottling date found on the bottle. Poured into a plastic cup like a goddamned animal.    Good caramel color like dark brown sugar, smells a little spicy, good balance of bitter and sweet. You would never know this is 9.7% in a blind taste. Alcohol is hidden well.     After reading some other reviews, I'm noticing more pine-hops smell than citrus, but a better balance of the two in the taste. Burps feel like a Christmas tree.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Pours amber in color with 1" of foam and solid lacing. Smells of syrup, malt, and vanilla. Taste is good, has a nice burnt sugary feel with a vanilla mix but very light on vanilla. Also some pine in there with a grapefruit dryness. Overall its a good beer and in your face on flavor, you know your drinking this one. I have to try this again but at room temp, I think it will take on a totally new flavor warm. Very nice.   
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 4 | feel: 4.5 | overall: 4.25 In my opinion, It is just on the edge of being too malty for my liking. Dark, transparent pour. The more I sip, the more caramel it seems to get, hits the roof of my mouth. Balanced carbonation.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 Translucent dark brown from a refrigerated Spec's down here in Beaumont, TX. Just 2 months old, only running for a few months this time a year anyway.    Anyway, dark but mostly translucent brown/mildly amber ale. Lots of lacing.    Smell is very muted, some barley, grains, and dominatively malty. Taste is somewhat similar in that aspect, with a lighter mouth feel then many malty beers. Pretty easy mouthful, not much carbonation though. Alcohol well hidden but not an overwhelmingly pleasing beer.     That being said it's not a bad deal for the warm winter buzz the beer provides. When each beer (9.7%) is equal to 2 of the strongest macros it's hard to complain. I imagine at higher alcohols with this style it's hard to make everyone completely happy. That being said Stone among many other companies do so without a problem.    They claim it has a moderately high IBU but I can't detect many hops in the ale. Pretty much a heavy malt bomb with the advantage of it being lower medium bodied in order to quaff it down easily. Gets you very drunk very fast, and for the money I can't complain. I love a nice heavy beer buzz.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours a clear amber with a white head. Smells of caramel, brown sugar, light malt, and light hops. Tastes of very sweet brown sugar and caramel, light malt, and some alcohol. Medium creamy body with medium carbonation. Overall an incredible strong ale.    This was my first craft beer I ever tried after I first turned 21, so this is a re-review. Over the past year I've tried over 450 beers and this one has only improved with my new tastes. Love it!   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 2016 release     Transparent amber color with a creamy off white head. Good carbonation     Pine, citrus, caramel on the nose    Sweetness up front, middle is citrus, back is pine bitterness with a sweet after taste   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 12oz draft pour into a short goblet boasts a red tinged amber body floating start of near white bubbles.  Citrus hop aromas dominate with a grass background.  Malt joins evenly in flavor for a nice balance.  Mouth feel is bubbly and almost wet on the finish.   Restrained and tasty.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 L -- Pours a lovely reddish amber with a two finger, densely foamy, off-white head. Head dissipates slowly, and leaves significant lacing on the glass.   S -- Equal parts citric hops and caramely malts. Faint aromas of peach, pineapple, and brown sugar  T -- True to its name, brown sugar! dominates with a nice biscuity malt backbone. Pineapple and boozy flavors also shine through. Not nearly as hoppy as other popular Lagunitas releases  F -- At 9.7% ABV, it's hard to not to have a full and robust mouthfeel. The sugary sweetness is not overpowering, but balances the high alcohol and maltiness well. No strange aftertastes  O -- One of my new favorites    90/100    EDIT (11/27/17):  I think my taste for sweet beers has developed since I last reviewed this, since it's not quite as good as I remember it being. Still has a beautiful, reddish amber body with a nice head. Aromas and flavors, though, are much more one-dimensionally 'sugar' than I recall. Still pretty good for the price    85/100   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.75 
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 Absolutely one of the best combinations of hops and mild malty sweetness .   Being I'm a stout guy and not so much a hop head, this is a great combination.  I only bought one to try, , ,but I'm grabbing some sixers to have as I was very pleased with this brew. :)  Very refreshing taste and palate change from my heavy brews .   Highly recommended for many reasons . Taste, combo, price and high abv :) ;)   
+look: 3.5 | smell: 3.5 | taste: 3 | feel: 2.75 | overall: 3.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Look - a golden amber with a two-finger off-white head and spotty lacing.  Smell - citrusy hops, brown sugar, and caramel malts all mix together very well.  Taste - this beer is very unique, it follows the nose but this combination of flavors is so bizarre, but in a good way.  Feel - great carbonation, full and slightly chewy body, and smooth finish.  Overall, I can't make sense of this beer but the complexity draws me in. I want to age some bottles to see how it develops.   
+look: 4 | smell: 4.25 | taste: 3.25 | feel: 3.5 | overall: 3.25 Nice amber color and smells great, but the important thing is the taste. I purchased without looking at the alcohol content. This is a sipper, as it will warm the belly as it goes down. Pretty well balanced for a beer with this high of alcohol content. Overall, it is not my cup of "beer", as I prefer ales/ipas where I can throw back three or four. If I make it through this I will be done for the night - call me a "light weight". Well worth trying once, but I won't be coming back for more. Those who run-a-way live to play another day! Overall, my lower rating is based on this just not being my style.   Update: Half way thru and liking it more and more. Sips are becoming larger. Maybe I will have another....   
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 I'm getting a sweet smell on top of a biscuit like malt scent. I'm not getting the hop scent that I would expect from a Lagunitas offering. This tastes much different than my normal beer selections. Interesting but sweet and slightly bitter at the same time. Alcohol content is fairly well hidden. I'm almost tasting some Euro skunk in the aftertaste, very yeast like. Having a hard time trying to compare this to anything else I've had. It's a big beer and creamy but not too carbonated. Afterthought.... this is some powerful stuff ! Upping my overall score by .25   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.25 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 How on earth have I never reviewed this before?    First off, kudos to Lagunitas for releasing such a strong, wonderful seasonal so widely, and doing so while keeping the cost solidly below east coast local offerings. As much as I appreciate the efforts of the fancy-beard crew at Cumwater brewing, or whatever the local place is called, I can't justify spending 15 bucks for a four-pack of their so-so beer when I can buy this for 11 a sixer.    This pours a dark amber that's not really brown but kind of like sunstruck brown sugar. Nice heard and fierce effervescence, for a beer of its strength.    Smells like a US old ale or strong ale: lots of stuff going on, stylistically intense and messy but never getting out of hand. Aggressive, old school west coast hops against super duper intense amber malt.    Tastes like it smells: a wonderful goddamn mess. It's not bitter and then fruity, like most very hoppy American beers, nor is it at all fruity heavy. It's just bitter and then sweet. Aggressive, bright, piney hops and then aggressive, sugary, bready malt.   
+look: 5 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 sooooo hoppy..wasn't expecting that.  Hoppy and sweet 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 The best beer I've ever had. I stumbled across this last winter in Texas, not realizing it was a seasonal. Had I known, I'd have bought out every six-pack I could find. I didn't know beer could be like this. I've always preferred dark, malty beers over the IBU-laden ales that seem to dominate the craft beer industry. Brown Shugga is the hoppy beer I've waited my whole life for. It represents the perfect blending of bitterness and malt, sweetness and bite. The only misgiving I have about it, and it's a very small one, is the volume of alcohol. It's only a liability because it prevents me from drinking as much of it as I'd like. A 10 ounce tulip of this stuff is really all my brain can handle in the evening after work, but my tastebuds scream for two and my tastebuds almost always win out.     It pours with a thick tan head and leaves the most beautiful lacing ever, like the wind-whipped contrail of an old Saturn V. It's thick on the tongue, but astringent as it goes down. it's almost a shame to drink it because it looks so beautiful in the glass...dark rum reds, golden brown sugar syrup...the most beautiful beer you've ever seen.     It's a belly-warmer, to be sure, and is just sweet enough to go with a gooey chocolate or gingerbread cake. Otherwise, I'd be inclined to drink this nectar all on its own.     Lagunitas has become my single favorite brewery and this is my single favorite of their beers. Just amazing!   
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Full disclosure: I normally dislike beer over about 25 IBU. This one clocks in at 51. I have to say, though, that this one is pretty tolerable for a beer style I don't go for. The hop taste is very fresh and floral rather than the usual sour gym sock you normally get with overhopped beers. The sweetness of the brown sugar taste also balances out the hop bitterness pretty well. I won't personally buy again but for those that like a hopped beer this one will be great.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 Standard pour from a 12 oz. bottle into a nonic pint yields a clear deep amber colored ale, topped by an imposing three finger tall cream head. Retention and lacing are both superb.    Nose is hops-forward, pine-y, with and underlying fruity sweetness and toasted malt.    Flavors come in sweet- caramel, toffee, along with lighty toasted biscuit. Fruit notes of apricot and dark cherries come in through the mid-palate, along with some clove-like spice, finishing dry with fairly strong pine hops and lingering molasses.    Feel is medium-full, creamy, with fairly light carbonation and a subtle alcohol warmth that very much belies the stiff 9.8% ABV punch it delivers (this is a beer that can and will sneak up on you, be warned.)    I have to admit, it took me a while to "get" this one... I had purchased a six-pack of this approximately seven months ago (Lagunitas doesn't seem to put a date on their bottles, so I can't tell precisely how old this is.) While I remember thinking it was a good beer back then, the sweetness was quite brash and the finish somewhat overly hopped to be as great as it could be. However aging seems to have brought out the best in this; The sweeter notes from the brown sugar used in the brewing have matured and now work very harmoniously with those now more evened-out evergreen hops. That combined with the burly but appropriate alcohol make Brown Shugga' an outstanding strong ale. I would urge anyone trying this to not write it off right away if it doesn't suit them- put a few up for a bit instead. Your patience may very well be rewarded.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Hard to believe this was considered a mistake. Dark amber with Thin beige creamy head. Aroma is subdued malt and molasses. Taste comes on a bit stronger, palate aftertaste stronger still. Slight hint at alcohol warmth. Very good on a cold winter’s day.   
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.75 sweet, sugar, hops, hidden alcohol. best winter beer for cold days b the campfire 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 3.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3 | taste: 4.5 | feel: 3.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 This is super surprising. It was very sweet and not overly strong. It has lots of notes of brown sugar, dark fruit, and toffee. I really enjoyed this one even though this is not my normal style.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.5 | taste: 4.5 | feel: 3.5 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 2 | smell: 2 | taste: 1 | feel: 1.5 | overall: 1.25 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4.5 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 5 | feel: 5 | overall: 4.75 This is a great beer. 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 L: Nice light brown color, light tan head, very frothy and hangs around for a bit. Quite clear and bubbly  S: Smells quite nice, hard to describe though. Dark fruit notes present like that of a dobbelbock or dubbel. Has some floral hop notes as well, sort of spicy on the nose. Toast also present.  T: Really good, only complaint is it is a little over hopped. A lot of the nose repeats but its quite bitter, somewhat piney and resinous, though clean.  F: Very crisp, but very bitter which gives an astringency and takes away from what would be a more refreshing beer. Body is pretty light and smooth otherwise.  O: Pretty solid and I really like it. Will probably have this again if I see it.   
+look: 4.25 | smell: 4 | taste: 3.25 | feel: 3.75 | overall: 3.5 Based on the name, I had expected a sugar bomb which I tend to prefer over a bitter hop bomb. The nose is excellent, it looks great, but the hop bitterness overpowers the brown sugar taste. Not impressed due to the bitterness, but I plan to revisit this one.   
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 2.75 | feel: 3 | overall: 3 Strong, sweet, I wouldn't want more than one. Though I would want this again. 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3 | taste: 1 | feel: 2.5 | overall: 1.5 bitter, nasty coffee flavor. I hate coffee. was told by the guy at the store it was sweet. I told him I didn't like bitter beer. But did have a good color and aroma. jut not to my taste.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.75 | overall: 4.25 I hated this beer at first. Hated it so much that 5 of the 6 sat in the beer fridge for over a year. I thought I could pass it off on someone eventually. And after awhile, like deciding to have a second child, I couldn't remember what was so awful about having the 1st, I said "sure, let's try this again". I am glad I did. The sugars must have eaten away at everything I found so unpleasant the first go around. Aging really helped this one and now I am sad I only have 4 left.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 Pours dark brown-gold, with two-finger head that lingers. Smells of raisins, caramel, not very present. Taste explodes, raisins, prunes, chocolate, alcohol and, yes, brown sugar. Feels creamy, lush, smooth. Maybe the best barleywine I've had.   
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 This one will throw you for a loop on first taste lol. Shugga over load! Yeah still trying to figure out if I really like it or just like the 10% alc lol. But for real it's good it's a nice sipper. Remember it's really sweet!   
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.25 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4 Comes in a clear, fizzy amber color with a generous, creamy, beige head. Sheets of lacing are left down the sides of the glass.  The aroma offers caramel, molasses, pine, plums, candied orange peel, cherries, and dried apricots.  On the palate, you get a nicely balanced malt sweetness. Lots of caramel, molasses, and toasted bread. Near the finish you get dark fruits; red cherries, plums, figs, and dried apricots. The finish is mostly caramelized sugar sweet, but with some balancing pine, and a light alcohol warmth.  The mouthfeel is medium-full, medium-light carbonation, and smooth and creamy.    Good stuff. It tastes very similar to a barleywine. Less complex, but maybe more drinkable. Another winner from Lagunitas.   
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 A - nice big beer with amber/reddish color body and a huge white head that leaves nice lacing  S - caramel, orange, peach, vanilla, butterscotch, slight mustiness/old ale/oxidized quality  T - caramel, orange, grapefruit, peach, slight mustiness/old ale/oxidized quality  M - heavy, alcohol covered, aftertaste is orange rind, caramel, musty strong ale  O - good beer, definitely rivals bigfoot in my book, will cellar and see how it does   
+look: 3 | smell: 2.5 | taste: 2.25 | feel: 2.25 | overall: 2.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.25 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours a sunburnt orange with a one-finger, fluffy head that dissipates quickly. A little carbonation. Lots of lacing.  Smells of grapefruit and candied hop.  Bitter brown sugar candied, citrus hop taste. The bitter hop hangs around for a little while.   Mouthfeel of a medium bodied ale which really gets toe salivary glands going. this is good, but not as good as Sucks.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Pours a reddish copper color with quickly dissipating white head leaving a ring of bubbly lacing. Nose is sweet malt and a hint of alcohol. Taste follows with some hop bitterness but mostly sweet and smooth. Have been drinking this for years during the holiday season, this year is no different. This beer was one of my 1st rated for BA ,this review is for 2018.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4.5 | overall: 4 If you like sweet and big - you'll love this beer. There is a mild fig mixed with whiskey aroma but beyond that it's very malty. It has a very creamy mouth feel with a ton of cherry caramel on the front end and a mellow sweet finish. There is very little hops in the beer. The alcohol is nicely hidden (much like many of the big beers that Lagunitas puts out) so be careful with this one - it drinks like an amber but will take you down like a Tripel. I almost think if they made this with a Belgium yeast it would taste very Belgium. It's a great beer for the style.   
+look: 3.25 | smell: 4.25 | taste: 4.25 | feel: 3.5 | overall: 4.25 Poured at 50°F from a 12oz bottle (2015 release) into a snifter. Consumed on 28Feb16.  LOOK: Pours with a fingers worth of khaki foam that dissipates into a line within 45 seconds. Copper in color with a slight amount of cloudiness. Rising bubbles are medium in size and moderate in quantity. There is an abundance of small, grayish white particles floating throughout the beer. I'm not sure what they are. Lacing is thin and subtle.  SMELL: Strong aromas of molasses, tree nuts, plums, figs, and black cherries entangle with mild leather, caramel, sweet bread, and brown sugar aromas along with subtle hop aromas of pine, oranges, tangerines, and grapefruit.   TASTE: Strong molasses, fig, plum, and black cherry flavors first enter into to the palate. Mild hop flavors of orange, tangerine, and grapefruit immediately follow and bring balance to the sweetness. Mild caramel and brown sugar and subtle leather flavors further unveil the taste profile. Subtle flavors of tree nuts, vanilla (that wasn't in the aroma), piney hops, and bitter hops enter lastly as all previous flavors persist.  FEEL: Full-bodied and subtly carbonated. Goes down smooth and creamy. Finishes very dry. A mild and welcoming alcoholic warmth can be felt as it goes down the throat.  NOTE: A great beer for being one that is massed produced and distributed. This reminded me of an American Barleywine, without the intense hop flavors. Everything was nice a balanced here.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 Listed in the "1001 Beers To Taste Before You Die".    It was very hard for me to like this beer the first time I had it.  The hops grabbed ahold of my tongue and would not let go... in fact, I was worried I might not get my tastebuds back.  Determined not to buy this again, this wild stallion rears its head again in a 6 pack brought as a gift by a neighbor who we invited over for dinner.  Then, Brown Shugga' sits in my cellar for a year; thinking we might get along better if it has time to mellow.  I drank it last night and. speechless, could not write a review.  Nor could I finish it. Nor would I pour it down the drain out of respect to everyone who likes this beer.  So, I let it sit overnight in an uncovered tulip.  I had a sip first thing in the AM before I made my coffee.  Brown Shugga' was better... but still not good for me.  Moral of the story: mellowing with age is a relative thing.   
+look: 2.75 | smell: 3 | taste: 2.5 | feel: 2.25 | overall: 2.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 UPDATE (12/2017): three year vertical: 2017, 2016, 2015 at D&P's Christmas Eve. All were good, however the older ones were the better ones: the aged versions were not as aggressive, were more complex, and were perhaps more creamy; some of the others agreed. This beer seems to age very well. Increasing Taste and Overall.    2nd one, 4 months old. 3rd one, 1/1/2017: damn good sweet, American strong ale or barleywine, whatever you want to call it.   
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 **11/23/2013  Appearance Is clear reddish brown; lasting white creamy head. Aroma Is hops caramel. Taste is hops, honey , caramel, charred wood, orange, cloves. A good sweet mix of hoppy and malty ale. Feel is creamy, light carbonation, thick finish.....good beer, but I don’t think I would want more than 1 in a Row. A nice choice for thanksgiving.  **  02/27/2016  I've had more than 1 in a row and it's fine.   **   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 what a great bargain Strong ale. drink it fresh or age it, either way one is in for a treat of caramel, malt, spiciness, tangerine hint, molasses. mouthfeel is very appropriate and makes the flavor linger.   
+look: 4.5 | smell: 4.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 pours dark reddish transparent and clean. two finger head dissipates after few minutes. aromas of sweet candy and malt. medium body with mild carbonation. front palate of some biscut followed quickly by a sweet cherry taste and little malt sweetness quickly followed by some resinous hops maybe some orange rind in there and a slight alcohol tinge. this is a great beer in one of my favorite styles. alcohol is well hidden and sweetness is balanced out with plenty of good hops. I get this every year and will continue to do so.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 4.5 | feel: 4 | overall: 4.25 Pours a nice copper with a white head. Smells of caramel malts and hops. Wow, this beer has a nice taste! Sweet, fruity, complex, malty, orange marmalade, with a bitter finish. A fair amount of alcohol burn. Nice and full-bodied. A great, unique beer.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4 | taste: 3.5 | feel: 3 | overall: 3.25 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 3.75 | overall: 3.5 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 On tap - was outstanding. Very few great American Strong Ales - this was one. 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 12 ounce bottle poured into tulip to celebrate my survival of another bike ride home on the icy sidewalks of Edmonton.    Pours a deep, slightly hazy copper-orange with half a finger of light khaki head that leaves under-construction city skyline lace as it recedes.    Smells of big caramel malt, stewed citrus fruit, tropical fruit, toast with brown sugar and a lot of perfumed, piney hops.    Tastes of spiced orange preserve, roasted caramel malt, raw brown sugar, raisin tarts and more bitter piney hops.    Feels big and sturdy. Full bodied with creamy and supportive carbonation. Finishes dry    Verdict: Highly recommended. It won't tickle your sweet tooth, though.   
+look: 3.5 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 4 It's a brown sugar pale ale. It's different, but pretty ordinary at the same time. 
+look: 3 | smell: 3 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 Poured from a 12oz. glass into a snifter.    A - Pours a deep amber, frothy off-white head.    S - Caramel, burnt sugar.    T - A big, complex malt profile comes right out the gate. Starting as a heavy, toasty caramel, the malt flavor becomes more layered and reminiscent of a doppelbock in its sweetness, toastiness, biscuit notes, and viscosity. An earthy, spicy, slightly berry-like hop character near the back end of the palate along with a subtle boozy bite. Finish is sweet, and surprisingly bitter.    M - Full-bodied, not too heavy for such a sweet beer.    O - Somewhere between a Winter Warmer, Doppelbock, and Barleywine, this is a thought-provoking, unique beer.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 DATE TASTED: January 30, 2016... GLASSWARE: Maudite snifter... OCCASION: helping Shan chop food for a new dish and preparing to show the boys The Desolation of Smaug... APPEARANCE: slightly opaque, sparsely bubbly amber orange brown body... the head is off-white, thick and chunky to begin... then it settles to an erratic, uneven heap of bubbles, soap and clouds--frankly, a surprise for a beer that sports a 9.8 % ABV... AROMA: a blast of raw sugray sweetness, coats the usual suspects in the hop bomb that Lagunitas lights--I sense Citra, the Columbus, the garlic of Summit... being a barleywine, the maltiness is a powerfully sweet, nondescript monolith of bread loaf... PALATE: heavy, slightly syrupy... active at the teeth and equally animated at the end... a force to be reckoned with... TASTE: dank, earthy, resinous and deeply infused with the sugary sweetness of cane; fewer floral notes of which to speak, and the malts solidify a forceful, meal-of-a-glass to experience... offers up a side dish of vegetable overtones, including prune and green bean... OVERALL: Having had--and enjoyed--the Sucks as a substitute, this presents an altogether heavier, sweeter, demanding version of its substitute--just what a barleywine should do...the overall drinking experience is sippable, stoic and contemplative...drinking into dinner,t the beer complimented a skillet comprised of chicken, potatoes, onions, mushrooms, brussel sprouts, and bacon... quite a victory in that consideration....   
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 5 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 2.75 | feel: 3.25 | overall: 2.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4.5 | overall: 3.75 L: brilliantly clear deep amber liquid, huge frothy tuft of amber-tinged creme-colored foam, sticking all over... looks lovely!    S: west coast barleywine hops and malt... hints of pine, black pepper, and mint, but full of spice, grapefruit, lemon/lime... little bit of cigarette ash... with a name 'Brown Shugga', I'd prefer to be smelling more of it    T: the hops combined with the up front booze make for a citrus eau de vie light grappa, or something... soft, brown malts lingering in the aftertaste as well as medicinal esters and fading, vaguely herbal bitterness... no bottle date, but this shows some age on the hops (and bready malt)... not much richness in the malt, so despite the smell suggesting something akin to Bigfoot, it's very much (late) hop forward and somewhat drier than expected    F: between the fossilizing hop resins, ostensible dextrins, and generous swells of ethanol, this is a majorly smooth     O: yeah, I wasn't a huge fan of this years ago (actually, this beer almost immediately turned me off to Lagunitas, for years) when I first tried it and time and experience hasn't made me appreciate it more... this is one of those west coast beers that's hopped out of balance for the sake of it and hasn't a distinct identity, despite the name 'Brown Shugga' on the label touting   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 Caveat - just got done shoveling snow, so might be a bit of a pro-bold brew bias. So be it.  Clear copper color. Reasonable head with some lacing. Strong malt and hops nose. Taste is a pleasant assault of malt, brown sugar, and heavy. The sweetness and the bitterness work very well here. I really like this beer -- has me hoping for more snow so I can earn another couple. Bonus .25 for Lagunitas fun to read labels.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Lagunitas Brown Shugga has a medium, cream-colored head, a clear, bubbly, copper appearance, and a good amount of bubble streams. The aroma is bold, sweet, dank barley malt and hop resin (think brown bread crust and slightly rotted spinach). Taste is of sweet, strong malt and fairly bittern hop notes. Mouthfeel is medium, and Lagunitas Brown Shugga finishes puckering and strong, yet mellow.     RJT   
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.75 Wow, hard for me to believe that it's 9.8% ABV. The smell is a dank citrus aroma, appearance is a rich golden complexion. You can definitely feel the brown cane sugar they used on the mouthfeel, nice and rather thick. Taste is hoppy, with citrus notes, but you cant mistake the brown cane sugar though. Finishes just like the taste. Overall, awesome beer for the season, would definitely try again, with care!   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Poured from a 12 OZ bottle into a pint glass. The appearance was a clear reddish-orange with a medium sized white head. The aroma was a sweet malt experience. The taste had a sweet malt and bread combination.   
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 3.5 | overall: 4.25 
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4 | overall: 4.75 
+look: 4.5 | smell: 3.75 | taste: 4.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 3.75 | feel: 4 | overall: 4 Poured a very nice medium amber color with a finger of foam. This was a bit more bitter then I like but its definitely a full flavored beer. Didn't get much brown sugar but I enjoyed it none the less. Have a few more to get through. :-)   
+look: 3.25 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 2.75 | smell: 2.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.25 | smell: 3.5 | taste: 2.5 | feel: 2.5 | overall: 2.75 GROSS! thought it would be good not at all. Didn't even finish my sample! 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 L - This beer pours a clear dark amber with a creamy white head and good lace.  S - Hints of citrus and pine. Also sweet caramel and brown sugar.  T - This is a unique beer. It starts off hoppy with grapefruit, pine, and lemon notes. After a few sips it gradually turns sweeter and sweeter. The strong hop front seems to lessen and a malty sweet brown sugar taste takes over.  F - This maybe a little on the thin side. It does have a nice dry finish.  O - This is an excellent amber ale. I've always been a fan of this beer. But, I like sweeter beers.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 2.5 | smell: 3 | taste: 3 | feel: 2.75 | overall: 3.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Wow. An amazing beer. Way too easy to drink for a 10% ABV beer. In fact, it was so smooth I drank it much faster than I should have, and, along with the other beers I had, I felt it the next day. But it was worth it!    It's hard to compare this beer to others in the category because I've never had anything quite like it. It's so complex. Just when I thought I'd pinned down a flavor or note, I would detect something else. This is a slow, sipping beer like that of a barleywine or some stouts, especially those aged in bourbon barrels. Yet don't get me wrong: this beer isn't anything like a barleywine or a barrel ag d stout. Again, it's like nothing else I've enjoyed.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.25 | taste: 3 | feel: 4 | overall: 3 Pretty color on the pour. Beautiful ruby. Grassy hop aroma. Rubbing alcohol, an astringent smell, orange juice. Taste, again grassy hop flavors. Bitter with an alcohol presence. A spicy heat to it. Overall, I am just not a big fan of the American strong ale category in general. This is no real exception to that. It's caught in between an iPa, a barley wine, and maybe a Scottish ale. All of which can be delicious. Their three way love child is not my fav though.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 3 | taste: 3 | feel: 3.5 | overall: 3.25 Pours a beautiful amber/copper color with a frothy finger head.    Smell is extremely sweet and alcoholic.    Taste is quite hoppy which in it's own way accentuates the sugary taste - cloying flavor. This beer is much better at about 9-11 months when the hoppiness and sugary qualities have faded enough to reveal a more balanced malt profile. It becomes a solid barleywine with a hint of sweetness.    IMO excellent for cellaring   
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Beautiful beer. Clear amber-copper color with a thick and lasting tan head. Nice spicy malty aroma. Clean bitterness framed by the malt and some caramel/toffee. Gentle warming and does not feel like a big ABV beer.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.75 | smell: 3.75 | taste: 4.25 | feel: 4.75 | overall: 4.25 This went down way too easy for a strong ale! Poured dark brown, copper, with two fingers and great lacing out of a bottle. Aroma was not strong, but hinted at the sweetness to come. Taste was sweet malt with a nice brown sugar finish. Feel was smooth and easy, and you have no idea this is a 10% ABV. Dangerously good.   
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 I'm rating this fifth beer from a sixer I purchased a while back, and at this point I've probably overthought this thing too much to review it without bias, but here goes, so chalk any vacillation up to pure ambivalence.    A mountain of tan froth stands atop this brown brew and dissolves slowly until only a few bubbles are left. Herbal hops to the front aroma-wise and a following of medium fruits and perfume. Notes of fruit and sugar are quickly overtaken by a wave of bitterness which is followed by a balancing caramel sweetness. Medium to heavy and the alcohol is barely noticed.    Brown Shugga' is all over the place, off the charts and static and fairly "normal" all at the same time. The dual nature of this beer will make it for some and break it for others. And while I can't pin it down stylistically, I can't really find any definite faults with it either.   
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 Just picked this up at Beer Noggin ( http://www.beernoggin.com/ ) in Bronxville, NY while my mother-in-law was down visiting and we were out shopping for Christmas. The bottle attracted me enough to pick one up. Love the texture on the label. Nice brown coloring and smell of caramel, to me. "Beer Speaks. People Mumble" ABV is high at 9.8%, which is niiiiice! This would go really well with a heavy meal, like stew or something out of a crock pot. I look forward to having again one day.   
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 4 If you like beers with a high bitter factor this is for you. I was expect something totally different. I should have read the description. However I like this beer. It's definitely not a beer you drink after yard work or even one you simply chug. It's a beer to be appreciated. Take your time and enjoy the bitter and boozy notes.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 6-pack bottles    Look: caramel/amber, not as dark as I was expecting.  Smell:Floral, hoppy  Taste: Very bitter (didn't read the IBU until after purchase, my fault), not much brown sugar like I was expecting although it came through a little once my taste got a little numb to the bitterness. Higher ABV was not real noticeable.   Feel: Nothing special to note, good or bad.    Overall: I didn't really care for it. I'm not into the overly hopped beer trend and this one is very hop forward. I think I would have liked it if the bitterness was dialed back. I wouldn't have bought it had I seen the IBU rating prior to purchase, but the name threw me off. Was expecting more of a sweeter malty beer. Not so much.That being said, I did drink the whole 6 (over a few days). I'm sure I would have rated it higher if I was into the bitter beers.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3 
+look: 4.25 | smell: 3.75 | taste: 3 | feel: 3.5 | overall: 3 Flavor is good and there is some fruitiness, but overall very bitter. That's not my things, but I can appreciate that it is a good beer. ABV is high but there wasn't too much of the boozy taste. It's a nice beer if you like the bitter.   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 Pour a clear, amber color with a white head. Smell us very hop forward, citrus, tropical, and alcohol. The smell through me off, was expecting a brown ale by the name but more like a ipa. Taste very bitter, off balance. Bitter and sweetness with some fruity notes and then nasty bitterness to finish. Horrible finishing taste of a bad ipa, not like the other Lagunitas if tried. Has a nice carbonation, very thin. Overall I did not like, and wouldn't recommend or buy again. Maybe I was thrown off by the name expecting more a dark beer, just was not very good to me. The balance was just very off to me, too sweet and bitter combined not good. I have another bottle I'll keep and try again just incase my taste was off tonight.   
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 3.25 | feel: 3.5 | overall: 3.75 Look- Amber or burnt orange. A lasting, frothy head. Carbonation is visible. A good-looking brew.    Smell- Mainly a fruity hop character. Orange, tangerine, pineapple, tropical fruits. Not getting the brown sugar too much, but it's certainly a sweet aroma.    Taste/Feel- A bit disappointed here. Not a bad beer by any means but perhaps overly hopped. Does a "Brown Shugga" beer really need to be 51 IBU? It does more than balance here. In my opinion, it outshines. Growing on me a bit as I drink it, the more caramel, brown sugar notes becoming slightly more apparent, but hops are the real star here.    Glad I tried it, but probably would not seek this one out again.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 12 oz bottle marked 281 5 2 0735 1043 at 42 degrees into a snifter  Aroma of - flowers and some pine  Head large (Six cm, aggressive pour), light tan, frothy, diminishing to four mm ring and heaped partial layer  Lacing good – lacy curtains of tiny to medium bubbles  Body medium amber, clear  Flavor sweet, brown sugar, alcohol, some hoppiness in aftertaste; no diacetyl  Palate full, syrupy, soft carbonation    Appearance 4.25, Aroma 4, Flavor 4, Palate 4.25, Overall 4   
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 2.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.5 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4 Beautiful amber color with a large white head that sticks around for quite a long time. Great hops and grapefruit smell. Wow, what a great combination of grapefruit, citrus and hops. The hops and grapefruit hit upfront with a nice citrus finish. Nice full, smooth body. Great IPA all the way around. Great trade from Pieper34.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.25 | feel: 3.25 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 pours out a deep caramel with a nice mocha head    I pick up banana and pineapple notes.    very big malt sweetness . a big beer with aggressive sweetness. caramel.    chewy, fruity finish.    for me, one is enough of this style in one sitting, but very tasty imo. nice treat.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.5 Heavy hitter 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 5 | feel: 4 | overall: 4.25 Wasn't sure what to expect, really. I've had the Lagunitas Sucks, which was a decent enough IPA. Now this is the "Sweet" version of the Brown Shugga...How many different incarnations of the same beer do you really need? Well, I haven't tried to the original Brown Shugga', sadly, but after this beer, I'm more than willing to give it a go.  A: Rather nice ruby/amber color. Surprising. For some reason I was expecting something more golden. Deeper and livelier than I had anticipated.  S: Hops front, which is misleading later on. However, I'm getting nice grapefruit and citrus right off the bat.  M: Full, to medium...which is a weird way to put it, I guess. It's more filling than I would have presumed. This beer is full of surprises!  T: Jeez. Blown away. There are dark fruit immediately. Plum, even a bit of dried apple. Sweet. Finish with a nice dry hoppiness alluded to in the aroma.   O: A sweeter beer than I was expecting, but with all the IPA running rampant in today's market, something a little sweeter doesn't go amiss. I thoroughly enjoyed this beer and would recommend it to anyone who likes something a little more complex--something a little sweeter than the average flight set.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 3.5 | feel: 3 | overall: 3.75 
+look: 3.25 | smell: 2.5 | taste: 3.25 | feel: 3.25 | overall: 3 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours deep copper color with about a two inch off white head, good lacing head stays around for awhile.  Smell sweet piney nose fruity citrus notes  taste is a little surprising little citrus and orange peel up front slightly sweet just enough hoppy flavor little tang on the back end.  Feel is very smooth clean easy drinking.  Overall a very good beer i enjoyed drinking very much.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 3 | feel: 3.25 | overall: 3.5 Poured from a bottle into a pint glass.  Appearance - deep goldish brown, little carbonation with a fairly thick white head. Lacing is coarse and sticky along back of glass!  Smell - sweet brown sugar and hops!  Taste - the sweetness from the nose is far more profound in the taste; the syrupy sweetness drowns the hops.  Feel - medium body with overt sweetness throughout.  Overall - does not come across as a barley wine or a strong ale.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 12 oz bottle. Clear bright orange amber color with two finger head, great retention, coating lace. Sugary sweet aroma. Sweet syrupy taste immediately countered by dank piney and citrus rind hop bitterness, powerful. This brew is strong and a bit boozy but so drinkable, it's weird, just kept tasting and it was gone. The flavors just work well together, dangerous. Finish is dry and the hops stick around just long enough. Medium to full soft mouthfeel, glides down. Had this one awhile back and don't recall it being this tasty. Great brew, gonna get some more.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3 | taste: 4.5 | feel: 4.5 | overall: 4.25 Crisp and flavorful. The ac is there but not at all overwhelming. Having this now on a damp cold night. This is one of the better beers I have had of late. I wish the bouquet were better however I feel my novice nose is to blame. Will be looking for it again.   
+look: 3.5 | smell: 4 | taste: 3 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 I don't have much experience with this style but STRONG Ale is fitting for this one. It is definitely unusual but am trying to expand my horizons to the different styles. Huge sweet aroma and taste. Boozy too. The more I sip it the more I think it is growing on me. I only picked up 1 bottle in a mixed sixer so will definitely try again.   
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.5 Look: It pours a redish cider color with a decent and persistent head.  Smell: It smells sweet! Apples and other subtle fruit.  Taste: 9.8%!? It tastes full of hoppy nectar. It is sweet, but delicately so, balanced with malt.  Feel: It is deceivingly thick with a long aftertaste.    Overall, it is a good beer. I'm a little concerned the sweetness will get old but the first half glass went down easily.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 Very pretty red color, tall, persistent head.    Mild smell, clean, hoppy.    Intense taste - bitter hops, some sweetness - burnt peaches.    Mouthfeel is very rich.    Finish is >>super<< long, intense, well integrated with the beer.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 2.75 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 2.75 I was a bit disappointed by this beer. The smell is alcohol, brown sugar, some spicy Lagunitas style hops. The taste is sweet and strong. I prefer Undercover Shutdown. nb   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 This beer pours a beautiful crystal clear dark amber color with a 2 finger off white head. The retention is very good and lasts all the way through. There are also huge sheets of lacing. The smell is brown sugar and sweet caramel malts with a hint of grapefruit and pine. Taste is the same, but also getting some orange and a touch of alcohol. Feel is light side of medium, but suprisingly light for the abv. Overall this beer is fantastic and a winter seasonal that I patiently wait all year for.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Poured into a snifter from a bottle. Beautiful dark brown with creamy head and great lacing. Pleasant pungent smell. Great hoppy sweetness with the right amount of bitterness. A very enjoyable beer.   
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 First review here. So here goes:  Look: Very nice head with great lacing all the way to the last sip  Smell: Smells a lot like a Lagunitas beer, and that is a good thing (to me at least)  Taste: Different than most I've had but tasty. Good hop snap to it  Feel : Pretty smooth is the best way I can explain this  Overall: Wow. Really like this beer. So impressed with the drinkability at this abv   
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 3.5 | taste: 4.25 | feel: 4.75 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.75 Pours nice into a tulip glass, nice color with a substantial head. I am sure there are more descript ratings of this beer then mine but, I can say that Lagunitas has contently put out great beer and never disappointed.   
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 Bottle into a New Belgium snifter. Pours a dark, hazy gold and settles a very clear, yet dense amber in the glass. Beautiful 2 finger head of sticky, off-white foam on top. The nose is very sweet - strong notes of, get this, brown sugar along with caramel, toasted malt, and some sweet fruit (peaches maybe). The taste follows fairly precisely bringing lots of caramel and sugary sweetness to the taste buds. Again, there are notes of fruit - banana, peach - that are good, but don't mesh perfectly with the other stuff this beer has going on. Very hoppy, also, to the point where this reminds me of an old IIPA. Luckily the other flavors mingle enough to make it taste pretty good. Expectedly dense on the palate, almost syrupy. No alcohol burn at all. It's actually quite creamy and smooth.    Overall, interesting but good. This one would definitely benefit from a few months in the cellar, unless you like your strong ales and barleywines overly hoppy, which I do not. Not bad, though.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 Pours a beautiful amber color from bottle into pint glass.    Very sweet scent but not your typical heavy malt presence. Im sure there is a boat load of malt, but I smell candy up front instead. Caramel. Some fruitiness too, maybe mangos or apricot.     Tastes nowhere near 9.8%. Hoppy, sweet. Great balance but the sweetness nudges its way up front a bit.    I wish i bought more than just a single bottle.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 On tap. Pours a hazy light brown color with a two finger head that leaves a small ring of lacing at the top of the glass. Aroma of alcohol and caramel malts, with the alcohol being the dominant smell. Taste is caramel, brown sugar, and a slight nuttiness before an acidic, boozy finish. Medium body and medium carbonation with a very boozy finish and minimal alcohol aftertaste. Kinda shocks the tongue.  The taste isn't over-run with alcohol and the alcohol is actually decently hidden until the after taste. Nice sweet body to make it very drinkable. Body is a little light, but still doesn't feel too off. Another solid one from Lagunitas.   
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 5 Lagunitas Brown Sugga      Due to Lagunitas constantly putting out great beer ( for the most part ) I wanted this one for quite some time. Seeing as this is the brew Sucks replaced, I shall hold it to the same standard in terms of my ratings. Finally at long last found a sixer for $11.99 at my local shop. Drank one, and I'll review on the second one. Passed up Blackout Stout for this guy, let's hope it was worth it. Enough talk, let's crack this fucker.    Look - From the twelve ounce bottle into a pint glass. Pours a crystal clear amber with a monster moderately off white head that sticks around forever and a half leaving immediate stick as it slowly dies down to a large frothy canyon amongst the top of the drink. The carbonation appears to be very low on this brew. Lacing is extraordinarily attractive after the brew is finished and leaves a nice sticky ladder to the depthsof the promised land of hell.    Smell - The nose starts of pungent with a large smack in the face of bitter fruit juices and brown sugar. There is an ever presence of alcohol as expected for 9.8% but it is nice and fits the beer very well. Doesn't smell like a high abv stout or what have you, much cleaner without any specific alcoholic beverage to match it up to. Caramel maltyness as well.    Taste - The flavor profile starts off with a smorgasbord of that big bitter fruit juicyness I mentioned in the smell. The brown sugar and malty goodness are as prevent as you would think and the two meld perfectly and turn just a touch spicy on the tail end. Alcohol has a bit of a showing at the tail end as well though it is very tame for the beer being nearly ten fucking percent. The fruits I'm picking up are pineapple dominant with a touch of grapefruit and mango.     Feel - The feel on this one can vary considerably depending on the temperature of the beer as I've noticed. Drink this one on the warm side for full effect. Body is thin to full,again, depending on the temperature. Since the head has settles down to a thick frothy cap after half an hour the brew is very creamy. A nice spicyness in the mouth and all the flavors mentioned in the nose remain. A bit of an alcohol bite but it is so pleasant and fittingly so that you'll wanna smack your wife.    Overall - Wow. Wow. Wow. Wow. This one was well worth the wait. A perfect unison of malt and hop. Too fucking easy to drink at just barely shy of 10%. Flavors come together as best they can for the abv and they are just...damn bruh. Lagunitas really did it with this beer. One of the best strong IPAs I have ever come across. Of you are a DIPA fan and you see this, buy it. All. It reminded me of the undercover shutdown ale they put out, only with better hoppyness and better balance. Truly a masterpiece. End review..   
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 This is a beautiful beer: deep amber in color, crystal-clear and sparkling, with a lasting giant pebbly off-white head; lacing consists of goodly, IPA-like rafts and ladders. The nose is a big, enticing blend of cotton candy, juicy pineapple and sweet/spicy florals over a more subdued grassy pine backdrop; significant boozy overtones round it out nicely. Up front, the palate is bitter pineapple and citrus with piney highlights; mid-palate the sweet/spicy characteristics emerge and bring the flavor into alignment with the aroma, and assertive boozy undertones fulfill the aroma's promise. A very nice sweetish, light-caramel malt backbone is on prominent display; this is ultimately a hop-forward beer, but the malt presence is considerable. The finish is caramel malt and pine, followed by the onset of a moderately bitter grassy pine flavor that lingers for a few minutes. Retrogustative olfaction is decidedly grassy. Mouthfeel is on point for the medium body, and the texture is creamy with a perfect slight pepperiness from the modestly-expressed fizzy carbonation. This is a very smooth drinker for the ABV, and damned tasty to boot. (12 oz bottle, no code date)   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Look: On tap, nice amber-brown color, small head but solid lacing.    Aroma: Malt forward with some sweetness, slightly boozy.     Taste: Flavor matches the expectations set by the aroma, Malt City.     Feel: Very smooth, medium carbonation with a malty bitterness coating your mouth.   
+look: 3.25 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3 | feel: 3.5 | overall: 3.5 For me, just not a fan. Has a very strong flavor that is unique to any beer I have had before. I can see why some folks would love this. It has a very interesting aftertaste that is sort of sweet, but overall I would not buy this again.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 11-30 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 2.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4.25 Look: Amber red, two fingers of foam.    Smell: Musty citrus, fruity sweetness    Taste: Very Hop forward beer, but with enough early sweetness to successfully  prevent a runaway hop freight train. (Nice)    Feel: Full, nicely carbonated, a bit astringent.    Overall: Really becoming a fan of hoppy beers, but only those that approach the  overall experience in this same manner: (DFH 90 Minute another that does this well.)   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 appearance- Dark red/copper in color. Pours a slightly tan colored two inch head. Head recedes slowly with a good amount of lacing left behind.    aroma- Very sweet with toffee, pine, and orange candy being most notable.    taste- Lots of caramel and brown sugar sweetness at first followed by a little bit of pine hop flavor and bitterness. That orange candy sweetness definitely shows up towards he finish along with a little bit of lingering pine flavor/bitterness and caramel sweetness.     feel- Full bodied, medium carbonation, a little sticky first but surprisingly clean in the finish.    overall- Great strong ale that maintains just enough balance despite all the sweetness. Kind of reminds me of SN celebration if the malt bill was doubled. Definitely a good winter time pickup.   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4 | taste: 3 | feel: 2.75 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 5 | smell: 1.5 | taste: 3.25 | feel: 3.5 | overall: 3 Looks great: clear Amber color with massive frothy head that seems to never fade. Smells like burnt plastic, or maybe like after you've run an old school vacuum cleaner too long and the rubber puller started to get hot. As it warms, I do get some light dried apricot but the rubbery plastic is still there. Tastes sweet with carmelized brown sugar, almost syrup or molasses like. Finished a little dry but then the carmelized brown sugar lingers into the finish. Think some of the burnt plastic character carries into the finish also. I get no hops. Feels full with a touch of some warming alcohols, but not hot. Overall, if the strange off note wasn't there I think I could dig. Otherwise, this one is a strange curiosity.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 A beer that is as good as advertised. It is sweet without becoming cloying and still has just enough bitterness to burst through the brown cane sugar. And you can't really tell that its borderline 10% ABV.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Cool beer here, plenty unique. Brown color with reddish hues. Aroma of brown sugar, (duh) and not much else.    Hides alcohol with all that sweetness. Easy drinking, but watch out. Still gives a little hop prick to ya, even through out all that sweetness. Good stuff. Deceptively strong.   
+look: 4 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.5 L: ruby red color with white head  S: big sweetness and hops  T: hops, sweetness, and alcohol/medicine.   F: fairly thin and the medicine flavor lingers.   
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 5 Great sweet sugar and hop combo. Somehow balances that, and dank and citrus, in a way that's sweet yet highly drinkable. Avoids the cake-like cloying trap other sweet DIPA's tend to employ. This stands on its own. Caramel, floral and citrus. Alcohol is hidden except for the peppery/ sweet after-bite. Sips quickly for a nearly 10% abv. brew. The only downfall is that I only took out a single to buy from the six pack I found at the market. What a value.   
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 
+look: 3.5 | smell: 4.25 | taste: 5 | feel: 4.5 | overall: 4.25 Fun Fact: Let this one breathe a few minutes before sipping. The bouquet really opens up when you give it a chance.    This one pours with a deep, amber hue with a fizzy, thin head that dissipates quickly. Lacing is medium and sticky. Nose is a mix of piney, grapefruity hops with brown sugar/honeyed malts. Taste is sweet and citrusy up front, followed by notes of brown sugar, molasses and caramel. This is definitely a hop-forward beer, but not so much as Lagunitas' flagship beer. Mouthfeel is very sticky and resiney. Overall, this is superb, complex beer that gives you the best of both worlds - the sweetness of malt and brown sugar adjunct with the bite of an IPA.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Wow.   L - Slightly Hazy burnt amber red, 1/2 inch head quickly vanishes leaving nice lace  S - Musty fruit, grass/pine and brown sugar  T - Full bodied hops, orange, slight bitterness. Followed by an earthy sweetness  F - Great upfront heaviness, firm mouthfeel as it spreads evenly, to a crisp sweet lingering goodbye  O - One of my favorite Lagunitas beers    Perfect for late fall/winter. The closest thing to an Old Fashion experience. Heavy alcohol, fruit, bitters, leaving you ready for another.   
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 This is a really tasty brew that threatens to make a strong ale fan out of me. Grapefruit, malt and hops with a softening base of light roast and toffee. As others have said, the high alcohol is almost not even noticeable. It is not the most complex beer I have had, but the blend of flavors is very well balanced and the long finish calls you for another sip.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 4 Poured from a 12 oz. bottle into a tulip. Julian dating 281 5 (October 8, 2015)  Pours a nice dark amber-red-brwon with a lot of off white head. My glass is full of lacing....ridiculous!  Getting a nice hoppy aroma, not what I was expecting, although I don't really know what I was expecting...Sour lemon and pine dominating.  Taste...Clean hops taste up front with pine and a citrus bite; maltiness comes in at the end to round that out and then leaves a nice bitterness behind on the palate.  Mouth feel is...well I guess medium. Not a hint of the 9.8% abv that's listed on the label. Honestly I had no idea it had that high of an abv, either.  Overall, I never really looked into it or had plans of buying it, so when I had to complete a mix-a-six I saw this on the shelf and grabbed one. I liked it, but not enough to really go and look for it again; just satisfied with it to have had it this one time. Reminds me of Arrogant Bastard a little, just not hoppy enough. This isn't a bad beer by any means; I won't be rating low, it's like I said I won't really be seeking this one out again.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 Always a nice beer from Lagunitas. Taste follows the smell of rich caramel malts and citrus hops. Finish has a nice spicy kick that finishes rather clean and dry. Good n' hoppy!   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3 | feel: 3.5 | overall: 3.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Tasted in a Rastal Teku glass from a 12 oz bottle. Look is orange amber with an off-white head and sticky lacing. Smell is caramelized sugar, hop oil, apricot and pineapple notes. Taste is caramel, toasted bread, hop oil, spice and citrus flavors. Feel is chewy in body and smooth in the finish.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4.5 | overall: 3.75 12 oz. bottle poured into goblet    A- Nice clear copper. Light tan head is dense and retains at 1/4". Good lacing.    S- Booze sting. Brown sugar sweetness, earthy hop.    T- Sweet, and brown sugary. No wonder the name. Hop character comes up faintly in the taste.     M- Hop bitterness is up there, along with booze, but sweetness evens it all out. Great balance.     O- Booze forward, but surprisingly balanced. Depth isn't great, but at least the name rings true to its attributes.   
+look: 4.25 | smell: 4.75 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Classic from Lagunitas. 
+look: 3 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 Look - Dark amber color, clear in appearance  Smell - brown sugar, caramel, dried apricots   Taste - Molasses, caramel, burnt brown sugar, candied orange, dried apricots  Feel - Sticky, dry, slightly warming     Overall - A little too sweet for my liking, but not a bad winter offering.   
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 wubba lubba dub dub 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 L- Looks great! Cream lace, moderate foam, amber orange brown sexy.  S/T/F-Smells and tastes like burnt brown sugar but it blends with the carbonation is oh just the right way that it's great even to this non-lover of "sweet" beers.   O- Is there even alcohol in this?! Oh, 9.8%, you will notice in your head before your mouth. This beer is a delight. Well done.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 pours dark amber nearly orange/brown with a thick white head.    smells like caramel and sweet hops. not overly strong aroma but still an aroma present.     taste is caramel malt and heavy hop. mostly dark heavy fruit hops, some pine as well. finishes dry and sweet. goes down very smooth, makes me wanna keep sipping!    overall this is a really good beer. easy to drink which is deadly for a beer that is essentially 10%. different than Lagunitas Sucks but still great. Lagunitas always hits on their big beers.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Pours an amber brown orange. Smells of bitter orange rind, caramel and floral grassy hops. Tastes like orange, grapefruit, bitter hops and caramelized brown sugar. Medium body with mild carbonation. The alcohol is covered up pretty well. Overall a good, strong, bitter and hoppy ale.   
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4.25 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 2.5 | taste: 4 | feel: 4.5 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4 12 oz bottle poured into a snifter    A: crystal clear body bubbly head with just a slight off white color the body is a nice dark amber with ruby red edges    S: resiny floral hops with a little bit of burnt sugar     T: nice deep sweetness with a huge dose of burnt sugar and bitterness from the hops that come off more floral on the taste has some dates and figs taste with a little bit of cane sugar    M: lighter to slightly medium     O: nice sweet beer with a good dose of malts and hops this is this like arrogant bastard and a little like Old Stock Ale but smoother and has a little bit better taste. This beer lingers on the tongue and has such nice figs and toffee taste very easy to drink   
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4.25 Bottled Oct. 12, 2015    L- Deep amber, great clarity, one finger off white head.    S- Sweet dates and toffee, little bit of the alcohol coming through.    T- Similar to aroma, sweet dates, a bit of hops in there, light bitterness on the finish, a little warming on the tongue.     F- A thin syrup, good carbonation, pretty drinkable for the abv.     O- A very nice, not too sweet, malty beer that would go great with some winter weather, and a great price for a higher abv offering.   
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 Didn't care for this at first but 2nd time trying it, this time on tap, it's not bad. 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 I mean come on... It's lagunitas and hops. Of course it's gon be good, man! But it is fantastic. Big sweetness and big hops. Typically tropical as lagunitas does so well. Great body and mouthfeel. Damn good!   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 On tap at McNellie's OKC. Pours a clear dark amber. The two fingers of creamy white head take a while to settle, leaving decent lacing. Smells of piney hops, caramel, brown sugar and malt. The taste is equally complex. Sugary caramel with just a touch of bitterness. Medium mouth that's pretty sticky. This is really nice, and everything blends together so well.   
+look: 4.25 | smell: 3.75 | taste: 3.25 | feel: 4 | overall: 3.75 Too piney. Nice malt and the associated flavours but the hops kind kills it - but that's not a bad thang but just doesn't drink like a brown 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 4 | feel: 3.25 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.5 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Appearance: light copper with a very thick foamy head that dissipated slowly. Translucent with no sediment.     Smell: tons of tropical fruits with strong notes of grapefruit and orange citrus.     Taste: like a hoppy barley wine. Strong notes of grapefruit. Very resiny and especially sweet throughout. There's presence of pungent hop bitterness that compliments the malt. I wouldn't say this beer is complex but it sure is delicious.     Mouthfeel: full bodied and syrupy.     Overall: this is good stuff. I have not tried one thing from Lagunitas that was okay. Everything had been superb.   
+look: 5 | smell: 5 | taste: 4.5 | feel: 4 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 5 | smell: 3.75 | taste: 3 | feel: 3 | overall: 3 
+look: 4.5 | smell: 5 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 3 | smell: 2.25 | taste: 2.25 | feel: 3 | overall: 2.5 Nice brown sugar taste but followed by an IPA bitter that I don't care for 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.25 | overall: 4 
+look: 4.75 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 Poured into a tulip glass.    A: A clear yet murky brown/amber, as barleywines are known to be. A half finger off-white head that settles rather quickly. Some lacing.    S: Cane sugar, molasses, pear, lemons and apricot.    T: Whoof! The sweetness overwhelms, but in a good way. I discovered later that this was a variant of Old Gnarlywine, which I had recently and loved. There's lots more brown sugar in this one with a depth and complexity that demands that it be sipped. Warm and inviting. Dark fruits slide in with an apricot dance. Sensual. Wraps itself around you and doesn't let go.     M: Medium to strong with medium carbonation. Thick and chewy.    O: A great fall beer with an ABV that packs a wallop. Lagunitas never fails.   
+look: 5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Served in a small weizen glass.     L : Towering head with dense webs of lacing, caramel-honey colored body maybe 70% transparent. I'm just throwing in the towel and calling this a 5. It's an easy A+ for appearance.     S : Caramel, caramel malts, pine/cleaning agent, brown sugar, old wood, baked biscuit. A bit faint though.     T : Holy sweet and then alcohol! Super sweet beer, with notes of caramel, honey, butterscotch, and brown sugar. Behind that it's rubbing alcohol and spices. It ends slightly on oat bread, with some notes of sweet molasses.     F : Full bodied, sticky, and dense. Not creamy, but heavy. Semi-dry finish.     O : I'd have it again. Didn't know it was a 10% beer so I'm gonna cap this as I'm headed to work very soon. Nice work!   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Appearance: Pours a reddish amber color.    Overall: This beer has a strong sweet aroma. It contains flavors of malts, sweetness, fruitiness, caramel and bitterness. This is a very good malty brown ale.   
+look: 3.5 | smell: 3.75 | taste: 4.5 | feel: 4.75 | overall: 3.75 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 4 Pours a dark amber. Nice 3 finger creamy head with lots of laving. Mild malt and grass aroma. Big malt flavor with hop bite. Too much for me. This beer has a bit of a heavy oily feel.   
+look: 4.5 | smell: 3 | taste: 3.75 | feel: 4.75 | overall: 3.5 Bottle poured into a wine glass.   This is the Brown Shugga' Sweat Release, OG: 1.100, ABV:9.8%, IBU: 51.1     A: A very clear amber, with short head. Carbonation bubbles lingered inside the glass.     S: Floral hoppiness in the bottle. After I poured it the smell became very neutral, with a mild hop aroma lingering.     T: It’s hoppy. It’s also got the sweetness, but not malty sweetness, more like a molasses … or brown … sugar.     M: This is a full body beer. There’s a coating of the mouth that is expected from a beer made with this much sugar . A little tingly on the tongue but no burn from the high ABV.     D: I’ve drank this beer plenty of times, and until now never analyzed it. It’s a good beer which I have always enjoyed, but until now, I never realized how quiet this beer was. Heavy, but quiet. It’s a hop forward beer, and the sugar gives it more body than sweetness.   
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Maybe its because its Halloween, but crap this stuff is sweet. But, even with the high ABV, it is still drinkable. Take it slow because it adds up FAST. Poured medium dark amber, orange. Smell was malty sweet. Taste was sugar, like candy at first with malt aftertaste. Feel was very smooth. Overall, 4.2.   
+look: 4.5 | smell: 4.25 | taste: 3.5 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Another great concoction brewed up by the bier meisters at Lagunitas. A very drinkable, malty brew with just enough hops to seduce your olfactory senses without competing with the maltiness. Smells of sweet fruits, tastes sweet, all in all, this 2-day old brew turned out to be one of my favorites this year.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Revisited 1/26/18 & 12/11/18    Pours a nice copper amber color with a slight head and nice lacing. Aroma has brown sugar and malt hints, the taste follows the nose with resounding malty flavor notes. A medium bodied well balanced beer that has a nice feel but packs a powerful punch.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 Pours beautiful copper, thick head with medium retention. Aroma is malty sweet, followed by a punch of hops. Taste is sweet brown sugar with a heavy dose of hops to even it out. Body is thick enough to contend with the alcohol, very well done. One of my favorites when it is in season!   
+look: 4.5 | smell: 3 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.75 I'm a huge fan of Laganitus and this beer is no disappointment! I'm definately going to age some of this. By some, try some, and write yer own review.   
+look: 3.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 Wow, I'm seeing ratings from June and July of this year, and this is a seasonal that gets released in mid October. To see the high marks means this seems to keep well. I have never cellared any, but that may change.    This and the Undercover Shutdown are my favs from Lagunitas, but I've yet to have a clunker from them.    Starts out with a huge malty, toffee nose, which carries thru to the arrival on the palate. Gives way to great bitter hops of grapefruit, pineapple and papaya. The only complaint I have, and it's not really a complaint, is that the bitterness of the hops lingers a bit too long on the finish.     This is dangerously quaffable at 9.9% ABV. I look forward to it every year.   
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 Corner store - San Francisco, CA - 12 oz. bottle poured into a glass 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 i really like this one. it's the kind of thing that i don't go looking to find, but when it's out there, i grab it again and again.    pours amber, with a lot of lacing. smell is hops and fruit - pineapple, really. upside down cake.    taste is surprisingly hoppy at the front, but fades to some fruitiness, bitter hops, and finally its namesake. really, what's left is sugar and hints of fruit.    not what i'd want on a summer afternoon, but fits nicely into the fall and winter arsenal.   
+look: 4 | smell: 4.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Poured aggressively into a snifter. Even for an aggressive pour, this had a large head. Large foamy bubbles that retains for some time. The head reminds me of a trampled beehive with its bubbly appearance. The body has a dark amber, yet incredibly clear color. I could not detect any signs of carbonation in the appearance.    The sweetness of the brown sugar is undoubtedly present in the smell, alongside quite a bit of malt and floral notes. A stingy booze-flavor is noticeable, especially as it warms. Call me crazy, but I also felt the smell of wild berries. A welcoming smell.    The malt is the first flavor which hits the tongue, with a brown sugar/floral sweetness slowly developing in the aftertaste. The malt-flavor, in combination with the sweetness, reminded me of fresh desert bread. The combination of brown sugar and floral notes adds to a caramel type flavor. Also, I felt some black tea in the brew. The semi-bitter hops are distinct throughout the experience. Despite the bitterness of the hops, the sweetness makes the feel quite juicy. As one would expect from the appearance, carbonation is low. Even though it offers a pleasant tingling sensation to the tongue as soon as it enters one's mouth.    Not as drinkable as most Lagunitas, but then again, it is significantly stronger. I thoroughly enjoyed battling with this beer, however, at the end of the day I'm not as excited about it as I thought. I have a hard time to put my finger on it, but this beer feels like it's lesser than the sum of its parts. Still another solid brew for Lagunitas Brewing Company though.    Paid $11 for a six-pack, which is honestly a steal.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 3.5 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 Sweet, with malty mouth feel. Strong, but not overly boozy. Pairs well with roasted vegetables. The hops are there, but they are secondary to the sweetness. At 9.9% ABV, it's a slow sipper. A nice Fall and Winter fireplace beer.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 A truly unique beer, in my experience. Malty but hoppy; hoppy but malty; strong but smooth...and affordable. A paradox in every way, but what's not to like? I guess that's 'why you taste so good.'   
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 My first tasting of a Lagunitas offering and I wasn't disappointed.     Great darkish-amber color with a decent head and good lacing down the glass. Not overly carbonated and almost syrupy in texture, it was very smooth going down. I enjoyed the distinctive IPA flavor from this ale - so I can only imagine what one of their IPAs would taste like. Although I wasn't too impressed by it's overall odor, I was very happy with the flavoring and strong, bold taste of this ale - very, very good.   
+look: 4 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 i bought this beer for the ABV%....it's also pretty good. 
+look: 4.25 | smell: 4.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Picked up a six-pack at my local Trig's grocer. The fact that I pulled it out of an unopened box on the display floor is probably a good sign that it's relatively fresh. Poured at cellar temperature into a snifter.    L: Pours a burnt sienna with about an inch-and-a-half of billowy tan head that sticks around for a good while and leaves nice lacing on the glass. Just a bit hazy, with plenty of visible carbonation.    S: Caramel malt and molasses notes are quite prominent, with added scents of raisins and dried stone fruit. Some subtle black pepper and clove in the mix, as well. Nice bouquet.    T: Sweet caramel malts at the front, accompanied by notes of molasses and rum raisin. Just a bit of a buttery quality in the middle, along with touches of the aforementioned spices, black pepper and clove. The hop flavor builds in the middle, providing a bit of tart into bitter at the sides and back of the tongue--some grassy and herbal notes. The clear alcohol starts to kick in just before the end and into the aftertaste, but it really is covered up quite well by the molasses/brown sugar sweetness of this brew.    F: Medium-bodied, creamy, and very nicely carbonated. This one has a bit of stick, but I wouldn't classify it as outright syrupy. Leaves a good bit of bitter on the palate at the close.    O: This one certainly packs a punch, and it does so with very little in the way of clear alcohol coming through. The richness of the flavors and the overall sweetness are befitting a holiday brew. Lagunitas has yet to disappoint me--this is another one I highly recommend.   
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 5 | taste: 4.5 | feel: 5 | overall: 4.75 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.75 Excellent malt with the perfect balance of hops for this strong ale, at 9.9% it knocks you on your behind faster than you'd imagine especially with how smooth, and tasty this beer is. If you haven't tried it you should get your hands on some.   
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 5 | overall: 4.75 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.5 | feel: 3.5 | overall: 3.75 Sweet Jesus this thing will hit you hard. So ridiculously strong. I like these tough ones in the fall/winter. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 Lagunitas has nailed the whole concept of brand loyalty by making all their beers taste like variations on the same theme, which I think centers around their IPA. No guesswork, no bad experiments. They all have the same dominating hop profile, so if you like one, you'll probably like them all.    Brown Shugga is the richer, maltier variety of their IPA. It pours a clear, burnt red color with some head at the top which forms some neat "crop circles" and yeast rings at the top after a few minutes. The nose has that classic bright, grapefruit hoppy flavor, but with more than a small share of burnt brown sugar, some heavy booziness like a barelywine. A bit of apricot and some nice esters come out after a time.    The taste makes the 9.9% abv quite evident, but it's still fairly relaxed. The texture has a sticky, thick quality to it, and the foam sticks around a bit, so that makes all the flavors last in your throat for quite some time. That said, there's very little bitterness considering all the hops that Lagunitas seems to like to use. I had this beer once when it came out and again now, 6 months later. Some of the fruity crispness has mellowed out and the richer flavors seem stronger now, so you can definitely say it ages in an interesting way, possibly becoming more of the beer I was expecting it to be, and less like a malty IPA as it was fresh.    Overall, one of the more unique and exciting options from one of my favorite breweries who have mastered the art of quality without prolificacy.    Edit: had a batch a year later, and it was less hoppy, more malty and strong, and closer to a barleywine than the 3xIPA it seemed more like last year. Still, opinion of it doesn't change!   
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 2.75 | taste: 2.75 | feel: 3 | overall: 2.75 Far too hoppy for my palate. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 L: Pours brilliant brown to chestnut under a 1” clingy creamy white foam collar.   S: Malt and light fruit aromas with some spice.   T: Big complex sweet malt up front with traces of dark sugar and fruit culminating in a dry finish with a bitter hop accent.   F: Medium body and carbonation, slight warming.   O: A big, satiating, bold beer for after work   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.75 | feel: 5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 This beer tastes like brown sugar, but good. 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.75 Finally found some of this. Not the Sucks, the original...  Pours very easy n nice, almost a dark golden/amber not hazy look to it, with an all around head that lasts thru out also adequate lacing to boot. Smells of sugar beets, brown sugar, light hops and sweetness. Tastes almost like liquid candy. Tastes of Super sweet and a slight tartness with a bite of hops. Intoxicating yet light on your pallet, besides all the sugar lol. Ummm... alittle too sweet for me but as Lagunitas becoming one of my favourite brewer's I defintley respect what they have done here. Respect ☆☆☆   
+look: 4 | smell: 4 | taste: 3 | feel: 3 | overall: 3 Note to self, avoid any beer with brown sugar in it. 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4 | smell: 2.25 | taste: 2.25 | feel: 3.5 | overall: 2.5 Looks nice in the glass. Well-carbonated for a strong ale. Nose is heavy booze, with a touch of brown sugar sweetness. Taste... wow, booze and more booze. Sweet, bordering on sickeningly so. Nothing else really stands out. Would much rather have their replacement (Sucks) than this.    **Re-review a couple weeks later... Smelled and tasted great, though still a bit boozy. I think maybe my initial review was of a compromised bottle. The place where I bought the 6-pack had been out of Shugga' for several weeks at least, but lo and behold, I spied a sixer in a plain label mixed pack with Lagunitas caps, way behind the other beers. Pulled it out and discovered 6 bottles of Shugga' and was ecstatic! Well, maybe something happened to the previous bottle I reviewed, because I came back and drank two a couple weeks later and it tasted wonderful.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 3.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 Pourd cold into a Libby stout glass. Bottled on 12/2/14, consumed on 1/10/15.  Look = 4.0 Pours a clear brown copper color with amber highlights. 1 finer of off white head that fades to a light cap. Dense, sticky lace.  Aroma = 4.5 Distinct spicy and earthy hop aroma balanced with heavy sweet malt notes of caramel and a hint of alcohol.  Taste = 4.0 Balanced more so than the aroma; Earthy, spicy hops and big sweet caramel malt backbone through the middle of the taste. Moderately bitter finish and a warming booze presence.  Feel = 4.25 Syrupy; full-bodied with low to medium carbonation. Smooth feel.  Drinkability = 3.75 10% ABV with some booze presence.  Overall = 4.1375 Unique beer in some ways, spicy hops and big sweet malty and boozy backbone. Really solid mouthfeel.   
+look: 4.5 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.75 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 2.5 | feel: 3.5 | overall: 3.5 Reviewed 12/31/2014; purchased in December 2014.    Appearance: Pours an extremely dark amber/red with 2 fingers of frothy/foamy khaki head. Nice retention of a thin, yellowish sandy cap. Epic lacing.    Aroma: Markedly hoppy. Tropical and resinous. Really great aroma. Love this smell; tropical & malty.    Taste: Sweet arrival, tart & fruity, extremely bitter finish. I'd put this higher than 51 IBUs. Some alcohol on the finish. A little cloying at the end; slightly off-putting.    Mouthfeel: Lighter than expected; somewhat astringent; a little like Mirror Pond in that respect but not as much; relatively little carbonation and somewhat slick.    Overall: I was about to say I really like this, but the bitterness and alcohol combine at the end [as it warms] to make this just a little unpleasant. Somewhat cloying.   
+look: 3.75 | smell: 4 | taste: 3 | feel: 3.5 | overall: 3.5 Love reading the label, but didn't really like the beer. Too sweet. Odd chemical aftertaste.   I realize I'm in the minority here, but I'm not a huge Lagunitas fan. Have yet to find any of their offerings to my liking.   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 Interesting! Clear orange to amber color with a 1" creamy head that hung around for days and left remnants of itself on the side of the glass all the way down. Sweet brown sugar and hops smell. Taste is sweet and malty but crisp and hoppy also if thats even possible. Alcohol kicks in at the end for just the right feel. I'll buy more.   
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 A - Poured a clear dark amber with a little chill haze, slight red hue to the color. Head was thick and frothy a mix of medium bubbles and lots of fine suds.     S - Aroma is a dark complex amalgam of sweet malt. A candied cherry fruitness. tons and tons of molasses, rum like. Burnt sugar.     T - I have had this 6 pack for a few months, upon first release it was very hoppy. Its only probably been 3 months tops? the hops have fallen off completely to let the beautiful malt shine. This is certainly unique from other barleywine style ales as it is very rum like. SO I guess its less of a malt character and more of a candy, sugar. Lots of toffee. Although the aroma hops have faded, the finish is very hoppy, not so much bitter but just a nice bite, very quenching, and balances the malt sweetness well. Without this it would be way too cloying, but that is not the case. This beer is great.     M - Mouthfeel is par for the course, thick, just enough carbonation to keep it lively. finishes sweet but the bitter hops as mentioned above quell the sweetness.     O - This beer is probably my favorite from Lagunitas. If your looking for a traditional barleywine this might be a little too sweet and rummy, but it tastes great to me, just a unique flavor. Also I try not to make a review about price and value as I feel a beer should be judged on what it is over economics... but man, 9.99 for a 6 pack of this??? In a sea of 11.99 4 packs, such a great beer for 9.99 a sixer gets me everytime.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3 | feel: 3 | overall: 3.5 

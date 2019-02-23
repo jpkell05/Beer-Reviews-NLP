@@ -1,0 +1,1000 @@
+look: 3 | smell: 2.75 | taste: 3.25 | feel: 3.25 | overall: 3 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 4.25 | overall: 3.75 I'm diggin this right now. The flavor + mouthfeel makes it real syrupy and soothing on this rainy day. This is basically like a syrupy well done red ale in taste and look, with some added "winter spices". A solid beer and pretty unique. I can't say I have had one like it before.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.5 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 Clear, medium chestnut brown with two finger off white head. Leaves lots of lacing. Smells of sweet malt with chocolatey roasted malt and a hint of cinnamon. The flavor is similar, with the cinnamon and ginger subtly rounding out the lightly roasted flavor. It works pretty well. Medium light body. Faint lingering bitterness.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 2.75 | feel: 3 | overall: 3.25 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 2.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Medium brown beer. Creamy white head not super thick. Poured out of a bottle. Smells of some baking spices and roast. Tate follows. Mouthfeel is fairly thin. Overall pretty good beer but I’d probably rather just have the regular lager. Or on winter just something standard without the spices.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 Samuel Adams Winter Lager | Boston Beer Company (Samuel Adams). Poured from the the bottle into a pint glass, this has a three finger thick light tan head, webbed lacing. and a deep reddish amber body.    Smells like masterfully roasted, full bodied malts. Also picking up the cinnamon and ginger mentioned on the labeling.     I taste hearty grains with not very much of a spice flavor, just a mild sweetness from the malts.    Medium mouthfeel with mild carbonation.    I'll rate Samuel Adams Winter Lager | Boston Beer Company (Samuel Adams) with a 4.   
+look: 3 | smell: 3.5 | taste: 4 | feel: 3 | overall: 3.5 
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Samuel Adams Winter Lager brewed by Boston Beer Company, with an ABV of 5.60% This German Bock pours out of a 12oz glass bottle into a a pint beer glass. A super nice mid brownish almost copper color with a nice small off white head. Decent amount of lacing to this brew, it sticks to the side of the glass well. Really digging the copper color of this brew. The smell is rich with roasted grains and malts. Then a nice mix of citrus with spices. You mostly pick up on cinnamon an ginger. The smells of the holidays. So far Samuel Adams Winter Lager is a nice inviting brew. Now for the taste, it is Bold with flavors. You first pick up the light roasted grains and malts, then a mild amount of spices. The spices are a nice touch to this brew. This brew has a super nice balance to it, there is nothing overpowering about this brew. This brew would go nice with dinner or on a cold winter day. The body of this German Bock is a solid medium. The mouth feel is Bold, Spices, Rich , Clean Smooth and Refreshing. Overall I am going to give Samuel Adams Winter Lager a 4.25 out of 5. I would definitely look this brew up again giving the opportunity to. Boston Beer Company (Samuel Adams), did a super nice job with German Bock.   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.75 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 a pleasant smooth brew.....hints of orange, cinnamon and ginger. 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 Poured from bottle into tulip glass. Poured a deep amber with a nice white head. Dominant malts with a hint of spice in the aroma. Taste followed the nose, malts with a hint of cinnamon? Medium bodied with a spicy or faint sour finish. A good brew but I didn't get much of the flavor promised on the label.   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 3.75 | overall: 3.5 Poured a copper brown with a skin thin tan head. Aroma of malt and, unfortunately, soap. And no, this pour was not into a glass that was just washed so there is no soap residue. Malt taste with a bit of spice. No complexity. Moderate body and carbonation.   
+look: 4 | smell: 3 | taste: 3.5 | feel: 4 | overall: 4 Beautiful deep amber color that invites you in. Thick white head and minimal smell. Tastes smooth but is better if you brush your glass rim with cinnamon and sugar. This is the perfect fix for the beer, won’t drink it without the dressed up glass.   
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 Aroma of spice, bread, malt, caramel. Short tan head; short but thick and creamy; receding fairly quickly, but it leaves nice-looking lacing on the opposite side of the glass. Color is reddish amber; lots of carbonation bubbles. Attractive. Taste is spicy - cinnamon, with a touch of citrus (orange?); finish is mildly bitter and malty. The totality is definitely holiday & winter focused.   
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 12oz bottle into a pint glass. Best by April 2019, so plenty fresh.     Nice deep red amber coloring. Initially there is a good thick off white head, but this dissipates to a thick ring & covering. light lacing    Clean malty aroma. nothing else    Malty, tingly, a little sweet. Claims to be brewed with orange peel, cinnamon & ginger, but I'm not getting any of those flavors.     Mouth is around medium. Finish seems a little off, faintly sour and a little unpleasant.     Overall, apart form the finish, not a bad tasting beer. It just doesn't deliver what the bottle states.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3 | taste: 4 | feel: 3 | overall: 3.5 
+look: 3.5 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Pours a reddish amber with a thin off-white head. Mild caramel and spice aroma starts the beer off. Earthy notes are the first to come into play, with a dash of spices. Moderate body, with a bit of thickness to it. Very short finish of earthy notes and spice. Not too complex, but a decent winter drink.   
+look: 3 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3 dark amber beer thats pretty decent. The spices and hops go down pretty smoothly. Better than their regular Boston lager. 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 Amber color and clear with a tall tan head in a dimpled mug... I get the cinnamon and ginger, maybe some citrus and pine... Doesn't taste or smell particularly appealing though... Thin-bodied, mild... I guess it's alright, but i don't see the point when there are so many better and more flavorful beers out there...   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 Look: Dark amber, relatively clear, with a finger of white head.     Smell: Pale malt and a bit of citrus. Hard to smell much.     Taste: Slightly bitter malt, orange zest, and a biscuity finish.     Mouthfeel: A little thin, but highly carbonated.     Overall: A pretty nice lager, though not too special.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 A very refreshing and tasty lager with nice hints of orange. A great beer to have by the fire on a snowy or rainy day. 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Dry nice, flavorful. 
+look: 4.75 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.25 | taste: 3 | feel: 3.25 | overall: 3 Very dark amber with about medium carbonation as well as body.   Aroma is roasted malt, caramel,sort of fruity, with what I assume is hop bitterness.  Taste is almost identical to aroma, somewhat sweet. There's some bitterness which is either hops,indescribable spice or both .  It's ok but it seemed like a bit of a mess to me   
+look: 4.25 | smell: 2.5 | taste: 2 | feel: 2.25 | overall: 3.25 Bought buy mistake. Expected Christmas Ale and all I got was this weird tasting fruity, teaser of orange, a littile bitterness, that leaves a lot to desire and gives noting in return. Is that Pine that Boston Lager where trying to hint at? Who knows but they missed the mark....   
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Pours dark amber with an off white head that hangs around and leaves lacing along the glass. The aroma is holiday spice and rich, toasty malt. There is not a lot of hop character. The flavor hints at sweetness with caramel and toasty malt but there is sufficient bitterness to balance the beer and keep it from being cloying. Spices are present here as well but not too strong. The body is medium-full with moderate carbonation. The beer tastes stronger than the listed abv of 5.6%.     This makes for a nice cold weather beer.   
+look: 3.25 | smell: 2.75 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 4.5 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 2 | taste: 1 | feel: 4.25 | overall: 2 Tastes like a pine tree 
+look: 3.75 | smell: 3 | taste: 3.75 | feel: 4 | overall: 3.75 On draft at local pizza shop. Poured into a conical pint glass with a nice layer of head. Color nicely resembles the style, not much smell to speak of, which may also resemble the style-don’t know. Good bit of carbonation with a nice malty backbone. Would order another.   
+look: 3.5 | smell: 3.25 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.25 12 oz bottle into English pint glass. Aggressive pour with a finger of foam that disappears real quick. Darker shade of amber color.  Sweet malt, spice, a bit of fruit. Aroma seemed to evaporate quickly.  Taste equals smell. Sweet malt fallows by a mix of non descriptive spices. Strange but not bad after taste.   Sweet taste makes it somewhat filling but a drinkable beer. A light holiday beer, I guess.   
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 The label says “winter spices” and the first taste is indeed spicy. Not bad! Light and smooth with a good finish. ca. 2009 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 2 | taste: 2 | feel: 3 | overall: 2 
+look: 3.75 | smell: 2.75 | taste: 3.25 | feel: 3 | overall: 3 
+look: 3.5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.75 | overall: 3.5 I mean...tasty but not too tasty. SA Christmas Ale is where it’s at. ✊ 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 12-oz. bottle needed a heavy pour for a finger sized foamy, light tan head with very short retention and minimal stringy lace.  Clear amber-brown with ruby highlights, brownish orange in front of light.  Rising Bread dough, sweet malt and spice greet the nose.  Taste begins semi-dry and tangy from the orange peel and ginger, the middle becomes semi-sweet from caramel malt with roasted malt and cinnamon in the background. An astringent mineral twinge occurs, faint hops replace it. The finish bitters and drys as the spice and orange peel return and linger.  Light body, a little above average carbonation. Nice flavor profile; tang, semi-sweet, bitter.  The spiciness of a Winter Warmer Ale (label says "orange peel, cinnamon and ginger"), a little lower than average ABV for a Bock. Winter Lager, Festive Bock beer on the label.   I'm callin' this one a Session Bock with Octoberfest tendencies.   
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 3 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 4.75 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4.5 | taste: 4.25 | feel: 3.75 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.75 12 Oz bottle poured into glass  Look - Copper Brown color, small medium foam head, minimal glass lacing.   Smell - Malt, nuts, little bit of toffee and chocolate. Nothing in the way of hops. Fairly sweet. Maybe a touch of spices.  Taste - Very sweet and sugary. Not really much in the way of flavor. Caramel lager basically. Malty but not roasted. I can pick up a bit of ginger and orange peel but it's not pronounced. Medium bodied but has a filling taste. Medium carbonation.     Overall, not really sure what they were going for here. It's not a bad beer but not light enough to drink more than one or two and not enough flavor to make me want to buy more...Grade is a B   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 2.5 | smell: 2.75 | taste: 3 | feel: 2.5 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 3.25 | smell: 3 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3.5 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.75 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 2.75 | smell: 3.25 | taste: 3 | feel: 2.75 | overall: 3 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 The best Sam Adams beer I've had so far! It really feels like a holiday drink going down. 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 3 | taste: 2.75 | feel: 3 | overall: 2.75 I like this just a little bit less than Boston Lager. 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 2.5 | taste: 4 | feel: 3 | overall: 2.75 Not bad but a little too bold tasting for me. This is not something that I would want to drink more than 1 bottle of. I prefer the Boston Lager over this. Cheers! B-   
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.25 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 2.75 | smell: 3 | taste: 3.75 | feel: 3.5 | overall: 3.25 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 2.75 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 2.75 Trying hard to be a Vienna perhaps? Not enough spice (or fruit) to be considered in this style, but where else to put it? Fairly bland dark amber lager, maltish aroma with faint hints of cinnamon, nutmeg and citrus, toned down for the mass market. Trying to do too much while catering to the macrobrew market....   
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.25 | taste: 3.25 | feel: 3.75 | overall: 3.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 2.75 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 3.75 | smell: 2.5 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Best SAM product. Wish it was available year round. 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 From the 12 oz bottle in a snifter. This nice standard available in most restaurants   that serve Sam pours a nice red tinged amber with a nice off white head of foam that   subsides to a thick ring, thin light pool, and sports nice light lacing. Nose of caramel   malts tossed into light notes of light toffee and light breaded malts with a hint of   spice and orange zest. Flavors Follow the nose with a light breaded malt mingling with   caramel and toffee notes that have been dashed with subtle cinnamon and subtle ornage  zest flavors. Nice mouth feel; medium body, medium carbonation, and a lightly sweet   caramel toffee finish.     A macro micro---perhaps, but the beer connoisseurs owe a lot to this company  and this lager is a perfectly respectable example of the style done in America.  Nothing to hate and a lot to like. Overall an underappreciated brew that is   flavorful and respectable.     A solid brew from a solid company.    Cheers   
+look: 3 | smell: 2.75 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3 
+look: 3 | smell: 3.5 | taste: 2 | feel: 1.5 | overall: 1.5 Having two beers tonight so I started with this, quite disappointing. Weak, watery, no strong flavor points, albeit no piney aftertaste. The 1.5 is also in comparison to other beers that Sam makes. Still, a mediocre beer.   
+look: 3 | smell: 3.5 | taste: 3.25 | feel: 3 | overall: 3 
+look: 2.75 | smell: 3.75 | taste: 2.5 | feel: 3.25 | overall: 2.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 3.25 | taste: 4 | feel: 4 | overall: 3.75 I'm not generally a lager fan, so I'm sure that skews this review. But it is NOT watery (big score for a lager in my book) fresh without tasting like carbonated grapefruit juice, and warming despite being fresh, without being too alcoholy   The color is gorgeous - wonder if the orange peel helped.  Clear burnt orange with just the right amount of creamy, tasty, golden foam.  Great with food or on its own.   
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Nice smooth taste. 
+look: 3 | smell: 2.75 | taste: 2.75 | feel: 3.25 | overall: 3 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.75 | overall: 4 Reminds me of the Boston Logger 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Poured into a clear glass. Has a beautiful, rich mahogany color. Moderate carbonation, thin head that dissipates.     I smell many different kinds of roasted malts, cinnamon, an essence of toffee, caramel, orange peel, other faint citrus peels, and faint ginger. Lovely combined aromas.    The taste instantly indicates toward roasted malts and a biscuit flavor. The malt backbone consists of cinnamon, ginger, caramel, and orange peel. Bitter hops are piney and balances well with the malt. Feels light and smooth.    It's pretty good.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 Beer pours a nice iced tea color with a white head and some lacing. The smell is sweet and festive. The flavor is sweet, weak caramel and not a lot else. It is smooth though so overall easily sessionable.   
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 Look- Very nice copper color with big carbonation. Fades slowly. Some minimal lacing.  Smell- Nice flavor.  Taste- Dry  Feel- Medium bodied.  Overall- impressed with this mass produced commercial brew. Dry, complex and tasty.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 2.75 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 3.5 | smell: 3.25 | taste: 2.25 | feel: 2.75 | overall: 2.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 Poured from 12-ounce bottle into a glass tumbler. Clear dark amber color, with an evanescent off-white head that settles into a thin ring leaving no lacing. Big pop of tomato juice aroma upon opening the bottle. This vegetal character carries through to the flavor profile as well, providing an odd counterpoint to the dark caramel maltiness. A little sourness lingers on the finish. Quite disappointing, and I'll leave it at that.   
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.25 | smell: 3 | taste: 3 | feel: 3.5 | overall: 3.25 Basic. Clear. Not much head. Almost tasted like soda pop. Something not right. 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.25 | taste: 4 | feel: 3.75 | overall: 3.75 Pours from the tap a clear brownish color. The head was 1,finger, frothy. Retention is average, and nice lacing on the glass.  The nose, is fairly minimal. Just a slight malt note.  Taste - is slightly sweet up front. There's a slight spice presence. Maybe more than slight on second thought. Kind of reminds me of a gingerbread flavor.   Feel is moderate bodied.  A tasty winter beer. Nice flavor and feel.   
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 Sam Adams makes surprisingly decent beers. Although I have to admit, this is much better than their summer offering. Give it a try during the holiday season.   
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 3.25 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 This beer is criminally underrated. Must not be all the rage.  Beer itself has great lager qualities, drinkability, sweet honey malt presence, nice drying herbal hop presence on the finish. The aroma itself is very sweet and inviting. However, as a bock this malt sweetness is more toasty or caramel. Added spices make this beer reminiscent of gingerbread. Absolutely a winter beer. Spices are mild but present enough to make things interesting.  Overall will be killing a six of these on Christmas. Surprised I haven't had it before now.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 12oz bottle bb April 2018 poured into a perfect pint glass at fridge temp 5.6% ABV 22 IBU. The beer pours bright amber with short lived light khaki head. The aroma is caramel malt and spice. The taste is about the same starting with caramel before the cinnamon and ginger show up for the finish. Mouthfeel is thin to medium bodied, adequately carbonated and finishes with a slightly sweet heat that is neither dry or cloying. Overall, good for what it is. Beer for holiday gatherings that's better than AAL but won't distract from conversation with its greatness.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 I really like this beer. It's nothing special. It is very smooth and easily drinkable. Has some great cinnamon and nutmeg flavor. Not strong though. Very easy on the palate.   
+look: 2.25 | smell: 2.5 | taste: 2.75 | feel: 2.25 | overall: 2.5 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Fitting winter lager and a seasonable taste to this bock. Fairly well balanced for a mass produced beer. Very dark amber color. 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 Old Brown Dog but not as good. 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 3.75 12oz bottle (best before April) poured into a pint glass shows a clear, dark copper colored body and briefly floats a 1/4in tan cap of soapy bubbles which diminish to an edge-hugging ring with legs leaving a clean glass.    Aroma is muted spiciness that I can't specifically identify with a cracker malt.    Flavor is spicy, could be cinnamon, and slight orange peel, but I don't quite get the ginger. The sweet caramel flavor dominates. The combination combines to remind me of winter, though.    Mouthfeel is light and clean with no aftertaste and a clean finish.    Overall a refreshing beer for all day consumption on a winter day.   
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 A solidly good winter lager. Not exceptional. 
+look: 4 | smell: 2 | taste: 3.5 | feel: 3.5 | overall: 3.5 I really enjoy Bock beers. This one is just ok. Color is good. Distinct lack of smell. The spices weren’t anything special in this one either. Definitely ether than the name brand light beers, but not my favorite Bock.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Looks great. Brilliant reddish brown. Smells and tastes fairly caramel with that spice taste in there, which I don't love. Goes down pretty easy like a lager should. The wheat is in there too. Solid but unspectacular but I respect Sam Adams as the legend they are.   
+look: 4 | smell: 3 | taste: 3.5 | feel: 4 | overall: 3.5 Fine for what it is - good use of caramel malt, not a tremendous amount of lager yeast or anything like that but it is categorized as a bock, mild on flavor but perfect in an anonymous, forgetable way.   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.5 "Wheat beer with cinnamon, ginger, and orange peel."    Tastes like wheat beer. Not getting much else, but it's light and sweet. Looks and behaves like a wheat beer should.   
+look: 5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 3.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 Samuel Adams' seasonal offerings are usually among my favorite holiday favorites (I'm including October in the holidays), and their Winter Lager is no different. It's a bock with a nice reddish look and a typical medium head. It's a slightly toned down version of their amazing Old Fezziwig's Ale, with subtler spices to make it a bit lighter. You can sense the spices in the aftertaste, but overall this is just a nice little beer to keep stocked up for the holidays.   
+look: 1.5 | smell: 2 | taste: 1.5 | feel: 1 | overall: 1.5 Flat, malty, and a tad sour. It could be a bad batch or just that this is a bad beer. It gives no feel or taste of winter. Just leaves a funky after taste and overall boring and bad.   
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.5 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 Pairs well with smoked cheddar cheese 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 This is a wonderful seasonal beer. A must purchase around the holidays. Smooth and flavorful. Easy drinking. Always in my fridge this time of year. 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 Red brown color, lot of rising bubbles, no head. Generic beer aroma. Flavor is of an average lager, with an added note of orange peel. 
+look: 4 | smell: 3.5 | taste: 4.5 | feel: 4.75 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Pours a beautiful clear amber with a white head. Smells of caramel, malts, and spices. Tastes of sweet caramel malt, sweet spices, bread, and light non-bitter hops. Medium body with medium carbonation. Overall a decent bock.   
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 Sampled from bottle 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 One of the most drinkable winter beers around. It's unique because it's not unique. This is a wintry bock in terms of subtle spices, but doesn't try to overdo it.     Stands apart because it knows what it is, and doesn't try to be anything more. An absolute winter classic. I try all the other winter warmers, bocks, etc around this time of year, and think to myself, "That was pretty good. Now give me another Winter Lager."   
+look: 3 | smell: 2.75 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 5 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Pours a clear, reddish-brown color with about a half finger of white head that slowly fades. Smell is licorice, grain, cinnamon, and malts. Taste is malty backbone, a little ginger spice, cinnamon, and orange. Medium light body, low carbonation. It's tasty, nothing special but goes down easily and is kind of a nice change of pace from the heavier season brews.   
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Poured from 12oz bottle into Pilsener Glass. Enjoy by April 2018.     L: Clear ruby amber, finger width khaki head has poor retention.     S: Smells of well roasted malts, mostly a caramel toffee like presence, with faint ginger, and cinnamon.     T: Very much like a pumpkin beer, it is well spiced and decently tasty yet not a knockout beer. Good malts, ginger and cinnamon are not overpowering.     F: Slightly dry with lingering spice, crisp carbonation in a medium body.     O: Pretty tasty and a decent cheap option for a winter beer.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 3.5 | overall: 3.75 
+look: 2.25 | smell: 3.75 | taste: 2.25 | feel: 3.75 | overall: 3 
+look: 3.25 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.25 | smell: 3 | taste: 3.5 | feel: 2.75 | overall: 3.25 
+look: 3.5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 5 | feel: 4.5 | overall: 5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 2.25 | smell: 1.5 | taste: 2 | feel: 1.75 | overall: 1.75 **  11/21/12    Raw Barley aroma. Amber pour. Mellow Smokey aftertaste is appealing, but needs much more zip and flavor.  Feel is flat. Very little carbonation. On tap, Texas roadhouse. 22 oz.    **   
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 3 | taste: 3.25 | feel: 3.5 | overall: 3.25 Poured from a 355mL bottle into a tulip.  L- Cloudy copper color with a sunrise red tinge.  S- Cherry, orange, mild spices. Surprisingly tame for the style.  T- Cherry, orange, nutmeg, cinnamon, clove, vanilla, pumpkin. Flavor is a tad underwhelming.  F- Light to medium bodied with a mouthfeel similar to a hearty, piece of pie.  O- A solid winter beer but it lacks a real punch.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 3.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3 | taste: 1.5 | feel: 2 | overall: 2.5 This beer does not smell how it tastes. I've had it on draft as well as in bottles and I must say that like most beers it is better in draft. The beer looks like coca-cola when it's poured. It is more bitter than dark coffee and all it really has going for it is it's nice looking color.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 4.25 | overall: 3.75 Pours dark amber. Thick, dense, short tan head that lasts a long time. Moderate lacing.    Smells caramel malt, light spices, light toasted malt and dark fruit hints.    Tastes Caramel malt, light toasty, hints of dark fruit and maybe lactose. Finish is dry with a touch of fruit and Orange peel bitterness. Medium body and creamy soft and lightly picky higher medium carbonation.   
+look: 3 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 3.75 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 2 | smell: 2 | taste: 2 | feel: 1.75 | overall: 2 
+look: 3 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 2.5 | smell: 3 | taste: 2.75 | feel: 3.25 | overall: 2.75 
+look: 2.25 | smell: 2.25 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 2.75 | taste: 3.25 | feel: 3.5 | overall: 3.25 Slightly veiled copper color with storming activity. Dense creamy beige 2-3 finger head, lasting around 10-15 minutes, with good legs. Flavors of toffee, dark grains, wheat, apples, berries, apricot, nutmeg, ginger, banana yeast, herbal spices. Sugary gingerbread and cereal feel, moderately bitter spices. Slick full body with with crispy and prickly carbonation. Medium to strong finish, lingering molasses, burnt caramel, wet straw, roasted barley, red ale spices, and leafy hops. The finish is plagued with an unpleasant wet grainy feel, killing the freshness. The smell is quite faint, although the body is rich and smooth. Okay taste that lacks personality. Overall above average quality craft.   
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 3 | taste: 4 | feel: 3.75 | overall: 3.75 Dark amber with nice brown head that dissipates quickly. Thin lacing. Nice and creamy with moderate carbonation. Malt and orange taste up front with light hoppiness in back. Good seasonal beer. You can't hardly go wrong with Sam Adams.   
+look: 4 | smell: 4.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 It pours rich ruby reddish brown with nice 1 finger head.  The aroma is very spicy with some citrus. The rich dark malts are hidden beneath other components of the beer,  The flavor is very rich, the dark malts come through much stronger on the flavor. The winter spices play a nice role in the background not taking over.  Overall this is good, it won't be a regular in my rotation, but it's worth drinking. If I'm ever at an Applebee's or chilis this could be a decent option.   
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3.25 | taste: 4 | feel: 3.5 | overall: 4 
+look: 4.25 | smell: 2.5 | taste: 3.25 | feel: 3.25 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 Nice taste, feel and finish! 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 While watching a game at a local pub in Grand Rapids recently I ordered this one up since I like a good bock every once in a while, and this one was the most enticing beer on the menu at the moment. Plus, it was a good lighter abv option to go with watching the game.     This beer pours a reddish brown hue and is clear with light carbonation visible. The head is off white and creamy, dissipating very slowly to a rocky layer with a neck. 4.25/5 The aroma is very sweet and fruity with notes of plums, ages, red wine grapes, and dark cherries. It comes across a bit syrupy and almost like cough medicine. 3.5/5 The flavor has that same sweetness and fruitiness, but luckily does not come off as cough syrup. Notes of plums, red wine grapes, dark cherries, and dates kick things off before transitioning to wheat bread and then finally to floral hops that feature very little in the way of bitterness. The bitterness is light enough that it does not linger after swallowing. 3.75/5 This beer is quite wet but not coating and it is medium bodied. There is very little carbonation and no dryness or lingering dryness. It is smooth and syrupy, but also thirst quenching at the same time (generally not two terms that go together). 4/5 This is a very good beer, although it is quite unbalanced in favor of fruity sweetness. I did not expect such a wealth of sweetness and fruity notes out of a bock, but oh well. If everything lived up to expectations I would get bored very quickly. 3.75/5   
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3 | taste: 2.75 | feel: 3.25 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 4.75 | smell: 4 | taste: 5 | feel: 5 | overall: 4.75 L-dark copper...the color of a good roux  S-nothing particular stands out  T- slightly sweet, malty/chocolate notes here ....my favorite type  F- smooth/warm    I love this beer! Not too pricey at $8.51 a warm six. If you are a fan of hopped up brew you may not like this. But I have never had a bad experience with Sam Adams' offerings.   
+look: 3 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.25 | taste: 4 | feel: 3.75 | overall: 3.75 The Sam Winter Lager is pretty close to my idea of a classic winter seasonal. It seems to be an agreeable dark variation on the classic Boston Lager theme, swapping out hoppy tones with welcoming spices. Better out of the bottle than on tap in my experience, it's nothing to write home about necessarily, but a solid brew to keep around for cold-weather sessions. It is a shame that this one isn't around a little later before it gets replaced by Cold Snap, the taste of which does not seem quite as appropriate for the depths of winter.   
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 Dark appearance with tan head and just the right amount of carbonation. Very mild fruity aroma. Taste is very smooth grain with some hoppy and slight bitter aftertaste.   
+look: 3 | smell: 2.75 | taste: 3 | feel: 3 | overall: 3 This was just average. Kind of like old Fez but not quite as flavorful. Pours pretty similar to Old Fez but just is lacking something. Couldn't quite put my finger on it. Anyways, it is worth a try if you come across it.   
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 Dark amber pour with thin lasting cap of beige. Aromas are pleasantly malty bread, caramel, and very light winter spices. All of the smells are amplified in the taste - very full-bodied for such low abv. Tasty, malty, but never overly sweet, if finishes clean and neat. One of Sam's best recipes.   
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 Enjoyed on draft at Parker Pie.  A - Really nice amber color, clear and well carbonated, a lovely cap with long rings of proof.  S - clove, nutmeg, winter wheat, hint of cinnamon.  T - Follows the aromatics. Nicely balanced.  M - Here is where the offering excels, excellent lager fels, semi swet finish.  O - A really well put together winter lager.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 This was more of a winter warmer than Old Fezziwig, which I had earlier in the same evening. It was an interesting contrast, and I didn't know it was a bock per se until I saw the classification on this website. I'd say it was closer to a traditional Christmas beer, which is fine with me.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Go to holiday beer. Nothing fancy but its always a nice, standard option for the holidays. Not your typical over-spiced winter ale. 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Dark amber. Not much head or lacing. Medium to full bodied. Nice balance of hops and spice. One of my favorite winter seasonals. 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.25 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Great seasonal beer that rolls around when the weather is cold and the palate looks for something more malty and spicy. Caramel brown pour with a light head. Aroma of roasted malt, toasted bread, faint nutmeg and citrus. Taste is roasted malt, burnt toast, caramel, ginger, orange zest, charred grains. Thick, chewy mouthfeel which feels appropriate. Finishes heavy on the palate with a slight sweetness.   
+look: 3 | smell: 2.75 | taste: 3.25 | feel: 3 | overall: 3 
+look: 4.25 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 2.75 | taste: 3 | feel: 2.25 | overall: 2.75 
+look: 4.25 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 L: Ver clear dark amber/ burnt orange color. Off white fluffy head with pretty good retention.    S: Spicy aroma. Mild ginger and orange rind as well.    T: Caramel malt with spices. Hard to say what spices exactly. I get some ginger with a few other flavors thrown in. Bottle says orange peel and cinnamon. Not sure if I get that but that is apparently what was used.     F: Moderate body and carbonation. Dry and grainy finish.     O: Spicy and fairly complex. Not too bad.   
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 Deep mahogany/ruby body, clear with fine updrafts of bubbles. A small coarse head appears on the pour but immediately disappears; between that and the color this now looks like a Flanders red. Still beautiful. There's pungent toasty bread crust and caramel on the nose, a bit of raisin, and a hint of citrus and cinnamon in the background. If the malt wasn't so 'raw' smelling this would be awesome, but as is it seems a bit unrefined. The orange flavor gets more potent on the tongue, yet still melds nicely with the malts which now seem more like a beer's should, instead of bread crust. No sign of the spices here, however. Finish is actually bitter, like black tea. Body is light, nearly like water, with assertive but fine carbonation.  The orange peel was a star both aromatically and gustatorily, delicious in its own right and played well off the malts. The rest was just trying to keep up; the malt, which as I understand it is supposed to be the focal point and thus delicious in this style, were ho-hum, even seeming amateurish, as if it was untransformed from the raw grains. It wasn't warming like a winter beer should be (in my book), yet it wasn't refreshing either. This would be great for the occasional 60 degree Christmas.   
+look: 4.5 | smell: 3.5 | taste: 4.25 | feel: 3.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 This beer pours a clear amber with an average head. The aroma is if medium caramel, toffee, applejuice, and mint. The flavor is malt driven, with dry caramel, toffee, mint, some orange, no spiciness, and a bitter finish. The mouthfeel is fairly light and foamy. Overall this beer is smooth and easy drinking, wit a nice body, and a slightly odd finish.   
+look: 2.75 | smell: 2.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 Rich malts and a hint of chocolate on the palate. Finishes nicely with a sweet finish. 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Poured from a 12 oz bottle,into a Cigar City lager pint glass.    Thin,off white / light khaki head,that dissolves quickly,turning into splotches,with a beautiful lacing.Dark copper in color,with nice clarity,and heavy carbonation.    On the nose I get breaded malts,some spices,and small hints of earthy,piney hops.Small cinnamon and ginger notes.The malt notes are pretty sweet.    On the palate I get heavy malts,and spices,with a small hint of hop bitterness on the back end.Ginger and cinnamon as advertised.The breaded malts are nice and sweet.    The body is medium with a nice fizzle from the carbonation.The finish is nice and smooth,definitely not too dry.    This was the first craft beer I ever tried,so maybe I am a bit partial.But out of all the lagers I have tried,this one is by far my favorite.Nice look,nice aroma,nice taste,nice mouth feel...Great beer for the holidays!!!   
+look: 3.75 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 Pours amber in color with good foamy head and lacing. Has a malty smell with some minor hops and spice. Taste is pretty good, sweet malty mix with a sweet finish. Not a bad beer, could go further with flavors but ok.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 Something to please both the lagar and the IPA guys/gals in all of us. Great lagar taste but a hint of something different. Great drink ability. Can have several in an evening. If you like dark lagars with a flavor that stays put, The SAWL is the choice for you. But of course, bring ur checkbook, cause this is no cheap date! Merry Christmas my friends!   
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 Presentation: 12 oz bottle freshness notched for April poured into a pint glass.    Look: Dark red brown with a khaki two finger head. Good head retention.    Smell: Crisp, clean malts.    Taste: Kinda like a watered down Boston Lager.    Feel: Thinner side of medium, light carbonation, easy drinking.    Overall: Neither good nor bad. I wouldn't buy it on it's own, but it won't prevent me from buying the winter sampler either.   
+look: 3.75 | smell: 4.5 | taste: 2.75 | feel: 3 | overall: 3 L -- Translucent brown with a quickly dissipating white head. Minimal lacing   S -- Cinnamon, nutmeg, pumpkin, candied orange, malts   T -- Not the greatest. Bitter hops and malts, lemon, squash   F -- Fizzy. Very astringent. Sour finish   O -- Smells and looks like a pumpkin ale, tastes and feels quite strange.    63/100   
+look: 4 | smell: 3 | taste: 3.25 | feel: 3.75 | overall: 3.25 Dark bronze with finger of dense and creamy off-white head. Caramel malts in the aroma. These carry over to the taste with muted Christmas spices behind that leave a almost herbal impression. Mild hop bitterness and a fairly dry finish. Medium bodied. It's alright.   
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 12 oz bottle. Pours a reddish brown with pillowy off white head that lasts and laces. Smells of caramel, cinnamon, and toasted malt. Very smooth with mild lingering hop bitterness. Light to medium bodied. Tastes of biscuit, sugar, caramel, and cinnamon.   
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 Delicious lager. Goes great with a good fire and a cigar. Very festive. 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 L: little to no head or lacing only a thin ring of foam. dark brown clear with a reddish ting when held to the light.  S: Faint malt. I don't smell much but to be fair my fall allergies are acting up. I am going to give this brew the benefit of the doubt.  T: Well this is where it is at I really nice and balanced. I hardly notice the orange peel, cinnamon, and ginger. I notice the nice roasted grain flavor that gives way quickly to a crisp but light hop bitter push. Once swallowed you are left with a lingering roasted grain flavor that is lightly sweet with hints of the orange peel and spice.  F: medium to low carbonation that softly foams giving a creamy fuller feel.   Overall, I really like this but I like malt and wheat beers. It really tastes more like a black lager than a bock to me but I am a fan of both. This will not wow the crowd that wants beer infused with exotic flavors. If like to appreciate a beer as a whole not just for spices or hops then check it out.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 A great beer for the winter time, always a classic. This years (2016) samuel adams winter collection 12-pack was exceptionally good, I may have to buy another one before spring time.   
+look: 3.5 | smell: 4 | taste: 5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3 | taste: 3.25 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 3.25 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.5 It is that time of the year again. Had this one many times but never reviewed.    Fresh off the batch. Poured from a bottle into a standard pint glass.    A: Pours a deep amber. Little head on this one. What head there is is a foamy white. Medium carbonation.     S: Malts initially. Some caramel. Fairly mute, I would say.    T: As remembered, the orange peel is prominent. Some hops as well. Caramel later on. A little cinnamon somewhere in there.    M: Medium-bodied. Slight dryness.    O: My favorite winter beer, hands down. Takes some of the best traits from each of the various winter seasonals that I have tried over the years for an excellent product. Warm flavors without losing the hop bite. Will be picking up some more (and more and more).    Sam should consider keeping this on the shelves through February. Last year, this was gone by January in place of Cold Snap (which is not nearly as enjoyable).   
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 3.75 Sam Adams is okay, but I don't really get my hopes up with their seasonal offerings.  To my surprise, this one was pretty well made.    Look: Pours a light toasted brown hue with a quarter finger, off white head that leaves no lacing on the glass.     Aroma: Gently toasted, creamy wheat smell upfront. Rich aromas of caramel. In the background notes of cinnamon and mild ginger, candied cherries and burnt orange peel.    Taste: Crisp with clean notes of slightly burnt caramel and mild chocolate. Very rich and wheaty with notes of frosting and vanilla. Restrained flavors of christmas spices like smoky orange peel, cinnamon, thyme and even ginger follow suit. Slightly floral and yeasty, very clean tasting. Midpalate; notes of candy apples and bananas. Finishes dry on more flavors of toasted caramel and creamy wheat.    Feel: Body is slightly watery and bubbly but it works. Thirst quenching, yet dry. Malty, but balanced by notes of holiday spice and bitter floral hops.    Overall: I'd recommend this, just make sure you're buying it fresh, as this being a malt forward, lightly hopped beer - won't hold up that well over time as the flavor will fade.     If you're looking for a lightly spiced, malty, thirst quenching beer, this one is worth trying - but I doubt hardcore fans of bocks or holiday beer in general will fall head over heels for this.   
+look: 4 | smell: 3.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3 | taste: 3.75 | feel: 3.5 | overall: 3.5 A: Caramel amber.  S: Cinnamon and malty sweet smell. Very faint.  T: The orange peel comes through strongly, with hints of ginger. Almost like a Witbier/Winter Warmer.  M: Medium bodied.  O: Overall, this is a very good and fruity festive winter beer. If you like oranges, and you want something a little bit darker for winter - give it a try.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3 | taste: 1.5 | feel: 4 | overall: 2 
+look: 4 | smell: 3.25 | taste: 3 | feel: 3.25 | overall: 3 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4.75 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 12 ounce bottle poured to wine glass	  deep red dark amber color, small off white tan foam looks clear	  vg fragrant	  medium bitterness	  good carbonation, long follow through, finish, bitter follow through/ aftertaste   very good beer  repeat: yes  look for: No  drank: 11/9/2016	6:23 PM   
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.25 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 4.25 | overall: 4.25 Bottle in a Sam Glass. Okay lacing, dark coppery color, head minimal, but appropriate for style. I personally like the dense mouthfeel and the aftertaste. This is a good beer when the first Winds of Winter blow. Whenever GRRM actually publishes it.   
+look: 3.5 | smell: 3 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 3.75 | overall: 4.5 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.5 
+look: 1 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1 Taste like you bottled the candles and craft section at Wal-Mart. Gross beer and this will be my last purchase of sam Adams . 
+look: 5 | smell: 3 | taste: 1 | feel: 4 | overall: 2 I bought this last night to watch a football game and on first taste, it left an extremely bitter taste in my mouth. Almost immediately I start developing one of the worst migraine headaches of my life. I Googled the cause and multiple sources mentioned the yeast level in beer and red wine as the culprit. Having never tasted this one before, I would not get it again and will pawn it off on relatives over the holidays. I am more of a Longboard style of taste. I would guess this beer is high in yeast content.   
+look: 4 | smell: 3.25 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 2.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 5 | overall: 4.5 It's a nice tasting beer. Has alot of flavor, and reminds me of a Thanksgiving or Christmas dinner. will be buying again. 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 3 | taste: 2.5 | feel: 2.5 | overall: 2.5 12 oz bottle bought at a dive bar, closest thing to craft beer that they had.    L: dark amber with medium head  S: malt, cinnamon, ginger  T: malty, bready, wheat, cinnamon and other spices  F: bitter, peppery aftertaste  O: I realize winter lagers and ales typically have spices added, but this beer just doesn't do it for me. The cinnamon and pepper aftertaste is not my idea of a tasty holiday brew.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 2.75 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 3.25 | overall: 4.5 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3.25 Comes out with some light brown, small 1/4" head, off white. Aroma muted.     Taste has a big fruit yeast push, reminiscient of Pete's Wicked Winter Lager.     Hops aren't really there, at times this seems like a winter warmer, other times a bock. Has some holiday adjunct feels from the spice rack (nutmeg). Wheat is there, lightens the body, kills the clarity.   
+look: 4.5 | smell: 3.5 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 2.5 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 This bock pours a dark copper color with a fairly small white head. The scent is very faint, but it is malty. There are strong flavors of wheat and bready caramel malts with more subtle flavors of cinnamon and ginger. This must be based off the Boston Lager since this tastes like a slightly spiced version of that. It’s a nice holiday twist though I don’t think that it really adds that much. In my opinion it’s maybe the least ambitious of the members of the Sam Adam’s Winter Variety Pack this year.   
+look: 3.25 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 5.6 % abv with 22 ibu.    Deep amber color with a reddish tint, very attractive.    I get roasted malt in the aroma with just a hint of the spices used in the brewing. Not a strong aroma but a pleasant one.    Taste is a good rendition of roasted malt without the underlying bitterness that sometimes accompany that grain bill. The spices, orange peel, cinnamon and ginger, come off more like a dusting on top of the cake rather than in the body. Good medium level blend of complex flavors that harmonize beautifully. Hops are in there but they are singing along with the rest of the voices and contribute rather than stand out. Finish is quick with just a bit of rich malt in the aftertaste.    Texture is medium, which is to say there is a sense of fullness without being in any way heavy.    I suppose I could call this a festive beer what with the spices and all, but it doesn't actually wander too far off the dark lager homestead. It's just a good, solid, well made dark lager that I could serve guests anytime of the year.   
+look: 3 | smell: 3.75 | taste: 3.75 | feel: 3 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4.25 I find these two facts interesting side-by-side.  First, Boston Beer produces 4 of the top 8 frequently-rated bocks on BA. Unusual. And fair to say the American palate would have to search hard to find this simple, unpretentious and sometimes delicious style.    Second, only 1 of Boston Beer's 4 bocks are among the Top 100 bocks rated for quality.    And a third point which is IMHO.... This is a much better bock than its ratings indicate. I Smell nice caramel and bready malts with some seasonal spices for background. I Taste very much what I Smell; meaning it is an honest beer.  And my mouth likes Winter Lager sitting there... not sweet, not dry, no lingering hops. Just pleasantly soft, yet enough bubbles to cleanse the tongue.    Best yet. I had Winter Lager with heavy, winter leftovers and it made them taste better. Who could ask for more from a simple beer ?   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3.5 | taste: 4 | feel: 3 | overall: 3.75 L- dark brown color, little head and light lacing  S- smelt very neutral, not spicy not boozy, not hoppy. Good balance, maybe hints of orange   T- decent amount of flavor of spices, ginger and orange. Taste ginger more than orange but taste very little cinnamon.  F- very light, easy to drink, not too carbonated, slight coarseness   Overall- enjoyable drink. Not to heavy or to light. Good to have over lunch or etc   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3 | smell: 2.75 | taste: 2.75 | feel: 3 | overall: 3 Nice bock beer with tasty flavor of cinnamon sweet bread 
+look: 3.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 2.75 | smell: 2.75 | taste: 3 | feel: 2.75 | overall: 3 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 This was a wonderful seasonal beer from Samuel Adams. I will gladly drink this beer every winter, so long as it is available. It works very well for cold weather situations.   
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 4 | overall: 3.5 
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Poured from a bottle as a beautiful red-brown hue. There was a thin layer of foam consisting of fine bubbles.    The aroma, fairly faint, was of slight malt and sweetness and very slight funk. The taste was roasty, balanced with sweetness and hops. Overall, a fairly straightforward flavor profile.    The mouthfeel and body were good.    Overall, this is a pretty good beer. I'd have it again but wouldn't seek it out.   
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3.25 | taste: 3 | feel: 3.25 | overall: 3 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 Poured from bottle into chalice, yielded 1 finger light tan head. Pools down to a ring with little lacing. Hazy caramel color to look at with nice carbonation. Smells of malt, caramel, cinnamon and other spices. Taste of malt and caramel on the front end, then the spices take over to smooth things out. Finishes up a tad on the sweet side, bit spices come back around to bring everything back in check. Nice beer, can't believe this is my first time to try it.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3 | overall: 3.25 Kind of watery and flavors were OK. 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 3 | feel: 3 | overall: 3.25 The Winter Lager is usually a beer I'll grab if it's on hand, but like Oktoberfest, it also borders on my bitter tolerance, but its nutty, chocolatey tones is nice to sip on a cold night.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.25 | taste: 3 | feel: 2.5 | overall: 3.5 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Poured from a 12oz bottle into a Weizen glass. L: Head fades quick. Clear medium brown. S: decent malt notes. Toasty caramel malts. T: malt and crisp lager yeast. F: good carbonation. O: pretty good bock.   
+look: 3.5 | smell: 3.75 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 Weaker flavored winter ale that's not difficult to drink. lack of flavor is my biggest gripe here 
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3 | overall: 3 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.25 | smell: 3.25 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 3 | smell: 2.75 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 The flavor offers ginger, allspice, nutmeg with a surrounding malty breadlines with hints of sweetness and a medium hop bitterness. The mouthfeel is medium to medium minus. An gentle drinking brew with a decent combination of spice and malty sweetness.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 4 | taste: 2.75 | feel: 2.5 | overall: 3 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.25 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 I grabbed a twelver of this brew and it even came with a tulip lip can which is nice. Of course, I poured it into a worthy glass and admired what it has to offer. This one is 5.7% ABV.    Look-It pours a mildly clear walnut copper color with a nice whitish head. The lacing is persistent and fluffy.    Smell-It smells of dark fruits like plums and raisins as well as hearty rich sweet breads like pound cake, bread pudding, and cinnamon cakes. There is plenty of malts and abundant spices to be smelled and tasted.     Taste-It tastes like it smells, but with mild caramel flavors and some mild orange peel citrus.     Mouthfeel-It is medium bodied, smooth, rich, and creamy.    Overall-I love this beer, but it isn’t like earth shattering or anything. Definitely try it though.   
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Poured from bottle to shaker pint. Brew is copper in color with a collar of cream colored head. Aroma is spices: cinnamon, nutmeg, clove, some zesty citrus notes come through as well. Taste follows with a nice wheat flavor holding it all together. Boston Brewing produces another solid brew in their lineup.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 3.5 | feel: 4.5 | overall: 3.5 Poured at 47°F from a 12oz bottle (best by May 2015) into a Pilsner glass. Consumed on 11Jan16.  LOOK: Pours with 3 fingers of khaki foam that dissipates into 2 fingers worth within 3 and a half minutes. Copper in color. There is a plethora of small rising bubbles that explains why the foam head refuses to die all the way. Lacing is thick and moderate in quantity.   SMELL: Mild aromas of cinnamon, ginger, caramel, sweet bread, figs, and plums entangle with subtle aromas of orange peel, spicy hops, and earthy hops along with hints of pale malts.  TASTE: Mild wheat (suddenly appear!), pale malt, and caramel flavors enter initially and are immediately followed by mild cinnamon and ginger flavors. Mild orange peel flavors arrive next onto the palate as pale malt flavors grow stronger. Mild sweet bread flavors, subtle spicy and earthy hop flavors, and hints of figs and plums enter lastly as all previous flavors push on.  FEEL: Full-bodied and subtly carbonated. Goes down smooth and creamy. Finishes very crisp.  NOTE: A good beer by the Boston Beer Company. This was nothing mind-blowing, but it is easily likable. I bet if you took out the pale malts, this would be even better. I would buy this again of I was attending a party or planning to have friends over. Probably wouldn't drink this by myself again, though.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 2.75 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 3 | smell: 3 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Re-review.     Pours a beautiful copper color. The head is two fingers high and off-white in shade. This beer's head really leaves behind a ton of lacing on the glass, though its retention isn't amazing.     Almost immediately, cinnamon and ginger invade my nostrils. You know, as much as people say Hardywood GBS invokes gingerbread - this does that very same thing nearly as well. Also adding to the experience are touches of wheat and apricot (though I don't get much orange peel here). This offers a very intriguing aroma, spiced in all the right ways.    As it washes over the palate, I initially pick up flavors of ginger, molasses, and wheat. Orange peel rounds out the mid-taste, with a nice kick of cinnamon finishing things off. It's not a particularly deep beer, but it balances all its elements extremely well.    Creamy and soft textured, this just feels rich - not just for a 5.6% lager, but in general. The finish is dry, keeping it an easy drinker. Carbonation is gentle, and this seemingly aids this beer's substantial body.    I've always felt Sam Adams do lagers better than ales. The standard Boston Lager is still quite tasty, Double Agent is probably their best hoppy offering, and Noble Pils is tragically missed (or is it - hi Spring pack!) This reaffirms that belief. It's not comically cinnamon-heavy like so many Winter warmer-cum-pumpkin ale offerings, nor is it some dinky, watery weakling in terms of mouthfeel. This is a perfect "please the masses" kind of beer that works great for parties or guzzling by the pitcher.    3.53/5: A worthy offering that I overlook too often in the winter   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.5 Dark brown color but appears red with lights. It has a creamy top.  Malty sweetness and has a hint of flowery or citric smell and taste.   I would say the body is light and dry, but less than Sam Adams Sparkling Ale which i had before this one.   
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 Poured into cylinder glass. It pours a dark amber with a thick, fluffy bright white head and extensive lacing. It doesn't have much of a smell: bready malt with spice and a whiff of citrus. It has a nice flavor: roasted malt, nuts, some subtle orange, spice, and a slightly bitter finish. This lager is medium-bodied, nicely carbonated, and easy to drink at 5.6% ABV. Overall, this is a pleasant bock beer; it has a nice flavor blend and is very drinkable.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 2.75 | taste: 3 | feel: 3.5 | overall: 3.25 
+look: 3.5 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3 | smell: 3 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.25 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 Perfectly fine "go to" beer if there is nothing more exciting on the menu. Part of a winter seasonal pack. Pours a jewel-tone dark amber, minimal lacing. Smells of malt, tastes of malt, spice, a tiny bit of citrus and sugar. Medium carbonation. I buy this in six-packs for family Christmas. Readily available and far superior to the 3.2 grocery store they usually buy.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 Pretty good. Had with a meal that probably didn't help 
+look: 4 | smell: 3.25 | taste: 2.75 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 L- Dark amber color with a beautiful light creamy head  S- Malty, rich with whisps of citrus  T- The flavor mimics the smell! The citrus is definitely orange withsome ginger  F- Typical Sam Adams, typically very good!  O-This is a very fun beer. I look forward to the next one!   
+look: 3.5 | smell: 3.25 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 2.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 L- dark copper in color and an off white head.  S- bready malts and a lemony hint and possibly spices  T- follows the bready and spicey nose with some roasted flavor and slightly sweet  F- medium and smooth. medium carbonation mouthfeel  O- I enjoyed this one a lot. maybe its because I just finished the sparkling ale right before this and this one is more to my liking. a good addition to a variety and maybe even its own sixer.   
+look: 4 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 2.25 | smell: 2 | taste: 2 | feel: 2 | overall: 2.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 Copper-colored with a thin head that goes away quickly. Initially I detected a plum-like fragrance but as the beer warmed it became a spice odor with a bit of ginger. A very drinkable beer for me, well-balanced, smooth.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.25 | taste: 3.25 | feel: 4 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Got in a mixed 12. Dark amber, brownish color. Smell is a little malt, spice. light caramel with malt, some spice, sweetness in the taste. Ok. Wouldn't buy on it's own.   
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.25 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 One of my all time favorites. 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 The color is a beautiful amber pour with a quickly dissipating slightly off white rocky head.    The smell is like freshly roasted bread with some hidden spice notes.    The taste I get is cinnamon and spice with that roasted bready malt notes.    Overall on this one I have to say for a winter "gimmick" beer I liked it. It really hit a lot of those sweet Christmas notes for me. A roasty sweet beer to sip on Christmas eve whilst the children continue to come out and bother papa bear while he tries to write beer reviews.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Part of a variety 12 pack. Amber color, malty smell, very flavorful of different spices, medium mouthfeel, overall a good beer that's perfect for winter months.   
+look: 3.75 | smell: 4.25 | taste: 3.5 | feel: 3.5 | overall: 3.75 Look: It pours amber with ruby highlights. The head is off white and leaves some lacing.    Smell: There are aromas of cinnamon, bread, dark fruits, cherries, hints of roast, and herbs.    Taste: The initial flavors of cinnamon, ginger, herb, and dark fruits highlighted by cherries is the first impression. Bread and some roast are also present flavors as well.    Feel: It has a light medium bodied texture, with low moderate bitterness on the palate.     Overall: It is a fairly easy drinking beer with a little bit of spark provided by the herbs, and dark fruits.   
+look: 4 | smell: 3.25 | taste: 3 | feel: 2.5 | overall: 3 
+look: 2.75 | smell: 3 | taste: 2.75 | feel: 3.75 | overall: 2.75 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 2.75 | smell: 3 | taste: 4 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 1.75 | taste: 3 | feel: 3 | overall: 3 Really drinkable beer. I like this better than the regular Sam Adams. Very dark Amber color. Not much of a smell at all and relatively milf taste; balanced slightly more malt than hops. Not as complex or bold as I usually prefer, but this is a beer I could easily all night long.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 3 | smell: 4 | taste: 3.25 | feel: 3.25 | overall: 3.25 Look: Pours clear copper red into a pint glass. The head is thin and white. 3/5  Smell: Mostly malt and bread with a hidden spice. Cheerful and enticing. 4/5  Taste: Some bitterness at the finish, along with some spices. 3.25/5  Feel: Average on the carbonation side. Body is medium-light. Nothing exciting here. 3.25/5  A drinkable, refreshing beer that would go be great washing down some sausages, but rather falls flat on its own. 3.25/5   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 Had this on tap while on vacation in San Diego. Not sure if it was the beer or the waitresses but I loved them both! 
+look: 3.25 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 2.75 | smell: 3 | taste: 4 | feel: 4 | overall: 3.75 For a winter lager from a large scale brewery that puts out a ton of product this isn't bad. It is definitely a beer for the season. Spicy notes with a warm kick, yet very smooth going down. Great choice from your local grocery store for a beer on a cold night.   
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 Usually not a fan of the lager style of beer, but for some reason this beer has always had a sweet spot for me. Good variety of citrus flavors mixed in with a small amount wintery spice. This beer is not anything crazy or overly innovative. Just a straightforward winter stand by.   
+look: 3.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 3.75 | smell: 3 | taste: 4.25 | feel: 3.75 | overall: 3.75 L- light brown, slight orange tint   S- orange & cinnamon   T- a little bitter citrus flavor   F- medium body & carbonation    Not bad overall. Better than most Sam Adams beers.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3 | taste: 3 | feel: 3.5 | overall: 3.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3 | taste: 3.5 | feel: 3.75 | overall: 3.5 No nose to speak off. Taste reveals toasted wheat flavors tempered by subtle winter spices. For a holiday beer it is very drinkable. 
+look: 4.25 | smell: 3 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 2.5 | smell: 2.25 | taste: 2.75 | feel: 2.5 | overall: 2.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Copper in color with a 1/2" thick head. Tasted a hint of citrus and wheat, but no cinnamon or ginger as advertised on the bottle. Medium body, pretty avebrage brew.   
+look: 3 | smell: 2.75 | taste: 3.5 | feel: 1.75 | overall: 2.75 
+look: 4 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 Had from a bottle from aa mixed pack we bought in Lafayette IN at a meijers. Average taste. I wouldn't say that there is anything special about this offering. Didn't even notice much spice notes.   
+look: 3.75 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 2.5 | taste: 1.5 | feel: 3.5 | overall: 2.75 12 pack cans.     Nice head, color similar to a Märzen beer, but not very much nose and not very much flavor. Certainly lacking in hops - both bittering and aromatic.     I hate to say it, but I give it a "meh." ... now I have 11 more to get through. Maybe I'll save them for company, after all it is the season for giving :-).   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 3.75 | smell: 3 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3 | taste: 4 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 12 ounce bottle poured into a tulip    a: Beautiful rusty orange body. Clear. 1 1/2 finger off white head. Some lacing.    s: Bready malts hold up a spicy, herby aroma.     t: Toasty, crisp malts. Some cinnamon, ginger and hop bitterness.    mf: Medium body with medium high carbonation. Creamy up front with a sweet finish.    o: Boston Lager with some stuff.(Yes, I know it is a different beer) Very drinkable and festive.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Pours dark amber with off white small head that dissipates quickly. You can smell notes of ginger and malt a little cinnamon maybe some nutmeg and spices. Taste is not spectacular malty you can taste the spices a little no big flavor. Pretty light taste feels goes down easy not much aftertaste. Overall an ok beer nothing great or terrible.   
+look: 5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 The bottle had an "enjoy before date" of April 2016 and came from a 12 pack.    Into a Riedel Ouverture beer glass it poured dark amber with a hint of ruby. The head was light tan and about an inch and a half high. It's a very attractive winter lager.    I could smell the malt and caramel as others have noted, but I also detected a very faint trace of the orange peel.    The taste was malty and a bit sweet, but not overly so. I've had four of these over the last couple of days and on a couple of occasions the orange came through clearly. It was probably because I let those bottles warm up a bit longer when I set them out of the refrigerator before pouring. This beer fills the mouth, not like a stout, of course, but more than most lagers I've had. The carbonation is mild and the finish is very, very smooth. Earlier today I had a bottle with fresh ground peanut butter spread on a hot thick piece of wheat toast. Wow, what a combination. My new winter treat.    Overall, I really like this beer. I've always thought Sam Adams Boston Lager was well made, just not for me. I like my beers a bit darker. This one is just right for me. Given that it's a seasonal beer and only shipped in November and December, I'm stocking up on 12 packs to hold me until early spring.    UPDATE/EDIT 1/4/16: This was my "go to" beer this past December so I've had over 24 bottles of it. I reduced my rating for LOOK, TASTE and OVERALL from 4.5 to 4.25. This beer is so much better when it is removed from the refrigerator 15 to 20 minutes before it is popped and poured. I still really like it.    UPDATE/EDIT 5/14/16: Well I finished all the SA Winter Lager I had stashed away about two weeks ago. I reduced my final rating for LOOK, FEEL and OVERALL from 4.25 to 4.00. I nice everyday beer with lunch.   
+look: 3.25 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 2.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3 | smell: 3 | taste: 3 | feel: 2.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Yet another spiced number from SA. Enjoyable. Original recipe was much better, being a spiced weizenbock hybrid clocking in at 6.9% abv. Bring it back, SA!   
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 3 | taste: 3 | feel: 3.25 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 2.5 | taste: 3.25 | feel: 3.25 | overall: 3 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.5 | overall: 3.75 Pours a dark amber brown producing 1.5 fingers of beige, moderately lasting, frothy head that leaves a wash & motes of lace. Aroma is caramel and dark bready malt, roasted nuts, notes of cinnamon, ginger & nutmeg. Taste is sweet caramel & toasted malt, dark bread, roasted nuts, notes of orange, cinnamon & ginger with roasted malt & light herbal hops in the finish. A lightly roasted & bitter aftertaste. Mouthfeel is medium bodied, spicy with average carbonation.   
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 12 ounce bottle poured into a pint glass    A: Pours a dark red, mahogany color with an off white creamy head, clear, very little carbonation, has a beautiful color to it, looks very nice.    A: Malt, caramel, not getting any of the ginger, cinnamon or orange peel, smells pretty plain, was hoping for more.     T: Malt, caramel, hint of vanilla in there, some ginger in the aftertaste, but no cinnamon or orange peel, it's just no there, the ginger does become more noticeable as the bee warms.    M: Light bodied, dry finish, easy on the palate.    O: This is not all it's advertised to be, it sounds like a big beer, a lager with some spice in it for cold weather, but it lacks body, cinnamon and orange peel, it tastes like a regular bock with a hint of ginger that seems out of place in the flavor.   
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 3.5 | taste: 3.25 | feel: 3.75 | overall: 3.5 Written from notes taken last night, as I don't currently have a working computer. 5th bottle from the six-pack; best-by date is April 2016.    Looks very nice -- dark red-brown color, very clear with lots of bubbles rising from the bottom (they're easy to see with the help of a flashlight, but still barely visible without.) Nice layer of light tan foam on top, leaving a good amount of traces behind on the glass as it starts to shrink down. Never fully vanished in the time it took me to drink the whole glass, though it did get down to a thin coating on top after a while.    Smell initially comes across as mostly a darkish "beery" smell, just a bit of a caramel-y sweetness in there too. Taking further sniffs as the foam shrinks down, more sweetness and maybe some cinnamon(?) start to pop in. There's a bit of something else in there I can't quite identify, too.    Taste is pretty mild at first, but I found myself liking it enough on the first sip this time that the "sip" ended up being more like a gulp. Malt still seems to be the primary flavor -- the wheat is more noticeable taste-wise vs. smell, and there's a bit of a toasty thing on the end, too. Cinnamon (as in the smell) stands out more, but still very much secondary to the malt. There is an odd "something" in there that's not entirely pleasant, but I can't quite place what it is -- wasn't noticing it in the first half of the glass at all, oddly, but toward the end it's more noticeable. Would have rated a bit higher in this category had this "something" not started to come out so much toward the end.    Feel is fairly light for such a dark-colored beer, but not watery or overly fizzy at all -- substantial enough to feel "beery" but light enough to be quickly and easily drinkable. Does get a little pricklier later on, it seems, which is unfortunate considering how nice the initial mouthfeel was.    Overall, my opinion on this one has gotten a bit more positive toward the end of this six-pack. I may have gone in expecting more of a bock (heavier, stronger flavors, etc.) and also more on the "winter spices" end, but looking at it as more of a... well, "winter lager," as the name suggests -- a slightly darker/heavier and slightly more Christmas-spiced version of a standard year-round sort of lager... it's not nearly as disappointing as I first thought. I doubt I'll buy a full six-pack of this one again, but when I get one of the winter variety packs I won't mind having a couple more of these.   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.25 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Bottle BB Apr 2016 at 42 degrees into SA “Perfect Pint”  Aroma, weak, of malt and ginger  Head large (Six cm, aggressive pour), light tan, frothy, diminishing to four mm frothy ring and layer  Lacing – poor. Few tiny islands of tiny bubbles  Body – orange amber, clear, effervescent  Flavor of malt and cinnamon; no hops, no alcohol, no diacetyl  Palate – medium, slightly sticky, soft carbonation    Appearance 3.75, Aroma 3.5, Flavor 3.75, Palate 3.75, Overall 3.75   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Pours a nice dark color with a surprising amount of head. As other reviews have stated, I don't really notice any of the flavors advertised on the bottle, except perhaps just the slightest hint of orange zest. That said, there's plenty of flavor in this bock. A lot of malt but never overdone or too sweet, and as with many Sam Adams beers, balance is quite the main feat here. A bit of clove and banana bread, and a nice mix of textures which combines the clarity and light body of a lager with the slightly creamy head and gritty texture of a wheat. Overall, this is a really nice, spiced, medium-flavored malty beer that works well as winter beer, though perhaps not quite up to snuff as a "snow day" beer.   
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 One of my favorite Sam Adams seasonally. 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 4 | overall: 3.5 
+look: 3.5 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 I really don't like the Winter Lagers but I could drink several of these compared to other ones. 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 2.5 | overall: 3.5 Winter dark bock. Not shabby 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 3 | taste: 4 | feel: 3 | overall: 3.5 Appearance: Dark brown body with hints of red. Brilliantly clear body. Eggshell white head that is creamy and leaves good lacing on the glass. Good head retention.    Aroma: I smell lemons and there is a touch of a roasted flavor that I really have to bury my nose into the glass to pick out. Pretty faint aromas. Nothing really stands out here.    Taste: There is a really nice caramel sweetness with a hint of walnut flavor and toasted bread crust. The label says "brewed with orange peel, cinnamon, and ginger" and I don't pick up any of these flavors. It's a pretty decent bock but the sweetness is on the lower side. There is a slight tang on the aftertaste but it's indiscriminate flavor-wise.    Mouthfeel: The mouthfeel is nice and smooth but it's a bit thinner that what I would expect out of a bock.    Overall: I'm picking up some lemon aroma on the nose...I don't know if this is from the orange peel or possibly the ginger but I don't think it adds much to this beer. I don't get any spices in the flavor of the beer but the overall flavor of the beer is really nice. It is like a bock that has a little less caramel flavor and a little more nuttiness. It is a bock that I would recommend but I would say not to expect the advertised spice. There is a very nice walnut flavor to the beer that makes it a good holiday drink but again I'm not sure that the advertised flavors actually add anything to the overall profile.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 3.25 | taste: 3.5 | feel: 3 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 Nice dark color. Very smooth drinking 
+look: 3 | smell: 3.25 | taste: 3.75 | feel: 2.5 | overall: 3 
+look: 4.5 | smell: 3.5 | taste: 3.25 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.25 Just drank a year later and gave same exact score. 
+look: 5 | smell: 4 | taste: 3.5 | feel: 4.5 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 3 | feel: 4.5 | overall: 3.25 Look: copper color, little lacing  Smell: malt and spice  Taste: sweet and finishes with the spices, I taste mostly cinnamon   Feel: moderate carbonation and thickness  Overall: not a big fan, but not terrible either.   
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 3 | feel: 3.5 | overall: 3.25 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 First beer I had from the 2015 variety pack. Poured into a pint jar, dark orange-brown with a nick creamy head. Pleasant lacing and nice malty smell. Taste is crisp and mildly spiced. I like this beer!   
+look: 3.5 | smell: 3.25 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 I was pleasantly surprised. Mr. Adams has been letting me down as of late, but not this time.    Copper color with creamy head.    Smell and taste fit the description on the carton: citrus, cinnamon, and some ginger. Has a bit of hop bite, which was nice.    Feel is fitting of a bock.     Overall, I good winter beer.   
+look: 5 | smell: 5 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 Look: Golden Amber color that pours with a large creamy brownish head.    Smell: Lemon peel, some orange and cinnamon, don't get a lot of ginger, little bit of hop and malt.    Taste: Very similar to the smell. Lots of orange and cinnamon.    Feel: Light body with. Medium carbonation.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.75 Pours dark Amber with a nice head on it. Very smooth ale with a ginger / orange peel taste to it. This is pretty good winter seasonal 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.25 best by April 16  12 ounce bottle poured into Boston Lager glass  L- pours a nice amber red, has a decent head that dissipates leaving a ring of foam  S- sweet caramel, cinnamon, slight hint of orange peel  T-caramel malts, notes of spices cinnamon, cloves, nutmeg, a little hoppiness on the finish leaves a slight aftertaste of the hops  F- light bodied and carbonation causes tingling on tongue and lip  O- just not a good beer from Samuel Adams this is my 4th of a 6 pack just dont see it despite my love for everything Sam   
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 I was really concerned when I saw that orange peel and ginger were major ingredients in this brew, since I've had bad experiences with both of those in other beers. Fortunately, they're both mild enough and well complemented by cinnamon to make a nice filling beer with a syrupy texture. Full bodied, with a noticeable level of malts.   
+look: 4.25 | smell: 1.75 | taste: 3.25 | feel: 3 | overall: 3.5 
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 4 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.25 | smell: 2.5 | taste: 3.5 | feel: 3.75 | overall: 3 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 2.5 | taste: 2.5 | feel: 3 | overall: 2.5 Not impressed 
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 I drank this beer a lone in my room. As I sipped it I was overtaken by this warmth. It comforted me. I turned around and realized it was shrek. What came after was numbed by the warm alcohol in this beer, and it went well with Shreks pungent onion love. Decent winter lager   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 Looked and smelled so much like a Yuengling lager that the waiter actually inadvertently confused/switched the orders at our table. The palate and mouthfeel follows the look and aroma: no more exciting than a standard macro lager.   
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3 | taste: 4.25 | feel: 4 | overall: 3.75 
+look: 4.75 | smell: 4.25 | taste: 4.75 | feel: 3.75 | overall: 4.5 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 LOOKS: Very clear, red-amber, small bubbles streaming up. Nice creamy tan head that lingers.  AROMA: Smells a lot like the Boston Ale, was surprised that this uses German hops, from the aroma, I thought it was English varieties. LOTS of that SA malt in the aroma, not picking up any added spices.  TASTE: Very malty, caramel, toasted bread. On the very back end, some very slight cinnamon. I really have to use my imagination to detect the ginger or nutmeg they use.  MOUTHFEEL: Light to medium, not creamy, but not dry either. Carbonation is fairly light.  OVERALL: It's a decent overall lager, an above average beer.  Update: 12/23/15... had on draught today. Very fresh tasting. A noticeable difference from the bottle I had, it popped! Still not much in the way of added spices, but very fresh and tasty...worth a bump.   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 2.5 | smell: 2 | taste: 2.5 | feel: 3 | overall: 2.5 
+look: 3 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 3 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.5 Ruby reddish brown. Tawny head.   Smell is heavy pine, spruce, cinnamon. Tree bark. Taste is floral toasty piney. Feel is frothy. Medium feel. Would drink again.   
+look: 3.25 | smell: 2.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.25 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 2.5 | smell: 2.75 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 2.75 | taste: 2.75 | feel: 3 | overall: 3 This is another beer that starts Samuel Adams fans down the path of only drinking Boston Lager. Sure, it looks so good that you can almost taste your hopes for what it is. Plus, you've heard about how they add spices in this lager, and brew it up with a heavy malt, so that it's a true winter beer from the winter environs of Boston. It may be the first seasonal you drink from Samuel Adams, because of all the promised goodness. Then you drink it and it's like . . . wtf? Damn! I shoud've just had a Boston Lager.    This is another old-school, "big" beer from Samuel Adams, but by "big" they mean a big beery malt. Beery Malt? Really? It is extremely lightly hopped (22 ibu) compared to today's beers, or even the original Boston Lager. The spice that they talk about adding during brewing is barely detectable. After trying this one, nobody could blame you if you decided to drink only Boston Lager. However, they do make White Christmas, which is pretty good.    The look, as with many of the beers from Samuel Adams, shows their attention to quality ingredients. It's a deep copper color. The head foams up very abundantly and laces very abundantly. Looks good!    When you snuff in the aroma, however, you realize that something may be amiss. There's just not much to it. Forget about a powerful aroma of grapefruit, pine or any of the other hallmarks of a modern IPA - of course. Also forget about the ineffable scent of paradise that you get in a Boston Lager. It's basically just a meh smell of beery malt. There's a barely detectable hint of cinnamon spice in the mix, but it's about a 1 on a scale to 10. Uh, oh.    The taste confirms that damn! I should have just ordered a Boston Lager. It's malt. That's the flavor - beery malt. Now I'm not talking about a Lagunitas Sucks multi-layered, syrup-thick complex of flavor combining sweetness and spice. I'm talking about a powerfully beery malt. "Beeaahh" as a Beantown resident might say. Time has sort of passed by that so-so flavor. The spice is really not contributing much. It may smell great when they brew it, but it doesn't do much for me.    The feel is fine. It's not super-thick feeling, but far from watery. With the powerfully beery malt flavor, the consistency is pretty substantial. The carbonation seems medium.    Overall, time has passed by this approach to craft beer. Perhaps as a reaction to the watery beers of the giant brewers, Samuel Adams brewed a hugely beery-malt of a beery malt beery malt. Did I mention it tastes like beery malt? Pass.   
+look: 3.25 | smell: 3 | taste: 4 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4 | taste: 3.25 | feel: 4 | overall: 3.75 I am always kind of disappointed in this beer from Sam Adams. Indeed I like MOST of their beers...but this one always seems to have a bitter aftertaste and just doesn't quite get it for me.   
+look: 4 | smell: 4 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 2.75 | overall: 3 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4 | feel: 5 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 4.5 | smell: 3 | taste: 4.5 | feel: 3.5 | overall: 3.75 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Flashback #108 
+look: 2.75 | smell: 2.75 | taste: 2.75 | feel: 3 | overall: 2.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3 | taste: 3 | feel: 3.25 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 355 ml bottle B and M stores, Bristol - Pours clear amber with a large creamy head. Strong carbonation. Nice amount of lacing. Smell - caramel overtones. Taste - fruit, malty, caramel. Very drinkable.   
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.25 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 I really enjoy drinking this one during winter. 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 Bottled  So you have a dark amber body and a slightly off white head that does mostly stick  not huge flavours but both pleasantly toffee without being sickly  a better than average brew Not a tribute   but an acknowledgement   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3 | feel: 3.5 | overall: 3 
+look: 3 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.25 Appearance – Clear amber body with a one finger head.    Aroma – Mostly light hops, more toward the pine character.    Taste – Light roasted malts, a little nutty.    Mouthfeel – Full, not heavy.    Overall – A good solid bock. Would drink again.   
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.25 I love this beer! I must say the variety pack is the way to go during the winter! 
+look: 3 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 4 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 3 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.5 Not as hefty in malt or mouth as a bock should be, but good for its price. I guess that's why they call it a "winter lager" instead, so perhaps I'm being unfair.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.25 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 I like the taste on this one – it has malty then hoppy thing going on. Then you sip it again and experience the magic all over once more. 
+look: 3.25 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.5 | overall: 3.75 Love the Samuel Adams brand. This one has many spices of like cinnamon and makes you get into the holiday spirit 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 3.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 Sam Adams do these nice beers, but their Boston Lager will always be king.    Drinking through a case of this (as nice as it is) just makes me want the original lager.    Basically what I'm saying is: if you want a nice warming winter lager, go revisit their original Boston Lager. It's delicious.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3.75 | taste: 3 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 Mildy sweet with a taste of nutmeg and cinnamon. A great seasonal offering - perfect for a cold December evening. 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 Appearance - amber/copper color with off white head    Smell - caramel, nutmeg, cinnamon    Taste - much the same as the aroma - caramel at the forefront and some spices like nutmeg and cinnamon bringing up the rear    Mouthfeel - medium bodied, higher level of carbonation, slight sweetness upfront, a bit of bitterness from the carbonation on the back end    Overall - an inoffensive lager that is a good change of pace from some of the heavy hitters that craft has to offer   
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 very smooth winter beer. better on draft 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 little hint of a citrus taste. your lady will love this beer while sitting by a roaring fire. 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 Had this out of a bottle a few days ago. It's a bit bitter, but balanced by nice malt sweetness and a fair bit of spice (cinammon maybe?) and it tastes absolutely fantastic. Pairs well with seafood, for what it's worth.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 4.75 | smell: 3.75 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 Deep caramel brown (BEER BOTTLE) color with mild spiced malt smell. The taste is a mild malty sweetness, some ginger and other spices. A good winter beer with a light-med. body and very drinkable!   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 2.75 | overall: 3.5 you can definitely taste the spices, which were pleasant but overall the flavors are a little too strong in my opinion. this is definitely a bold brew. not my favorite holiday beer but it's alright   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 2.75 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 It had a nice bock beer taste. 
+look: 4 | smell: 2 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3 | taste: 3 | feel: 3 | overall: 3.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 3.75 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 Aesop Rock show, shit sucked ass... 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 Rich in flavorful Nutmeg and Ginger! Pairs great with food! 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 4 I like this for some reason maybe because im cold taste fruity not like orange though has little spice ginger and very little cinnamon  Half finger head leaves in a hurry poured into a wide mouth goblet blood orange in color overall this is a good brew   
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 3.5 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.25 Good winter lager with some citrus, malt & a hint of spice. 
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 2.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.25 | smell: 2.5 | taste: 3.25 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 5 | taste: 3.75 | feel: 4.25 | overall: 4.25 Rust copper color on pour ! More of a wheat taste than a hops taste! Drank out of a bottle. Poured into a glass head lasted about 30 sec. Bubbles semi present on pour! A good lager not all world but not every beer is   
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 12 oz bottle, poured into a pint glass    Appearance: Pours a pretty, clear, deep, amber color with a half of a finger of white-colored head that slowly dissolved into a nice lacing of foam that covered the entire top of the beer.    Aroma: Lots of toasted malt and notes of freshly baked bread. Notes of brown sugar, some nutmeg, cinnamon, ginger and orange peel. Very inviting.    Taste: Lots of toasted malt up front, giving off strong notes of freshly baked pretzels, followed by some brown sugar-like sweetness and some slight citrus flavors of lemon and orange. I’m not getting much in the way of savory spices, but the beer finishes with some nicely balanced hoppy bitterness.    Mouthfeel: Medium-bodied with some good carbonation to tickle the taste buds. With an ABV of 5.6%, there is no alcohol on the palate.    Overall: This is a good winter beer. Good balance between malt and sweet and hops. Very drinkable.   
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4 | overall: 4.5 Smooth and creamy with a hint of cinnamon 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 Poured from a 12 ounce can into a Shaker pint glass, date on bottom of can is "JUN 2015".    APPEARANCE: pours a clear amber color with one-finger off-white head that dissipated slowly until a thin, almost unbroken layer of small bubbles remained, medium carbonation and some lacing was present on the glass.    SMELL: molasses, bread, spice, subtle to the nose.    TASTE: the taste is initially sweet molasses, this is a malt forward beer, next there is a mild hop bite with some spice, the last note is the orange citrus, there was a slight metallic taste that was not appealing to me.    PALATE: this beer has a smooth mouthfeel, medium carbonation and body.    OVERALL: this beer looked better than it tasted, it was good but not great, I would probably not seek this one out again as there are better options available, Sam Adams makes a lot of beers but many are underwhelming.   
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 Malty with spice. One of my favorites. 
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 4 | overall: 3.5 
+look: 2.5 | smell: 2.5 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.5 Serving Type: 355 mL Bottle    A- Pours a deep reddish amber colour that is quite good looking. This is topped by about a finger width of dirty white head that quickly dissipates into a thin layer that lasts throughout the session. The head retention just plain sucks but other than that, Winter Lager is a great looking beer.     S- The aroma of this lager is fairly complex and I really dig it. Deep maltiness and a slight hop character that is finished off by cinnamon spice. Pleasant and inviting.     T- Identical to the smell but with the hops less pronounced. Well balanced and easily palatable.     M- Light to Medium body. Medium carbonation. Finish is fairly dry. Slightly astringent.     O- After only having access to Boston Lager and Latitude 48 IPA for the longest time, I have to say that I was a little excited when I saw Winter Lager on the shelf.   Overall, Winter Lager is a beautiful beer that sports a strong malt backbone that is well complimented by a cinnamon-like spiciness. Easy to drink and quite tasteful. I recommend.   
+look: 3.75 | smell: 3.25 | taste: 4 | feel: 4 | overall: 3.75 Not particularly unique or memorable -- just a good, solid beer for a winter evening.    Scent of caramel with a little hay. Clean, crisp with decent amount of carbonation. Not as heavy or filling as a double bock but still some of the same rich taste with the malt dominating.   
+look: 3 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 I'm not a big Samuel Adams fan. Years ago when Coors was the best beer available, the addition of Samuel Adams Lager was like heaven, but now compared to IPAs and porters and microbreweries, Samuel Adams is just boring and unexciting.    My neighbor is a beer fanatic, and he has a keg in his man cave so when he invited us over for x-mas dinner, it was a no-brainer. The only problem is that he had just finished off a keg, and he hadn't replaced it so the only thing he had was this.    And I was pleasantly surprised.    This is good stuff. It's got a reddish hue to it with a head on top that you have to respect. It's a strong lager taste but with a cinnamon/ginger spice with it making it a pleasantly interesting taste.   
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.5 
+look: 4 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Nice, light smooth lager just perfect for the winter months if you are looking for a beer with taste that does not fill you too much. 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.5 | taste: 4.5 | feel: 3.5 | overall: 4.25 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 Sweet, smooth, and delicious. If your lady likes beer this would be good for her. 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.75 | smell: 3.75 | taste: 4 | feel: 4.5 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 A big head, with an amber dark body.     The taste is mostly of malt, with some ginger and caramel embedded. It's a approachable and enjoyable taste, without being complex. If you are looking for a deep winter warmer, this is not it. But it is a solid drinkable beer for the winter months.   
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 Pours a light hazel color with an eggshell white head that trails the glass. The smell has bits of sweetness from the malt with some spice like nutmeg and clove coming through as well. The taste was a bit heavy with the spice and heavy characters from the malt coming through. A mainstay for the season and a very decent one at that.   
+look: 3 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 I enjoyed this beer quite a bit. 
+look: 5 | smell: 2 | taste: 2 | feel: 5 | overall: 2.5 Goes down smooth, but unfortunately doesn't taste that good. Not awful, just not good. 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 Pretty good beer. Has a nice spiciness that is refreshing in the cold months. 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3 | overall: 3.25 Red cooper color with a thing head and lace.. A/T ginger and cinnamon spice, wheat and crystal malt, earthy bitterness.. Thin with low carbonation.. It is decent and I like drinking it in the samuel adams variety packs.   
+look: 3.5 | smell: 3 | taste: 2.75 | feel: 3.5 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 3 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3 | smell: 3.75 | taste: 5 | feel: 4 | overall: 5 One of my top five favorites. 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Love this beer, I really appreciate the taste, aroma, and drinkability of this brew. Great balance 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 Serving: Bottle into pint  Served: 31 December 2014    Appearance: Pours a deep brown with amber notes- definitely darker than your average bock. Creamy off-white head sticks around for a while before collapsing and leaving minimal to no lacing.    Smell: Grainy and farmy with some perceptible malt sweetness.    Taste: Much like the nose, the sweet notes from this bock are dominated by a weird farmy astringency. The bottle says there's spices in this but I can't pick up on any.    Feel: Good carbonation makes this one go down easy.    Overall: A typical Sam Adams brew.   
+look: 3 | smell: 2.5 | taste: 2.75 | feel: 2.5 | overall: 2.25 Good seasonal lager, but seems a little light compared to a good winter ale. 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 great winter beer. delicious bock 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 3.75 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 4.75 Good seasonal beer. Wish it was around longer. 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 

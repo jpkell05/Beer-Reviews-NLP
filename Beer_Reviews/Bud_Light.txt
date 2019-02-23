@@ -1,0 +1,1000 @@
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 "break in case of emergency" 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 1.25 | smell: 1.25 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 3.75 | smell: 1.5 | taste: 3 | feel: 2 | overall: 3 
+look: 1.25 | smell: 1.25 | taste: 1.25 | feel: 1.5 | overall: 1.25 
+look: 2.25 | smell: 2 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 H50 
+look: 1.5 | smell: 1.25 | taste: 1 | feel: 1.25 | overall: 1 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 2 | smell: 2 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1.25 | smell: 1 | taste: 1 | feel: 1.5 | overall: 1.25 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 2.5 | smell: 2.25 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 1.25 | smell: 1 | taste: 1 | feel: 2 | overall: 1.25 
+look: 2 | smell: 2 | taste: 2.5 | feel: 2 | overall: 2 
+look: 3.5 | smell: 3 | taste: 3.25 | feel: 4 | overall: 3.75 Pours a nearly completely translucent straw with a finger of white foam. Head retention is poor. Aroma is straw, barley, grain, and play ground pebbles. Flavor profile is straw, barley, lemongrass, herbal hops and corn grain. It's smooth with very little to throw off the balance, then again, there is very little here. Mouth feel crisp with a light effervescence. It has a thin consistency. Overall, a smooth and refreshing beer, but not super flavorful. It makes for a flavorful enough session beer.    Served in a 15.5oz Speigalau from a 12oz can.   
+look: 3 | smell: 3 | taste: 2.5 | feel: 3 | overall: 3 Part of my BJCP training, wouldn't normally drink this but it's a style 1A. American light lager  Pours a decent fizzy bubbly head, mild retention, crystal clear watery light pale color    Nose almost nothing, hint of corn and maybe malt    Taste is somewhat fruity which is somehow not supposed to be there, very little malt and some corn notes, no hop bitterness, otherwise pretty much no flavor, a little bitter but corn or DMS like aftertaste    Mouth is thin watery, plenty of carb    Overall almost flavorless useless beer, but it does basically hit the style   
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 im adding this just for the sake of beer count 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 3 | smell: 2.5 | taste: 3.5 | feel: 3 | overall: 3 
+look: 3 | smell: 1.5 | taste: 1 | feel: 1 | overall: 1.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.25 | smell: 1 | taste: 1 | feel: 2 | overall: 1.25 Just No 
+look: 1 | smell: 1 | taste: 1 | feel: 1.75 | overall: 1.25 
+look: 1.25 | smell: 1.5 | taste: 2.5 | feel: 2 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1.5 | feel: 1.5 | overall: 1.5 12 ounce can into a sturdy solo plastic cup. Urine yellow in color. Zero aroma which in this case a good thing. Overly carbonated with lots of streaming bubbles. Not much of a head and surprisingly some lacing. Taste is almost non existent. Mouthfeel is very watery and a odd aftertaste. Bud Light has a funny whang to it. The only redeeming qualities are the low abv and low calories. Overall this is a horrid beer. I'd rather drink week old Coors than this. Difficult to believe that Bud Light was ranked the most popular beer in the country. Oh and for some reason it says this beer was brewed in Houston rather than Saint Louis. Go figure.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 This is not beer yet its beer flavored water. I dont drink this unless its given to me and I'm already drunk. It's not even bud. It's piss. Warms really quick and has nothing to it.   
+look: 1 | smell: 1.25 | taste: 1.5 | feel: 1.25 | overall: 1.25 
+look: 2 | smell: 3 | taste: 1.5 | feel: 2 | overall: 1.75 
+look: 2.5 | smell: 1.25 | taste: 1.5 | feel: 1 | overall: 1.5 Would never buy any but if it's free, ill drink it. 
+look: 2 | smell: 1 | taste: 2 | feel: 3.5 | overall: 2.25 
+look: 1.25 | smell: 1.5 | taste: 1.5 | feel: 1.75 | overall: 1.5 I don't know how this beer is so popular. I would not drink this beer even if it was free. 
+look: 3.5 | smell: 1.75 | taste: 1.5 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 1.75 | taste: 1.5 | feel: 3 | overall: 2 
+look: 2.5 | smell: 2 | taste: 1.25 | feel: 1.5 | overall: 1.75 No flavor but sweet watery beer. This is beer for beginners who want quantity over quality. 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.5 | smell: 1.75 | taste: 2 | feel: 2 | overall: 1.75 
+look: 1.5 | smell: 1.5 | taste: 1.25 | feel: 1.5 | overall: 1.5 
+look: 2.75 | smell: 1.25 | taste: 2 | feel: 2 | overall: 2 
+look: 3 | smell: 2.25 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 2 | smell: 1.5 | taste: 1 | feel: 1.25 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1.25 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 2.25 | smell: 2.5 | taste: 1.75 | feel: 2 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Look: carbonated piss  Smell: nonexistent  Taste: not much  Feel: gassy    this is the beer people start with as kids when somebody's older brother buys it when you give him money to keep it a secret. Then as adults we develop taste buds and move on to real beer.    The first thing that happens when I drink this swill is I have to burp. I mean burp as in repeatedly. The taste isn't any better the second time.   
+look: 1.25 | smell: 1.25 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 3 | smell: 2 | taste: 1.75 | feel: 2.75 | overall: 1.75 
+look: 2 | smell: 2 | taste: 1.75 | feel: 2 | overall: 1.75 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 Decanted from a 12 oz (355 ml) bottle into a conical pint glass; bottled on 12/12/2018.  A: Pours a crystal clear, bright golden color with a one inch, white head, low retention, and limited lacing.  S: Floral, grainy with light melon and citrus notes.  T: Dry. Generally flavors follow the nose. Very minimal bitterness. Very refreshing.  M: Light bodied with low effervescence.  O: Not really designed as a "big flavor" beer, eminently drinkable. Frankly, more flavorful than I though it would be. It is what it is.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 4.5 | smell: 3 | taste: 3.75 | feel: 4 | overall: 4 You can pound these like no tomorrow...not much taste to it. It is pretty light in appearance; almost transparent when poured into a glass. A beer one can enjoy any time of day, month or year...if you're into light beers of course.   
+look: 1.5 | smell: 2 | taste: 2.25 | feel: 2.5 | overall: 2.5 
+look: 2 | smell: 1 | taste: 1.5 | feel: 1.5 | overall: 1.75 We know it’s not the best, but there’s a place in our heart for it 
+look: 5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 Best tasting beer, well priced 
+look: 1.25 | smell: 1.75 | taste: 2 | feel: 2.25 | overall: 1.75 From notes 12/26/11: Pours a pale straw producing a couple of fingers of white loosely bubbled head that leaves little lacing as it recedes. Aroma is grain/cereal, white bread, some grassy and lemon hop hints. Taste is a slightly more robust version of the nose. A good choice if you want a beer, are forced to cut calories and can not get Yuengling Light, or if its free.   
+look: 2.5 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Simply dreadful bland fizzy pee water.   Had the misfortune to get a pint of this at wembly watching the NFL. 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 I’m the type of guy that drives Chevys and Fords because it’s American. But I can’t stomach this toilet water. 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2.25 | smell: 1.75 | taste: 1.25 | feel: 1.75 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1.5 | feel: 1.25 | overall: 1.25 Why do so many people love this beer?  Is it just to fit in with the crowd? Is it to look cool? This "beer" is barely drinkable. Only way I'll drink it is if it's given to me. You can buy cheaper beers that taste better. Hell, Keystone and Busch are better than this. Overrated swill.   
+look: 1.25 | smell: 1.25 | taste: 1.25 | feel: 1.25 | overall: 1.25 This is awful & I am not a beer snob I'm just telling how it is. An overload of corn syrup comes to mind as I drink this this. This is close to undrinkable. Cheers! D-   
+look: 2.25 | smell: 2.75 | taste: 2.75 | feel: 3.5 | overall: 2.75 
+look: 2 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2.25 | smell: 2 | taste: 2 | feel: 2.5 | overall: 2.25 
+look: 1.25 | smell: 1.5 | taste: 2 | feel: 2 | overall: 1.75 
+look: 3.5 | smell: 2 | taste: 3 | feel: 3 | overall: 3 A good beer just to chill with on a hot summer day or game day beer a little bit overrated not much of a taste or even aftertaste 
+look: 1.75 | smell: 2 | taste: 1.5 | feel: 1.75 | overall: 1.75 
+look: 3.5 | smell: 2.25 | taste: 2.25 | feel: 2.5 | overall: 2.5 
+look: 1.75 | smell: 2 | taste: 2 | feel: 1.75 | overall: 1.75 
+look: 4 | smell: 5 | taste: 5 | feel: 5 | overall: 4 Great beer for back yard get-togethers. Game day and tailgate events. Makes a good rotational beer. The presentation could be much better, I gather that AB has no need of a redesign because of its number one statis as far as sales go. The blue can has become an icon That everyone knows. The smell is of faint white bread. I was expecting to be blown away by a pungent aroma but to much of my surprise, very little if any smell at all. The taste is very light. A nice white bread and yeasty top note, quickly turns to a seltzer water taste with a very clean and dry finish. There is a light to some-what medium body, is stress the "some-what". The feel is typical for a light beer. What can i say? This is a well done beer with many middle road characters and flavor. Bud light is not offensive to anyone and its made with social drinking in mind. Would I buy this beer again? Not really. You can get much cheaper beer for a way better price. Milwaukee's best light tastes a tad better and is cheap as chips.   
+look: 2.25 | smell: 1.75 | taste: 2 | feel: 2.25 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 It’s wet, ain’t it? 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 3 | overall: 1 Look: Hardly has any color to it. Highly carbonated  Smell: Hardly any smell, Very faint "beery" smell but very faint.  Taste: Hardly any taste. Not able to discern any individual flavors in it, not even whatever adjunct they're using. I damn sure don't taste even a hint of hops. There's just nothing there  Feel: It's like a Perrier. That's really what it reminded me of.   Overall: As a beer, it's horrible. As sparkling water it's actually pretty good.   
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2.5 | smell: 2.25 | taste: 2.75 | feel: 2.5 | overall: 2.5 
+look: 3 | smell: 2 | taste: 1.5 | feel: 2.5 | overall: 1.75 
+look: 2 | smell: 2 | taste: 2.5 | feel: 2 | overall: 2.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 2 | smell: 2 | taste: 2.25 | feel: 2 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.5 | smell: 1 | taste: 1 | feel: 1.5 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 3 | smell: 2.5 | taste: 2.5 | feel: 4 | overall: 2.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1.75 Its bud light!..not terrible but not beer... nothing offensive about it except the fact that some people consider it beer! just fizzy water with alcohol!..im rating this as a beer and not just a drink.   
+look: 2.5 | smell: 2.25 | taste: 2.75 | feel: 2.25 | overall: 2.25 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 2 | overall: 1.75 
+look: 2 | smell: 1.75 | taste: 1 | feel: 1.25 | overall: 1.5 
+look: 3.25 | smell: 2.75 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 The worst beer I've ever had. Not drinkable. 
+look: 5 | smell: 3 | taste: 4 | feel: 5 | overall: 5 I actually love this beer. I have been drinking it for years. 
+look: 1.5 | smell: 1.75 | taste: 1.5 | feel: 1.75 | overall: 1.75 
+look: 1.5 | smell: 1 | taste: 1.25 | feel: 1.25 | overall: 1 
+look: 1.75 | smell: 1.75 | taste: 1.25 | feel: 1.5 | overall: 1.5 
+look: 2.25 | smell: 2.25 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 2.5 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2.25 | smell: 2.25 | taste: 2 | feel: 2.5 | overall: 2 
+look: 1.5 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Not very drinkable,it was always a huge struggle for me to finish one. No body at all, very little head, no lacing and a metallic after taste, even on draft.   
+look: 2 | smell: 2 | taste: 3 | feel: 2 | overall: 3 
+look: 1.25 | smell: 2 | taste: 2 | feel: 2 | overall: 1.75 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 1.5 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1.25 Horrible beer !!!!!!!!!!!!! 
+look: 1.75 | smell: 2.5 | taste: 2 | feel: 1.25 | overall: 1.75 Drank from a 12 ounce can. Scores are based on the style.    Look - A very blue can with a lot of words and a banner label that is weirdly cropped off. Not a nice can.    Smell - Nothing.    Taste - The slightest hint of a sour metallic sweetness, if you concentrate hard enough.    Feel - Horribly carbonated, painfully so. A very uncomfortable beer.    Overall - An unenjoyable experience. Leagues below regular Budweiser, which is saying something.   
+look: 2.25 | smell: 1 | taste: 3 | feel: 2.25 | overall: 3.5 
+look: 2 | smell: 1.5 | taste: 1 | feel: 2 | overall: 2 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.75 It's Bud Light...What else can you say about it? Simply a watery beer everyone knows it taste like water and goes down like water. For someone to try to make this beer anything more than what it is, is funny.   A beer you can have at anytime if there's nothing else around you can grab a cold one. One of the few beers that you can have ice cold from the can, why you would pour this in a glass to try and ANALYZE this as if it's the craft beer of the year is funny.   
+look: 3 | smell: 3.75 | taste: 3.25 | feel: 4.25 | overall: 3.5 
+look: 2.25 | smell: 2.5 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2.5 | smell: 2 | taste: 2.5 | feel: 3.5 | overall: 2.5 
+look: 1.5 | smell: 1.5 | taste: 1.25 | feel: 1.5 | overall: 1.5 A - looks like urine  S - smells like a beer covered bar at last call  T - tastes like rice flavored ditch water  M - feels like carbonated water  O - watered down version of the king of beers   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 1.75 | smell: 1.25 | taste: 1.25 | feel: 2.5 | overall: 1.25 
+look: 2.5 | smell: 1.5 | taste: 2 | feel: 1.25 | overall: 2 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 2.5 | smell: 2 | taste: 2 | feel: 1.5 | overall: 1.75 Not a fan of light beer. This beer honestly has no taste. Not sure why its the top selling beer in the US. That just tells me that most of the drinkers don't like a real beer. Too mainstream.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 I have had all different types of the macro lagers and light beers. Bud Light doesn’t necessarily stand out but it’s not bad. I’ve had it on tap a few times and it definitely beats the cans or bottles. But I would get it again. Cheers.   
+look: 3 | smell: 2.5 | taste: 2.75 | feel: 3 | overall: 2.75 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Might as well drink water. Only pussies drink “light” beer. Shittiest beer ever 
+look: 3 | smell: 3 | taste: 5 | feel: 5 | overall: 5 Sure, it doesnt have much flavor, but it is perfect for what it is made for. The perfect party beer. Light flavor, very drinkable, great finish, no off putting flavors or smells, and lower alcohol content so us lightweights can drink more beer in a night. What more can you ask for in a light beer? And I think it is even better right out of the keg. A product that sells 33 million barrels a year shows that you low rating people dont know what a good party beer is.   
+look: 2 | smell: 1.75 | taste: 1.5 | feel: 1.5 | overall: 1.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 I use to drink this junk at the bar before I started to switch up to better tasting beers and this beer is junk taste like warm water in a ca. 
+look: 2.25 | smell: 2.25 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 This is by far the trashiest of trash macrobrews. Conceived in the blackened hearts of the world’s worst kind of economic exploitation, this piss serves to maintain a fixed price point in an oligarchic supply chain and deceives the masses through bullshit feel good marketing. Fuck you.   
+look: 3 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.5 | overall: 1.75 
+look: 2.25 | smell: 2.5 | taste: 3.5 | feel: 2.75 | overall: 3.5 Crisp with a sweet after taste. Ok. 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Imagine your sitting out in the hot sun and you are quite parched. Can you really imagine having anything other than a bud light at this time? Not only will bud light quench tour thirst, it provides a lifetime of satisfaction that no beer can provide you. One of the things that makes bud light so great, is that great taste of it. Bud light provides the same great taste on the first sip as the 20th beer. Can you really tell me any other beer gives you that?   
+look: 1.25 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1 473 ml can, now unfortunately available in Norway. ABV here is 4.1%. Golden colour, fizzy, moderate head. Surprisingly strong aroma of artifical candy. Fizzy mouthfeel, a little sweetness, no real flavour at all, hardly any traceable hops, no aftertaste. Crap.   
+look: 1.75 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 2 
+look: 2.75 | smell: 1.5 | taste: 1.5 | feel: 2.5 | overall: 1 Aroma of watered down malt, cereal, and perhaps some citrus. Taste is weak,non complex,watery. And as it warms it just doesn't taste good. I had this at a party and didn't even finish it, I guess I've become a beer snob but life is too short to drink this   
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 2 | taste: 2.25 | feel: 2.25 | overall: 2.25 Rice, musty corn husk, faint malts and weak hops, both in aroma and flavor. Light in color, body and flavor. Active carbonation and dry finish. Sort of.    As boring as this beer is, it serves it purpose. I have had worse.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 had family visit and they brought this shit and left a couple bottles in fridge maybe I can clean old paintbrushes with this shit pity the poor motherfuckers who think of this as beer   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.5 | smell: 1.25 | taste: 1.25 | feel: 1.5 | overall: 1.25 Pretty terrible 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 4 | smell: 2.5 | taste: 1 | feel: 1.5 | overall: 1.5 Water with some alcoholol and malted barley. Basically beer for girls and old men. 
+look: 1.75 | smell: 1.5 | taste: 1.25 | feel: 1.5 | overall: 1.5 Very light golden in color very light Chris Smooth watery flavor 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 1.5 | taste: 1 | feel: 1 | overall: 1.5 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 4 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 25 ounce can into lager glass, best before 6/27/2018. Pours fairly crystal clear pale golden yellow color with a 1 finger fairly dense and rocky white head with great retention, that reduces to a small cap that lingers. Nice spotty soapy lacing clings on the glass, with a fair amount of streaming carbonation. Aromas of cracker, white bread, light biscuit dough, and mild herbal/grassy earthiness. A bit of fruity aromas, but not overwhelming. Okay aromas with pale malt/grain and mild earthy hop notes; with poor strength. Taste of cracker, white bread, light biscuit dough, and mild herbal/grassy earthiness. Very mild herbal, grassy, spicy bitterness on the finish. Lingering notes of cracker, white bread, light biscuit dough, and mild herbal/grassy earthiness on the finish for a good bit. Nice robustness of pale malt/grain and light earthy hop flavors; with a nice malt/bitterness balance, and zero cloying/astringent flavors after the finish. Moderately crisp/clean finishing. Perfectly clean on lager flavors; with zero yeast notes present. Lightly increasing dryness from lingering bitterness and carbonation. Medium-high carbonation and light-medium body; with a very smooth, fairly bready/grainy, and lightly sticky balanced mouthfeel that is good. A bit thin, but not watery. Zero warming alcohol as expected of 4.2%. Overall this is a very solid pale adjunct lager style. All around good robustness of pale malt/grain and light earthy hop flavors; very smooth, crisp, clean, and refreshing to drink. I liked that they don't use corn, so you don't get much fruitiness. Very clean barley/grain flavors and decent earthy hop presence/balance. An enjoyable offering, and very well made style example as expected. For a light beer expectation, it nails it. A bit lighter bodied than regular, but just as flavorful for the most part.   
+look: 4 | smell: 3 | taste: 3 | feel: 3 | overall: 3 Straw filtered with a little carbonation and 3 fingers of white head.    Smells of skunk, card board, beer.    Light and watery with hints of pale, toasted malts, and bread.    Light body, and moderate carbonation.    There's a first time for everything, and at age 44 having tasted and reviewed more than 2,000 different craft beers, I'm tasting this icon. Its all you'd expect, no more.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.25 | smell: 2.5 | taste: 1.25 | feel: 5 | overall: 2.25 
+look: 2.5 | smell: 1.5 | taste: 1 | feel: 2.5 | overall: 1.25 
+look: 2 | smell: 2.25 | taste: 2.25 | feel: 1.75 | overall: 2 
+look: 3 | smell: 3 | taste: 3.75 | feel: 3 | overall: 3.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 How bad does a "light beer" get? When Kirkland's variation (Costco) gets better ratings on here, tastes better, AND is cheaper per can than this crap!    Someone seriously needs to get a large class action (as in hundreds of thousands of people) suit together and sue Anheiser-Busch for 168 billion dollars in damages for making and selling such a shitty product.   
+look: 1.75 | smell: 2 | taste: 3 | feel: 1.5 | overall: 2 
+look: 1.5 | smell: 1.5 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1.75 | smell: 2 | taste: 2.5 | feel: 2.25 | overall: 2.25 Nice safe beer that’s ubiquitous and associated with parties, bars and lounges - drinks smooth and easy but without much flavor, intensity or complexity. Quenches the thirsty when you’re in a pinch but not much else. Faint grain and biscuit notes. Starts off decent carbonated but goes flat by the time you’re done. Slightly sour mouthfeel.   
+look: 3 | smell: 2 | taste: 1.25 | feel: 1 | overall: 2 Taste like water. No flavor I guess it’s ok if your a ninny 
+look: 2 | smell: 2 | taste: 1.5 | feel: 1.5 | overall: 1.75 
+look: 1.5 | smell: 2 | taste: 1.75 | feel: 2 | overall: 1.75 
+look: 1.75 | smell: 1.5 | taste: 1.5 | feel: 2 | overall: 2 
+look: 3.75 | smell: 1.5 | taste: 1.5 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 1.25 | taste: 2.5 | feel: 2.75 | overall: 2.25 What's to say about Bud Light? You drink it when it's offered to you, its on sale at Wally World, or you're hanging with some buds (lol). It's really carbonated and doesn't have the most pleasant taste/smell, but its consistent and decent cold.   
+look: 1.25 | smell: 1.25 | taste: 1.75 | feel: 1.25 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 America's pisswater...drink it fresh 
+look: 1.25 | smell: 1.25 | taste: 1 | feel: 1.75 | overall: 1.25 Sigh. I don't know what to say about this stuff that hasn't been said already. I'm not trying to hate on this stuff to look cool or be a hipster. Hell, I actually like some other mainstream brands like Hurricane and Heineken.     The absolute most accurate way to describe Bud Light is "The reggie of beers", if you know what I mean. It's backed by an expensive and persistent ad campaign, and it probably needs it due to how subpar this stuff is. During my earlier drinking days, I'd occasionally have one because this and Natty was literally all my friend's dad kept in his garage fridge. Why he loved it so much I have no idea. There's still a video of me drinking one on YouTube and you can tell how much I hated it. I thought this was because I was just inexperienced at the time, but now I remember how bad it tasted.    Like pretty much everyone else said, there's barely any color, it's super watery, carbonated af, and mostly tastes of old, bitter corn. I don't even understand buying this stuff as a party beer considering how weak it is. Like other beers of this style, it's almost always served ice cold to mask the taste. The most astounding thing about it is that despite what you might think, it's actually not all that cheap. They still demand about 9 dollars for a friggin' six pack of Bud Light, like seriously? If you want cheaper stuff that tastes way better, just get Rolling Rock for 5. Better yet if you like the brand, try Bud Light Platinum, which is surprisingly much better. Hell, if you've got 9 bucks to burn, do yourself a favor and get Sam Adams or Tarantula Hawk. I can't think of a single reason to actively choose Bud Light over other beers. Sorry fam.   
+look: 2 | smell: 1.5 | taste: 2.75 | feel: 5 | overall: 4.75 Dude honestly it’s bud light. It is what it is. It’s not disgusting enough to get a bad review. Also i think it taste like cherry 
+look: 2.5 | smell: 2.25 | taste: 2 | feel: 2 | overall: 2.75 Bud Light is near universally panned but I don't really see why. Yeah, it's a little bit overpriced, but Bud knows its purpose and it fits it well. I don't grab a Bud Light when I want something flavorful and thought provoking--I grab it when I'm hot, stoned, thirsty, or otherwise in need of a beer that is cool & refreshing. There's nothing to dislike about the flavor just like there's not really anything to enjoy, either. It's about as basic as a light beer can be.   
+look: 1 | smell: 1.5 | taste: 2 | feel: 1 | overall: 1.25 
+look: 1.25 | smell: 1 | taste: 1.5 | feel: 1.25 | overall: 1.25 
+look: 2.75 | smell: 2.5 | taste: 2.25 | feel: 2.5 | overall: 2.75 Look: Typical pale gold with a foamy white head that quickly disappears.     Smell: Barely there. Corny malt and a tinge of lemon wafting in the breeze.     Taste: Corn, corn, corn. It’s like you took corn-flavored water and held it in a brewery for a few days. Thin and weak.     Mouthfeel: Carbonated water.     Overall: While not disgusting, nothing about Bud Light is enjoyable. It doesn’t even have the alcohol content to make getting drunk viable. That said, I’ve had some overtly bad tasting lagers and this isn’t one of them. It’s just dull.   
+look: 4.5 | smell: 2.5 | taste: 2.5 | feel: 2.25 | overall: 2.5 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 1.5 | overall: 1.75 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 1 | taste: 1 | feel: 1 | overall: 1 This beer is pi$$ poor. Nothing good about it. Ive had some GREAT lagers but this is far from anything you could even consider good. Not worth trying. Avoid. Its just carbonated rice water.   
+look: 2 | smell: 2 | taste: 2 | feel: 1.25 | overall: 2 
+look: 1 | smell: 1 | taste: 1.25 | feel: 1 | overall: 1 The beer for the masses that don’t like beer. Only a hint of beer flavor in a watered down version of a lager making it palatable for people that don’t like malt and hop. The only redeeming quality is that these beers are less filling if you plan on eating a big meal. There is nothing off putting about this product, it just lacks flavor.   
+look: 2 | smell: 2 | taste: 1 | feel: 2.5 | overall: 1.25 
+look: 3 | smell: 1 | taste: 1 | feel: 1 | overall: 1.75 
+look: 1.25 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1 This piece of shit should never exist 
+look: 1 | smell: 1.25 | taste: 1.75 | feel: 2 | overall: 1.5 One of those beers almost everyone knows is trash, and yet I meet people all the time who make it the only beer they’ll even buy. I’m convinced they’re putting addictive cactus juice or something in there because it’s truly awful. Watered down swill that goes flat by the time you’ve gotten to half the bottle/can. It’s not the ABSOLUTE worst you can do, but it’s certainly no good.   
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2.5 | smell: 2.5 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 2 | overall: 1.75 
+look: 2 | smell: 2.25 | taste: 1 | feel: 1.5 | overall: 1.25 bad Bad BAD. Looks like piss water. Smells like piss water. Nothing redeemable. Could barely get through one. This was a truly painful experience but I'm glad I did it as a way to better understand the mistakes we've made as the American people.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 3.25 | overall: 3.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2.75 | smell: 2.25 | taste: 3.25 | feel: 2.25 | overall: 2.75 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2.25 | smell: 2.25 | taste: 2.25 | feel: 2.25 | overall: 2.25 I picked up a 24oz tallboy at Walmart for $2. The only reason to drink this is if you’re looking for a light beer. It doesn’t have much flavor and it’s kinda watery. But as far as cheap light beers go, it’s pretty decent.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 piss 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1.75 | smell: 1 | taste: 1.5 | feel: 1 | overall: 1.25 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.25 Good thing they have a great ad campaign to help sell this watered-down tasteless beer. Dilly Dilly. 
+look: 2.5 | smell: 2.5 | taste: 2.25 | feel: 1 | overall: 2.5 Anemic pale gold, crystal clear. Some foam initially, that fades away to a still glassy surface and thin ring of skim.     Aroma is bland but fairly inoffensive, faint traces of cracker an apple, and wet soggy grain.     Taste is similar, bland apple ester and feeble "malt beverage" character, gross silage aftertaste. Sharp astringency and aggressive carbonation, watery and insipid, this is where it becomes sourish and offensive.  Just about any Euro pale lager is better than this, there's zero hop presence whatsoever.    I'd never buy it since there are almost always better alternatives. On a hot day, in a situation where there wasn't any good beer to be had, I wouldn't be ashamed to drink this on ice for rehydration purposes. When Uncle Bob leaves one in the fridge after a party...I guess that's when it finally gets reviewed on BA.   
+look: 1.75 | smell: 2.25 | taste: 2 | feel: 2.25 | overall: 2 The Wifes brew... 
+look: 2.5 | smell: 2.25 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 Look for what it is it's a great light cheap AAL from Anheuser-Busch what are you expecting it to taste like your local Brewery stout or Porter if you're looking to lose weight and drink less alcohol it has a decent taste for a commercial Light beer I drink it and I hate AAL's   
+look: 2.5 | smell: 2 | taste: 1 | feel: 1 | overall: 1 Bland clear color but some points for high carbonation  Smells a bit sweet and a bit skunked  Tastes like stale natty light wtf, it's as if they age a portion of Busch or natty light in some attempt to make it flavorful but it just tastes like spoilage?  This is sub bottom shelf beer sold at a mid shelf price and it's astounding that this is actually worse than the ultra cheap inbev brands.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1 | smell: 1 | taste: 2.5 | feel: 1 | overall: 2.5 
+look: 4 | smell: 1.25 | taste: 1.25 | feel: 1.5 | overall: 1.25 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1 | smell: 1.25 | taste: 1.5 | feel: 1.75 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 This beer takes like the tears I cried when my brother died. If you drink this beer, who hurt you? 
+look: 1 | smell: 2.25 | taste: 1.5 | feel: 1.5 | overall: 1.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 This is the best beer. It is the number one beer in America for a reason. Blows away the competition. If a beer was near perfect this is the beer. 
+look: 1.5 | smell: 1.25 | taste: 1.5 | feel: 1.25 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.25 | smell: 1.25 | taste: 3 | feel: 3 | overall: 3 Much better and less carbonated in the can than in a bottle. Much like chicken fingers this product is better when you're prepared to have more than one.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.25 | smell: 1.25 | taste: 1.5 | feel: 1.5 | overall: 1.25 
+look: 1.5 | smell: 2.5 | taste: 2.75 | feel: 3.5 | overall: 2.75 Never thought I'd review this one but after a tip from a customer of a 15 pack, what the heck! I promise I wont do the "trendy" thing and automatically slam it :)    A- This one pours a super clear light golden color and reminds me of Chardonnay wine. The head is snow white in color and is rather fizzy....settling very fast into nothingness. Carbonation isn't as aggressive as I would have assumed and the lacing is non existent....a very non-impressive looking lager but I wasn't expecting anything great either.    S- I am getting aromas of white rice (which is in the recipe), boiled corn, something sweet that I can't quite put my finger on, Diacetyl esters that remind me of microwave buttered popcorn, some grainy grassy notes and perhaps other assorted adjuncts. Muted presence of barley malt and a finish that is very light, inoffensive and of hop extract. I've definitely smelled worse beer.    T- Surprisingly, this one doesn't have a bad flavor for what it is! Light toasted corn, cleansing rice, muted sweet barley malt, buttery notes that do leave a funny taste on the palate, dry grassy notes and a finish that is clean and refreshing....the weird buttery flavor does linger on the palate but is balanced somewhat by very slight hop bitterness.    M/O- Light bodied, cleansing, clean overall and nothing that I find bad for the style....honest! This is probably one of the better light beers on the market and I would actually drink this again based on what I've had tonight! Would make a great hot weather kind of beer and I find the drinkability actually quite high. Is it a great beer?.....not by a long shot but I think it really does deserve better than what the masses on here have deemed it to be!   
+look: 2 | smell: 2 | taste: 2.5 | feel: 2 | overall: 2.5 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Absolutely disgusting. Do yourself a favor and don't drink this mess. 
+look: 1.5 | smell: 1.25 | taste: 1.5 | feel: 2 | overall: 1.5 Bud light is always one of my last options. Before I turned 21 I drank this and other light beers more often purely because they are cheap and usually readily available at a party. Nowadays I would only drink this "beer" if I was broke and someone else was paying for my drinks.   
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 1.75 | smell: 2 | taste: 1.75 | feel: 2 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1 | feel: 1.25 | overall: 1 
+look: 2 | smell: 2 | taste: 1.5 | feel: 2 | overall: 2 Very light yellow colored beer. The white head forms quickly, and doesn't stay around very long.     The smell is a bit sweet, there's corn and a bit if a funky smell I can't quite identify.    Cloyingly sweet, reminds me of a lemon lime soda. No hops or any level of complexity whatever.    Basically feel like carbonated water going down.    The very definition of an alcohol delivery device. Just very very bland, tastes nothing like actual beer. Maybe the fact it tastes like a soda rather than a beer makes it so popular, But trying it at least makes me appreciate how good other beers really are.   
+look: 2 | smell: 1.75 | taste: 1.5 | feel: 1.75 | overall: 1.75 
+look: 1 | smell: 1.5 | taste: 3 | feel: 1.5 | overall: 2 Very basic beer 
+look: 1.5 | smell: 1.25 | taste: 1.5 | feel: 1.25 | overall: 1.25 
+look: 1.5 | smell: 1 | taste: 1.25 | feel: 1.25 | overall: 1.5 
+look: 1.5 | smell: 1.5 | taste: 1 | feel: 1 | overall: 1.25 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 3 | smell: 3.25 | taste: 3.25 | feel: 3 | overall: 3 One of the better light beers around, hence my average rating. I'm just not into light beers, though. I've never been into all of the flavors and other permutations of this. I guess that it is so bland to begin with, that the brewer can add and market about any version.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 3 | smell: 1.5 | taste: 2.5 | feel: 3.5 | overall: 2 
+look: 2.25 | smell: 1.75 | taste: 2 | feel: 2.25 | overall: 2 
+look: 2 | smell: 2 | taste: 1.75 | feel: 1.5 | overall: 1.75 
+look: 1.5 | smell: 1.25 | taste: 1.25 | feel: 2 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1.25 | feel: 1 | overall: 1 
+look: 1.75 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1.75 | smell: 2 | taste: 2 | feel: 2.5 | overall: 2.25 
+look: 3 | smell: 1.5 | taste: 1.25 | feel: 2 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1.25 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 4.25 | smell: 2.5 | taste: 1.75 | feel: 2.5 | overall: 2 
+look: 1.5 | smell: 1.5 | taste: 1 | feel: 1.25 | overall: 1 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 Ugh, I always tried to find a different choice when this was around. Blandness defined. 
+look: 2.5 | smell: 2 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 4.75 | smell: 3 | taste: 2.25 | feel: 1.5 | overall: 2.25 
+look: 2 | smell: 1.25 | taste: 1.25 | feel: 2 | overall: 1.5 
+look: 2 | smell: 1.75 | taste: 1 | feel: 1 | overall: 1.25 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 4.25 
+look: 1.25 | smell: 1.25 | taste: 1 | feel: 1.5 | overall: 1.25 
+look: 2 | smell: 2 | taste: 1 | feel: 2 | overall: 1.75 
+look: 3 | smell: 2.5 | taste: 1 | feel: 2 | overall: 1.75 Meh. Typical American Macro. No soul but it will do if youre dying of thirst. 
+look: 3 | smell: 1.5 | taste: 1.75 | feel: 2.25 | overall: 2 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1.25 | smell: 1.25 | taste: 1 | feel: 1.25 | overall: 1.25 L: Watery, Light yellow, very weak foam    S: Grainy with no smell of hops    T: Taste of corn, rice and other grains, very weak carbonation    F: Watery    O: Personally, the worst beer I ever had. If you ever go to any event, probably the most common beer you encounter. Drink this only not to show disrespect- with caution, no more than 16-24oz. If this is your first ever beer, we the educated beer-drinking society deeply apologize. Don't stop your beer tasting quest for the horizon is clear and unlimited, experiences will be far more rewarding.   To the beer's positive: great and vast marketing.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1 | smell: 3 | taste: 3 | feel: 3 | overall: 3 The Big K of beer. Can throw these back like water which could be either a good thing or bad thing depending on the situation 
+look: 2.75 | smell: 2 | taste: 2 | feel: 2.25 | overall: 2.25 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.25 | overall: 1.25 Why ?   Why is this the #1 beer in the USA ?  Various reasons for anyone that's "beer aware" can imagine.   Neighbor with a garage fridge full o' BL, would offer me unlimited quantied, if I so desired, I declined. Not for me, when I see people buying this, I cringe. I say to the unaware masses, "bad by you". Even Rolling Rock is a upgrade, If you think this "light beer" will keep you from gaining weight, better you should alter your food consumption. Gain info here and elsewhere on better choices.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Whiskey tango, cheap, will only drink if free, and maybe not even then. 
+look: 3.25 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 4 | smell: 3 | taste: 4 | feel: 4.5 | overall: 4 Very easy to drink and has a good taste. 
+look: 1 | smell: 1 | taste: 1 | feel: 2 | overall: 1 
+look: 2 | smell: 1 | taste: 1 | feel: 3 | overall: 1.5 I mean, it's somehow the beer I'm choosing to drink from my dad's fridge because I want something light, and I realize I haven't rated it yet.     L - 12 oz bottle poured into a pint glass. It comes out near clear, a hint of yellow, an inch of head that disappears and leaves little to no lacing. Nothing special to look at.     S - Nothing to the smell, either. Some usual corn, grass, rice, cereal grain, metal.     T - A little barley sweetness, some cereal grain, a watery finish that tastes more like seltzer than beer.     F - I put it in the freezer so it'd be at its most drinkable. Drinks like any other lager--light-bodied, high carbonation, very drinkable when it's ice cold. I can see why bros shotgun these.     O - I just don't get it, I guess. Bud Light is the most popular beer in the U.S. yet it has more calories, more carbs, and is equally-priced to Miller or Coors Light. Rolling Rock is $4.99 for a 6-pack ($2 cheaper in AZ) has more flavor and character, and worth the extra beer belly. I once went to a trendy restaurant with Bud Light on tap and the menu described it as having "a hint of orange peel" in the flavor. So, it's really a stretch when trying to sell this stuff to anyone who's drank pretty much anything other than Bud Light in their life. Yes, it's a simple beer with four ingredients. But you can barely taste anything but the water. Continue to baffle me and be the most popular beer in the country, but I'm avoiding it at all costs.   
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 1.5 | smell: 1.5 | taste: 2 | feel: 1.75 | overall: 2 
+look: 4.5 | smell: 2.25 | taste: 2.75 | feel: 2.5 | overall: 2.5 
+look: 2.75 | smell: 2.25 | taste: 2.25 | feel: 2.5 | overall: 2.5 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 1 | taste: 1 | feel: 1 | overall: 1 I drink it because it is high quality mass produced under quality control you would expect from a big producer.    i like the color it is light like dee sun    love you all xoxoxoxo   
+look: 2.5 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 2.25 
+look: 2 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 This beer tastes like none other ... I mean like nothing else ... I mean like nothing. Yeah that's it. Nothing. Well, that's when it's cold as ice. Then I let it warm up a bit. And it tastes a tiny bit malty. But like the floor of a bar smells if your job is to go in on a Sunday morning & mop it. Not good.   
+look: 4 | smell: 2 | taste: 3 | feel: 3.25 | overall: 3.25 Bud Light is a high quality mass produced beer. It has a purposeful and unique flavor among other light beers. Personally that flavor is too sweet for my taste. It does not taste cheap, but it does not taste particularly good, although there is no aftertaste to it relative to some other light beers out there. Bud Light has some character, but not much. To summarize, it is kind of like drinking a watered down Budweiser. So it's like buying a decent car but getting the base model. It is okay if that's what they have at the concession stand. It is okay in a cooler at a party. It is okay in a keg. If it was a girl, she would be an okay girl to date. She would be like one of those girls everyone else thought you should marry but for some reason you just didn't want to go there. But maybe on reminiscing you might still think about her sometimes, because she was nice. Bud Light is a "it's not you, it's me" kind of beer. As a car, Bud Light is a contemporary Volkswagen Passat. It looks nice, gets the job done, doesn't cost too much, and blends in while being a little different from the others, but not in a way that's interesting or fun. It's an upgrade from really cheap light beer. I want to like it but can't.   
+look: 2 | smell: 1 | taste: 2 | feel: 2 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2.25 | smell: 2.25 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 1.5 | smell: 1 | taste: 1 | feel: 1.25 | overall: 1 
+look: 2 | smell: 1.5 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 2 | smell: 2.5 | taste: 2.75 | feel: 2.5 | overall: 2.75 12oz can bb 10/24/17 poured into a pint glass at fridge temp 4.2% ABV. The beer pours bright pale straw yellow with white head. Head is gone in 60 seconds with no lacing (this pint is even nucleated). The aroma is a muted sweetness along with a beer smell that could come from the yeast. Taste is minimal with some barely there sweetness and a hint of tartness. Mouthfeel is thin bodied, well carbonated and dry in the finish. There is just a hint of butter in the aftertaste but it is not overwhelming. Overall, OK for an AAL. I don't remember this beer being this clean in the past. I wonder if the recipe change to barley & rice only has paid some dividends?   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 2 | overall: 1 
+look: 2.75 | smell: 2.5 | taste: 2.5 | feel: 2 | overall: 2.5 
+look: 2.5 | smell: 2.75 | taste: 3 | feel: 4 | overall: 3 For the style. A very light golden or straw, in color. Pours a thin white head that recedes, immediately. The aroma has a very faint grain smell, and, to me, that is literally it. The taste is a bit more impressive, with a mild grainy, light malt flavor; slightly sweet. Body is light, dry, and full carbonation. Overall, it's made this way for a purpose, but, I think there are beers in the same caloric range that have more flavor. For light beers, I'd put this at the lower end of a B.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Id rather drink sewer water. 
+look: 1.25 | smell: 1.5 | taste: 1 | feel: 1.5 | overall: 1.25 Low calories. Ok, I said someting positive. But, it is all crapperville from thereon. Rubbing alcohol and bongwater may taste better. 
+look: 2.5 | smell: 2 | taste: 2.25 | feel: 2.5 | overall: 2 
+look: 2.5 | smell: 1.75 | taste: 1.75 | feel: 2.25 | overall: 1.75 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1.5 | smell: 2 | taste: 2 | feel: 1.5 | overall: 2 
+look: 2.75 | smell: 1.75 | taste: 1.75 | feel: 2 | overall: 2 I have this in bottles and on tap. I know, the old GM thought this was a good idea. Anyway, I have to say... why? So you get an opaque straw yellow. The head is a nice color but dissipates quickly. Minor lacing. The nose is almost non-existent. You get the corn, the metal and that's basically it. The taste is corn and some sweet fruit but the water kills it from there. The feel is watery and light in body. So, if you can't afford a Chimay... save up. That is a beer. This, well, it's a beer but it's just too weak overall.   
+look: 2 | smell: 1.5 | taste: 2 | feel: 2 | overall: 2 
+look: 1.5 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 1 | taste: 2.75 | feel: 2.25 | overall: 2.5 
+look: 1.5 | smell: 1.25 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2.25 | smell: 2.25 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 2.75 | smell: 2.75 | taste: 3 | feel: 2.75 | overall: 3 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 L: Hazy straw yellow color with a fizzy white head that dissipates quickly.    S: Light corn, grain, some cooked vegetable. Not a strong aroma.    T: Sweet apple, corn, some astringent vegetable, watery.    F: Light watery mouthfeel.    O: Better than some light lagers but still poor.   
+look: 2 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 1.75 | smell: 2 | taste: 1.25 | feel: 2 | overall: 1.5 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1.75 | smell: 2 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1.75 | smell: 1 | taste: 2 | feel: 2.75 | overall: 2.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2.5 | smell: 2 | taste: 1.5 | feel: 1.75 | overall: 1.75 
+look: 2.5 | smell: 2.5 | taste: 1.75 | feel: 2 | overall: 1.75 I haven't had a Bud Light in a very long time and the other night gave it a shot because it was the only thing available. I will say it is not offensive but was surprised at how lacking it was in flavor.   
+look: 2.75 | smell: 1.5 | taste: 1.5 | feel: 3 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Absolute garbage 
+look: 1.75 | smell: 2 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 I can drink this beer at anny occasion, love it with a burger or a pizza, good all round beer if you ask me but that said I like beer 
+look: 2 | smell: 2 | taste: 1.75 | feel: 2 | overall: 2 
+look: 2.75 | smell: 2.25 | taste: 3 | feel: 2.75 | overall: 3 
+look: 3 | smell: 2.5 | taste: 1.5 | feel: 3 | overall: 2.5 
+look: 2 | smell: 2.75 | taste: 3.25 | feel: 2 | overall: 2.5 
+look: 2 | smell: 1.75 | taste: 2.5 | feel: 2.5 | overall: 2 
+look: 2.25 | smell: 2 | taste: 1.75 | feel: 2.5 | overall: 2.5 
+look: 1.25 | smell: 1.5 | taste: 1.5 | feel: 1.25 | overall: 1.5 
+look: 2 | smell: 1.75 | taste: 2 | feel: 2 | overall: 3 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3 | smell: 2 | taste: 2.5 | feel: 2.5 | overall: 2.25 
+look: 2.25 | smell: 2.25 | taste: 2 | feel: 2.25 | overall: 2.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 2 | taste: 1.5 | feel: 1 | overall: 1 
+look: 3.5 | smell: 2 | taste: 3 | feel: 2 | overall: 3 As far as American Lager goes, Bud Light is like the little brother we all know and (sometimes) love. It's great for the party because you've always got a story, but it's not something you'd want to tell mom about unless you absolutely had to. Bud Light fulfills that need for a quickie in the pub, but it's not something that I'd drink all the time. Little to no mouthfeel, with sort of a clearish-golden haze, you know the beer isn't something you keep buying because you want to, it's just the filler until the real beer arrives. The gold standard, it's better than Miller's or Milwaukee's, but nothing compared to more sophisticated beers.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Water has superior drinkability to this. No taste or flavor. No wonder they drink it ice cold. It hides the lack of taste. 
+look: 1.75 | smell: 2.25 | taste: 2.5 | feel: 2.25 | overall: 2.25 
+look: 2 | smell: 2 | taste: 2 | feel: 3.75 | overall: 2.5 
+look: 2.5 | smell: 2 | taste: 2.25 | feel: 3 | overall: 2.5 
+look: 4.25 | smell: 2 | taste: 3.5 | feel: 4.25 | overall: 3.5 
+look: 3 | smell: 1 | taste: 1 | feel: 1 | overall: 1.5 In a blind taste test between Coors Light, Miller Lite, and, Bud Light at a recent bottle share, Coors Light was the clear winning with some actual taste including a hint of hop bitterness. Miller came in second on because Bud Light had no apparent flavor or body. Bud LIght is by far the worst.   
+look: 2.25 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 2.25 | smell: 1.25 | taste: 1.75 | feel: 1.25 | overall: 1.75 Pours a straw yellow with a small white head. Smells of bready malts. Tastes very watery and of sweet bready malts, and maybe some bitterness but no hops. Light in body and medium in carbonation. Overall it's pretty tasteless. Nothing good about this, but it's not disgusting.   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 A staple for the lake, pool, backyard BBQ and softball fields. I am somewhat surprised by the low score. I agree it is not the best or even second best beer in the world but it is drinkable and built for the above mentioned occasions as well as many others. Low in calories and ABV it is a beer both moms and dads will drink.   
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2 | smell: 1.5 | taste: 1.5 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 2 | overall: 1.75 
+look: 2.5 | smell: 2.25 | taste: 2 | feel: 2 | overall: 2.25 drink before Oct 2017 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3 | smell: 1.75 | taste: 2.5 | feel: 1.25 | overall: 2.25 I have always kind of liked Bud Light because it tastes like those flavorless rice cakes my mom used to pack in my lunch. I will says it is extremely consistent and I always know what I'm getting whenever I have it. Besides those redeeming qualities, this beer is horrible compared to everything else on the market and is probably not even a top 5 AAL.   
+look: 2 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 2 | taste: 2.5 | feel: 2.5 | overall: 2 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Easy drinking without a lot of pretense. If you need a beer at a bbq and this is all there is then go ahead and grab one. To update. Just had this on tap. So smooth. Would definitely have again on tap. Cheers.   
+look: 5 | smell: 4 | taste: 4 | feel: 4 | overall: 4.75 Call me an alcoholic and all what you will but look folks... name me a better beer that you would stuff your book bag with when your going fishing for a few hours. This beer will give you the taste of beer without feeling like your stomach is full. This beer is low on calories so you will look great and guess what. I haven't met a girl that won't drink a cold bud light. There's plenty of young GOOD LOOKING girls that will drink this but not an IPA. Don't get me wrong I love all beer but this should be higher rated hands down. Number one selling beer in the world and for good reason. I'll cheers everyone to this bud light.   
+look: 1 | smell: 1.5 | taste: 1 | feel: 1.25 | overall: 1.25 
+look: 1.25 | smell: 1.25 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2.25 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Piss on this brewery! They're jealous fucks that couldn't brew a beer to save their lives. 
+look: 2.75 | smell: 1.25 | taste: 1.25 | feel: 1.75 | overall: 1.25 So pours a super clear very light yellow with about a finger of white head that fizzes away pretty quickly. Smells, well very faint smell and what is there is kinda like a sewer backup, I'm not looking forwards to this. Sweet is about the only flavor this thing has. Subsequent tastes have my tastebuds begging for mercy, this stuff is just not good.   
+look: 3 | smell: 2.5 | taste: 2.5 | feel: 3 | overall: 2.75 
+look: 2 | smell: 2.5 | taste: 2.75 | feel: 2.75 | overall: 2.5 
+look: 3 | smell: 1.75 | taste: 3 | feel: 3.5 | overall: 3 
+look: 2.5 | smell: 2.25 | taste: 2.5 | feel: 2.5 | overall: 2.25 
+look: 2 | smell: 2.25 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 3.5 | smell: 3 | taste: 2 | feel: 3 | overall: 2.5 
+look: 1.25 | smell: 1.5 | taste: 2 | feel: 1.5 | overall: 1.75 In my opinion this is the best of the "bad beers." This is a horrible beer, but if you are binge drinking, it is definitely better than a lot of the other cheap popular beers out there.    I would not recommend this beer to anyone, unless you are going to a party to play drinking games.   
+look: 1.75 | smell: 1.75 | taste: 2 | feel: 2 | overall: 1.75 
+look: 1.25 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 2 | overall: 2 
+look: 2.25 | smell: 1.75 | taste: 2 | feel: 2.25 | overall: 2 
+look: 1 | smell: 2 | taste: 2 | feel: 1 | overall: 1.5 This is beer for people who are:  1. Alcoholics  2. On a budget  3. Involved in Greek life at a college  or 4. All of the above.    I mean come on. This beer is not good by any means but it gets the job done.   
+look: 1.5 | smell: 1 | taste: 1 | feel: 2.5 | overall: 1.5 
+look: 1.25 | smell: 1.25 | taste: 1.5 | feel: 1.5 | overall: 1 
+look: 1.75 | smell: 1.5 | taste: 1 | feel: 1.25 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 1.75 | taste: 1.5 | feel: 2 | overall: 1.75 Pours a very pale yellow with a thin white head. Very mild aroma. I hate to say it but basically this is a flavorless carbonated beverage outside of a hint of malt. Just give me a glass of water please.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2.5 | smell: 1.75 | taste: 1 | feel: 1.5 | overall: 1.5 
+look: 1.75 | smell: 1 | taste: 2.25 | feel: 1.5 | overall: 2 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 1.5 | overall: 2.25 
+look: 1.75 | smell: 1.5 | taste: 1.5 | feel: 1 | overall: 1.75 
+look: 1.75 | smell: 1.5 | taste: 1.5 | feel: 2 | overall: 1.5 Now I'll throw back watery beers every once in a while to kick back on a hot day or whatever...but I don't even want to kick back with this shit. Tried it cold, straight out of the bottle - not impressed. Not only was it watery piss beer, it had a horrid aftertaste. Overall, I guess it's fine if you're a broke college student looking for something cheap that won't kill you - but might get you drunk (enough) after a few.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 3 | smell: 2 | taste: 2 | feel: 2 | overall: 2.5 
+look: 2.25 | smell: 2.25 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 2 | smell: 1.5 | taste: 2.5 | feel: 2 | overall: 1.75 
+look: 2.25 | smell: 2 | taste: 2.25 | feel: 1.5 | overall: 2 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 Meh... All light beers suck but i certainly see why so many ppl drink this one..    Its basically water that get you drunk, I can't detect any flavors from malt or hops but there aren't any nasty after flavors either..     Very crushable but obviously no flavor either, this isn't craft, it is what it is..   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 1 | taste: 1.75 | feel: 1.5 | overall: 1.5 
+look: 3 | smell: 2 | taste: 1 | feel: 3 | overall: 1.5 
+look: 2 | smell: 2 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 I can honestly say that I wouldn't drink Bud Light if it were the last beer on Earth. Not only does it smell awful, but it manages to taste even worse. It's the one beer I literally can't drink anymore ever since I started drinking better brews. I'll still try to give it a legitimate review.     Look: Thin white head on top of a piss-like yellow color.   Smell: In all honesty, it smells like vomit and urine. It made me not want to drink it, but I did, because it was a frat party and it was the only beer available. Now, I would pass on it.   Taste: Oh, no...Okay. When uninformed people tell beer-lovers like myself that beer is "piss-water," I laugh at them because they've probably only ever tried Bud Light. Very little flavor, and the little flavor that is present is relatively unpleasant. Corn water maybe? That's an insult to corn and water, though...  Feel: Very little carbonation. So, nothing to distract from the gross taste.  Overall: Save yourself. Don't try a Bud Light. I know I sound like a troll, or a rival company employee, but the last time I tried to drink Bud Light was the last time I'll try to drink Bud Light. I'll happily give positive reviews to brews that deserve it, but this ain't one.   
+look: 1 | smell: 1 | taste: 1.25 | feel: 1 | overall: 1.25 Basically this is horse piss in a can. Good marketing doesn't make up for terrible beer. I drank this stuff my freshmen year of college and thought it was amazing. Now as a junior, I can not stand it. There are much better beers in the same price range. Not much to look at, it looks like dirty water. Not much of a smell and a watery taste. I would review the feel but there isn't much of one. Just not enjoyable.   
+look: 2.25 | smell: 2 | taste: 1.75 | feel: 1.25 | overall: 1.75 L- Looks sometimes can't be deceiving. Looks better than it smells and tastes, but looks unwell.  S- smells like old beer at a 1990s frat party, and maybe the bathroom.  T - if you get a very fresh one, it can be almost ok, but usually not even close to good.  F - not sure feel should even be a category for this brew.    Overall. Mass produced -no mass appeal. Beer can get way worse than this. So I would say if it's the only beer  your Uncle has in the fridge, either don't be picky or take the day off. Possibly drinkable but not satisfying.   
+look: 2.75 | smell: 2.5 | taste: 1.75 | feel: 4 | overall: 1.75 Look - Poured from a can, clear straw color, quickly vanishing bubbly white head. Lots of visible carbonation.    Smell - Sour, metallic, rice cake    Taste - Very mild rice, odd and off-putting sweetness, reminds me of a weaker Fosters, no bitterness    Feel - Thin bodied, loads of carbonation. Easy drinking, refreshing.    Overall - I want to like it because of it's price and availability, but I just flat out don't.   
+look: 1.75 | smell: 1.25 | taste: 1.5 | feel: 1.25 | overall: 1.5 
+look: 1 | smell: 3 | taste: 3 | feel: 3.75 | overall: 2.5 
+look: 1.75 | smell: 1.5 | taste: 1.25 | feel: 1 | overall: 1.5 
+look: 1 | smell: 1.25 | taste: 2 | feel: 2 | overall: 1.75 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 2.5 | smell: 1 | taste: 2 | feel: 3.75 | overall: 2 
+look: 3 | smell: 2 | taste: 2 | feel: 3 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 2 | overall: 2 Okay. So here is my story.   I love good quality beer and I knew very well that this won't be one. I also have to say that in my near 50 years, I have never tried this thing. Largely because I don't like cheap quality beer but also because I don't see the point to light beer. So honestly, when I purchased a can of Bud Light today, I was giddy and a bit scared at the same time. But I promised myself that I will go through some mass produced beer, in order to put things into better perspective.   And then it happened. I opened my first ever Bud Light.   I immediately went for the nose and it smelled like rat piss. This fades a tad but not much. This beer smells bad.   Okay, but how does it taste? I took the first sip. I tasted some malt and very heavy carbonation and then, quite rapidly, nothing. I mean I tasted nothing. There was no aftertaste either. I took another sip, just to be sure. A slight favour, poof, gone, nothing. And then it soon became evident that I wasn't drinking beer. I don't know what to call this, but it's not beer. But because it doesn't taste bad (as I said, no taste), I can't trash it. It's a not bad (or good) tasting liquid. Its biggest drawback is the bad carbonation that caused me to burp every minute and my chest actually hurts from the trapped gas. Not fun.   So in conclusion, I am confused. I have no idea what I just had and I know I will not have it again, but it wasn't awful. It just wasn't anything.   
+look: 3 | smell: 2.5 | taste: 2 | feel: 1.75 | overall: 2 
+look: 1.25 | smell: 1.5 | taste: 1.75 | feel: 1.25 | overall: 2 Pours a straw yellow, lots of fizz, light/medium head. Mouth feel is a light watery carbonation. Smell is slightly sweet ,very little grain, likely because of the rice component.  Goes down smooth, finish is a slight metallic bite. Easily forgettable.    This would be a beer I will drink if offered at a BBQ or a party, but won't buy. As for macros, it's not the worst, but nowhere near the best.   
+look: 2 | smell: 2 | taste: 2.5 | feel: 2 | overall: 2.25 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 Bud Light pours brilliant straw with rapidly rising streams of bubbles under a 1" white frothy foam cap with fair to poor retention. The aroma has faint apple, low to no malt, very faint floral hops, and a faint grain aromas. The palate offers faint apple, low grain, very low hop bitterness, low to no hop flavor, with a dry and slightly tart finish. It has a light body and is highly carbonated. There is a very slight slickness on the palate and a slight carbonic bite. For what it is, it is well made. There is just not a lot there.   
+look: 2.5 | smell: 2 | taste: 2.5 | feel: 2.25 | overall: 2.5 I take it from reading the previous 100 reviews that the raters have not grasped the concept of light beers. They are not brewed to taste good, they are brewed so that sone overweight smuck can convince him/her self that this will be good for their physic. It's a watered down version of another beer. Of course it taste like dung. If you watered down a Coke, that would taste bad too. As far as watered down beers go, this is one of the better ones. Actually for a brief second it taste like a regular lager. Hey if you buy a cheap car you ain't gonna race at Daytona. If you buy a light beer you're never gonna be happy if flavor is what you're after.   
+look: 2 | smell: 1 | taste: 1 | feel: 2.5 | overall: 1.5 Never been a real fan of any of the BMC lights, but for fair review's sake, I'll explain Bud Light through the eyes of a college student looking to get trashed.     Look: Gross, pale yellow. Better when hidden behind the aluminum. Huge plus if you have the opaque bottles.   Smell: Pro tip...don't smell it. Hints of bleached asshole come to mind.  Taste: Mostly water. If you can recall the flavor of Bud heavy, take that and make it a 50/50 water mix, and voila.   Feel: Light. Airy. Easy to suck down via funnel or shotgun.     Overall: Huge waste. It tastes, on a good day, equal to any of the Keystone/Busch/Rolling Rock competitors, but it costs 50% more. There is no reason for anyone to ever buy Bud Light. If you spend extra money to "avoid" the other low quality AAL macros, but find any difference in Bud Light, you're lying to yourself. IF anything, the others have more beer taste, because they don't appear to be half water.   
+look: 3 | smell: 2.5 | taste: 2.25 | feel: 2.5 | overall: 2.25 
+look: 3.5 | smell: 2.5 | taste: 2.5 | feel: 3 | overall: 3 
+look: 2 | smell: 1.25 | taste: 2 | feel: 2 | overall: 2 
+look: 2 | smell: 1 | taste: 1 | feel: 1.5 | overall: 1.5 
+look: 1.5 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Comparing only NA beers, BUD Light and Miller Lite, not my favorite Sierra Nevada Pale Ale.  Cans. Color was light straw.  Aroma was sweet off a two finger head lots of carbonation  Seltzer taste and feel  I'm assuming it's made from rice since I detected no barley or hops flavor.  Seltzer water is cheaper!!!! I won't be trying this beer again unless major changes are made.   
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 3 | smell: 2 | taste: 2.5 | feel: 1 | overall: 2 Ok...Why am I here? Why did I drink two? I was thirsty, and I wanted something fizzy to drink. If filled the need. 
+look: 4 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1 | smell: 1 | taste: 1.25 | feel: 1 | overall: 1 
+look: 1.75 | smell: 1.25 | taste: 1 | feel: 1.25 | overall: 1.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.75 | smell: 1.5 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 1 | overall: 2 
+look: 2.75 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 2 | smell: 1.5 | taste: 1.5 | feel: 1.75 | overall: 1.75 Piss water with low carbs. best way to describe it. 
+look: 4 | smell: 3 | taste: 3 | feel: 3.5 | overall: 3.5 
+look: 1.75 | smell: 1.5 | taste: 2.25 | feel: 1.5 | overall: 1.75 
+look: 1 | smell: 1.25 | taste: 1.25 | feel: 2.25 | overall: 2 
+look: 2 | smell: 2 | taste: 2.5 | feel: 2.25 | overall: 2.25 
+look: 4 | smell: 2.75 | taste: 2.25 | feel: 3.25 | overall: 2.75 Can't say that I'm huge into light beers. I accept that they have a place and purpose, one that I'm slowly accepting as I continue to age. Why pay for 4.2% ABV when you can get 5%, 5.9%, 8%, 10%, or even higher for the same price (or even less in Bud Light's premium-price-point case?) Well, because I can drink as much light beer as I want and function the next day as opposed to two 40s of high gravity which are now leaving me FUBAR and wishing for death.     The Budweiser brand has gone to Hell since it's new foreign ownership. I felt embarrassed even buying Bud Light since I'm not a flaming liberal, which is their current advertising target. Enjoy your death spiral A-B, it was your decision.     Reviewed from a 20 pack of 16 fl. oz. aluminum bottles. As always, I'm keeping the style (light lager) in mind and comparing it to other beers that I've had in that style.     A: Poured into a Budweiser glass purchased at the Fairfield, CA brewery. 1.5 fingers of head from a soft pour that shows large bubbles and takes less than 30 seconds to dissipate. A barely intact foam ring lasts the entire glass with some patchy floating foam on top. Surprisingly there are some rings of lace on the way down. Color is not as light as expected and must be close to that of "regular" Budweiser, impressive for a macro light beer. A small amount of "floaties" when held up to a strong light. Not at all uninviting.     S: Almost nonexistent until the beer warms. Iron, faint sweet malt, light green apple. Any hops are lemony and spicy. There is nothing off-putting which I guess is a home run here. It reminds me of what melted ice in a hotel room ice bucket smells like in the (next) morning.    T: Bland, even for a light beer. 10% Budweiser, 90% carbonated water. A-B must make a fortune on this beer. It takes a few of these for my palate to start detecting anything other than salty and metallic. Really light malts and rice with some lemon. You'd have to be familiar with the A-B family of beers to recognize and understand any taste. Close to alcoholic water but, again, nothing off-putting. This reminds me more of Natural Ice than Budweiser. (I guess I'll need to review Natty Light now.)    M: Probably the most champagne-like, super carbonated beer that I've ever had (sorry Miller High Life.) Carbonation stings the tongue but is not creamy. The extreme carbonation gives the beer some substance when really there is none. Eventually there is a puckering and lemony dryness that is not pleasant here. The rice adds the creaminess missing in the carbonation.    O: The least flavorful light beer that I've ever had. Bud Light's look, smell, and mouthfeel are able to partially substitute for it's lack of flavor. If I wanted to get drunk on carbonated water I'd pick this beer.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.75 | smell: 1.5 | taste: 1.75 | feel: 2.25 | overall: 2 
+look: 2 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 2 | taste: 2 | feel: 1 | overall: 1 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.25 | overall: 3.5 
+look: 1.75 | smell: 1.75 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1.25 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Piss water beer. 
+look: 1.5 | smell: 1.25 | taste: 1.75 | feel: 2 | overall: 2 
+look: 1.75 | smell: 1.75 | taste: 2.25 | feel: 2.25 | overall: 2 
+look: 3 | smell: 3.25 | taste: 3.25 | feel: 3.75 | overall: 3.5 
+look: 2.5 | smell: 2.5 | taste: 3 | feel: 3 | overall: 3 
+look: 3 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.75 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1.5 | smell: 1 | taste: 1.5 | feel: 2.5 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1 | smell: 1.25 | taste: 1.5 | feel: 1 | overall: 1.25 
+look: 1 | smell: 1 | taste: 1.5 | feel: 1 | overall: 1 
+look: 2 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1.75 | smell: 1.5 | taste: 2.25 | feel: 3 | overall: 2 
+look: 2 | smell: 2.25 | taste: 1.25 | feel: 1.25 | overall: 1.5 Look: It pours pale yellow with a white head that has little in the way of head retention.     Smell: There are some grainy sweet aromas and a light appleness to it. The aromas are not strong.     Taste: There are some grainy sweet flavors and light apple, but nothing else. The balance is slightly towards the malt as the flavors are not strong.     Feel: The body is light and watery with a slight carbonic and metallic bite in the finish.     Overall, this is a light beer with slight balance towards the malt but little else in the way of flavor elements.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 I wet the bed, wrung it into a bottle, and played Russian roulette with a six pack of Bud Light with my friends. No one lost. Or won. 
+look: 3.5 | smell: 2 | taste: 2 | feel: 2.25 | overall: 2.25 
+look: 2.25 | smell: 2 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1.5 | feel: 1.75 | overall: 1.25 Look: Pours a very light, yellowish color. Virtually water a hint of beer.    Smell: Nothing going on with the smell; standard beer smell.    Taste: Watery, can drink them all night. Its Bud Light, what do you expect?    Feel: Feels like water when you swallow, not filling at all.    Overall: Good beer for young college kids and people who are down on their luck and broke. One of the most common beers in America. Good for tailgates, parties, and other events involving food as it wont fill you up. Need about 10 to get a real buzz.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 no comment......... 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1.5 | smell: 1.25 | taste: 3 | feel: 2.75 | overall: 2.75 
+look: 1.25 | smell: 1.5 | taste: 1 | feel: 1 | overall: 1.25 
+look: 3 | smell: 3 | taste: 2.75 | feel: 3 | overall: 3 
+look: 2 | smell: 1.5 | taste: 1.25 | feel: 1.75 | overall: 1.5 
+look: 1 | smell: 1.25 | taste: 1.5 | feel: 1 | overall: 1 
+look: 1 | smell: 1.5 | taste: 1.75 | feel: 1.75 | overall: 1.5 
+look: 1.75 | smell: 1.75 | taste: 2.25 | feel: 1.25 | overall: 2.25 Bud light pours a fizzy yellow color with a small disputing head. Grainy garbage aroma. Taste is grainy and sweet. Flat. Overall a flat mess. 
+look: 2.75 | smell: 1.5 | taste: 1.25 | feel: 3.25 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1 | feel: 2.5 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 1.5 | taste: 1.5 | feel: 1.75 | overall: 1.5 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1.5 | smell: 1.5 | taste: 2.5 | feel: 1.5 | overall: 2 
+look: 1.75 | smell: 1.5 | taste: 1.5 | feel: 1.25 | overall: 1.5 
+look: 1.75 | smell: 1.75 | taste: 2 | feel: 2 | overall: 1.75 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 2 | overall: 1.75 You've drank it because its there. You're in the mood for a light beer and its the only one on tap... But it sucks. It really does. This rice soda isn't even good for its style/category. Try an Amstel or a Heineken Light...even Miller and Coors taste better.   
+look: 1 | smell: 2 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 2 | smell: 3 | taste: 3 | feel: 2.75 | overall: 3 This beer is definitely not my first choice while beer shopping but it's definitely not my last; granted I'm not gonna go out of my way to get this beer nor am I gonna drink it at a bar. This beer has a faint and light aroma and has a mouth feel similar to Budweiser. Recommended activities for this beer in my opinion are mowing the yard, having in stock at a barbecue/cookout, and maybe at a house party but not much more than that. I know this beer gets alot of hate but I think that it does good just for the style its in and don't think it's not really that bad.   
+look: 2 | smell: 1 | taste: 1 | feel: 1 | overall: 1 I won't diss a beer just because it's a commercial brew, but this stuff is absolutely terrible. Keep this stuff on hand only to put your grill fire out if needed. Avoid at all costs. Many people that hate beer hate it because this is the trash they tried and won't try anything else.   
+look: 1 | smell: 1.25 | taste: 1.25 | feel: 1 | overall: 1.25 This beer is bland and watery with very little taste, there is no reason to drink this, except on a hot day or to session a few beers. 
+look: 1.25 | smell: 1 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 2.75 | smell: 2.5 | taste: 2 | feel: 2 | overall: 2.25 
+look: 5 | smell: 1 | taste: 1.5 | feel: 2 | overall: 1.5 
+look: 3 | smell: 1 | taste: 3 | feel: 2.75 | overall: 3 
+look: 2.5 | smell: 2.25 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 3 | smell: 1.75 | taste: 1.5 | feel: 2 | overall: 1.75 After drinking exclusively good beer for six months straight, you really notice how crappy bud light is. Pale state yellow in the glass and it just goes down hill from there. Only the slightest hint of hop aroma as the smell is predominated by the maltiness of the beer. Taste follows the smell with a huge sweet pale malt presence on the front end that finishes a touch sour around the edges of the toungue. Barely a hint of hop presence. Feel is watery and carbonated. Only saving grace is it is rather cold right now so it's true flavor does not really come out (the cold  Numbs your taste buds). I had never minded bud light but after really paying attention to what I am drinking; damn this is crap.   
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 3.5 | overall: 3 
+look: 2 | smell: 1.75 | taste: 1.5 | feel: 1.75 | overall: 1.5 
+look: 1.5 | smell: 2.25 | taste: 2 | feel: 1.5 | overall: 2 Well the appearance is quite the dilution of beer. Take a normal lager, dump a bunch of water in it, here's your appearance, feintest of feint straw yellow, tons of clarity. Aroma is of some grain.     Taste, is like, nothing. There's another mild impression of grain and that is about it. "hides" the alcohol. Mouthfeel is just seltzer water. Massively overcarbonated, open one up and sit on it for about five minutes. Does it have a function, sure, for people who don't want to taste beer, or someone trying to cleanse their palate between beers.   
+look: 2.75 | smell: 2 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 2 | smell: 2 | taste: 2 | feel: 2.5 | overall: 2 As refreshing and quenching as water. Drink it cold and it gets the job done - its got a consistent taste, its refreshing and light. Its solid for what it is, but it just doesn't taste great.   
+look: 2 | smell: 2.25 | taste: 2.25 | feel: 2 | overall: 2 
+look: 2.5 | smell: 2.5 | taste: 3.5 | feel: 3 | overall: 3 
+look: 2.5 | smell: 2 | taste: 2.75 | feel: 2.5 | overall: 2.5 
+look: 1.25 | smell: 1.5 | taste: 1.75 | feel: 1.5 | overall: 1.75 A good beer to get drunk on. Honestly, that’s about it. Couldn’t ever see me wanting to go to a bar to order this or drink it with a meal. 
+look: 2 | smell: 1.25 | taste: 2.25 | feel: 1.5 | overall: 1.75 Lets all face it. At one time of your life or another you're going to be at a college or high school party.  You're going to be tossed of these beers.   You're going to drink it because its one of the few things available.  You were probably young and didn't know what good beer was.   But you enjoyed it because it was readily available.  This is a beer for those people.    The taste is akin to seltzer water with a hint of lime and freshly cut grass.   Not too terrible, but not pleasant.      The smell is that of a dirty public restroom. It smells of piss and urinal cakes.  You know that smell.   Like walking into a walmart or public park bathroom. Greeted by pee, feces and a slight rose like smell in the air    The look is slightly yellow and highly carbonated.  It looks like any old light beer.    When you pour it into a glass it has a 2 finger head if its brand new out of a cold can.  Otherwise, its fizzy and reminds me of waking up at 2 in the morning having to pee.      Lets face it. This is a cheap beer to be drinken by people who want to have alcohol in their body fast. Not to be enjoyed or rememebered.    For me it reminds me of camping, and has a nostalgic vibe of walking to the camp grounds bathroom and being greeted by the overwhelming smell of pee and dew in the air.   
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3 | smell: 3 | taste: 2 | feel: 4 | overall: 2.75 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1 | overall: 1.25 
+look: 2 | smell: 2 | taste: 1.5 | feel: 1.75 | overall: 1.75 
+look: 3 | smell: 3 | taste: 2.75 | feel: 2.5 | overall: 3 
+look: 4 | smell: 3 | taste: 1 | feel: 2.5 | overall: 1 The worst light beer I've ever had taste like cardboard craps guaranteed afterward 
+look: 1.25 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1 Expensive bottled chlorine water. Social conformity is too blame for this abomination... 
+look: 1.75 | smell: 2.5 | taste: 2.75 | feel: 2 | overall: 2.25 
+look: 1 | smell: 3 | taste: 3 | feel: 5 | overall: 3 Beer for Men    Don't think less of me. I was a Ted Nugent fan when I was a child. I liked high-testosterone rock. Stormtroopin'. Stranglehold. Yank Me Crank Me (but don't wake up and thank me). Scream Dream. Wango Tango. I was a confused overly aggressive teenager. I liked that music. But the man is horrible. I'm not going to go into the deets.    The other day I heard that the Bud Light concert series included a concert by Terrible Ted. Someone put together an online petition to be presented to Bud Light. Then suddenly with no announcement, the Nugent concert was removed from the Bud Light website. Good for them. So never having had Bud Light before, I thought I'd give them a head nod and try the product.    I'm impressed. I mean I was not expecting this. This is decent. No, it's not IPA. I love IPAs. In the summer I like to drink something lighter. When I'm scraping decades old caulk off the windows in the hot sun, I tend to consume more liquids, and I'd prefer it to be great tasting beer rather than lemonade so I like something with lower alcohol content or I'll be featured in a World's Dumbest Carpenters video or America's Funniest Home Videos.    The color is your typical 70s beer urine coloring. It's clear, not cloudy. You see some bubbles bubbling up. The smell, oh the smell, brings me back to when I was a kid and my dad would drink cheap beer. I remember smelling it at a block party. And the taste is very, very mild. I mean there is just a hint of a taste, not much. But it goes down smooth and gets the job done. I guess I should get back to scraping that old caulk off now.   
+look: 1.75 | smell: 1.5 | taste: 2 | feel: 1.75 | overall: 2 
+look: 2.5 | smell: 1.75 | taste: 1.25 | feel: 2 | overall: 2.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 2 | taste: 2.25 | feel: 2.5 | overall: 2 
+look: 2.5 | smell: 1.5 | taste: 1 | feel: 1 | overall: 1.5 
+look: 2 | smell: 1.5 | taste: 2.5 | feel: 1.75 | overall: 2.75 No smell. No head or lacing. Very watery with Light sweet taste with very little hops bitterness. Nothing offensive. Nothing great either. You could do worse with a light AAL. I think this is one of the better of the American light beers, but that's not saying much. Miller lite has the definite edge over this.   
+look: 2.5 | smell: 1.5 | taste: 3 | feel: 3 | overall: 2 From a can.    Pours a very pale translucent yellow with a half finger, fizzy white head.  Smells of sweet corn, green apples and mild sugar.  Ice cold this isn't half bad, but as it warms it's charm quickly disappears. I get flavors of sugary cereal, bread, red and green apples and just the faintest notion of bitterness.  Feel is light and extremely well carbonated, akin to seltzer water.    Pretty bland, but not necessarily "bad". There's nothing here thats really offensive or repugnant to the palate. If you get this fresh and not sunstroked it's really not terrible. The great thing about this beer is that you can drink a lot of it without getting wasted or having to worry about your caloric intake. I believe there's a time and place for beers like this during the summer when the weather gets really hot.   
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 4.75 | smell: 3 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 3 | smell: 1.5 | taste: 1.75 | feel: 1.5 | overall: 1.5 
+look: 4.25 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.5 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Look is beautiful... Let's be realistic, lagers are suppose to be crystal clear. This is more clear than most drinking water. In fact everything about this beer is more water than water. Smells like skunky water. Tastes like well water. Feels like carbonated water. Great for cooking pasta and rice in. Great for giving away. Great washing out your growler. Terrible for drinking   
+look: 2.25 | smell: 2 | taste: 2 | feel: 1.75 | overall: 2.25 
+look: 1.25 | smell: 1.25 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 Not good at all, just tastes generic and sugary sticky... 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 3 Bud Light, the King of non-descript party beers. Taste gets a 2, because at the least it is no offensive. I hate this shtuff, I really do. But, credit where credit is do, it easy to power drink the hell out this. 8 beers in twenty minutes is not undoable (I just need a few ant-acids before hand). Overall, I give this a three, because it is drinkable and I can drink a lot of it.   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 1.5 | smell: 1.25 | taste: 3 | feel: 3 | overall: 1.75 
+look: 1.75 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2.25 
+look: 2 | smell: 1.5 | taste: 1.5 | feel: 1.75 | overall: 2 
+look: 2.5 | smell: 2.25 | taste: 2.5 | feel: 2.5 | overall: 2.75 
+look: 2.5 | smell: 1.5 | taste: 2.25 | feel: 1.25 | overall: 1.75 
+look: 2.5 | smell: 2.5 | taste: 2.75 | feel: 2.5 | overall: 2.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 1.75 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 2 | taste: 1.75 | feel: 2 | overall: 2 
+look: 2 | smell: 2 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 3 | smell: 2.75 | taste: 3.5 | feel: 2.75 | overall: 3.25 
+look: 1.5 | smell: 1.5 | taste: 1.75 | feel: 2 | overall: 1.75 
+look: 2 | smell: 2 | taste: 2.5 | feel: 5 | overall: 2.75 Ball games. 
+look: 1.25 | smell: 3 | taste: 2 | feel: 2 | overall: 1.75 
+look: 2 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 2 
+look: 1.75 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 2 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 2 | overall: 1.75 No thank you. 
+look: 2 | smell: 1.25 | taste: 1.25 | feel: 1.5 | overall: 1.5 
+look: 2.25 | smell: 1.75 | taste: 2.25 | feel: 2.75 | overall: 2.25 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1.5 | smell: 1.75 | taste: 2.25 | feel: 1.5 | overall: 2 
+look: 3 | smell: 2 | taste: 4.5 | feel: 3 | overall: 4 I love it! It's cheap and accessible. I like it best extremely cold on a hot summer day in a bottle. 
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 3.75 | overall: 3.5 This beer is not bad at all to be so cheap. The color has a very light golden look to it. its smells light and feels a little watered-down but the taste and feel of it going down is amazing and refreshing. It also has a sweet taste unlike and other light beer I've tried so far. No hangover noticed at all the next morning which was a plus. Overall, great beer for parties or hanging out with friends at home. Its also good to have by your self. And as I found out, its a great beer to marinate beef steak or flap meat with.   
+look: 2 | smell: 1.5 | taste: 3.25 | feel: 3.25 | overall: 3 
+look: 1.5 | smell: 1.5 | taste: 1 | feel: 1.25 | overall: 1 
+look: 1.25 | smell: 1 | taste: 1.25 | feel: 1.5 | overall: 1.25 A - Similar to urine after you drink a gallon of water. A bit of white head/foam.    S - Nothing. I got absolutely nothing.    T - Red Solo cups, failure and regret.    M - Almost flat seltzer water.    O - To borrow a term from modern day pundit, commentator and all around philosopher Charles Barkley, this beer is "turrible". It's reputation for being awful is well deserved. Drink at your own peril. The only redeeming aspect of drinking this beer is that it'll remind you of how bad beer can be, thus allowing you to recalibrate your palate and truly appreciate all the great beers out there.   
+look: 1.75 | smell: 1.25 | taste: 2.5 | feel: 1.75 | overall: 1.25 
+look: 5 | smell: 5 | taste: 2 | feel: 1.5 | overall: 2 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 Needs some bitterness for balance. 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 1.5 | taste: 2 | feel: 2 | overall: 1.75 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1.75 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2.5 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 1.75 | smell: 1.25 | taste: 1.5 | feel: 1.75 | overall: 1.5 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 3 | smell: 1.75 | taste: 1 | feel: 1.25 | overall: 1.25 
+look: 1.5 | smell: 1.25 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 Ok on the boat during a hot day. Must be ice cold and have a lot of them 
+look: 2.5 | smell: 2 | taste: 1.25 | feel: 1.25 | overall: 1.75 A- Bight yellow but not as fluorescent as piss when taking vitamin B supplements.    S- A faint hint of hops.     T- Some hop bitterness at the finish.     M- Llght mouthfeel with a fizzy finish. Watery texture covered up by the fizz at the finish.     D- Some hop bitterness, but in a bad way. No malt qualities.   
+look: 2 | smell: 1 | taste: 1 | feel: 1.25 | overall: 1.25 
+look: 4 | smell: 3 | taste: 3.5 | feel: 4.5 | overall: 3.75 L: clear yellow, tons of carbonation. White head  S: raw ingredients, barley, yeast, malt.   T: very sweet. Think sugar water with barley.   F: super drinkable for which it's known for. Very refreshing on a hot day.  O: perfect session beer for being outside on a hot day.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 I told myself I wouldn't rate this. But I've been drinking (Not this beer, though I have had it) and I took some notes on this one time as a joke. It tastes absolutely terrible, smells terrible, feels bad in my mouth, taste is reminiscent of a fake apple granola bar mixed with water and left to rot. Seriously, this is the only beer that I flat out refuse to drink.   
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 this stuff takes like sour sea water. Disgusting. I can't believe people like this garbage. 
+look: 3 | smell: 2 | taste: 2 | feel: 2.5 | overall: 2 
+look: 2.25 | smell: 2.75 | taste: 3.5 | feel: 4.5 | overall: 3 
+look: 1.75 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 This stuff is absolute garbage. I'm a college kids who drinks his fair share of cheap light beers but Bud Light is an absolute joke. This stuff is about as boring as it gets.   
+look: 3 | smell: 2.25 | taste: 2.75 | feel: 2.75 | overall: 2.5 
+look: 2.75 | smell: 1.5 | taste: 2 | feel: 1.5 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.75 | smell: 1.75 | taste: 1.5 | feel: 1.75 | overall: 1.75 
+look: 2.5 | smell: 2.75 | taste: 3.25 | feel: 2.75 | overall: 3.25 Light yellow color typical of light beers, moderate white cap that quickly goes away.    Very mild aroma of sweet malt but didn't detect any hop scent.    Good taste for the type. These beers are not made for the flavor seekers in the crowd and that's alright, enough room for all. I do get a hint of malt but still no hops.    Light texture with a sense of fullness that seems to come from the ingredients and not carbonation.     I have friends who drink this brand almost exclusively. They are far from flavor challenged, in fact can be quite discerning when it comes to wine. With beer though this suits them fine.   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 2 | smell: 2 | taste: 1.5 | feel: 2.25 | overall: 2 
+look: 2 | smell: 1.75 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1 | smell: 1.25 | taste: 1 | feel: 1.5 | overall: 1 
+look: 1.75 | smell: 1.75 | taste: 2.25 | feel: 2 | overall: 2.25 
+look: 1 | smell: 1.5 | taste: 1 | feel: 1.5 | overall: 1 
+look: 1.75 | smell: 2 | taste: 2.5 | feel: 2.25 | overall: 2.25 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 If I could rate it zero I would. Disgusting. I can't even drink this on a hot summers day. 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 Pours a clear golden yellow with a finger of white foam.    Smells like musty grains.    Grain soaked water.    Light-bodied, high carbonation.    Overall, nothing there.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 garbage 
+look: 1.25 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.75 | smell: 1.75 | taste: 2 | feel: 2 | overall: 2 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3 | smell: 2.5 | taste: 2.25 | feel: 2.5 | overall: 2.5 Standard Bud is OKish, so Bud light is pretty much watered down Bud. Still, this is better than Miller Lite. Dry and highly carbonated, but not much going for it. OK if offered for free.   
+look: 5 | smell: 1.5 | taste: 1.75 | feel: 1.25 | overall: 1.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 2 | taste: 1.5 | feel: 1.5 | overall: 1.75 
+look: 3.25 | smell: 2.75 | taste: 3.25 | feel: 2.25 | overall: 2.75 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 3 | smell: 3 | taste: 2.5 | feel: 2.5 | overall: 3 In tasting and reviewing this beer, one has to remember we are rating a light adjunct lager. To be fair, we have to compare how it stacks up against other beers in the same category. It has an entirely appropriate color, carbonation and mouthfeel and is crisp and refreshing. No off flavors, none of that canned-corn sweetness of corn beers, no perceptible yeastiness. As a brewer, I am keenly aware of how hard it is to make this beer style this well, whether you like the style or not. Don't get me wrong...I don't buy this stuff unless I have certain friends or family coming over, but I don't think it's quite as bad as some of the haters make it out to be. Just don't expect it to taste like "real" beer!   
+look: 1.25 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1.25 
+look: 2 | smell: 2 | taste: 2.25 | feel: 2.75 | overall: 2.5 
+look: 3 | smell: 3 | taste: 2 | feel: 3 | overall: 2.75 
+look: 2.5 | smell: 2 | taste: 2 | feel: 2.25 | overall: 2 
+look: 2 | smell: 1.25 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1.25 | smell: 1 | taste: 1 | feel: 1.25 | overall: 1.25 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 2 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 2 
+look: 2 | smell: 1.75 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1.25 | smell: 1.25 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 3 | smell: 2.5 | taste: 2 | feel: 2 | overall: 2 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 anheuser-busch give me a headache 
+look: 3 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3 | smell: 2.75 | taste: 1 | feel: 1 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 3.5 | smell: 2 | taste: 1.5 | feel: 3 | overall: 2 
+look: 2.5 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.75 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Let's all be honest, Budweiser is a pretty good commercial beer. Now remove some of the kick and water it down more... What do you have left over? Bud Light.   
+look: 1.25 | smell: 1.25 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 2.5 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Just terrible. 
+look: 2.5 | smell: 2.5 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 1.75 | smell: 1.75 | taste: 1.5 | feel: 2.25 | overall: 2.25 Bud Light is a perfect beer for a college kid with literally no taste buds. This beer tastes very water down and that's basically all to it. Didn't really get much from the aroma but the taste of the beer was all I needed. I would definitely recommend other light beers instead.   
+look: 1.25 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 2 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 2 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 2.25 | smell: 2.25 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 2 | smell: 1.75 | taste: 2.25 | feel: 2 | overall: 2 
+look: 3.75 | smell: 2 | taste: 1.5 | feel: 1 | overall: 2 
+look: 1.5 | smell: 1.5 | taste: 1 | feel: 1 | overall: 1.5 
+look: 3.25 | smell: 3 | taste: 2 | feel: 3 | overall: 2.5 Nothing special, tasteless. 
+look: 1.25 | smell: 1.25 | taste: 1.25 | feel: 1.5 | overall: 1.25 **  01/28/2012  Smells Awful. Looks like Yellow-White Pissy piss water. Taste is musty grass. The only saving grace is that it is watered down and ice cold.  **   
+look: 2.25 | smell: 2.5 | taste: 2.5 | feel: 3 | overall: 2.5 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3 | smell: 2.5 | taste: 2.5 | feel: 2.25 | overall: 2.5 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 2.5 | smell: 2 | taste: 2 | feel: 2 | overall: 2.5 
+look: 3.5 | smell: 2.5 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 4.5 | smell: 2 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1.25 | overall: 1 
+look: 2.5 | smell: 2 | taste: 1.75 | feel: 1.75 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2.25 | smell: 2.25 | taste: 2.25 | feel: 2 | overall: 2.25 
+look: 1.75 | smell: 1.5 | taste: 1.25 | feel: 2 | overall: 1.5 
+look: 2 | smell: 1.5 | taste: 1.75 | feel: 2 | overall: 1.75 This is a light beer. I understand that. The expectation for this drink was very low and it did not impress. The best way to describe this beer is with this idea. The brewmaster had a vat of hot water and then they poured a syrup with the label "beer flavour" on it into the water. It is the most bland, watery, and uninteresting beer there is. It is not at all ambitious. Having said that the beer is drinkable. I mean, so is tap water. It looks a light yellow. Moderate carbonation. Moderate head. Very dry beer in fact (leaves you thirsty). This is just a bare bones cheap beer and hey, it's tolerable but anyone wanting a decent beer will not find that in bud light.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 1.5 | taste: 1.5 | feel: 1 | overall: 1.5 
+look: 1.5 | smell: 1.25 | taste: 1.5 | feel: 1.75 | overall: 1.5 
+look: 2.25 | smell: 1.5 | taste: 2.25 | feel: 2.25 | overall: 2 Very watered down version of Budweiser. Tastes like water and cereal grain. Not absolutely horrible but not good either. 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Best beer ever made! 
+look: 1 | smell: 1.25 | taste: 1 | feel: 1.5 | overall: 1 
+look: 2 | smell: 1.75 | taste: 1.5 | feel: 2 | overall: 1.5 
+look: 2.5 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 4.5 | smell: 5 | taste: 5 | feel: 5 | overall: 4.75 This stuff makes me wish water tasted like it. Seriously I don't see how anyone could not like bud light 
+look: 1.5 | smell: 1 | taste: 1.5 | feel: 1 | overall: 1 Horrible. 
+look: 3.5 | smell: 2.25 | taste: 2.5 | feel: 2.75 | overall: 2.5 Everyone here that's looking up Bud Light knows what they're getting. At some point in your beer drinking life, you're gonna have a Bud Light. I've had it more than I know, but I haven't had it in years. Someone left a can in the in-laws fridge so I grabbed it since they don't drink. Right from the can, Aroma and taste are identical: cool filtered water and subtle sweet creamed corn. It's not bad, but it's not much. Drinks like water.     Look, I'm not gonna shit on Bud Light. It's mower beer. It is what it is and it is. It's not bad, it's not good, it just exists. And, that's enough.   
+look: 2 | smell: 1.75 | taste: 2 | feel: 2 | overall: 2 
+look: 4 | smell: 1.25 | taste: 1 | feel: 1.5 | overall: 1.5 
+look: 2.5 | smell: 2.5 | taste: 1.25 | feel: 2.5 | overall: 1.5 
+look: 3.75 | smell: 2 | taste: 3.75 | feel: 2 | overall: 3 
+look: 2.5 | smell: 2 | taste: 2.5 | feel: 3 | overall: 2.5 
+look: 1.25 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.5 | smell: 1.5 | taste: 1.25 | feel: 1.5 | overall: 1.5 
+look: 2.5 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 4 | smell: 1.5 | taste: 1.5 | feel: 1 | overall: 1.5 
+look: 2.5 | smell: 1 | taste: 2 | feel: 2 | overall: 2 
+look: 3.75 | smell: 1.25 | taste: 1.75 | feel: 2.5 | overall: 1.75 Served in a seidel, it pours a light yellow, clear, with a one-finger head, frothy, with some retention.     Faint sweet malts, corn. Almost nonexistent.    The taste follows the nose, barely. Actually, there is almost no flavor whatsoever, and that almost absent flavor fades almost instantly. Watery mouthfeel, a lot of carbonation.     So, this is only a choice if you are hot and thirsty and have no interest in flavor or aroma, at all.  However, this is the kind of beer that stained the pride and honor of all beers in the mainstream opinion. Not cool, budlight, not cool.   
+look: 1.25 | smell: 1 | taste: 1.25 | feel: 1.5 | overall: 1.25 
+look: 1.5 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1.25 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3 | smell: 2.5 | taste: 2.25 | feel: 2.5 | overall: 2.5 
+look: 2 | smell: 1.75 | taste: 2 | feel: 2 | overall: 2 
+look: 2 | smell: 1.75 | taste: 2 | feel: 2 | overall: 2 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3.75 | smell: 3.25 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 1.75 | smell: 2 | taste: 2 | feel: 1.5 | overall: 2 Had it from the can because it was free.   Smelled of light grains and corn. That's a stretch.  Tasted like corn water.  Went down like water, essentially.  Overall. It's Bud Light. Read the other reviews. I prefer a Coors Light.   
+look: 2 | smell: 2 | taste: 3 | feel: 2.5 | overall: 2 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 2 | overall: 1.75 
+look: 4 | smell: 5 | taste: 5 | feel: 4.75 | overall: 4.75 I really enjoy this flavorful beer! The smoothness and taste of this light beer excels all other domestic light beers. Just enjoy the flavor and superior taste to this quality beer.BL outstanding!!   
+look: 2.75 | smell: 2 | taste: 2.5 | feel: 3 | overall: 2.5 
+look: 2 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 The can says beer and "contains alcohol " both of which are questionable claims. 
+look: 1.5 | smell: 1 | taste: 1.25 | feel: 1 | overall: 1.25 
+look: 2.75 | smell: 2 | taste: 2 | feel: 2 | overall: 2.25 On tap in pint glass.    Appearance: color is standard pale straw, small white head dissipates quickly. Moderate streaming carbonation and virtually no lacing.  Aroma: not much here (as with all light beers), some faint barley and other grains, no real hops that I pick up.  Mouthfeel: light and crisp with a too-dry finish. This is a beer that is so dry that it leaves me thirsty.  Flavor is so very mild. A bit of barley malt sweetness along with a maybe a slight hint of citrus in the middle and finish.   Overall: it is what it is. Loved by hundreds of millions, hated by millions. Personally I would never buy it (had this sample in a ’bottomless’ pint at a banguet. That being said, it’s not awful. Many say it tastes like piss, but I have never consumed piss so I don’t know whether that is true or not.   
+look: 3 | smell: 2 | taste: 1.75 | feel: 2 | overall: 2 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Horrible. 
+look: 3.5 | smell: 2 | taste: 1.75 | feel: 1.5 | overall: 2 
+look: 3.25 | smell: 2.5 | taste: 1.75 | feel: 3 | overall: 2.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Love bud light brings me back to the olden days 
+look: 1.5 | smell: 1.5 | taste: 1.75 | feel: 1.5 | overall: 1.75 
+look: 2 | smell: 2 | taste: 1.75 | feel: 2 | overall: 2 
+look: 3.25 | smell: 2.5 | taste: 2.5 | feel: 3.75 | overall: 3 Never before has the taste of cardboard, raw grain, and rice been so delicious. We all know what this beer is: lawnmower football-watching dive bar no-thinking thirst quencher. Except for the fizzy head it actually looks good in a glass, too, and the light body is second to none in terms of crushability. This beer also has a special ability: exposing people who take beer too seriously.   
+look: 2.5 | smell: 2 | taste: 2.25 | feel: 1.75 | overall: 2.25 I don't like it! 
+look: 2 | smell: 1.5 | taste: 1.5 | feel: 2.25 | overall: 2 
+look: 1.75 | smell: 1.75 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 3 | overall: 2.5 L: Golden body, long-lasting GMO head  S: Slight citrus, nothingness  T: Bitter metallic rice beer  F: Watery, sessionable  O: Drank my own piss, whats new?   
+look: 3.25 | smell: 2.25 | taste: 2.5 | feel: 2.25 | overall: 2.5 Enjoyed at a conference. Pours a pale golden with lots of carbonation producing a bubbly head, Very light scent. Flavor follows the nose. While not overly impressive, this beer is a mass market lager that is meant to be sold cheap and enjoyed COLD. It does that very well.   
+look: 1 | smell: 1.25 | taste: 1.25 | feel: 1 | overall: 1 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3 | smell: 4 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 2.5 | smell: 1.5 | taste: 1.5 | feel: 1.75 | overall: 1.5 
+look: 1.5 | smell: 1.25 | taste: 1.5 | feel: 1.75 | overall: 1.5 
+look: 2.5 | smell: 2.5 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 1 | smell: 1 | taste: 1.5 | feel: 1.75 | overall: 1.75 
+look: 3 | smell: 1.5 | taste: 1.5 | feel: 2 | overall: 1.5 
+look: 2.5 | smell: 2.5 | taste: 2.25 | feel: 2.5 | overall: 2.5 
+look: 2 | smell: 2 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 2 | smell: 1.5 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 2.75 | smell: 1.5 | taste: 1.75 | feel: 1.5 | overall: 1.5 I thought I would give this one a try. I try to keep an open mind. Here's what I thought.  Look- very clear straw orange, big white head quickly dissipates . Very thin lace.  Smell- not good. Skunky, cooked veggies and rice adjuncts.  Taste- surprisingly lime like. Very watery, feels like a seltzer. Virtually no hops presence. Dry finish. Weird aftertaste.  Feel- extremely light bodied. Some crispness, yet, hard to finish.  Overall- This is not good at all. One and done for me.   
+look: 1.5 | smell: 1.5 | taste: 1.25 | feel: 1.5 | overall: 1.5 
+look: 1 | smell: 1 | taste: 2.5 | feel: 1.5 | overall: 2 
+look: 2.5 | smell: 3 | taste: 2 | feel: 2.75 | overall: 2 L: A very pale yellow color, has lots of carbonation but no real lasting head.     S: Overall I get a hint of pleasant fruity notes and a general hint of sweetness. No smell of hops to speak of.    T: The smell is deceiving, I expected some nice light malt flavor but got only the faintest hint of it. No hop flavor unless you gulp the stuff, which I would not recommend. Has an unpleasant aftertaste that gets worse as the beer warms up; now I understand why I see some customers at the bar I work at ask for another one once when it gets too warm.    F: Very light body, like carbonated water. It can be fun to drink if the city shuts off your tap water or something. Or if you are at a party in the the hot Texas sun.     Comments: I don't understand why so many people on this site think bud-light is evil or something. You get what you pay for, it's a cheap nearly flavorless beer purposefully created to be as bland and inoffensive as possible so that everyone can drink it. It's just not for me because I don't drink beer because I'm thirsty, that's what water is for.   
+look: 2 | smell: 1.25 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 Light golden color, light mouthfeel, medium carbonation, sweet taste, basically the cheap beer that you can drink a lot of and is available at most sporting events and bars so easy to get. The best way to drink it is on tap. You drink it when you're drinking to be social at parties and taste is not a concern. It's what got me started drinking beer in college.   
+look: 1.75 | smell: 1.75 | taste: 2 | feel: 2 | overall: 1.75 
+look: 2 | smell: 1 | taste: 1 | feel: 2 | overall: 1 
+look: 2.75 | smell: 2.25 | taste: 2 | feel: 2 | overall: 2 On tap. Served in a shaker pint.   I believe this is my first Bud Light ... and my last.   This is probably the most watery and tasteless beer I've ever had (possible exception: another An-Busch Light beer). It almost certainly has less aroma than any other beer I've ever had. I   have good reason to suspect I have a rather sensitive sense of smell yet this beer has almost none.   They shouldn't even call this beer.   
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1.5 | smell: 2 | taste: 2.25 | feel: 3 | overall: 2 
+look: 1.5 | smell: 1 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2 | smell: 2 | taste: 1.5 | feel: 2 | overall: 2 
+look: 3 | smell: 1.75 | taste: 1 | feel: 1.5 | overall: 1.5 Just being blunt on this one without much filter. This is one of the worst beers I've ever had.     Look - typical gold lager color with normal head. Nothing out the ordinary.    Smell - very basic. Nothing worth even commenting about.    Taste - Seems to me that Budweiser insists on dumping extra sugar in this junk while brewing it. You can taste the sweetness and its not pleasant. It's thin, watery, and as mentioned, way too sweet. The aftertaste taste like you've sucked on a sugar cube. Always seems to taste like the rubber tubes that it comes out of while being poured. Terrible. Really bad.    Feel - very thin. Nothing redeeming about it at all.     The only reason to drink this is if all other beers are gone and you just have to drink something. You can also drink about 450 of them before you'd even feel drunk, if that's your angle. Terrible beer. I will actually pass on a beer altogether and drink water before I will drink a Bud Light that someone offers me. Only clever marketing by Budweiser still makes this sorry excuse relevant.   
+look: 1.25 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1.25 
+look: 2 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 Piss water 
+look: 2 | smell: 2 | taste: 2.25 | feel: 2.25 | overall: 2.25 only good thing I can say was the beer was cold. 
+look: 2 | smell: 1.75 | taste: 1.5 | feel: 2.5 | overall: 1.75 
+look: 4 | smell: 3 | taste: 4 | feel: 3.75 | overall: 4 Not exactly a great beer but a definite go to beer when I want a break form my heavier, thicker favorites like Guinness Drought and Smithwicks . 
+look: 2 | smell: 1 | taste: 2 | feel: 1.5 | overall: 2 Beer is beer i reckon 
+look: 4.25 | smell: 2.5 | taste: 1.5 | feel: 1.25 | overall: 1.5 
+look: 2.5 | smell: 1 | taste: 2 | feel: 2 | overall: 2 Had one of these New Years Eve at a party. I haven't had one of these in over 2 or 3 years. Going from "craft" beer to this was a reminder of how awful commercial beers are.    I'm not going to go too deep into the specifics of the beer.    Looks like water, tastes like water.   
+look: 3 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 2.75 | smell: 1.25 | taste: 4 | feel: 2.5 | overall: 2.5 
+look: 1 | smell: 1.5 | taste: 1 | feel: 1.5 | overall: 1.25 Kinda figured any beer person needs to "tick" this one, at least once, so here goes.    Appearance: Crown of huge white fizzy suds atop a complexion of clear, almost golden “beer”. Very very pallid and watery. No real lace.    Aroma: Rice, corny grains. Only a slight (slight!) touch of hops.    Taste: Crisp and light with barely any real flavor. I give this points for being “refreshing” as it’s basically like a beer-flavored fizzy soft drink. Flavor profile is really virtually nil it’s so watery.     As a beery drink, not altogether awful. As a beer? Nah.   
+look: 1 | smell: 3 | taste: 4 | feel: 2.5 | overall: 2.75 Too big of a company and they don't need my support. My first beer and it tastes good and its vegan but I'm really excited to try something better. 
+look: 1 | smell: 1 | taste: 3 | feel: 5 | overall: 3 
+look: 2 | smell: 2 | taste: 2 | feel: 2.5 | overall: 2.5 I'll take a Bud over a Bud Light any day of the week. Unless I was dying of thirst, because this beer is all water with very little taste. It's the beer created for reflex-drinking. Of all the characteristics for which beers are rated here it falls flat across the board. If you're drinking one it's probably because you want a beer and it's the only one available or you don't feel like drinking a beer but want something in your hand to help you through whatever event you happen to be at.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Would rate this lower if i could. Potentially my least favorite consumable liquid out there. Would prefer urine or fat guy underboob sweat. I would go dry if this was the only alcohol available   
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 2 | overall: 1.75 
+look: 2.25 | smell: 2 | taste: 1.75 | feel: 1.75 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2.25 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 2.25 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1.25 
+look: 2 | smell: 1 | taste: 1 | feel: 1.5 | overall: 1.25 
+look: 4 | smell: 2 | taste: 2.5 | feel: 3.25 | overall: 2.5 It may/may not taste like actual beer, but it's not necessarily gross either. It just...is. Watery. Bubbly. Goes down easy. Smell is weak, adjuncty, though not necessarily stale. Taste is light, no hops, faint hint of malt. Beer water. Not gross though.   
+look: 2 | smell: 2.25 | taste: 2.25 | feel: 2 | overall: 2 
+look: 5 | smell: 3.5 | taste: 5 | feel: 4.25 | overall: 4 
+look: 3 | smell: 1 | taste: 2 | feel: 1.5 | overall: 2.25 
+look: 2 | smell: 2.5 | taste: 2.25 | feel: 2.25 | overall: 2.75 
+look: 1 | smell: 1 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 3.5 | smell: 2.5 | taste: 1.5 | feel: 2 | overall: 1.25 
+look: 1.75 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2.25 | smell: 1.5 | taste: 1 | feel: 2 | overall: 1.25 
+look: 2 | smell: 1.5 | taste: 1 | feel: 1 | overall: 1.5 
+look: 2.75 | smell: 2.5 | taste: 2.75 | feel: 2.5 | overall: 2.5 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 2 | taste: 3 | feel: 3 | overall: 2.75 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Fucking nasty 
+look: 1.5 | smell: 1 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 1.75 | smell: 1.25 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 1.25 | taste: 2 | feel: 1 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Give me a break! It's Bud Light! Much better than my favorite beers after a softball game. Almost like drinking water. It sometimes that's what you need. Don't forget to smash the can into your forehead when it's finished   
+look: 3.5 | smell: 3.5 | taste: 2 | feel: 2.75 | overall: 2.5 
+look: 1.75 | smell: 1 | taste: 1.5 | feel: 3.25 | overall: 3 Great for sporting events - it has its place 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 2 | smell: 1.75 | taste: 2 | feel: 2 | overall: 2 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 Cheap and widely found at any social event such as a tailgating party. 
+look: 2.25 | smell: 2.5 | taste: 1.5 | feel: 1.25 | overall: 1.75 Clear, pale gold with fine, soft and filmy head, pure white in color and weak in retention. Smells very basic, a bit grainy albeit extremely watered down, but with an interesting lemon twinge. In other words, even more like a pilsner than regular Budweiser, which is a plus. Beer itself is like mineral water that someone put a handful of dry grass in a few hours prior. While it doesn't make me gag or anything like that, I maintain that no beer should ever taste like this, fewer calories be damned. I'd almost take a decent lager that's gone bad or a malt liquor over this. Mouthfeel, is as I implied, like mineral water. Very thin, kind of spritzy. Refreshing in its own right, but so is apple juice.   
+look: 3 | smell: 3 | taste: 4 | feel: 3 | overall: 3.5 
+look: 3 | smell: 2.5 | taste: 3 | feel: 2.5 | overall: 3 I think it's a good party beer. Fits the younger budget and is available EVERYWHERE. Goes good with some Clamato or Hot-n-Spicy V8. 
+look: 3 | smell: 2.25 | taste: 1 | feel: 1.25 | overall: 2 
+look: 2 | smell: 1.5 | taste: 1.75 | feel: 2.25 | overall: 2 
+look: 1 | smell: 2.25 | taste: 1.25 | feel: 2 | overall: 1.5 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1 | smell: 1.25 | taste: 1 | feel: 1.5 | overall: 1 
+look: 2.5 | smell: 1.25 | taste: 1.25 | feel: 1 | overall: 1.25 Can from Jackson's d koent bin. Can't believe I haven't rated this yet. Clear pale golden, small white airy head, tons of bubbles. Aroma is a bit musty, funky, but mostly cereal grains. Taste isn't bad, its just not there. Nothing, Nada, zip. Body is watery and zero finish.   
+look: 1.25 | smell: 1.25 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 4 | smell: 3.25 | taste: 3 | feel: 1 | overall: 3.5 appearance-very clear and carbonated and yellow/golden.     smell-smells like beer, smells very light and it smells different than a budweiser in my opinion.     taste-very light, smooth, no bitterness and no noticable hop flavor. very smooth.     feel-watery and fizzy    overall-good light beer. this is a get drunk beer in my opinion.   
+look: 2.5 | smell: 1.5 | taste: 1 | feel: 2.25 | overall: 1.25 
+look: 2 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 2 
+look: 1.25 | smell: 2 | taste: 1.5 | feel: 1.25 | overall: 1.25 This is up there with Natural Light as a typical college party beer. That's to say that it lacks most qualities that make beer good and doesn't real pair well with anything other than beer pong. I can't understand how these light beers do so well in sales. It's sad that people are missing out on so many other great beers.   
+look: 1.5 | smell: 2 | taste: 1.5 | feel: 1.5 | overall: 2 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 2.75 | smell: 2.5 | taste: 4.75 | feel: 5 | overall: 4.5 
+look: 2 | smell: 2.25 | taste: 2.5 | feel: 2.25 | overall: 2.5 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Is this even a beer?  no color, no taste, no smell. is it just carbonated water with a shot of vodka in it?    Good for tailgates I guess 
+look: 2.25 | smell: 2 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 2 | taste: 2.25 | feel: 2.5 | overall: 2 
+look: 1 | smell: 1 | taste: 1.5 | feel: 1 | overall: 1 
+look: 3 | smell: 3 | taste: 2.75 | feel: 2.75 | overall: 3 tastes watered down as usual 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 3 | smell: 1.75 | taste: 1.75 | feel: 3 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1 | feel: 2 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 It should be a crime to use the word beer in the context of this stuff. Tasted like soap. Worst brew ever. 
+look: 2 | smell: 1 | taste: 1.5 | feel: 1.25 | overall: 1.5 
+look: 3 | smell: 1 | taste: 1 | feel: 3.75 | overall: 1.5 
+look: 1.75 | smell: 2 | taste: 2 | feel: 2 | overall: 2 Maybe the beer I like least of all time. Doesn't look, smell, or taste good. 
+look: 2 | smell: 2 | taste: 1.75 | feel: 2 | overall: 2 
+look: 1.5 | smell: 2 | taste: 2 | feel: 2 | overall: 1.75 
+look: 4.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 Look- Pale straw. White fizzy head.  Smell- Nothing, well maybe a little sweet malt.  Taste- When ice cold there is a fruity sweetness to it at the end. Minimal to almost non existent amounts of malt or hop presence. However, as this beer warms up it becomes undrinkable.  Feel- Fizzy carbonated water  Overall- The perfect beer to take on float trips.   
+look: 1.5 | smell: 1.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 1.75 | smell: 1.25 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 2 | smell: 2 | taste: 2 | feel: 2.25 | overall: 2.25 
+look: 2.5 | smell: 1.5 | taste: 1.5 | feel: 2 | overall: 1.5 
+look: 3 | smell: 1 | taste: 1 | feel: 3 | overall: 2 
+look: 2.5 | smell: 2.25 | taste: 2 | feel: 2 | overall: 2 
+look: 2 | smell: 1.5 | taste: 1 | feel: 1.5 | overall: 1.25 
+look: 3 | smell: 2.25 | taste: 1.75 | feel: 1 | overall: 2 The beer pours a nice thin white head that looks very nice but dissipates very, very quickly. The beer itself is clear pale straw color. The look isn't too bad and much better than I thought it would be but it still doesn't really compare to the more solid offerings that are the same color.    The smell is disappointing and not very good. There is a slight hop bitterness to it but not enough to discern what kind of hop notes. It also has a very sweet malt note and a tiny bit of alcohol smell to it that is not really appealing. The booze note seems to be more appealing with heavier beer styles and this ain't one of them.    The taste is just bad. I mean almost fail at life bad. The taste seems promising when it's the coldest but as it warms up, you lose whatever bitter hop note was there unlike other beers where the hop notes actually open up.    The feel is just fail. In fact, I'm sure AB uses water from the great lake of fail to brew this beer. The body is watery instead of thin with a tiny bit of fizz; making this beer feel like it was made with seltzer water.    Overall, this beer is a fail. A Great Big Lake of FAIL. If you were on a desert island and needed a source of water, this might suffice but outside of that lemonade might be the better option.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.25 | smell: 1 | taste: 1.5 | feel: 1.25 | overall: 1.25 
+look: 1.75 | smell: 1.25 | taste: 1.5 | feel: 1.25 | overall: 1.5 
+look: 2 | smell: 2 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1.75 | smell: 2 | taste: 1.75 | feel: 1.75 | overall: 2 
+look: 2.5 | smell: 2.5 | taste: 1.5 | feel: 2 | overall: 1.75 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 2.25 | smell: 2.5 | taste: 2 | feel: 3 | overall: 2.5 Time to review the world's most popular light beer. I can honestly say that I have never had this before. Even before my craft beer days, I would always have selected a regular adjunct lager over one of these. Here goes: Poured into a Seattle Beer Week pint glass. Pours a pale straw amber with a faint gold tint and a bare half finger white head with good retention and light lacing. Aroma of light, sweet biscuit malt and a faint hint of grassy hops. Flavor is very mild sweet adjunct malt with a distinct rice component (not sure if it is used, but this is spot on for Japanese rice lagers) with a hint of biscuit finishes with mild grassy hops. Tastes watered down. Light bodied with active carbonation. I'm baffled by the number of people who compare this (and other adjuncts) to piss; there is no real comparison. It tastes exactly like it is intended: a light, flavor attenuated mild beer that will offend almost no one. The slightly sweet malt is as inoffensive as it is uninteresting. A watery, mildly sweet malt and mildly hopped light lager. The only surprise here is how watered down it tastes. That makes it hard to understand as a session beer; really boring. This is a one and done. There is no reason to return this (except under desert island scenarios). My apologies to my Seattle Beer Week glass; we will not speak of this again.   
+look: 1 | smell: 1 | taste: 1.75 | feel: 1 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 1 | taste: 1 | feel: 2 | overall: 1.5 
+look: 2.5 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1.5 | smell: 1.25 | taste: 2.5 | feel: 4 | overall: 2.5 
+look: 3 | smell: 2 | taste: 1 | feel: 1.25 | overall: 1.25 
+look: 2 | smell: 2 | taste: 1.5 | feel: 2 | overall: 1.75 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 My go to beer for every day consumption. I like Bud Light, but don't love it. Good for a mild buzz without any fuss. 
+look: 1 | smell: 1 | taste: 1.25 | feel: 1 | overall: 1 
+look: 1.25 | smell: 1.25 | taste: 1.5 | feel: 1.25 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1 | smell: 3.5 | taste: 1 | feel: 1 | overall: 1.5 
+look: 2 | smell: 2 | taste: 2 | feel: 1.75 | overall: 2.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 1.75 | smell: 1.5 | taste: 2 | feel: 1.75 | overall: 2 
+look: 2 | smell: 2.75 | taste: 2 | feel: 2.25 | overall: 2.25 
+look: 2.25 | smell: 1.5 | taste: 1.75 | feel: 1.5 | overall: 1.75 
+look: 1 | smell: 1.5 | taste: 1.5 | feel: 1 | overall: 1 
+look: 2.5 | smell: 2.25 | taste: 2.75 | feel: 3.5 | overall: 3 People are giving this beer too much shit, honestly it's a beer that is meant to be drank at the beach, parties, and any drunk holiday where you just don't care and don't want to be a snob. For many of us this was our first beer, yeah is it watered down piss taste maybe but still remember the nostalgic memories it deserve's.   
+look: 1 | smell: 1 | taste: 1.25 | feel: 1 | overall: 1.75 Hints of rain water and deer urine 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 You already know what this beer tastes like. It's watered down horse pee. No flavor, no hops, nothing. It just tastes like a bad beer with 75% more water. This one is only drinkable at a tailgate.   
+look: 3 | smell: 2.75 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 3 | smell: 2.5 | taste: 1.75 | feel: 1.75 | overall: 2 
+look: 3.5 | smell: 1.75 | taste: 3.25 | feel: 4 | overall: 3 
+look: 2 | smell: 1.5 | taste: 2.5 | feel: 2 | overall: 2 I think people are a little harsh on their reviews of this beer. This beer is not meant to be drunk for that great beer taste experience. It is meant to supply backyard barbeques and all day drinking at frat parties. It must be bought in 30 packs or kegs. If you buy a 6 pack and think your taste buds will be charmed by the experience, then I fear what else you may be thinking.  Don't pair this beer with a fish or steak, pair it with a hot dog or a bratwurst. And enjoy the summer before it's gone.   
+look: 1.75 | smell: 1.5 | taste: 1.5 | feel: 1.75 | overall: 1.5 I poured this beer from its simple and light blue can into a standard pint glass, and noticed one of the worst looking beers I've ever seen. It's got an extremely pale yellow color, and a very insubstantial head that dissipates very quickly. The amount of bubbles tells that it's heavily carbonated.    Not only does it have almost no color, it has no smell either, except for feint hints of sweet cereal grains.    At this point I was hoping that the smell would be misleading, and that it would at least have a decent taste, but no, this tastes like carbonated water. No malts, no hops, just water and a bit of those cereal grains, which are noticeable in the aftertaste.    It feels light, thin, watery, and overcarbonated.    Overall, drinking this was a terrible experience. This is beer for people who don't like to drink beer. Don't get it? That's okay, neither do I.   
+look: 1.75 | smell: 1.25 | taste: 2.25 | feel: 1.75 | overall: 2 
+look: 1.5 | smell: 1 | taste: 1 | feel: 1.5 | overall: 1 
+look: 1.5 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1.5 | smell: 1.5 | taste: 1 | feel: 1 | overall: 1.25 
+look: 1.5 | smell: 1.25 | taste: 2 | feel: 2 | overall: 2 
+look: 1.75 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 1.75 
+look: 2.75 | smell: 2.5 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 For a light beer it is what it is. Very light and watery. Has some malts. Finish is clean crisp and dry.   I have yet to try a very good light beer. 
+look: 3 | smell: 3 | taste: 2 | feel: 3 | overall: 2 Alright drink...good feel and taste meh just a ok drink for events and college parties 
+look: 1 | smell: 1.5 | taste: 2 | feel: 1.75 | overall: 2 
+look: 2 | smell: 3.25 | taste: 3.5 | feel: 5 | overall: 3.5 
+look: 2 | smell: 1.75 | taste: 2 | feel: 1.75 | overall: 1.75 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2.25 | smell: 1.75 | taste: 2.5 | feel: 2.5 | overall: 2.25 
+look: 2.75 | smell: 2 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2 | smell: 1.75 | taste: 1.75 | feel: 2 | overall: 2.25 
+look: 2.25 | smell: 2 | taste: 3 | feel: 2 | overall: 2.75 As far as American light lagers go, this is my favorite. 
+look: 1.75 | smell: 1.25 | taste: 1.5 | feel: 1.5 | overall: 1.5 I usually wouldnt even bother rating a beer like this, but since being forced to pay $11for a bottle at a recent ac/dc concert, i thought i owed bud light one.perhaps its shame on me for even bothering to do this, but this beer is complete dogpiss, zero body, very little flavor, zero aroma and terrible feel....this beer is strictly for college kids with no money or taste in beer.....dogpiss in a can.   
+look: 3 | smell: 3 | taste: 3.5 | feel: 2.5 | overall: 3 
+look: 1 | smell: 1 | taste: 1.25 | feel: 1 | overall: 1.25 
+look: 1.5 | smell: 1.25 | taste: 1.5 | feel: 1.25 | overall: 1.5 
+look: 2.25 | smell: 2.25 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 2 | smell: 1.5 | taste: 1 | feel: 1 | overall: 1 
+look: 4.5 | smell: 1 | taste: 1.75 | feel: 3 | overall: 2 
+look: 3 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3 | taste: 4.25 | feel: 4.25 | overall: 4.5 My go to beer perfect for any occasion 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 1.75 
+look: 2 | smell: 2 | taste: 2 | feel: 2.5 | overall: 2 
+look: 1.75 | smell: 2 | taste: 2.75 | feel: 2.75 | overall: 3 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 2 | taste: 2.25 | feel: 2 | overall: 2 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 3 | smell: 2 | taste: 3 | feel: 3 | overall: 2.5 What can you say about Bud light? Its very drinkable. When the situation is right, This is a decent thing to have. Partying or When you are mowing. It isn't flavorful.The lack of flavor is probably a good thing, in some situations. Low ABV. Once again, Bud Light is good for partying. The Smell, is kind of putrid. But seriously, who would smell this willingly? Taste, is actually a strong point, Supreme Drinkability. Beery Water. Very light, With a hint of malt. Corn too. Appearance is straw yellow, and pale. In line with the style. Feel is carbonated, light and easy to drink. Not my personal choice, as i am not fond of light lagers, as they really don't have much in flavor, but I wouldn't turn one down, if it was offered, unless I wasn't in the mood to drink. Isn't bad isn't good. Boring, and forgettable. Could do worse for style though, which is Macro BMC light beer.   
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2.5 | smell: 2.5 | taste: 3.5 | feel: 2.5 | overall: 3.75 
+look: 1.5 | smell: 1 | taste: 1.25 | feel: 1 | overall: 1.5 
+look: 3 | smell: 2.25 | taste: 2.25 | feel: 2 | overall: 2.25 Another one I had to buy again just to tick off the style. Buy a Bud, drink a third of it, then fill it with water. And there ya have it - Bud Light. Don't even bother to buy one of these. Water down a real Bud instead. That way you at least have a third of a beer that's somewhat drinkable.   
+look: 2.5 | smell: 3 | taste: 4 | feel: 2.25 | overall: 3.75 
+look: 2 | smell: 2.25 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 2 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 2 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 1.75 | taste: 2.25 | feel: 3 | overall: 2.25 Poured from a 12oz bottle (bottled 12May15) into a pilsner glass.  LOOK: Pour with two finger's worth of white foam that dissipates into a half finger's worth after two minutes. Straw yellow in color. Ascending bubbles are in excess. Lacing is high and thick.  SMELL: Has subtle aromas of bitter hops with hints of car exhaust and spicy hops. Where are the malts???   TASTE: Initial taste consists of mild water flavors with hints of bitter hops. Mild water flavors enter immediately after along with subtle spicy hops and hints of corn adjunct flavors. Finishing off this disappointing symphony, strong water flavors enter as all previously flavors fail to push through except for spicy hops, which remain subtle.  FEEL: Light-bodied and overly carbonated. Carbonation stings the tongue. This does go down somewhat smooth, despite the high levels of carbonation. This finishes crisp.   NOTE: Still better than Coors Light.   
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 2 | smell: 1.75 | taste: 2.25 | feel: 2 | overall: 2 
+look: 1.25 | smell: 1.25 | taste: 1.25 | feel: 1.5 | overall: 1.25 
+look: 2.25 | smell: 1.75 | taste: 1 | feel: 2 | overall: 1.5 
+look: 1 | smell: 1 | taste: 1 | feel: 2 | overall: 1 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1.75 | smell: 1.25 | taste: 1.25 | feel: 1 | overall: 1.25 
+look: 1.25 | smell: 1 | taste: 1.75 | feel: 1.75 | overall: 1.5 
+look: 1 | smell: 1.25 | taste: 1.25 | feel: 1.75 | overall: 1.5 
+look: 1.5 | smell: 1.5 | taste: 1.75 | feel: 1.25 | overall: 1.5 
+look: 1.5 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 2 | smell: 2 | taste: 2 | feel: 2.25 | overall: 2 
+look: 3 | smell: 2.5 | taste: 2.25 | feel: 1.5 | overall: 2.25 
+look: 1 | smell: 1.25 | taste: 1 | feel: 1 | overall: 1 
+look: 1.75 | smell: 2 | taste: 1.75 | feel: 1.5 | overall: 1.75 
+look: 1 | smell: 1.5 | taste: 1.5 | feel: 1.25 | overall: 1.25 
+look: 4 | smell: 2.75 | taste: 2.5 | feel: 3.5 | overall: 2.5 
+look: 2 | smell: 2 | taste: 1 | feel: 2 | overall: 2 Pours a very sickly light amber color. With a white head on top that goes away quickly. Has a watered down malt smell. And the taste is like drinking some kind of nasty tap water.   
+look: 2 | smell: 1.25 | taste: 2.25 | feel: 3 | overall: 2.25 Light, watery, skunky, cheap. If you are OK with all of those than this is the beer for you. Not really any beer flavor here at all. Made for people who don't really enjoy the taste of beer but like social aspect of drinking throughout the day. If you take all that into account this beer does the job.   
+look: 3 | smell: 2 | taste: 2.5 | feel: 2.5 | overall: 2.75 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 3 | smell: 2 | taste: 2.75 | feel: 1 | overall: 2.5 Bud Light, yes it’s a macro brew, yes it is severely watered down, yes it is almost tasteless, even with all that it is my go to cheap beer, especially for beer pong, why because it’s cheap, and honestly tastes bester than the other macro brews.   
+look: 2 | smell: 1 | taste: 1 | feel: 1.5 | overall: 1.5 Cant stand how people view this as "americas" beer, tastes downright gross but then again when you need to drink something cold and cheap on a hot day, some may find nothing better.   
+look: 3 | smell: 1.75 | taste: 1 | feel: 1.5 | overall: 1.5 
+look: 2.5 | smell: 2 | taste: 1.5 | feel: 2.5 | overall: 2 
+look: 3 | smell: 2.5 | taste: 2.75 | feel: 2.75 | overall: 2.75 Poured from the can into a standard pint glass. Canning date on the bottom is June 10th, 2015.    Looks very, very pale yellow (when pouring, it's like ever-so-slightly yellowish-tinted water), very clear, with a lot of good-sized bubbles rising up from the bottom of the glass at all times. The color is a bit dull. But pale and dull as it is, it does still look like beer. Actually a decent-sized head of white foam on top, especially when poured quickly, and though it shrinks fairly fast some of it does hang around for a while. It even forms the standard "ring" around the outer edges of the glass.    Smell is... well, not the greatest at first. The first thing that comes to mind is "farty," though this is most noticeable when you first pour and fades away pretty quickly afterward. There's also a hint of a metallic sort of smell. When I had one before I picked up a bit of something that reminded me of cooked vegetables, but I'm not really getting that now. After the "farty" smell fades, the metallic kind of thing also seems to go away and you're left with only a little of a slight bready beer-like smell. The smell is very faint overall, though, so the not-so-pleasant aspects of it are not at all overpowering; you pretty much have to put your nose in the glass and sniff to pick up much of anything at all. Chances are that unless you actively try to smell this beer you will not really notice its smell at all.    The taste is overpowered by the fizziness of the carbonation at first, but once that dies down a tad there's a very light, dry bready sort of flavor there. As with the smell, it's very faint; unlike the smell, thankfully, there really aren't any unpleasant elements like farts or metal. Unfortunately, when you drink more than a sip that nice dry bready flavor shifts more to a sweeter, not as pleasant one -- reminding me mostly of white bread after you've started to chew it up, when the starches are already being broken down into sugars by your saliva. That's what it tastes like to drink a big gulp of Bud Light. I'm noticing today that I am also getting a slight bit of that "cooked veggie" thing in the taste, though thinking about it a bit I wonder if maybe it's actually closer to that funky smell rice makes when it's cooking. I suppose that would make sense, as I know I've read that the Bud line of beers uses rice as adjunct rather than corn. Overall the flavor isn't unpleasant, but it is pretty bland and one-dimensional. There's just not a lot to it -- it's pretty much just a dry-ish bready malt/rice sort of thing, no sign of hops or anything. Seriously, why not add some hops in? Most of the calories in beer come from the malt, so you'd think the "light" beers would have no reason not to add in at least as much hops as the "regular/heavy" version, if not a bit more.    Feel is like fizzy water, pretty much. By far the most insubstantial feeling beer I've ever had. If not for the carbonation it would be a whole lot like just drinking water; I haven't tried plain carbonated water so I can't say if it's *exactly* the same, but I imagine it's not far off. I suppose that's exactly what they're going for, what with this being a "light" beer and all, and it does make it easier to drink huge gulps at a time if you want (though sadly, that makes what little flavor is there not as good, so it's a little counterproductive.) As with the taste -- nothing really unpleasant about it, but there's not much there.    Overall, there's just not a whole lot to this one. I figure that's probably the defining feature of a light beer -- being weak, bland, watery, and well... light. However, I really can't rate it *that* low because, as mentioned above, there's really nothing unpleasant about it either -- it's a beer defined by its sheer blandness, for better or worse. I wouldn't ever buy this for myself, but there's nothing offensive about it either and I'd certainly drink it for free if offered -- better than a glass of water, albeit not by a whole lot. I just can't form any strong opinions on it because there's so little there to form an opinion on. I suppose if you want something that doesn't taste like much but still gets you buzzed, this might not be all that bad of a choice -- but I can't imagine that there aren't any more-flavorful alternatives even in the "light/lite" beer category.   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 2 | smell: 2 | taste: 2 | feel: 2.5 | overall: 2.25 
+look: 3.5 | smell: 3 | taste: 3 | feel: 3.5 | overall: 3.25 
+look: 1.5 | smell: 1.75 | taste: 1.75 | feel: 1.5 | overall: 1.75 
+look: 4.5 | smell: 2.5 | taste: 2 | feel: 4 | overall: 2 
+look: 2.25 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 2 | smell: 1.5 | taste: 2 | feel: 1.75 | overall: 2 
+look: 1.5 | smell: 1.75 | taste: 1.25 | feel: 1.5 | overall: 1.5 
+look: 5 | smell: 3 | taste: 5 | feel: 3 | overall: 4 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 This is the type of beer that is embarrassing to admit that I have tried before and is even more embarrassing to admit that I drank a lot of this beer in the past. It was a different era for me in which I had not seen the light, the light of IPAs and the light of a brave new world composed of intelligent beer advocates who appreciate the subtle art and science of brewing, drinking, and reviewing great beers. This watery beer has 4.2% ABV and not much else in it.    Look-Pours a standard light yellow with some carbonation thrown in there. The head is weak and disappears with its tail in between its legs.    Smell-Smells like a beer that you shouldn’t drink, but I took a gulp anyways.    Taste-It tasted like crappy beer. Yeah, but it tastes like grains and rice with no discernible flavors that are worthy of mentioning. I guess maybe the straw and grass from a stampede trampled field.     Moutfeel-It felt like a crappy beer with carbonation.    Overall-I think you can get the theme here. Crap.   
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 2 | smell: 1.75 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1.25 | smell: 1.5 | taste: 1.5 | feel: 1.5 | overall: 1.5 
+look: 1 | smell: 1 | taste: 5 | feel: 1 | overall: 3 Test. 
+look: 2.5 | smell: 1.5 | taste: 3.5 | feel: 2 | overall: 3.5 Bud Light is an odd beer. Among craft brewers it often gets a bad rap for its very plain taste, little to no aroma, and it's unremarkable standard beer color. However given its history and pedigree it remains one of the top selling beers of all-time. Popular from college campuses to football parking lots. It can be found in literally ANY bar, pub, tavern, or place that has a liquor licence in America (and dozens of other countries for that matter). It is the Diet Coke of beers. Nothing special right? Wrong! My chemistry teacher who taught me 400 level Chemistry of Fermentation, when askes what in his opinion was "the best beer in the world" responded with confidence and without hesitation "Bud Light. Anheuser Busch products are made with some of the strictest guidelines and with the most state of the art brewing equipment. Their brewing facility is kept within a tenth of a degree temptress range meaning if you have a Bud Light in Boston or Hong Kong your having the same exact beer. Not alot of breweries can pull that off." So the next time you snub you nose at a Bud light because they use rice filler just remember that they set alot of the standards that our precious micro - brews strive for in modern brewing.   
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 One word describes this beer: horrible 
+look: 1.25 | smell: 1.25 | taste: 1.25 | feel: 1.25 | overall: 1.25 
+look: 2 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 3 | smell: 2.75 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 1 | smell: 1 | taste: 1.25 | feel: 1 | overall: 1 
+look: 2 | smell: 2.25 | taste: 1.5 | feel: 1.75 | overall: 2 
+look: 3.25 | smell: 2.75 | taste: 2 | feel: 2.75 | overall: 2.5 
+look: 1.5 | smell: 1.5 | taste: 1.5 | feel: 1.25 | overall: 1.25 No flavor, nothing to be offensive. Not really a beer at all, just some swill you drink to get a buzz. Not bad for hot summers...that's about it. 
+look: 3 | smell: 3.25 | taste: 4 | feel: 4 | overall: 4 This is the most popular beer in the United States. I shall review it now, with zero bias.  Poured into a one liter beer mug from a 25 oz. can at a reasonable temperature...    Appearance - Has a very pale yellow straw color. It has a tall, soapy head, then dissipates. Appears to have high carbonation.     Smell - Not bad, smells of cereal and of adjunct corn and rice. No sign of hops.     Taste - Tastes just like Budweiser's little bro. I can taste grain and zero hops. The taste is muted compared to Budweiser's.     Mouth feel - Very spritzy, very carbonated, and watered down.     Overall - Well, this is an excellent party beer and bar beer, but it's not a good sit-down-and-drink beer. Still far better than other light beers I have tried. I feel like it has been given an underrated score.   
+look: 1.25 | smell: 1 | taste: 1.25 | feel: 1 | overall: 1.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 piss water at a football game 
+look: 1.5 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1.25 | smell: 1.25 | taste: 1.5 | feel: 1.5 | overall: 1.5 sadly there's worse light beers out there. at least the ABV is above 4.0 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 3 | smell: 2.5 | taste: 2.5 | feel: 3 | overall: 2.75 A - clear pale straw in color. light foamy head that dissipates quickly. fast rising carbonation. 3/5    S - corn, very light malt. rice. grassy hops, but hardly any present. 2.5/5    T - corn and rice. virtually no hops. light cereal flavor. 2.5/5    M - extremely light. clean. crisp. carbonation not overpowering. 3/5    O - not a lot going on here, but that's expected. light session beer that is designed for large quantities and hot days. 2.75/5   
+look: 5 | smell: 1.75 | taste: 2 | feel: 3 | overall: 1.25 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 More like Butt Sprite. Not even a real beer. 
+look: 2 | smell: 1.5 | taste: 1.5 | feel: 2 | overall: 1.75 Poured into a glass can. A crystal-clear light straw color. A vigorous pour produced a modest, turbulent white head that quickly disappeared, leaving scant, splotchy remnants on top. Almost no aroma. With aggressive sniffing, I detected some grainy malt. No hop presence. For a split second, I tasted some malt on the first sip, but it quickly surrendered to a soda water sensation with vague, mild bitterness. I dug deep but came up with nothing else. Aggressively carbonated.   
+look: 1.75 | smell: 1.5 | taste: 1.75 | feel: 1.25 | overall: 1.5 
+look: 1.75 | smell: 1.5 | taste: 1.75 | feel: 1.5 | overall: 1.5 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 2 | taste: 2.5 | feel: 3 | overall: 2 Better than Budweiser, not as good as PBR. This is just your standard American beer. 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Great water clone, horrible beer 
+look: 1.5 | smell: 1.75 | taste: 1.5 | feel: 1.75 | overall: 1.5 
+look: 1.75 | smell: 1.75 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 
+look: 1 | smell: 1.5 | taste: 1.5 | feel: 1.25 | overall: 1.25 Might sound like an exaggeration, but all I could taste is water and alcohol. 
+look: 2.5 | smell: 2.5 | taste: 2.75 | feel: 2.5 | overall: 2.5 
+look: 2 | smell: 1 | taste: 1 | feel: 1.5 | overall: 1.25 On tap to a shakey pint.    Look: Crystal clear straw in color. Head? Bwahahahaha! Lacing? Hahahaha! It does have a nice steady carbonation, though.    Smell: Smells exactly like stale water.    Taste: Pale malt. And that's about it.    Feel: Carbonation is fun. Body is non existent. Like the old joke goes, "fucking near water"    Overall: Augustus the first would be sad. Doesn't matter because he is turning over in his grave ever since the hostile take over. Good job InBev!   
+look: 1 | smell: 1 | taste: 1.25 | feel: 1.5 | overall: 1.25 Not a good beer at all 
+look: 2 | smell: 1.25 | taste: 1.75 | feel: 1.75 | overall: 1.75 
+look: 1.75 | smell: 1.75 | taste: 1.25 | feel: 2 | overall: 1.5 

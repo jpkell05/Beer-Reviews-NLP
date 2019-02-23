@@ -1,0 +1,1000 @@
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 2.5 | feel: 3 | overall: 3.75 This is a high ABV beer and it tastes like it. It’s good beer but it’s not to my liking. Taste is very personal though, so enjoy. 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 From the bottle, it pours a hazy darker amber with a modest head. In the nose, it is HOPS, lots of hops, A good bit of bitter in the mouth as well, balanced by a bit of malt. Decent!   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 22oz bomber: This one pours a cloudy darker golden color. Small off white head with minimal lacing. Nice nose. Pine, some citrus and a fair amount of malts. The taste is very good. A pretty good hop bite to it: a bit more than expected. A big malt body, but the sweetness is suppressed. Mainly pine and some citrus hops. Very Nice!   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 This is one I look forward to every year. Pours a ruddy, foggy copper color with an eggshell colored head. Aroma is pine and citrus. Taste has a nice malty sweetness to it. Medium body, nicely carbonated. Gotta love it.   
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4 | overall: 4.75 Gettin' it! 
+look: 5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 February 1st, 2015 - RuinTen has since taken off around San Diego, but I remember back in 2015 it looked novel and new, and somewhat pretty in the glass, where it burns with that characteristic Stone hue, red and blushing and angry looking. The foam kicks up a fearful storm, too, taking up fully half of this pilsener glass (an unwise choice, I know). The aroma is layered with resin and a leather sharpness defines the hop note. There's some grapefruit too and even a dash of dry lime, but the overall impression is of an appreciably dry and hoppy nose. Consistent with the smell, the flavor is dry and hoppy, but there's also a malty body to back it up. I also get the deep savory flavor of miso (as if smeared on a piece of meat prior to grilling). The aftertaste is little short, but reveals the miso glaze flavor bundled with a bitter twang. This ask a slow sipper, but enjoyable over that long time. I should also note that the booze stays relatively hidden, so caution is advised if drinking with excessive speed.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.25 | taste: 2.75 | feel: 3 | overall: 3 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.5 | feel: 4 | overall: 3.75 A rich looking copper/caramel colored beer. Also rich and smooth smelling. Taste is very nice also rich and smooth with just a right amount of hops, but just slightly bitter. Mouthfeel is good easy drinking in spite of the 10 % ABV. I like this one and the only knock on it is the bitterness in the after taste. On draft at Ron's Corner Tavern in a snifter.   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 This was poured into a snifter. The appearance was a hazy amber color with a slight transparency about it. A slim finger’s worth of white foaminess of a head slides into the beer. The smell had a juicy bittersweet blend of citrus, floral and piney hops running into an underlying score of malts, ever so delicate. The taste was pure bittersweet, such a nice balance from the hops blending spectacularly with the malts. A sweet juicy citrus aftertaste runs into the finish in a slight sticky sort of fashion. On the palate, this one sat about a light to medium on the body with a sneaky sessionability about it. 10.8%, hmmm, alcohol seems to hide itself stealthily. Overall, very nice DIPA I'd have again.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 Stone RuinTen Triple IPA pours a semi clear yet slightly cloudy amber color. A sizable bubbly soapy lather of a head caps the top, its white color accentuated by a tan hue. It retains well and leaves plenty of sudsy lacing.  The aroma, modest at first, is not necessarily a harbinger of things to come. Lots of caramel at first. There is the slightest bit of pine and cooking herbs and spices. Fruity yet not as citrusy as other IPAs; light grapefruit, however, there is a stronger emphasis on dried apricot, fig, and peach. The aroma opens up more well into the drink and on the malty side. For example, a biscuity malt makes its presence felt. Finally, wonderful sweet aroma of warm and freshly baked blueberry muffins caps things off.   In the mouth it is a complex combination of plump and juicy fruitiness, smooth and velvety malts that coat the mouth like a soft pillow, and a moderate to high pine hops prickle. Medium to full bodied, even chewy, yet dangerously drinkable. Feels like a hoppy barley wine at times. The carbonation is gentle. The fruity tones consist of apricot and moderate grapefruit and citrus twang on the backend. Sweet finish with a strong herbal, resiny and bitter linger.  I drank a whole bomber to myself and barely noticed the high ABV...until I got up! A more malt forward DIPA but with a strong hops bite. I enjoyed it a lot.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 2.75 | feel: 4.5 | overall: 3.25 I don't get the high ratings... Are they based on the brewery's reputation and the fact that it is such a "big" beer?  A "triple IPA" like this is most likely aimed at hopheads, so why would a brewer decide to "balance" the hops with such a syrupy sweet load of malt?  The hops are huge and dank, dank, dank. I kept thinking of a damp moldy basement and wet cut grass, along with some grapefruit rind and overripe orange. Not at all bright and crisp, which I would prefer. Alcohol is well hidden. Then comes the malt, which is brown sugary syrupy and cloying. My palate adjusted to the hops within minutes, after which I became increasingly annoyed by the sweetness and the needless complexity and confusing mess of tastes. In that sense it reminded me of Arrogant Bastard only bigger, hoppier, thicker, sweeter, more confusing.  In contrast to this one, I do highly recommend Stone's Enjoy By xx.xx.xx IPA.   
+look: 4.25 | smell: 4 | taste: 5 | feel: 4.75 | overall: 4.5 Poured on draught at a local brewery. The sweetness of this beer just jumps out at me. What a great taste and feel. Very Creamy. While I get the citrus somewhat it's the sweetness that sticks. I think that to me over takes everything else which would normally be a bad thing but not here. This is that delicious. Well-done   
+look: 4 | smell: 3.75 | taste: 5 | feel: 5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Poured from 22oz bottle into Snifter glass. Bottled on June 6th 2017.     L: Beautiful amber, nice and clear, Finger width off-white head has excellent retention.     S: Strong aroma of citrus, grapefruit, orange, melon and some herbal backnotes of grass.     T: Very strong citrus again like the nose, the herbal fades away here.     F: Chewy! Super strong bitterness, medium-full body, low carbonation, dry finish.     O: Not a super complex TIPA, but tons of hop presence as expected and a neat beer.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 22oz bomber poured into a snifter.  A-Orange hazy color with a white head   S-An orange peel aroma mixed with pine, malts and hops.  T-Very hop forward but also got guava, citrus, pine, grapefruit in the taste.  M-Full creamy mouthfeel with a nice crispy hop finish. Medium carbination and the bitterness was medium on the verge of high but still enjoyable to a non IPA drinker.   O-Not a huge fan of IPA's but this one is definitely something I would buy again. It was not overly bitter and had a pretty complex profile.   
+look: 4.25 | smell: 4.25 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 2017 bomber. This year has orange peel and vanilla in it. Its a nice juicy ipa at 10.8%. Clear filtered look. Tastes juicy, hoppy with hints of the orange peel and vanilla mentioned. This is an enjoyable beer if you can handle the flavors mentioned. I'd prefer it without the vanilla, but it's not overpowering. I'd like to try one bext year if they ditch the vanilla.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 A 22 oz. bomber poured into a snifter glass.     Appearance- An amber to red hazy color with less than a finger of tan head. Thin spotted lacing around the glass.    Smell- Citrus mix of grapefruit, orange, tangerine and other tropical notes. The malts are combined with an awesome piney aroma.     Taste- The bitterness and piney notes blend nicely with the citrus flavors. I expected more alcohol in the taste but not much there. Actually finished a little sweeter than the aroma led me to believe.     Mouthfeel- Nice carbonation pushes the crisp taste with light dryness for the finish. An interesting lingering taste kind of just stuck there.     Overall- A great triple IPA with a brilliantly disguised high ABV. The bitterness and tropic notes combine for a dangerously drinkable brew clocking in at almost 11%.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 From Untappd 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 Stone Brewing 'RuinTen Triple IPA' @ 10.8% , served from a 2015 edition , 650 ml bottle purchased for $15  A-pour is a cloudy orange from the bottle to glass with a small off-white head leaving a spotty lace along the pint  S-pungent , hops & malts  T-smooth tasting TIPA , butt no wow factor   MF-ok carbonation too start...fade's quickly , yep full bodied  Ov-could be a great beer fresh or even some age , just a year late in trying this beer , bit of a shelf turd from Cook St.  prost LampertLand   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.25 | feel: 4 | overall: 4 
+look: 5 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.75 | smell: 5 | taste: 3.75 | feel: 4 | overall: 4 Ok so I understand that it's Jan 1st New Year's Day and my bottle was brewed June 8th and I am supposed to drink this 90 days within its bottling but only found out about this beer a month ago and Stone hasn't given a 2017 release schedule yet so I figure it's either now or never, so anyway on with the analysis:  Poured into a goblet, color is blood orange scotch-like copper with a bubbly puddle of a head. Solid mass, no bubbly body. No smearing of the glass.  Aroma: pineapple, coconut, peach, and orange.  feel: mildly dank, medium tannins, boozy, malty.  Taste: tastes boozy, more like a scotch ale rather than an IPA and no tingling of the tongue that I expected and what was very prominent in 2.0. Now this is a most likely result of this beer being 7 months old and perhaps a new bold flavor arises when not drunk fresh. If stone brews this in 2017 I will definitely buy a fresh one to compare but as already mentioned it was a now or never putchase.  Other flavors detected: pineapple, guava, peach, orange, grapefruit, peach, coconut, malt, pine, biscuit, and mild dankness. It's almost like a super smooth double arrogant bastard.  As always have to salute Stone because it's dank, good consistency, brewed well, and tastes delicious even if not fresh.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 4.5 | feel: 3.75 | overall: 4 Good malty undertone 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 650ml fresh bottle poured into a sniffer.    Clear in texture, glow and very beautiful orange amber color with thick fluffy off-white head that withstands with very good retention, it only slowly dissipates to everlasting frothy crown along with plenty of sticky and refined lacing patch and spot along the glass-side. There is some visibility of slow risen effervescence pushing upwards.    Garden of hoppy eden bursts in the aroma with intense notes of floral, juicy, citrus, bitter orange, grapefruit, lemon, resin, oily, pine, passion fruit, pine apple, very tropical, slight grassy, some dank, and some spice, anyway, malt is not being forsaken with a note of breadiness in the background.    The taste is still mainly dominated by hoppiness affair with notes of everything indicated in the aroma. Malt is more pronounced here with sweet breadiness and caramel qualities in order to try to alleviate the extremity of the mighty hop. Alcohol is pronounced in the middle with some booziness while it is hop again to wrap up the finish with a solid, persistent yet clean bitterness that is also lingered as a long tail in the aftertaste.    Full body with silky smooth mouthfeel with some lively and crisp carbonation that is well suit to carry all the things well, yes this beer has big body but the feeling is just right, not too heavy or not too thin, dry finish.    Wow, this is just wow. There are loads of hop to entertain any hop heads. Anyway, I didn’t feel that it is too much excessive. Thanks for the part of malt that tries to add some complexity and balance, excellent DIPA without doubt.   
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 3.5 | overall: 4 It pours a golden orange color, slightly hazy with a modest head. The aroma is of hops (it is an IPA), very floral & sweet. Taste: there is the orange, sweet & & bitter & a salty finish. The vanilla bean is the last to arrive at the party but the orange is the last to leave. A nice balance & interesting selection of flavors. In not a fan of IPA's but I like this. I think it could use a little more fizzz, though. Very good.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.75 Pour: deep reddish caramel color with a nice two finger head that dissapated to a small white ring around the top. Left a nice lace on glass.    Smell: biscuit malty smell with citrus and pine undertones.    Taste: citrus and pine upfront from very strong yet balanced hops. The middle is another level of hop spice and earthy flavors. The finish is suprisingly clean with just a light hop oil left in the mouth.    Feel: mid weight beer with perfect carbonation.    Overall: by far one of the best IPA's I've ever had. From the pour to the finish quite impressive.   
+look: 4.5 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 5 | feel: 4.75 | overall: 4.75 Ordered from Beer52, and poured to a regular kitchen glass due to lack of proper beer glass. Drank on a tasting that had so far Founders Backwoods Bastard, Bourbon Barrel-Aged Arrogant Bastard and Brooklyn American Ale. Note, this beer was bottled on November 2015, totally NOT FRESH.    A: The appearance is bit hazy with a yellow-y and orange body with a white head that vanishes quickly but leaves nice lacing.   S: The aroma is a perfect round shape of malt, pine and citrus together, all in the same strength. Very good tone to it.  T: This taste is one of the most wonderful things I've ever had even though the beer is to be TOTALLY NOT FRESH. On the start of the sip, you can taste the sweetness of the malt that when you start bringing the beer back to the throat starts to be a bit more bitter to each half of inch it crawls on mouth. In the end, it ends a bit bitter with a touch of citrus and hops, while the citrus profile is present in the sweetness, in the transformation, and in the end. It's totally great, amazing, incredible.  M: The mouthfeel is great, the bitterness is high but nothing harsh, nothing like a kick, more like a friendly touch. The density is great as well.  O: Best. Stone. Beer. Ever.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3 | feel: 3 | overall: 3 On tap at the Office in Summit. I was rather disappointed by this brew. The alcohol was not well-masked at all, in fact, it was cloying and overwhelming, and distracted from the overall flavor of the brew. Pours an amber hue with minimal frothing. Strong pine flavors evident. Not recommended.   
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 Poured from a bomber into a snifter. Bottled 6/8/16.    Pours a slightly hazy, Amber-red color. 1/2 inch tan head with good retention. Wispy, thin white lacing.    Aromas of tropical fruits and citrus notes of orange and tangerine. Piney hops accompanied by sweet and cracker malt tones. Earthy hop notes as it warms.    Strong piney, hoppy bitterness accompanied by orange and citrus rind notes. Sweet and fruity notes follow.    Medium-bodied, smooth, very crisp, good carbonation, with some dryness near the end.    Overall, a good triple IPA. Stone definitely hides the ABV well with this one. Nice fruity and citrus notes to tone down the bitterness to the perfect level. Fairly easy drinking for a triple.   
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.5 | overall: 4.75 I won't repeat what so many other lovers of this beer have already stated. Let me just say that as man who appreciates a good IPA, this is one of the very best.  I got it through a regional beer club. It came in a bottle and poured a rich, deep copper color with a wonderful aroma. It is just the right combination of bitter and malt.  If you can find this beer, buy it. You can thank me later.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4.25 Bomber poured into a wine glass.    Look: Clear golden color, almost orange. One finger white head. Drops down to a nice solid cap, some speckled lacing, and some very oily legs when swirled.    Smell: Orange, nectarine, and vanilla stand out the most. Sweet fragrances come through as honey as well. Other citrus notes come through as grapefruit, and maybe tangerine. Pretty balanced in the nose, but it leans a little malty/sweet.    Taste: A mouthful of oranges and nectarines, gives way to tangerine, then pithy grapefruit. A nice malty honey sweetness doesn't let this one get too bitter. Big citrus hop flavors with big malty sweetness leads to a balanced beer overall, that's bursting with flavor. Taste definitely exhibits some spicy alcohol character as well.    Mouthfeel: Subtle carbonation, soft and oily. Incredibly subtle mouthfeel for such a big beer.    Overall: This beer is pretty quafable for such a big IPA. Balance is good. Hoppiness isn't harsh or out of control. If you have a bottle in your fridge I'd say drink it ASAP. I have had a couple bottles of this since it was released, and it was better a few weeks ago.   
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 A-a clear amber color with a fingers worth of white head that sticks to the glass    S-aroma of lots of citrus, pine, and some caramel malts    T-taste is similar to the smell and starts out with lots of citrus and piney bitterness but also has a layer of sweet honey and caramel    M-nice body, good carbonation    Overall a very big tasting beer, but well hidden alcohol. Pretty good.   
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Bottled on 6/8/2016. Poured into IPA glass. It pours a pretty, hazy orange-amber color with one finger of milk-white head and lacing. The tiny bubbles ascend the glass throughout the pour. It smells of sweet malt, pine needles, grapefruit, orange, peach and other sweet, tropical fruit,and resinous hops. What a taste! It has a solid malt base with a touch of caramel, followed by a combination of sweet fruit and citrus, and a nice hoppy finish. I'm actually surprised it isn't more bitter and biting. All of the flavors blend seamlessly to produce a great taste experience. You can also really notice the alcohol. If there were ever a "chewy" IPA, then this would be it. It's rich and creamy and the 10.8% ABV packs a punch. Overall, this is an outstanding Triple IPA, definitely meriting its lofty rating. It drinks like a Barleywine. It could easily be savored with a good meal or for after dinner. Just great!   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Kind of a musty orange color with a good pine and citrus smell going on. Nice caramel consistency along with the bitter citrus flavors. This doesn't drink like an almost 11% beer. Stone does it again with their amazing IPAs. Should have picked up two at the store!   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.5 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Definitely a hop bomb! Had a reddish, malty color and flavor. 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 Maybee it because it is very hot outside but this is a superb beer. Best IPA I have had 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.75 22oz. bottled on 06/16/16    Pours clear rusty dark orange with a creamy off white foam head. Smells like fresh melons, red berries, guava, ripe papaya, pineapple, peach, red grapefruit, orange citrus, dark caramel malt, biscuity toffee, brown sugar, with bitter leafy herbal pine and dank earthy grass. Tastes like dark roasty caramel malt, biscuity dark toffee, charred brown sugar, dark red berries, melons, papaya, guava, some peach, red grapefruit, orange citrus, pineapple, with bitter leafy herbal pine and dank earthy grass. Feels medium-light bodied, creamy with moderate carbonation. Overall a really great and balanced triple IPA.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 3.75 | overall: 4.25 Look: Deep amber. Dense, off-white head.    Smell: Pine and citrus rind. Some caramel, malt sweetness, and raisins.    Taste: Grapefruit rind and pine instantly gives out to tons of sweet, bready malt, and caramel. I get some hints of raisins and molasses as well. A mild piney, bitter aftertaste lingers for a while, seeming to almost stick to my tongue.    Feel: Medium-full-bodied. Low carbonation. It's pretty thick, maybe more so than some may like, but it's smooth.    It's not something I'd want to, or even could, drink all the time, but it's a great experience. A lot of really intense flavors mingle together in a very satisfying way.   
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.75 | smell: 5 | taste: 5 | feel: 5 | overall: 4.75 Look forward to this beer every June, not just a big bold hoppy beer, but so much hop flavors and complex notes going on, Outstanding!!! 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 Okay. Phone the neighbors and wake the kids. This is super solid. I am a bit worried that I am not noticing the high ABV. That can be a dangerous thing on a beverage this tasty. Find it, drink it, enjoy it.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 Big, bold and beautiful. Bottled on 16 Jun 2016. Pours a deep copper with a nice off-white head. Visually, my perfect beer. Overflowing with piney hops but still remarkably well balanced. Maybe my new favorite IPA.   
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.75 This a STONE beer! I have been a fan for a long time. If you are looking for something intense with DEEP hops then you are here. Very piney like stone is known for in their HG beers. Not overwhelming but intense...yes I used intense again...I can't write a book like they do about their stuff but INTENSE. Get it, gobble it, and feel....Don't drive!!!!!!!!!!   
+look: 4 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 Yes this beer will destroy your palate! It's big, it's bad, and it is what you think it is. It will get you lit in a hurry, but that's okay. Hopefully your not driving and its the last beer of the night.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.5 | overall: 4 Big malty and boozy IPA with grapefruit and pine.The pine is the star and is balanced well with the sweetness. The bitterness lingers on in this copper colored, crystal clear beer. This is a big, in your face Imperial IPA that works.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 4 | taste: 4 | feel: 3 | overall: 4 From the neck of the bottle: "Bottled on 06/16/16"    Appearance: The body is not hazy but it has this opalescence that makes it hard to see through. It is a dark shade of bronze and I can only see shadows through it. The head Is very thick with a creamy texture and white in appearance. The head stays up for a very long time and it has very good lacing.    Aroma: There is a big pine aroma that is very welcoming to the nose. There is also a bit of a tangerine quality to the aroma which is nice. It has this resinous aroma as well.    Taste: Up front I get this sweet malty character with caramel and a bit of sweet honey that is quickly washed with a bitter pine resin flavor. There is a touch of alcohol flavor which is understandable for a 10.8%ABV beer but it doesn't hurt the flavor at all. It just lingers in the background a bit.    Mouthfeel: Moderate carbonation with a good raw bitterness and a medium body. The beer drinks thick and it has a lot of texture to it. The finish lingers for quite a while.    Overall: I enjoyed the beer. I don't think it would be a beer that I would regularly purchase but it is one that i would revisit every once and a while. The overall character is a classic pine flavored bitter West Coast style (triple) IPA but it hearkens back to the older styles that had a lot more malt presence. I am really enjoying this bottle so I would recommend it. Pairing it with food would require something big and flavorful so the flavor of the food is not lost under the wingspan of this beer.   
+look: 4.5 | smell: 4.75 | taste: 4 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 Bomber. Pours clean amber, thin white head leaves soapy lacing. Sweet caramel aroma. Sweet caramel malt taste is offset by piney hops, the malt wins out but finishes with some nice piney bitterness. Medium silky mouthfeel. Very tasty, sweet TRIPA.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 Poured from bomber into tulip glass. Nice burst of pine sap aroma on opening. Pours a beautiful clear amber color, long- lasting off-white head that leaves lots of spotty lacing. Aromas and flavors of pine, citrus peel, caramel. Bitter dry finish, with a little lingering pine resin and orange zest. Very well balanced. Be careful - the alcohol is well hidden, with the pine and citrus dominating. An outstanding brew, as I would expect from Stone.   
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 Pours a clear, bright orange color with a fluffy two finger off white head. Aroma is pine, resin, citrus, tropical fruits, fruit rind, grass, and of course hops. Taste follows with pine, resin, citrus and tropical fruits, fruit rind, grass, earth, huge hops and a smack of bitterness, all on a bready, slight caramel malt backbone witha touch of alcohol on the backend. Mouthfeel is medium and oily, smooth, and mouthcoating, with an alcohol warming a bitafter the finish. Overall, this is a definite winner from a place that knows hops, and with this they justify that moniker. A huge, brash beer that spews hops, while remaining remarkably balanced.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 From a fresh growler, pours a brilliantly clear orange-copper. Big 2 fingers of off-white foam leaves decent lacing. Smell is pretty classic grapefruit and pine, as is the taste. Some malt and alcohol detectable as the beer warms, but not much considering the ABV. The hops are powerful enough to keep the sweet malt a supporting player. Feel is a thickish medium. Huge beer, very well made and enjoyable.   
+look: 4.25 | smell: 2.5 | taste: 3 | feel: 2.75 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 4.5 | overall: 4.75 Poured from a 22oz bottle (Bottled On: 06/09/14) into a Vapeur Cochonne branded 12oz stemmed tulip glass.    A- Pours a remarkable and gloriously clear orange/gold...reminiscent of some of the finest bullion left on this planet! (5.0)    S- The sweet malt backbone and hop overload creates this bitter & sweet complexity that is much more balanced than their Enjoy By series: Tropical Fruit: (Passionfruit, Pineapple, Mellon, Papaya) and Sweet citrus: (Tangerine, Orange, Ruby Red Grapefruit) engulf the olfactory hues. (4.75)    T- Sweet malt up front followed by a significant slap of bitterness on the palate. The finish reveals a tropical fruit sweetness unlike Ruination making this an absolute joy to consume. (5.0)    M- Standard Stone carbonation (nothing above 2.50 vols) allowing the malt and hop resins to coat the palate for an amazing experience. However, I would enjoy a bit more so I could enjoy it over time in nucleated glassware (4.5)    O- RuinTen gives Enjoy By IPA a run for its money! Although two totally different hop profiles, I will give the nod to RuinTen as a result of the heftier malt backbone...the hop-to-malt balance is just perfect making it that much more drinkable considering the ABV (and the labeled, 10.8% ABV does not disappoint)! However, RuinTen does not remind me so much of its in genesis in Ruination IPA. Although still dank, oily and resinous, Ruination has a black tea component in the aroma and flavor that does not translate in RuinTen...the latter replaces that essence with that of a tropical (i.e. passionfruit) vibe courtesy of the addition of Citra in the dry hop. However, three years since their initial Ruination anniversary brew (of which preceded Enjoy By IPA), this stands to be my favorite of the lot. (4.75)    UPDATE: 2016 version (Bottled: 06/08/16) poured into a Belgian Tulip/Snifter glass    Although the 2015 version (of which I did not document) seemed compromised with a larger malt presence, the 2016 vintage is ripe with everything I composed two years ago. Damn the trends of the thick, turbid and 'muddy' beers of New England because this is a magnificent beer for the style (clarity, aroma, flavor and mouthfeel) and prefer it only slightly above the 2016 edition of Devil Dancer (Founders). If you enjoy big, bold, brash and full-bodied "Triple" IPA's than this is the benchmark. It is a shame they only release this once a year. However, it is well worth the wait for such a gargantuan offering...I'll miss you Mitch Steele!   
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 5 | taste: 4.25 | feel: 3.5 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 A dark amber color with a moderate sized off-white head. Some clumps of lace.  Aroma of pine, citrus, and tropical fruit. Sweet malt background.  Mostly a pine resin and bitter orange taste. Some tropical fruit, not as much as I thought I would get from the aroma. Caramel.  Medium-bodied.   
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 I think the BA brother's aversion to hops is very intriguing. they seem to be very critical of over-hoppy beers. The rating disparity between them and the public consensus again I find very interesting. I am also rating this brew against all other IPA's. All Hail Flea the Bassist.     As a triple iPA, one would expect an assaulty, punishing experience of a total and unminitagted hop-smack. No. This is a balanced beer. This also is a triple-IPA.    I know these two things might be unseen together. But i meant it when i wrote it, and I still do. es - malt arrives to save the day. But! An infinite other number of things also arrive to save the day. This beer takes a bold stance and defends it fiercely. It was *very* filtered. Perfectly clear. Overfiltered, Was a bright halloween orange, with an evasive head. The liquid acts as many extremely hoppy beers do, which is strangely. Just missed the 5 here, and again, I'm rating to category, only because of it's nightmare filter job. This beer's ratings roost among the highest precipices of beer creation. Have you seen a thunderhead bloom and then diminish? That is the complexity of this bountiful beer. Stone tried hard here. I think they have a lot lot lot more to give.. Thanks to the people behind it. thanks capitalism, thanks beer ! LovE    22 oz brown glass  10.8% alc./vol  v rare <3     92/100   
+look: 3.75 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 I finally decided to try this behemoth of a beer. A Triple IPA was just insane. Got the beer on tap in a tulip style glass. The beer poured dark mahogany color with reddish tints. The head is off white with good retention. The head left a sizable amount of lacing on the glass. The beer is near opaque and has some carbonation bubbles.     The nose is strong grapefruit, pine, floral, grass, perfume, caramel, toasted malt, bread yeast and booze.     The taste is pine, floral, lemons, grapefruit, oranges, floral, grass perfume caramel, bready, biscuits, booze, and yeast.     The mouthfeel of the beer is bitter, carbonated, crisp, slightly chewy, and the finish lingers.     The onslaught of hops is mind boggling. The hops is strong but not overwhelming. The malt backbone is very firm and hold up to the hops assault. This is one monster of a beer, very good, very well made, and very tasty. I really enjoyed it.   
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 Pours a deep auburn with a two finger orange white head. The nose is the best part of this beer. Pineaple, tangerine, pepper, passion fruit, lavander, grapefruit, lemon, cough syrup, there may be infinite notes to pick up. I feel as if I drift in between dimensions with each whiff into worlds in which I am drinking versions of this beer containing separate hop bills. How else could one beer have so much complexity? Next comes the taste. The taste is the best part of this beer. It is somehow perfectly balanced. I say somehow because this li'l devil is hopped up as shit, and somehow, the malt profile is so deep and robust, that it is able to hold its own against such an aggressively bittered beer. It's like Draymond Green knowingly taking a backseat to Curry because even though he knows what he brings to the court is of equal importance, he does not have the flash or star appeal of Stephan's shooting. Up next is the feel. The mouthfeel is truly the best part of this beer. It is thick and oily. It coats your mouth and sooths your soul. This mouthfeel has the body you want from a Russian Imperial Stout but the slick oil quality that an ipa requires. They play together. No one is the superstar. Like the first and second violins in a Bartok string quartet, neither has importance over the other. In summation, this beer is good.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Been following the evolution of RuinTen for a few years now, so, when I popped into my local Craft Beer Cellar (Westford, MA) and encountered two of my favorite store associates engaging in discussion about the beer (whether it should change ABV each year to reflect the year, whether it should follow current IPA trends and become hazier/use different hops/etc.), I had to grab a bottle to see how I felt. I know that this was originally made to be a "bigger version of Ruination" and I am also aware that Ruination itself underwent a renaissance to a slightly-newer-school version last year, but I wanted to weigh in personally about this beer.    Pours a gorgeous deep amber color with an everlasting ring of off-white head that sits consistently and succinctly in my glass. Lace is ephemeral, seeming to return to the beer from which it came each time the glass is swirled, but I don't really mind when the base beer is this beautiful. Perfectly clear, and with such nice retention and head buildup... can't fault it too much here at all.    Nose is floral and pine resin with some light candied citrus, pineapple and caramel malt backing those elements up. Slight sniff of perfume-y ethanol in there underneath the other notes, though less than expected for a "triple IPA" (I hate this terminology, for the record). Slight baking spice and grapefruit peel. Honestly, this is a weirdly underwhelming beer in the nose. It presents some semi-unique but anonymous scents that seem to have very little relevance to each other.    On the tongue I get a much better coagulation of the disparate elements from the nose, with deep caramel malt leading before being almost instantly subsumed by hop acrobatics. Pine, grapefruit, orange marmalade, peppery spice, rose florals and bready malts combine to deliver a very impressive flavor profile.    Full-bodied with a generous carbonation and slight sweetness in the finish to balance the intense bitterness, RuinTen definitely delivers on multiple fronts. It isn't my favorite beer by Stone, but it doesn't mess around and delivers pretty much precisely what it sets out to: a frontal hop-assault with very little distraction on the way. My CBC friends may disagree, but I believe Stone should keep things the way they are with this beer. The ABV is a bit much for my taste, but it is sensible if taken in the context of being a celebratory, once-a-year brew and the combination of Magnum for bittering with Centennial and Citra hops in the dry-hop is a winning combo that delivers citric, floral and piney elements in spades. Good stuff, at a solid price.   
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 A: Deep bright amber, 2 finger off white, good retention  AR: Dank pine resin, sweet potato/squash, subtle citrus, stone fruit  T: Follows nose, sweet malt, slightly bitter hop finish  M: Medium body, medium carbonation, crisp   
+look: 3 | smell: 3.25 | taste: 3.25 | feel: 4.25 | overall: 3.25 bottled dated sometime in June 2016, so actually pretty fresh. pours a very clear dark brown/copper, no haze whatsoever. foamy head with big bubbles, but nothing special on the eyes. Smell was big on the malt and resin, maybe some pine and citrus but they are heavily muted by the malt and resin. taste was the same notes, just a little more citrus and pine, definitely still huge huge resin bomb. malts get a little toasty on the back end of the taste, and the booze is very hot and apparent. feel was the only thing this beer had that was above par. this beer was not easy going or smooth, it was pretty difficult to put down to be honest. i'll be sticking to regular Ruination (2.0) in the future.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 2.5 | feel: 4 | overall: 3 Last year's was great, but this one for some reason tastes very harsh and has a strong alcoholic taste. Slightly phenolic taste and not balanced at all. Way too bitter tasting. Good malt back bone, good mouth feel. The taste is just too off for me to drink the rest of the bottle.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 A - nice golden Amber color with no head, but I guess that's understandable at 10.8% :/  S - nice pine, grapefruit, citrus rind, some alcohol  T - big grapefruit, pine, citrus rind, really not much else  M - medium mouthfeel, alcohol is very present. Aftertaste is bitter grapefruit rind.   O - man, this is a different beer from what I remember, almost harsh with its bitterness. Not bad, but I wish it was more complex.   
+look: 3 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 It's STONE..... Anniversary TRIPLE IPA. This year (2015 )seemed hoppier, but who's complaining. 2016 release still hoppy; creamy, balanced, malty finish. See website for pairings!!   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 A - 1.5 inch head that holds very well. Hazy orange color. Very hazy with few bubbles.    S - Grapefruit, pineapple, and very sweet orange.    T - Very sweet orange, with only some orange peel bitterness Lots of flavor, with moderate alcohol presence.     M - Very thick without much carbonation burn. Mouth-coating.    O - Very nice. Sweet and Fruity. Thick and not very bitter.   
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4 | taste: 4 | feel: 3 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Bottle dated 6/25/15 into pint glass. Pours a murky amber with a solid eggshell-white head. Initial impression is, of course, hops. Grapefruit, resinous, big citrus hops. But there is a nice maltiness that almost balances things. Medium mouthfeel, medium carbonation. Alcohol is well hidden. Slightly bitter finish. Really good DIPA.   
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 pours nice hazy dark orangeish with normal head. smell in your face grapefruit and some pine. maybe even a little orange. first sip I get some earthy notes with some cracker. this quickly gives way to some nice grapefruit and pine with a nice thick mouthfeel. bitterness and some candy on the back end rounds this beauty out with a slight alcohol tinge as it finishes. maybe some slight licoracenear the end. this is a great beer and as it warms it improves. one of my favorite stone beers.   
+look: 5 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Huge dehydrated orange appearance, off white head, over 1/2". Big pungent hops, brings it hard. Amalgamation of those hop aromas you all know about, interplay is well to where not one of them takes the front seat, they all share.    Taste was massively bitter, but substantial malt bill on it provides adequate support. Its not just simply massive, it actually imparts flavor and is enjoyable to drink.     Sometimes you just gotta go super hard, this beer is for those times.   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.25 
+look: 4.5 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 Pours an opaque deep gold/pale amber producing 1.5 inches of creamy, frothy, somewhat lasting, off-white head that leaves motes, strings & streaks of clumpy lacing. Aroma is sweet caramel malt, packed with tropical fruit, melon, earthy spice & a hint of citrus. Taste is sweet caramel malt, loosely balanced with high octane hoppiness: tropical fruit flavors predominate with a little citrus, earth & spice with a very wet finish & alcohol spice. Aftertaste is an oily hop/malt bitter-sweetness that rapidly gravitates to an imperial bitter. High ABV is detectable but subdued. If dank can be substituted for earthy then this beer certainly qualifies as a dank brew. Mouthfeel is moderate-heavy bodied with moderate carbonation, oily, wet & slick finish with a bitter & astringent aftertaste.   
+look: 3.5 | smell: 4.25 | taste: 4.25 | feel: 3.5 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 5 | taste: 4.5 | feel: 5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 A hazy peach color with a settled and dissipating head that can be revived in full simply by a slight swirl. Aromas of peach, mandarin and tropical fruit. Only a slight dryness and feint bitter finish. Strong hopp flavor that isn't too dominate that it overpowers the beer...a good balance with other flavors. Burp, and you can reaquaint yourself with the fruit.   
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 After a month sabbatical from IPAs, drinking mostly German beers, I wanted all the hop intensity I could get from one package as I dove back in to American craft beers. I chose to start back up with Stone and I was not disappointed. Boozy, hoppy, RuinTen delivers. If you do not like to pucker up, stay far away.  Look: what you expect -dark orange, cloudy with a 2 finger white head, lots of lacing.  Smell: Very citrusy, especially grapefruit.  Taste: Imagine taking a small bite of a banana followed by biting into a grapefruit. A sip of Ruin Ten is grapefruit forward with a slight banana taste in the mix.Finish is piney. It is refreshing, odd as that sounds. Just enough malt sweetness to balance without doing harm to the hops.  Feel: Not watery, nice mouth coating, mild carbonation, definite alcohol burn, slightly dry finish.  Overall: ABV too high for my taste. I prefer DIPA over session IPA, this one though is a bit too strong but it is delicious, one of the best balanced offerings from Stone.Yes, you do taste and feel the 108 proof ABV, but you get a hop party in your mouth with just enough malt balance to keep your head from exploding from the 115 IBU hop hit. Shelled out $10 for a bomber and will do it again gladly.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.75 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 200ml at Brewdog DogHouse, Glasgow (£4.40):  Another excellent Stone IPA with tonnes of bitterness balanced against sweet malts & sticky caramel flavours. A complex beer with a nice array of hop flavours & bitterness coming through on top of a full body that was easy to drink despite the strong alcohol content.   
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 4.5 | overall: 4.5 Appearance – A bottom glass pour produces an incredibly cloudy body of dark orange copper with reurgitated hop flakes floating about unseen. The head is crazy on an aggressive pour. It’s full, pure white, lacing, and lasts forever.    Smell – The deep pine hop profile finds some strong biscuity bread at the nose and an explosive aroma of darkish fruits such as dates and raisins. Once the beer opens up the fruits are increibly powerful but not overly sugary and the yeast develops.    Taste – This is incredible. It’s my first use of the term “bready hops” but man the biscuit and yeast are in full effect and the huge comlex hop profile is incredibly diverse. It’s not a heavy PNC hammer but more like a sophisticated CA profile of citrusy rind, light peach, grapefruit peel, and pear.    Mouthfeel – This is full-bodied wth a lot of drying from stem to stern.    Drinkability – 10% plus? Are you sure? Drank this like water.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Came across this oldish (bottled June 21, 2015) RuinTen while in Banff, Canada on Oct 29, 2015. Given that it is already more than 4 months old, I can't have huge expectations in terms of aromas and taste, which start to downfall pretty quick after bottling. Since this is my first time seeing this beer in Canada, here's what I got anyway:    Look: Cloudy pale amber with decent head and retention leaving a thick lacing on the galss as it recedes.    Aroma: Grapefruit, orange and a little bready. Passed its prime, no doubt about it. Unfortunately...    Taste: Lots of grapefruit and earthiness. Pine needles as aftertaste. A little boosy.    Feel: Thick bodied with good carbonation.    Overall: Definitely worth trying! Hopefully I can find a fresher one.   
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 This is a big beer. I would classify it as an American Strong Ale. Very balanced but hops dominate malt. Super hoppy malty aroma. Taste is big. Piney hops to start with strong hop malt in the middle and a really clean hoppy finish. Mouthfeel is hop oil smooth. Really good beer that I will buy agian.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 A ten ounce draft beer in a tulip glass.    The color is a light, copperish orange. There is not much clarity to it. It smells of hops, hops, hops. Not surprising, considering it is a triple IPA.    I love the flavor. There is a lot of nuance in the hop flavors, with citrus and an overall bitterness being the dominating flavors. There is a nice malt backbone as well. It goes down pretty smoothly, with a fairly strong bitter aftertaste.    Overall, a solid beer with great subtleties.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 Poured from unfortunately old bottle (~3 months) into tulip.    L - cloudy copper, small white head sticks around and laces the glass    S - honey-ish malts, pine, a little grapefruit, not the new-school tropical aroma    T - a little sweet, very malty, flavors follow the smell, not crazy bitter    F - syrupy, moderate carbonation, slight burn    O - definitely try this if you prefer maltier IPAs   
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 On tap at Taphouse in Hampton. Brutal hops in hazy package. Malt is straightforward. Heavy body. Pretty bad ass and warms the cheeks. Heavy on the body and I'm pretty sure I can only drink just one.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 I've had this once or twice before, but never rated it. It is as good today as it was then. I typically enjoy the "juicier" IPAs, but this one really hit the spot. I never really comment on the "look" of the beer ,but this one is beautiful--rich cooper with little-to-no cloudiness. The aroma has a lot of citrus hops with a hint of caramel malt. The Taste is big: A lot of grapefruit and resinous bitterness with a sweet, caramel malt backbone. I'm still not sure how a beer could have such strong hop flavor while still maintaining a balance. The thickness of the feel is shocking considering the clarity of the brew. Overall, this is a damn good beer.   
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 2 | smell: 4.5 | taste: 3 | feel: 2 | overall: 2.75 A: Cloudy.    S: Aroma of citrus and pine.    T: Medicinal flavor. Oxidation.     M: Thick and syruppy    O: Would have rather bought an $8 6 pack than an $8 bomber of this.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Had out of 22oz bomber poured into a Belgian style glass. Pours a dark copper amber color with a thin foamy head. A huge punch of citrusy hops hits your nose and taste buds from this big imperial IPA. At 10.8% the alcohol content is pretty intense and not for the faint of heart. Solid beer especially for the hop heads out there   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Smells pepper and tropical hops. The taste is sweet and malty with tropical hops. 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 3 | feel: 3.5 | overall: 3.25 
+look: 4 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 By far my favorite beer of all time. I buy and drink atleast one once a week, i look forward to it every week. If i can i give to any friend willing. I will say that if you dont have a love of hops then beware. But otherwise there is no other beer i look forward to drinking more than this one.   
+look: 4 | smell: 4 | taste: 3 | feel: 4 | overall: 3.75 It was way too hoppy for me. Color, feel, aroma was on point, but I don't love the whole ipA thing. It had notes of citrus and floral in the taste, the color was beautiful and I love stone so many wanted to like this beer. Got it at s bar when the waitress suggested it, heard stone and got it. Realized later it was a triple ipa, so obviously hoppy. Those who like hops will love it   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Pours a very cloudy amber color with a finger width foamy head. Head retention is good. Lacing is great. Has a nice fresh citrus aroma with some piney resin. Not as much of a boozy aroma as I would think. Has a nice smooth caramel taste with slight citrus and piney resin at the end. Nice and hoppy. Malts and hops blend very well. Moderate to heavy bodied with moderate carbonation. It hides the alcohol content very well until the very end, when you get a slight alcohol burn in your gut.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.75 | overall: 4.75 'This one's pretty pricey', he tells me, after naming the poison hidden in the store room. 'Fetch me one anyways!' I declare after .0001 octilliseconds of thought. Somehow, I managed to not open it Monday evening: seemed unseemly, disrespectful, too early in the weekful.     But tonight, Tuesday, all is well in the glass. Bomber half-emptied into a big-ass wine glass to reveal the hue sunsets should hit every evening before ripening into crimson. Something slightly dungeonesque about the aroma, likely a result of the 'oops! damn, that was a metric ****tonne of hops that fell into that vat' brewing technique employed. I guess you need to match that 'way over the hop' approach with a malt mallet upside the head, and as you might guess, 'perfectly balanced' is this reviewers opinion on the subject after a few slurps.     Syrupy, sticky, delectable, awesome. I'd drink this every night if I could afford replacement livers. Soooooo delicious.     Will buy again, probably tomorrow, and definitely not just one bottle. RAAAAWWWWRRR!!!!   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 Pours with a nice head. Nice hoppy aroma. Pine right up front then hops. Very balanced. Carmel color. Excellent IPA as usual from stone. Full flavor very tasty   
+look: 3.25 | smell: 3.25 | taste: 3 | feel: 3 | overall: 3 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 Extraordinary IPA for those who love big time SoCal hops with a adequately matching big time malt backbone. Everything is so full and well balanced. Smooth in flavor and beautifully smooth on delivery. It's like a great session sipper on Atlas rocket fuel.   To the moon Alice!!!  So rare to have such a big beer so pleasant to sip and enjoy.  Wow! Great job Stone.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 big beer 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 I really liked this big hop "mosh pit" as the bottle describes. Dark golden color with a little bit of head and lacing after pouring from a bomber. Smell is a big hop slap to the nose that we all love of course. Taste is as you would expect: sweet, citrus, even a nice almost rye spice to it. But it doesn't overwhelm which is what I like most about this. Not too big even as a TIPA. Finishes sweet and mouthwatering, doesn't linger on the tongue too long and from beginning to end is a pleasant experience. Worth getting and taking a couple down if you can find them.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 The standard in DIPA for me. Goes down so smoothly, I have to make sure to nurse it as it on the strong side. 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 i have been drinking this one on and off for a while, stashed one in the back of the fridge and had it last night after a rough day....certainly took the edge off  poured from a bomber into a pint glass  i love strong hoppy beers and this one fits the bill and then some  pours orange/amber with a white head and a very hoppy and strong (alcohol) smell  taste is hop bomb in the mouth with high alcohol and citrus flavor that is sweet   for my taste the epitome of a great beer  i didnt find it too sweet or strong as others have mentioned but 1 bomber is more than enough for 1 sitting   
+look: 5 | smell: 5 | taste: 4.5 | feel: 4.75 | overall: 4.75 As soon as you open a RuinTen, you know you are in for a hoppy treat. I enjoyed this stone brew in the fall of 2015. RuinTen was incredibly juicy, citrusy, and enjoyable.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Nice copper in color, light head, and great hops. Nice up front bitterness, and smooth for 10.8%. Any IPA fan would approve. 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 4 | overall: 3 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 4.75 | taste: 4 | feel: 3.75 | overall: 4.5 Extremely boozy - which is obviously to be expected with a 10.8% beer, but the alcohol is extremely apparent. The smell is magnificent, though - about as citrusy and reisny as any IPA or double IPA I've ever had. I'd give it a higher score if the alcohol was masked more, but it's still a great beer nonetheless.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 Appearance - beautiful orange color. Smell - hops and a slight alcohol scent. Taste - BOOM. Full frontal assault on the senses. Hop city. BUT it slowly fades into a sweet citrus sort of blend. Awesome. Overall - I would totally purchase this again. This is awesome.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 3.5 | overall: 4 
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Context: Bottled 6/17/15. About two months old at this point.    Appearance- Dark copper/amber in color. Pours a bubbly/foamy one inch tall head.    Aroma- Resinous pine, grapefruit,citrus, candy sweetness, and caramel malts.    Taste- First impression is that this is very sweet. Resinous pine and grapefruit are strong at first. The sticky hops blend with caramel malts that makes for a thick feel and almost overly sweet taste.     Feel- Thick bodied, low/medium carbonation, and an overall thick/sticky/resinous feel. Definitely a sipper.    Overall- The epitome of a resinous, dank, pungent ipa. It verges on being too sweet, but there's just enough dryness to balance things out. Would definitely get this again for a great triple ipa.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3 | taste: 3 | feel: 3.5 | overall: 3.25 
+look: 4 | smell: 3 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 3 | overall: 3.75 Pours vibrant amber, fading head.  Nose shows lashings of clean malt alongside resinous and piny hops.  Similar falvours. Cloyingly malty with some spicy, piny and resinous hops.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 5 | smell: 4.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Stone RuinTen.    Aye. Not so often you get a hold of a ledgend around these parts. So naturally when I saw it on the shelf at my local craft store ( Jake's Liquor in Monroe, Michigan just off the Dixie I-75 exit ) I was inclined to pick a bomber up. $10 you say? Well I believe in you. NOW PROVE YOURSELF * FINAL BOSS FIGHT MUSIC STARTS * .    Look - Slow pours yields a very clear amber, almost as clear as your girlfriends last STD test as requested by myself to ensure you haven't been sticking Dick Johnson into any blimey skanks. Carbonations appears to be on low to medium depending on how you pour. Head is a well retained two fingers.    Smell - Overly ripe banana is a large player in this aspect followed by a boss level dosage of maltyness and grapefruit juices.     Taste - Yep, those overly ripe bananas pull a large margin of the weight in this aspect. Tropical juice notes are there, although flat on their faces . Malts come in and eventually get shot down by the reaper invasion that is my taste buds. 4.     Feel - Well rounded though moderately creamy bodied with a low to medium amount of carbonation. Really don't have much else to say as the tropical notes linger and the alcohol is quite present. 4     Overall - Well.......I expected better for such a supposed legendary brew. But, you must remember rating inflection based on a beers status, how hard it is to get, whether somebody is a " yes man "( IE willing to suck a dick and a golf ball through a garden hose to please a higher point-wise ranking BA than themselves ) which I notice a lot of people are...y'know,despite the in depth reviews I've given you over the last three years apparently I'm not even an ' advocate ' yet? why? Because I won't suck a dong for the latest likes in which swill are you drinking now #737744747?.. anyway, would I have again? Lol not at this price per bomber. Remember that banana esque flavor in all Stone beers? Well yeah it dominates this one. Would be better off with an Enjoy By. 4.   
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 650 ml bomber served cold-ish into a pint glass. Purchased while in the US a little while back. Bottled on June 12, 2015.    Appearance - hazy, rich dark golden and honey brown colored. A finger of fluffy white head with impressive retention. Plenty of visible carbonation in the beer. Impressive and imposing DIPA, that pours thick and gives the impression of a massive beer.    Smell - citrus dominated with mango, pineapple and kiwi upon repeated whiffs. Some caramel in a subdued malt backbone.    Taste- big bold sweet citrus flavours, some pineapple and kiwi with a roasty malt undertone. Reminds me of an amped up even stronger Ruination. Huge dose of bitter hops lies right beneath the surface but only makes it's presence felt briefly mid-sip, before caramel and butterscotch round the beer out. Alcohol is there but doesn't taste like a beer nearing 11% ABV. Alcohol content starts to rear its head once the beer warms.    Mouthfeel - massive body! thick and syrupy on the palate with a heavier dose of carbonation that is subtly very good.    Overall - very delicious DIPA, with a huge hidden hops bill and a nice combination of tropical fruits and sweet malts. Very yummy yet I was expecting something with even more hops intensity, especially on the palate. Still a great sipper.   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Dark orange color, medium carbonation, slight lacing. Ripe summer fruits: orange, melon, peaches. Biscuity sweetness with slight alcohol bite. Even though I enjoyed this, I prefer the dank goodness of the enjoy by series more.   
+look: 4.25 | smell: 5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Just like Ruination, which this came from, it takes a few sips for you palate to accept this aggressive brew. There is a huge nose on this and I can't begin to describe and thus direct you to other reviews noting the myriad of fruity experiences. It pours a beautiful hazy orange with a big cream foam. The mouth feel is medium body and rather smooth for something this hoppy.   
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 Looks pretty enough, light golden color with a persistent head and lacing. The smell heralds the hop explosion to come, with surprisingly muted alcohol fumes for the abv.    Truly one of the great double IPAs, this beer is loaded with citrus and tropical hop flavor of mangoes, star and passion-fruit, kiwi, grapefruit and kumquats, hop flavors so thick one can chew them, all atop a medium-full body that is almost creamy. Absolutely a class act all the way.   
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 3.5 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 Bomber poured into a pint glass. Bottled on 6/13/15, so just over two months old.    LOOK: Clear rusty golden orange with a thin white head and streams of carbonation.    SMELL: Holy shit, what an aroma! I could smell it the instant I cracked the cap. Overripe peaches and fresh squeezed orange juice assault the nasal passages. Melons, berries, (raspberries?), grapefruit juice, pine resin, pineapple, mango, and passionfruit are also present. Extremely floral, almost like perfume. Holy hell.    TASTE: Thick tangerine sour-sweetness, like orange marmalade, complemented by tangy-sweet notes of apricot, mango, passionfruit, and pineapple. Subtle toasty-biscuit notes from the malt that compliment the fruitiness but always remain in the background. Finishes lip-smackingly bitter with grapefruit pith and pine resin. Slight alcohol warmth, but very well-hidden. Marvelous flavor.    FEEL: Full, but not oily or creamy. Perfectly carbonated, though.    OVERALL: This is a ridiculously good triple IPA. Possibly Stone's best beer. BUY IT.   
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Poured from a 22 oz bottle. The beer had a great aroma and great hoppy taste! It was complex and fairly strong at an ABV of 10.8%. A great beer and highly recommended!   
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 5 Dark amber color with a orange hued color frothy cap. Citrus and tropical fruit aromas with rings of lacing around the glass. Amazing flavor of floral hops, tangerine and unsweetened grapefruit. Pretty full bodied and nicely balanced with the malts and bitterness working in unison. Very glad I finally decided to pick this one up so good indeed!   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 Very hoppy, both citrus and pine. Sweeter than I expected. Alcohol burned a bit. Still a very enjoyable sipper. 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 Pours deep orange in color almost mahogany. 1 finger of head. Moderate-high carbonation.    Aroma is very dank, sweet malts, and a burst citrus. Some onion/garlic notes.    Taste is huge! In the beginning is the light citrus notes, that is quickly followed by a major dankness. The taste is Then followed by sweet malts and a kiss of honey. Then some tropical fruits come into play (mango and juicy peach). The finish is of floral hops and a huge punch of bitterness. An alcohol heat and slight spice rounds out the beer into the aftertaste.    This is a strong beer with tons of hops. It drys out the mouth and kills the palate, but that is basically the goal of this beer. I would pair it with spicy Menudo. It gets a 88/100.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 This beer is so damn good!!!!!!!!!!!! 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 ooh wow. a tight rope walk. even though it's +10%, the pine and bitterness offset the booziness pretty well. I'm not huge fan of the 10+ IPAs but this is very drinkable for that category.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4.25 The RuinTen IPA is a big ass beer. Poured a copper color with white head that laced. The scent has pine and citrus. The taste was alcohol....pine and citrus. The mouthfeel was full in body with good carbonation. Overall this is a BIG beer and well worth the taste.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Great Triple IPA! 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 Bitter, aggressive and resinous, but also balanced by plentiful candied/tropical fruit. Love the big, chewy mouthfeel. What more could you want from a double/triple IPA?     At its center is a sweet, malty booziness reminiscent of a well-crafted Manhattan. There's even some pine, which has largely been forsaken by some of the more fashionable IPAs these days.    This one is right up there with Hi-Res. Pull the trigger on this beast, you will not regret it!   
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 4.75 sharp bitter tasty hops carbonation is almost perfect was recommended by the sales rep. I love asking the guy running store (if they agree to liking any of my favorites to suggest something. this was a very good recommendation .. has less of a resin taste than most ales like this and that is beginning to be a good thing   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 I know this is exactly what's it's supposed to be. A hop bomb explosion to the face. And if I could taste anything other than the bitter, bitter hops it might be fine.   
+look: 5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 A clear copper color with a minimal tan head by the time it was served. A nice, moderate aroma of citrus and tropical fruit along with a malt sweetness. The flavor was rich and matched the aroma closely with good balance between the fruity hops and malt. Lower bitterness than I expected without the excess floral and resin bitterness I have typically got from other Stone IPAs. Moderate bitterness in the middle with good smoothness and body. The alcohol was well hidden and the bitterness finished clean. One of my favorites from Stone.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4 | taste: 4 | feel: 4 | overall: 3.75 It pours clear amber with orange tinges. It has a full head, good lacing. It has aromas of dried fruits, citrus fruits, and a bit of bready malts. It has a strong grapefruit taste with other citrus flavors. There are also floral elements with hints of lemon. It has a bitter kick on the palate.   
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 On tap @ Blue Dust    This is one of the biggest, richest tasting "IPAs" ive had. Balanced aromas and flavors of malt and hops. The warmer it got the more hop character i detected, which is usually the case with the malt. It reminds me of Founders Devil Dancer, but this blows it away. I'm admittedly not a big fan of Stone, but this has got to be one of my few favorite beers put out by them. I highly recommend it   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 Look - Opaque dark Amber color with just under one finger head of tiny bubbles that receded to a tiny bubble slick.    Smell - Sweet caramel, butterscotch, and yeasty bread.    Taste - Sweet caramel malt that overtakes the hoppiness. Butterscotch with a bittersweet finish.    Feel - Full bodied, really left my lips sticky. A little carbonation     Overall - Pretty tasty, a little sweet for my likes. Would be a good way to end a meal - dessert like.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3 | taste: 5 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Bottle poured into a Stone IPA Madness glass    A: Pours rich copper amber with a creamy khaki head that settles to a thick layer and leaves plenty of thick lacing.    S: Big tropical fruit, mango, peach, melon, nectarine, citrus, tangerine, light grapefruit, a bit spicy, bready malt, and caramel sweetness.    T: Juicy, fruity, peach, pear, hints of melon, citrus, tangerine and a little grapefruit, pine, bready, maybe even lightly toasty, some caramel malt sweetness, and a little alcohol.    M: Medium to full body, soft carbonation, creamy, pretty smooth, with a hint of warmth as it goes down.    O: I've had this one last year, but remember it being different, namely a bit less fruity. It's still a solid beer, but I'm missing a sorta hoppy kick in the face.   
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.75 | smell: 4.25 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 22 ounce snifter, bottled on 6/12/15, into a snifter.    Pours a good looking copper color, lightly hazy, with a small head and not much lacing. Smell is a boatload of hops- citrus, mostly grapefruit and orange, some pine, a little dank. Malt comes through, maybe a little yeast. Smells great. Taste is led by bitter, juicy hops and more malt than the nose. It's bitter, but not rip your face off bitter. To me, the malt provides a solid backbone. Really smooth for the ABV and the big hop presence. Refreshing.    There's no big palette of unique tastes battering your senses here. Just hops and malt expertly blended. Everyone should try this; I'll be buying it every year.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Very very big. Abundant in all things IPA related. Huge hop character, massive malts and more than alot of alcohol. A bit too boozy for me. I love what stone can do with hops tho.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 Pours a deep golden color. Has a sweet malty aroma with a slight bit of citrus in the background. Flavor follows the smell. Definitely a malt forward IPA with a bitter citrus peel flavor at the end. Pretty well balanced overall   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 5 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 2.5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.5 RuinTen looks like an amber amulet, something you could buy at a museum gift shop. The beer is glossy, clear, resplendent, and completely flat (the lack of head is unsurprising given it's almost 11% alcohol). I've poured it into a tulip glass but it would look even more at home in a snifter.     I don't know exactly what five pounds of hops per barrel should equates to, but it's definitely something you can smell. This aroma is a cauldron of boiled-down pineapple juice, infused with macerated grapefruit skins and generous handfuls of a variety of botanicals. Plus some unavoidable alcohol. I better get comfy because I suspect I'm about to sink into my chair.     'Best Before' dates on beer would make me laugh if they didn't make me so angry. I go red in the face when brewers claim their IPAs are good for another two years. Really? Get out of here. Fortunately, the fines folks at Stone are of like-mind about this issue. They do it right - they stamp the "bottled on" date (well, that or they put the "enjoy by" date right in the name).     Hence, I know this bottle of RuinTen is 7 weeks old. Not exactly fresh but not old either. Regardless, I can still feel the green of the hops on my face. I can hear a tropical breeze whisking through palm trees. I can smell the rainy dew and dead brush of a northern forest. This flavour profile is abundant in many things: botanicals, citrus fruits, grass and pine chief among them.     Everyone preaches balance as if it's the be-all and end-all but it's not necessarily. RuinTen is one-dimensional and unsubtle - that's the idea. Stone, by their own admission, calls this "indelicate" and "belligerent". They're not wrong. But for those of us who like that kind of thing it's immensely gratifying. If you're a glutton for hop punishment then it doesn't really get more pleasurable than this.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 Very tasty brew from Stone. I really enjoyed this quality beer. It kicks you in the teeth to start but seems to finish quite smoothly. I recommend it.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 2015 vintage, drank within 3 weeks of bottling. Dank hop aroma, but I felt the beer was too malty and overpowering from an ABV perspective. Not much balance to be had here   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 3 | taste: 3.75 | feel: 3.25 | overall: 4 22 oz bottle. dark Amber pour. Rich hoppy taste. 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 Poured into a grand snifter at 45°-50°F    Appearance: Pours a cloudy amber color with a thin off-white head and spotty lacing.    Smell: The nose is malty sweet with citrus and subtle pine. As the beer warms the smells become more pronounced.    Taste: The taste is concurrent. The sweetness isn't overly cloying and balances well with the citrus rind, pine flavor with a reasonably bitter and dry finish. The flavors become more pronounced as the beer warms.    Mouthfeel: Heavy, oily with some carbonation.    Overall: I enjoyed this beer from Stone Brewing Co. The nice mouthfeel really stood out for me and the bitter finish was tolerable enough not to ruin the beer. I have to admit I was expecting a dry hop bomb but instead found a pleasant drinking experience throughout. I would pick this up again but not frequently from fear of fatigue.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4 Copper orange color with a half an inch head.     Strong malt aroma with floral hops like bitters. Malt is like a rich bread.     Taste is crusty sweet bread with straight bitter like herbal bitter.    Excellent beer do not taste the 10% alcohol.   
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 4.25 | overall: 3.5 
+look: 3.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 A: crystal clear; bronze in color; 1 finger off white head that receded to a thin film; light lacing;    S: tropical fruit, pine, a little caramel, a little booze;    T: a bit of caramel up front, followed by pine, then a hint of citrus; alcohol is noticeable throughout, but not overwhelming; mildly bitter from mid-palate to the finish;    M: medium bodied; moderate carbonation; moderately dry finish;    O: glad I got the chance to try it;   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.25 This is definitely an after - work brew. Great balance of malt with hops without being too sweet under the hops. High ABV may hide rough edges, but when found on tap, sit back and relax.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3 | taste: 2 | feel: 3 | overall: 3 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Hearty Mates 
+look: 4.25 | smell: 4.25 | taste: 5 | feel: 4.75 | overall: 5 put this in a tallboy & it would stand up to any of the fetishized new england superbrews. 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4 22oz bomber about 6 weeks old    L - Deep orange with a fluffy slightly honey colored head that dissipates quickly. Thick heavy syrup legs on the side of the glass as I swirl  S - slight citrus, heavy pine and astringent cat litter dankness.   T - Sweet, somewhat heavy malts with a refreshing piney burst. Surprisingly soft on the finish. It is bitter, but not crushing by any means. Very nicely balanced by the sweetness.  F - Rich creamy mouthfeel. Heavy, but in a good way, and dangerously smooth. Very fine, almost silky carb    Overall a big beer, but very well made and dangerously easy to drink   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Hazed amber orange colour, one finger of white head nice sticky lace. Smell is quite malty upfront but alongside it is an equally big hop bill, citrus and dank pine, with lots of grapefruit, orange and sugar cookie. Taste is very hoppy with a big sweet malt presence, grapefruit, orang and tangerine, moderate tongue numbing bitterness that never gets out of hand thanks to the malty counterbalance, dank aftertaste with a touch of alcohol heat. Lightly carbonated, medium full body, fairly oily. Solid and very drinkable, at times when this warmed up it walked the line between DIPA and American Barleywine and while not necessarily a bad thing I think I would prefer Enjoy By or Old Guardian if I wanted a Stone beer that was one or the other, that said this is still a very flavourful, hoppy big beer that while not the best Triple IPA I have had is still something I could see myself coming back to yearly.   
+look: 4.75 | smell: 3.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 Just a gorgeous pour. A deep amber color with an abundant slightly off white head. The nose is pine, citrus, and a little spice - but more subdued than anticipated. The taste is powerful. Piney, resinous, and a wallop of hop flavor. A nice malty sweetness to balance things out. The mouthfeel is full, with a pleasant alcohol burn on the aftertaste. Definitely a beer I'd seek out again.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Appearance: copper colored, bright and clear with excellent head retention that lasted more than 10 minutes after being poured.    Aroma: hops! Pine and citrus (grapefruit).    Flavor: well balanced. Despite the uber hop levels, the malt comes through nicely and isn't overwhelmed by the hops. Toasted malt and bread flavors transition into the hops, a 50/50 of pine and citrus. The toasted flavors remind me of Pliny the Elder. The nearly 11% abv is well hidden, but some warmth comes through in the finish. The hops have staying power! After a sip, you need to cleanse your palate before eating/drinking anything else. The hop oils coat all in your mouth.     Mouthfeel: spot on! Nice medium body. The perfect body for a sipping beer, but too heavy to consume more than a 220z bomber.     Overall: in my opinion, this is Stone's best beer and one of the finest DIPAs I've had. At $8.99 / 22oz bottle, it is reasonably priced and even cheaper than many of its competitor's far-lesser offerings. I'll continue to buy this beer as long as it's sold.   
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 2.75 | feel: 3.75 | overall: 3 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Huge hop bomb on this one! Still good after its been in the fridge for a while. For a higher ABV IPA it is really easy drinking and I would say one of Stones best IPAs   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 2.75 | smell: 3.25 | taste: 2.5 | feel: 3.25 | overall: 2.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 (22oz bomber, Santa Clarita) pleasant smell and great first sip. Get's a bit boozy tasting with each sip. Overall a good if not very good IPA, but might be a bit more enjoyable if the alcohol content was lower.   
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 RuinTen dials everything up to Eleven.    For me, the smell and taste were of a damn good imperial IPA with a flavor profile that seemed familiar (maybe not so different from other Stone IPAs) but with intensity--of hoppiness, bitterness, alcohol--amplified. Much melding of flavor and just strong, strong, strong. You'd need to steer clear if you're afraid of hops, though!   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Pours a clear amber with a thick 2 inch cream head. The malts and hops blend perfectly in the initial aroma. Starts off sweet and finishes bitter. It tastes better than Devil Dancer in my opinion if I'm comparing triple IPAs. The hops and malt blend perfectly in the taste as well, although it tastes a tad bit like alcohol, a little bit too much for me to love it. It's got warming qualities all around on the palate. Overall, it's worth a try. Stone fans shouldn't be disappointed with this one.   
+look: 4 | smell: 5 | taste: 5 | feel: 4.75 | overall: 4.75 one of the greatest IPAs ever made - with the purpose of an IPA to be big and bold, this one acheives where so few others really do...big alcohol, big hop flavor, its got it all...   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.5 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 Andronico's - San Francisco, CA - 22 oz. bomber poured into a glass 
+look: 5 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 pours amber with a solid head.    nice aroma, hops and malt. nothing special but it's present. sweet honey hops.    taste is big and hoppy. has a malty base to it, finishes sweet, bitter, and hoppy. damn good beer. nothing special but worth the bottles i bought. a big beer.    goes down with a slight burn to it but otherwise the hops are nice. has good flavor but a big feel.   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 I think this finally made the point that I am not a TIPA guy after all. Like but don't love. I so wanted to love this beer as I love so many Stone offerings. But I am not such a homer that I will claim to like it all. This was OK. As Triple IPA's go, it probably would rank very high (comparing to say PtY or Green Bullet). So, I will say that it has all that one would want from a triple. A citrussy, piney note that lets you know early this will have alcohol. The flavor continues in that theme: big citrus and pine, malts adding a definite balance of just the right amount of sweet to enhance the hop notes. And then the booze. If you are like me (a bit of a lightweight) have hop friendly snacks at the ready.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 3 | taste: 2 | feel: 2.25 | overall: 2.25 A syrupy sweet mess. This one just came across as an unusual swing and a miss by Stone. 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Another amazing beer from Stone. An incredible orange-gold color with great head and lacing. Tastes is awesome with grapefruit, citrus peel, piney hops....A winner !!   
+look: 4.75 | smell: 5 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Amber brown pour (18) with tight off white head, good lace and cap in place; good carbonation. Hoppy citrus nose with elements of wet pine forest and sugary caramel aromas. Dank, hoppy pine and grapefruit flavors with big caramel malt foundation; very hoppy middle with wet forest dankness competing with citrus flavors; finish is bitter hops. Medium mouthfeel with resinous tongue coating; juicy grapefruit zest feel. Overall the bitter hops trump the malt foundation, and while quite good, seems just a bit out of balance.   
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Nose is fresh citrus, sweet caramel and thyme. Tastes unbelievably fresh. Sweet hops are a refreshing surprise. Malts keep the bitterness away. Feels a bit boozy but still easy to drink. Putting one away for another date.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 3.75 Malty grapefruit 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 Another awesome beer by Stone. Smells of melon, a little pine, and maybe even a tad of mango. The taste follows with a little melon and mango sweetness, a nice little citrus burst, finishing with a blast of pine and grapefruit pith. This reminds me of hi res, but with some tropical fruit, and a bit better. A slight bit of alcohol burn but I'm not going to complain about that. For a triple, I prefer to know I'm drinking something strong :)   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 Another tasty brew from stone. Almost more of a hoppy barleywine than an double or i guess triple IPA, but either way its damn good. Incredibly hoppy, but surprisingly not overly bitter as the massive amount of malt adds a nice lingering sweetness complimenting the absurd amount of hops nicely. Maybe a tad too sweet, but nothing really to complain about, still an excellent brew. Reminds quite a lot of devil dancer.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 L (4.25) - Very nice dark burnt orange/brown color. Good light tan head on top too.   S (4.5) - Smells like heaven. Heavy malt smells and plenty of hop aromas.   T (4.5) - Tastes even better than it smells. Nice malt backbone, but plenty of floral and bitter hop tastes. A little alcohol taste, but not too bad. No bitter aftertaste either  F (4.25) - Good drinakble beer. Plenty carbonated, but still easy enough to drink.  O (4.5) - I didn't know this was a DIPA until I poured it. But I love that style of beer, and this one do not disappoint. Will definitely buy again!   
+look: 5 | smell: 5 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Probably one of my favorite IPAs. This is one of the most well balanced DIPAs I have had. It is dangerously drinkable at 11% ABV. The hop character and nose hides the high ABV very well.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 3 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 I think this is just okay - at a point it just gets gratuitously hoppy and big. I guess that's the point though. It's just a big, hoppy mess - good carbonation and viscocity though.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 3.75 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 Unfortunately, this fits into the category of big IIPAs that just go too far. Massive hop character but with a big caramel malt backbone that dominates in a way that is unnecessary and simply gratuitous. This is sad because the hop character itself balances piney and citrusy really well.   
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.5 | feel: 4.5 | overall: 3.75 Pours a deep amber color with a nice white foam. Continuously bubbling throughout which is nice as the carbonation doesn't die.     Smells of pine, pineapple, and grapefruit.     The flavor is super bitter. I don't think this is very well balanced, but I was expecting hops and got even more than bargained for. Taste of pine and some dank hops that sit in back of my throat.     The malt is definitely there, as this has a very thick mouthfeel which is enjoyable. This could probably turn into a tasty barleywine once the hops fade in a few months. My bottle was less than three weeks old when cracked.    This beer is decent, not my favorite stone offering though. I'll take enjoy by and ruinition 2.0 over this one.   
+look: 4.5 | smell: 4 | taste: 5 | feel: 4.75 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 4.75 Thick hoppy deliciousness. 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 This beer was a gnarly mosh of hops and flavor! 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Average IPA. Not too hoppy. Nothing special. 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 The beer pours a nice white and foamy head that takes a while to dissipate. The beer itself is a medium amber bordering on a copper color. The look is pretty nice and reflects the change in malt balance. The metallic hue gives it a nice clean look to it.    The beer smell is fairly hoppy with a nice malty balance to it. The hops are fairly earthy with a nice dry hop pine nope to it. The citrus notes are a bit light but complement the centennial well. The malt note is fantastic and very sweet. The malt seem to dominate the hops in the smell.    The beer taste is really good. The hop notes are strong and bitter with the pine notes taking front center over the citrus ones. The malt presence does a good job of balancing things out while providing a nice sweet and caramel note.    The mouthfeel is fairly smooth and thick. The malt put in here has given it quite a body. The biting carbonation does a good job of making it feel lighter than it probably is.    Overall, a pretty good beer and worth getting. Recommend.   
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 Unreal!     They've done it.    Look- who cares!    Smell- sublime     Taste: perfection. It's like someone cut down a Christmas tree and poured honey on it. Then they sprinkled on some Cush and made a beer out of it.     Feel: see taste.   
+look: 5 | smell: 4.75 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 22 oz poured into Spiegelau 6/22 bottle dars    A: big bubbly soapy head     S: deep resiny piney some malty caramel too    T: so resiny excellent it is like biting a pine cone if it were syrupy and resiny    M: Full feel this beer is syrupy it clings and doesn't let go     O: This beer is intense it is so enjoyably hoppy thick piney and resinous. it is gripping on the tongue and so good.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 Wow! Hopsplosion in my mouth! Really strong but deliciously balanced. Not many breweries do strong brews like Stone. This is one of my new favorites. 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 22oz bottle, denoted as a "Triple" IPA. I've always found it a bit strange when anniversary brews (for example, Unibroue 17) get reproduced year after year, with the same original name.    This beer pours a clear, bright medium copper amber colour, with two fingers of puffy, loosely foamy, and bubbly ecru head, which leaves some chunky melting iceberg lace around the glass as it lazily subsides.    It smells of sticky, resinous pine - one thankfully light on the dank - heady orange, red grapefruit, pineapple, and other muddled tropical fruits, brown sugar-flecked caramel malt, and further leafy, weedy, and well perfumed floral hop bitters. The taste is dense caramel/toffee malt, strong, yet muddled citrus pith, some still isolated tropical notes (pineapple and kiwi, mostly), terse pine needle and resin, a bit of gin-like herbal and botanical booze heat, and a subtle earthy leafiness that just seems to need a little love amongst the morass.    The bubbles are quite understated in their plain, unadorned frothiness, the body a solid medium-weight, and generally smooth, those acrid pine essences hard to totally obfuscate, and a wee bit creamy, in a caramelized sense. It finishes sweet, piney, citrusy, and boozy, so, um, great!    Yeah, this is another all-around big-ass, and thuggishly hoppy Stone deal, the deltas worth searching for existing only in the brewery's own canon of similar-ish offerings. So - as my toddler is fond of saying before tackling the big-boy toilet - heeere we go! This is much more malty than Ruination 2.0, and way less dank than Enjoy By (at least the last one I had). There, now I've had my hop fix until, oh, say...tomorrow.   
+look: 4 | smell: 4.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3 | overall: 3.75 Pours a filtered, orange-golden color, with a small froth head, leaving back thick sheets of lacing.    Smells of skunky peaches, luscious papaya and herb topped lemon peel. Provides cakey malts, which add a ripe note to the fruits, enhancing the diverse hop profile on the nose, without becoming too present on their own.     Packs a lower carbonation, making the beer not overly refreshing, which is also due to a sweet malt presence, lending a sticky quality to the taste. It drinks very soft though, with hops rolling over the palate from the beginning till the finish.     Tastes of sweeter malts, which turn even sweeter as the flavors evolve on the palate. Those malts blend well into the equally well developed hops, exhibiting water melon bubble gum, papaya and ripe blood orange. The malts got a honey glazed quality to them, balancing the hop onslaught pretty well. Finishes with loads of honeyed malts and dried oranges, providing a well pronounced, hop supported full mouthfeel, with a decent grassiness being integrated.     Hops and malts blend outstandingly well together, resulting in a honey dripping, well balanced iiipa, with enough fruity hop punch to push through.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 Sticky icky, super boozy and a bit overwhelming. Interesting hue of a burnt sun fading for the evening adorned the glass, but I'd be fronting like I lacked a vertebrae if I stated that abv wasn't magnified like breast augmentation. Stone makes interesting beers to say the least; this one just didn't spin on all cylinders for me. Certainly worth trying, though. If you love the magical taste of IPAs, paired with Stone's aggressive nature, then give it a go. You may enjoy it a lot more than me. Cheers.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 Bottled on 6/21/2015    L: Poured from a bomber into a tulip, pours dark copper with a light off white head, a minuscule amount of lacing    S: "Mosh pit of hops" is correct, you get very strong citrus notes, orange, grapefruit, even a bit of pineapple    T: Surprisingly drinkable for what is a "Triple" IPA, very citrusy hops on the nose as expected, with lingering malts in the back, finishes with a bitter-tart booziness, and semidry    Feel: Medium-heavy bodied with a good amount of carbonation, you can feel the hop oils on your teeth as it finishes    Overall: I was hesitant to try a "Triple" IPA by Stone after Sierra Nevada's Hoptimum ruined my taste for them (too much hops, tasted like a pinecone); but Stone has managed to take what should have been an aggressively bitter beer and tame it with a bit of malt for a pleasant ode to the hop. Even with the ABV clocking around 10%, you still have a very palatable IPA.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.75 | overall: 4.5 A: poured from a 22 oz bottle into a pint glass, orange amber with a short yellow white head that dissipates leaving some lacing, cloudy    S: large citrus hops, grapefruit, pineapple, mango    T: soundly bitter grapefruit peel mixes with sweetness of tropical fruits, very fruit salad flavor, honey sweetness    M: heavy, thick, sticky, high alcohol content well hidden but warming to the mouth    O: Stone made a great beer.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 From a bottle born on 6/25/15, so it's pretty fresh since it's in MINNESOTA.    Look: beautiful ambery orange with 2+ fingers of off-white head. Glorious.    Smell: booze peaks through, then DA HOP WALLOP - and then a subtle caramel aroma. Very nice.    Taste: WHAM!!! Hops all OVER my palate. Some citrus, some passion fruit - and then booze. But before the booze gets too hot, the toffee/caramel flavors smooth it out. Really, REALLY well-executed for a hop bomb.    Feel: it's not as slick as I thought it would be, probably because the malt is creamy enough to smooth things out.    Overall: I'm a Hoplaterian, and this is a hop lover's dream - but with a juicy malt backbone built on toffee and caramel. Dare I say it - it ventures ever so gracefully toward barleywine territory - but not quite. There's enough hops to yank it back to DIPA (although the bottle says Triple IPA) land.   
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 Poured from the 22 oz bottle into a snifter.  Pours a medium amber with no haze, one finger of head and good lacing.  Aromas are sticky sweet hops, lots of malt.  Taste is very nice. In line with aromas, not overly tropical, lots of malt present. A classic west coast style IPA wit hops and malt in balance.  Finishes sticky.  Overall a very good west coast style IPA.   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 This year's batch seems to be a bit inferior to previous offerings. That said, it's still awesome and a definite 'must buy' for anyone who happens to love hops and should happen upon it. A bit sad I only got 6 bombers last week (only 1 left in fridge now :-().     Garlic, onion, very dank hops, loads of tropical fruits, pine. A bit sticky. Doesn't get much better for this style.   
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.75 | overall: 4.5 2015 bottle. 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 nice beer but isn't remarkable. A bit too malty on the back end 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4.75 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.75 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 Wow, I don't know what to say but wow. I have had a number of top tier single/double/triple IPA's and this might very well be the best.    The only complaint I can possibly muster is the color is a bit off. It was likely due to the lighting or wall color. Everything else was extraordinary, mainly the taste which is what really matters. It was divine, beautifully balanced, perfect level of bitterness and just yum.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 Bottled on 6/12/15, enjoyed at about 40-45°F.     Quite simply, a surprisingly beautiful pour. About an inch in a half of beige head with a hint ruby red. Beer itself is a pure ruby, crystal clear when held to the light.     Smell is muted, not at all abrasive for a 10.8% beer, with tropical fruit abounding and a slight trace of alcohol.     Taste is above excellent. Fantastically hoppy and fruity, but massively drinkable for such a high-ibu triple. Reminds me of the sweetness of Dogfish Head's 90-minute, but with a better hop balance and pleasant bitter aftertaste that hangs around just long enough to leave you wanting more.    Mouthfeel is velvety smooth, exceptionally calm for an IPA. Personally, this is as good as feel gets for me, and I'd replicate it in every IPA if I could.     Overall, this is a great brew!! Got a 22oz bomber at a local place in Ohio for $8.99, so not terrible on price either. One of those rare beers that - if I see it again in the future - I'll buy it without a moment's hesitation. Fantastic beer to break open for a celebration and share with friends as a treat. My top-10 (maybe top-5) IPA's. Enjoy, and absolutely buy this one if you come across it.   
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 godlike. transcendant. other-worldly and delicious 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 Looks beautiful, an orange-gold clear pour with a decent, long lasting white head. The smell is tropical paradise. Taste is slightly bitter on the front, with pineapple, mango and other tropical fruits pillaging the senses. For a 10.8 ABV brew, mild on the presence of alcohol The feel is just right for the style, maybe a tad dry, but still satisfying. A real winner, I usually come out feeling ripped of for spending $9 on a bomber, but this earns every penny spent!   
+look: 4.5 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 5 Coppery reddish gold, white head, very fine lacing.Aroma is a yummy bouquet of tropical fruit, pine resin and candied citrus peel. Taste is juicy, fruity, leafy, oily, pungent, beguiling, delicious. Mouthfeel is frothy, mousse-like, weightless. This is a perfect West Coast IPA.   
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 This beer certainly did not live up to the hype for me. Had a strong alcohol bite to it and nothing very special stood out. Good, not great. To me, not worth the price tag.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.75 L -- Dark amber/gold color with a slight off-white head.     S -- Lots of hoppy tropical fruit, pineapple especially, with a dank end note.     T -- Same tropical hops up front, great bitter dankness; malts come through lightly towards the end along with mint. I usually hate mint, but it's pleasing and somehow fitting here. The flavors are all bold and I really dig it.     F -- Great smooth feel, goldilocks level thickness. The carb/booze level warmed my tongue a bit.     O -- Really delicious beer. The booze is hidden well and the flavor profile is great to me. I could drink this any day!   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 4.75 I love how floral this stone brew is. It has a softer mouthfeel too, considering how hoppy this monster is. Smooth isn't the right word, but maybe luscious? Never said that about a triple IPA but I think this one hits that nail on the head.   
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 Poured into a tulip glass. Clear, medium dark amber color, nice thick head, malty, citurs, hop hop hop hop hop smell. Taste is amazing. For a triple IPA its smooth, enjoyable, other beers try to be this beer and Stone does it again and lives up to their reputation. Cheers!   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 3.75 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Poured golden orange into a snifter. Two fingers of off white head with nice lacing. Aroma was full of citrus and orange with a hint of caramel. Initial taste was citrus and tropical, with some following resin and caramel. There was a warming alcohol presence that was more prominent that I would have liked. Finished dry and clean. Very nice.   
+look: 3.75 | smell: 4 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 This beer is a huge west coast hop bomb. The smell does not much tropical fruits in the nose, but more of a danky pine smell. The taste smacks you in the face with piney hops, with a nice dry bitter finish. Overall, another great beer from Stone!   
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.75 RuinTen    Appearance (Look) = 6%  Nice pour into a large snifter clear, dark golden amber with nice fine head with minimal lacing and retention    Smell = 24%  Aroma is nice, dank, hoppy and slightly sweet... Maybe a little boozy?    Taste = 40%  Minimal malt backbone, much like the aroma, dank, hoppy flavor with nice residual sweetness.... Bitters good up front with good manners on the backside.. Very balanced.. ABV is present and welcome... Booze lingers    Mouthfeel (Feel) = 10%  Very nice as well.... God carnation and level of booze from ABV.... Good full (but not overbearing) mouthfeel....   
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 5 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 3.25 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4.5 | overall: 4.25 Look: Crystal clear amber and about 2 fingers of off white head sticks around nicely.    Smell: Piney hops and booze!    Taste: More of the same, but also light balancing citrus. Super pine and resin on this one.    Feel: Booze isn't overbearing. Carbonation is great. Slight dry finish.    Overall: Absolutely bat sh*t crazy and a must try every summer. I've had some pretty bad TrIPA's that just can't find the line for too much booze that it destroys any flavor profile.   
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 3 | taste: 4.25 | feel: 4.25 | overall: 4.25 Beautiful, crystal clear deep amber with a slightly off white head.     Smells very, very astringent. Mainly alcohol and sweet with some faint pine hop resin. Not very appealing.     I am pretty surprised at how good it is tasting. Outstanding. Still has some heat to it, but very clean and smooth. A rock candy sweetness, crisp bitting hops, pine, light bready malts.     This is a nicely balanced and well made beer that I would have a much higher score for if it weren't for the aromas. It is definitely a triple IPA though. Drinks much like an American Barleywine. Similar to both Devil Dancer and Bigfoot, only better for me.   
+look: 4.5 | smell: 4 | taste: 5 | feel: 4.5 | overall: 4.75 Perfect... Stone never disappoints... A must have 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 This was my July 4th beer!!!!  A: Clear, dark amber, thin white lacing.  S: Floral, sweet malt, pine resin and a hint of citrus.  T: Sweet malt, resiny, bitter citrus like finish.  M: Hops prickly to the tongue, medium carbonation, sticky, bitter hop finish. After a few sips the alcohol can be felt. Be warned!  O: Very hoppy and a pretty strong, sweet malty backbone. Happy 4th go Stone!!   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Bomber with a bottled on date of 6/13/15 poured into a tulip.     a: A gorgeous beer. Deep amber, clear body with a 2 finger bubbly beige head. The color of rising bread.    s: A slight, sweet dankness meets the nose, turning to molasses, faint breadiness, dry grass, resin, citrus rind and alcohol swirling about.    t: Very well balanced presentation. A bread and cracker malt flavor supports the onslaught of of hops. A bitter and resin rich hop presence is mingled with citrus juice and its rind.    mf: Full bodied and sticky as it warms. A tingle from the bitterness that is not overwhelming. A sweet sipping beer that can be followed down one's body like a nice bourbon. To me that is the best part of this beer.    o: The flaw in this beer is that it is released in the summer. It feels to me like a winter beer with the warmth it brings. The bitterness with the alcohol warmth makes me think of something I want after shoveling a Northeastern snow storm. I would never dare do it but RuinTen with a drop of Carpano Antica and a Luxardo Cherry...   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 3.75 | overall: 4.5 Extreme and intense beer. Very thick feel. Lots of hops and malts. 
+look: 4 | smell: 3 | taste: 3.5 | feel: 4 | overall: 3.5 22 bomber poured into a Belgian style tulip    A: Amber, lots of tiny bubbles streaming up the side, an off white creamy head, lots of thick lacing.    A: Smells very sweet, very malty, not picking up any hop aromas, no citrus, no pine, not picking up any alcohol. For being a hop monster it sure lacks a lot of hops.     T: Very sweet, malty, lots of citrus rind bitterness, but this has a very strong sweet malt presence, not really digging the flavor.     M: Very dry, has a creamy mouthfeel, rakes the tongue with bitterness.    O: I did not like this, very malty, very sweet, some citrus notes on the aroma and taste but the malts win this battle. I've noticed that some IIPA are very malty, not sure if I like this, I prefer more citrus/ piney notes than a big sweet malty presence.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.25 This beer would be awesome if it lived up to its promise of over hopped bliss unfortunately it's extreme hoppyness is balanced with extreme maltyness making it far to sweet to enjoy if u like a giant malt backbone this may be your idea of heaven   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.25 | taste: 4.25 | feel: 4 | overall: 4 This is a triple IPA. How it differs from a DIPA, I can't tell ya. 110 IBU.   Pours almost red, a really dark amber color. Beautiful, big white head, loylts of lace as it recedes to a thick, chunky foam.   Smell is hoppy with a mild malt background. Not much else.   Taste is much better, notes of the expected hops, malt, some spices (mostly pepper). Well balanced.  Medium-full body, lighter than medium effervescence, warming. Slightly drying. Good stuff but more marketing than beer.   
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.75 A true triple IPA. Delicious hop bite and counterbalanced malt base. This one was bottled on June 25, 2015. Alcohol is there but, hey, it's a triple...   
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Very intense right off the bat. Malty and just the perfect amount of hoppyness you'd expect from this brew. 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 5 | overall: 4.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Very sweet, tropical, candy-like hops come through on the smell including a huge smell of grapefruit and pine. A nice sweet bite up front evolving into the grapefruit, tropical, "dank"" piney flavor and bitterness that we all love in IPA's. This one though is every taste you love about an Imperial (triple) IPA all wrapped into one beer. You get some burn from the alcohol but that's to be expected at pretty much 11 percent. The taste sticks around for quite some time and the bready sweet malts give it the best mouthfeel ever. The hops are so fruity and tropical its insane! Best (triple) IPA I've ever had.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4 | taste: 5 | feel: 5 | overall: 4.75 Outstanding ale from North County SD. makes me want to move back! I'll leave the detailed reviews to the advocates below but I'll just say this one is top notch.   
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Ya, it's good. Eat your heart out. I'm drinking stuff that I don't know how they got it here so fast. By plane?? It is super fresh. Thanks to James at Saveon for the great score.    It's pretty, slightly lacey but almost naked. It smells like a tasty dish ready to eat. I love it.    The taste is hoppy and malty, but balanceed. The crazy amounts of malt are well compensated for in the hops. So it's not too bitter.    Four sips and I have a burn and a hugely enhanced buzz. I'm not sharing this bomber with anyone, so I am pretty sure when it is done, I will be too. Grab this if you can.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 2.5 | smell: 3.25 | taste: 2 | feel: 2.25 | overall: 2.5 Destroyer of palettes. This is an absolutely enormous beer. 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 Look - Copper orange, see through body. White head with medium sized bubbles. Medium sized head with normal pour. Lacing.     Smell - Grapefruit. Malt. Pineapple. Pine. Lemon.     Taste - Grapefruit and light malt. Bitter pine on the finish. Well balance blend of hop and citrus.     Feel - No carbonation bomb all at once but throughout. Medium to heavy feel. Sticks to the tongue.     Overall - I enjoyed Enjoy By July 4, 2015 better than Ruinten. Ruination 2.0 was a step lower than this one. I love the dank, grapefruit taste.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 4.75 Just so good. The mouthfeel alone is worth the price of admission. 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 Wow! Excellently crafted IPA, Pours a hazy amber with silky head, excellent lacing clings to the glass. Aroma smacks you in the face with hoppy spiciness. Taste bites the tongue, slightly puckering bitterness. Still smooth and drinkable. A work of art.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 From a bomber, poured into a tulip glass.    L: This one pours an effervescent hazy amber with a gorgeous white head.    S: Hops! Resinous and piney with citrus tones. Alcohol and bready sweetness are also present.    T/F: This one is one complex palate wrecker. The hop profile is delicious and bitter, astringent, and wonderfully balanced out on the back end by the malts and alcoholic sweetness. It's surprising that something with 110 IBU can taste so balanced, but there area lot of flavors going on with this beer and the various hop textures are pretty wonderful. Moderately carbonated and aggressive on the mouthfeel.    O: Probably not quite as drinkable as the regular ruination... which is what happens when you crank the hops up this far, but Stone again shows that they set the bar for what an Imperial IPA is supposed to be. I've never been so glad to have my palate harshed by a beer, and cracking one of these is like reuniting with an old friend every time.   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 Presentation: It was poured from a brown bomber bottle into a tulip glass. The label lists the abv at 10.8%. It also had a nice description of the beer. Appearance: The body has a hazy look and an inviting amber color. This is topped with a good thick head. The head is light tan and slowly settles down as I drink. This leaves some lacing on the glass. Smell: It’s aroma is exactly what you want from a Stone IPA. It leads of bright tropical fruit and citrusy hops. It also brings solid sweet maltiness to the nose as well. Taste/Palate: The base is a solid sweet bready maltiness with juicy tropical fruit, mango and grapefruit jumping right out. The finish has a good bitterness slowly fading of the tongue. The palate feels full and the carbonation is active but smooth overall.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 At this moment, I believe this is the best double IPA ever brewed    Other brews may be more extremely hoppy, but this beer has the magic balance    It's a work of fine art, everything is perfectly balanced, in a tasteful, artistic way    I hope Ruination 2.0 is a further evolution of this excellent beer   
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Pours a nice hazy dark orange, an extremely hoppy beer and one of my all-time favorites. Whereas many of the new Stone IPA offerings have been more crisp and citrusy, Ruinten is hoppy and aggressive, make this year round Stone!   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 This beer was good and it reminded me of a barleywine. It's definitely a big beer. I'll gladly partake in this one again. 
+look: 4.75 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.25 On tap at Randy Jones Sports Grill. Very hoppy with strong bitter finish. Smells of grass and orange. 
+look: 5 | smell: 5 | taste: 5 | feel: 4.5 | overall: 5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 Well balance imperial ipa. Kinda pissed it didn't live up to the hype 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 Love this beer, sucks its seasnoal 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 2.5 | feel: 2.5 | overall: 2.75 Really dark taste. The alcohol taste overwhelms the taste of hops. I feel like I can breath fire. 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 5 | smell: 4.25 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 3.75 If I had them both before me, I would rate the second and first batches against each other. As it is, I am doing this from memory. The first batch was phenomenal, but the later batches were so-so. My rating reflects both at the same time.   
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 One of the best IPAs out there. Thank you Stone. 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 4.25 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4.5 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 3.25 | overall: 4.5 Only drawback is this is so heavy it sits in my chest for a bit. 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+Srqb 
+Ohiolager 
+KrajDoesBeer 
+Kraty1 
+NCMeanGreen 
+Punchy_Munchie 
+SeattleBoB76 
+Eric_Leon 
+oldschoolcasto 
+WhodeyQ 
+michaelsmith11 
+moshea 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+tkdchampxi 
+Minski405 
+dcookmeyer 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 Cloudy dark golden brown - a unique combination of colors here.     Hop bomb on the nose, with lots of fresh citrus.     Pineapple, blood orange, pressing with bitterness - a bomb in the finest sense.     Bracing, but heavy - low carbonation, but still awakens the tongue.     Rolls around in the mouth and then once down the hatch, it's fully breathable, the tongue wide and letting the air sit there.   
+beerFool28607 
+mozif 
+sprucetip 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 5 absolutely hands down my favorite beer. perfect color, aroma filled with delightful dankness with a nice bite on the front end followed up with a fruit/ pine bitterness you would expect from a double. from me its a 5 all the way   
+emac1224 
+t2grogan 
+bresnab 
+hajenaD 
+Had on tap, poured into a tulip glass. Has a nice amber color with a cream colored head. You can smell the huge amount of hops in this brew. The mouth feel is sharp and bitter. There is the hint of malt in the background, just enough to bring out all of those hops. The taste is California, citrus and tropical fruits, there is a hint of spice and pine. A very good sipping beer not over powering at 10.5 percent. Cheers   
+Heffastera 
+Dan269605 
+JustinBrousseau 
+MattA437 
+BPMeyer27 
+dtomes 
+Johnr33 
+Hopmeplease 
+look: 4.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 On tap fresh. I'm not a fan. 1 note super bitter hop bomb. No Idea how this gets such high ratings. Save yourself some money and have a taster or buy a bottle in a mix six pack...   
+Beautiful balance of hops and malts. Citrus floral notes and chewy attributes while still posting a strong caramel malt backdrop; this one delivers. 
+kozclash 
+MattR2014 
+Poupae 
+ctbrewhaha 
+FaradayUncaged 
+Darick 
+BrewRy 
+jbexphys 
+Corn-fed 
+LostandBound 
+BergBeer 
+toddysd 
+DougAppleby 
+richkrull 
+1337Kellx 
+tkrane 
+gkeh 
+SwollenGoat 
+webmanspidey 
+Akravatz 
+striker2160 
+GRBLUE12 
+Poured a 1pint 6oz. bomber into a Tree House Brewing tulip glass  The color is hazy yellowish/orange with a finger of foamy white head that pulled back leaving some slight lacing.    The smell if this beer is fruity with citrus aroma. Some tangerine comes out with a slight grapefruit aroma. In the back there is clay aroma that is just lurking around the fruits in the nose.    The taste is has some sticky citrus flavor that is a little jarring. The bitterness comes out and hits but is a little muted. Like getting hit with a foam bat, the bitterness seems muffled but is still prominent. There is an earthy flavor that is toward the back and comes forward at the end.    The feel of this beer is medium bodied with a smooth finish that does have some heaviness at both ends.   
+TomG2751 
+deruitem 
+Nazzz 
+HunterSBeerson 
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+Tpain518 
+riderwbd 
+laureljdif 
+KShophead 
+boartfield1 
+Wiz99 
+irish6174 
+yspiff 
+SurlyUtopia 
+Zekenyce 
+Green_street_hooligan 
+DutchcdnTEXAN 
+BabaBeer 
+cubsfanshane 
+EDubLovesBeer 
+The_Jerk 
+Techichi 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 Poured a 5-month old bomber into a willy glass. A slightly hazy copper-rose with orange hints - a very pretty beer. Small slightly off-white head that dissipates and leaves minimal lace. The aroma is floral, dank and resinous. Taste follows smell with thick resin combined with floral spice and caramel malt. A delicious beer that maintains its fresh hoppiness as it warms and aerates. Mouthfeel is perfect for a double IPA. Overall, this is a wonderful beer from Stone.   
+zak333 
+SLOTHLIFE 
+awesomea 
+Nszuch8 
+newbeeraday 
+JandJMD 
+KensWorld 
+rdoggg 
+RAlmeida77 
+Charles_Moran 
+Bierleichen 
+gregcordle 
+Ngcba415 
+rob_o_rob 
+Droopy487 
+Smokindice 
+supernaut 
+FASTFORWARDMX 
+olradetbalder 
+mr-jj 
+miggs3030 
+daave1 
+slothlike04 
+wulfie85 
+EliasCalistoga 
+DrMindbender 
+ricknelson 
+vdefiesta35 
+Dominic_Decoco 
+smanrob 
+chamawaiian 
+Ultrarunner100 
+Walletsworth 
+klee44 
+fosters9 
+jwenzel019 
+Nordbier 
+hophead81 
+ChrisISO_SJ 
+bnelson997 
+RavenForBeer 
+MStern23 
+amicuscervesa 
+Kevin147 
+CMundt6 
+T1i1m1 
+timmy2b 
+TmKeisySC 
+cbbram 
+Rogorama 

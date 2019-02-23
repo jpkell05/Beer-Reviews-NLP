@@ -1,0 +1,1000 @@
+look: 3 | smell: 3 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.75 Poured from a 12oz can at 45 degrees,    Look: Pours a hazy dark orange color with a strong white head.  Smell: Aroma of citrus, with a hint of pine backed by some sweetness  Taste: Well-hopped and bitter with flavors of candied orange or clementine, but surprisingly dry.  Feel: Well carbonated with a little spicy kick.  Overall:   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 Nice near clear copper with dense rocky head and lace. Citrus pine and cereal aroma. Medium light cereal sweetness with light fruitiness. Medium-strong assertive grapefruit pine bitterness in fairly dry spicy finish. Medium body lively. Excellent.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 3.5 | overall: 4.5 Smooth and sweet not overpowered by alcohol. Good balance of hops and carbonation. Alot of citrus flavor. 
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4 From the 12 fl. oz. can dated 01/30/2019. Sampled on February 12, 2019.    The appearance is golden, heady, and with excellent clarity. Not one of those juicy or foggy IPAs that are so popular these days.    This has a boisterous aroma of citrus and pine with an ester of grainy or white bread malts. It is pretty fresh and for a 7.5% I do not get any alcohol on the nose.    Smooth, medium mouthfeel.    As for the taste, there is an introductory sweet breadiness that quickly evolves into a powerful citrus and pine hop finale. It is also far more bitter than I expected and the bitterness lingers. I see why it gets such high ratings.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.75 One of the best IPAs I've ever had. Very citrusy, almost like it was brewed with grapefruit zest. Love that citrus bite, just a tiny bit of sweetness comes through to balance it out nicely. No burn even though it's over 7% abv, easy to throw a few of these back. This would be great in the hot Florida sun with some fish tacos.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 I am not huge into IPAs and was a bit turned off by the 7.5 ABV but this beer was excellent. From my naive taste point, i thought it was lighter than most IPAs with a clean, crisp taste. Definitely could appreciate the citrus. Having this in dead of winter (-20 today) gave me a bit of reprieve and made me feel like I was sitting in a crab shack in tampa!   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 I used to LOVE this beer. The first time I tried it, many years ago in Orlando, I was blown away. Whenever someone I knew was driving to Maryland from Florida I would always try to wrangle a case. So I was very excited when it became available locally, though I was a little skeptical of the Oskar Blues thing. Anyway, I tried one of the first batches from OB. Not impressed. Apparently they were not using a centrifuge for the hops. So I gave it some time, tried again, still not impressed.  I finally decided to give one more shot. Cans dated 1/9/19. Really disappointing. What happened to the wonderful tropical fruit deliciousness? What happened to the balance? This beer is a shadow of its former self. I can't believe the folks at Cigar City and Oskar Blues think this is acceptable. This has gone from being a unique, delicious brew to an unremarkable generic "craft beer". What a shame. I expect this sort of thing from AB InBev, but Oskar Blues should do better. Never again.   
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 On tap at The Blue Tusk, Syracuse NY. Tried a sample, compared to one of our favorites, Ithaca's Flower Power. Both my wife and I decided on the Jai Alai. Great decision. Super taste and aftertaste. Went great with our food. Might be the best IPA I've tried, and that is quite a few. Will drink it again, anytime I have the chance.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 Appearance:  Light copper, hazy with some particles floating. Medium-fast raising bubbles. Thick rocky head. Very good head retention. Leaves a very nice lacing behind.    Aroma:  Bright, citrusy, grapefruit, some herbal, slight onion, sweet bread, caramel, hint of toffee.    Taste/Finish/Body:  Burst of bright hops up front, citrus, grapefruit, tangerine, herbal, some resinous, touch of onion. Solid malt backbone, sweet bread, caramel, some butterscotch. Finish is bitter-sweet, lingers long. Medium bodied, sticky, juicy, crisp, refreshing, medium carbonation, super drinkable.     Overall:  It's a world class American IPA!!   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 Nice, bright and hoppy!   A perfect every-day-kind of IPA.   Solid recommendation all around. 
+look: 3.5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 2.75 | smell: 3.5 | taste: 2 | feel: 3.25 | overall: 2.5 This is just too bitter for me to really get into, but hey if you like your IPA's with an intense bitterness then this might be the beer for you. You have to be a big IPA fan to really like this beer because this is a bitter one I tell you, it's worth a try if your into that kind of thing. Cheers! C   
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 The IPA is about a forty-five days old. The last beer out of the six pack. I have thoroughly enjoyed this beer. The beer is 45 degrees and served in a pint glass. The pour of the beer produced a two finger creamy and frothy white head. The head dissipated fairly slowly and left lacing on the glass. The lacing on the glass is thick and coating. The color of the beer is SRM 4 a pale gold with a touch of amber. The clarity of the beer is clear. The beer has carbonation bubbles but not a lot. Overall this is a beautiful beer. 4.5  The initial aroma in the beer is juicy oranges and tropical notes (pineapple and papaya). Next, I get lightly toasted malts, toasted bread crumbs, a touch of caramel, pine, floral, and resin. Lastly, I smell yeast and herbal. The nose could have more robust aromas. 4  The flavors in the beer are pine, herbal, resin, grapefruit, lemons, tropical, toasted bread crumbs, a subtle malt sweetness, yeast, herbal, and grass. The flavor is where this beer shines. 4.25  The mouthfeel of the beer is astringent and dry. 4.25  The body of the beer is medium, medium carbonation, and a medium-plus finish.   Overall this beer is a solid IPA. I was hoping for the beer's nose was more pungent. This is a must try beer for any IPA fan. Great flavors and a well-balanced beer. 4.25   
+look: 4 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 I love this stuff! So tasty! If you've never had it, you have to try it. On my second 1/2 barrel keg and I'm still not tired of it. It's one of my favorite go to beers!   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.75 | smell: 3.25 | taste: 4 | feel: 4.25 | overall: 4 Supposedly one on FL best IPA's, maybe one of the best sellers? 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.25 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 Canned 20 Nov, purchased at Kings in Phoenix.     A clear copper with a dense offwhite head with good retention and lacing this looks great. The nose has a nice blend of pungent grapefruit, fragrant Clementine, pine and some caramel. Mild notes of toast and alcohol heat as well. The palate opens bitter and with plenty of grapefruit pith and zest, along with orange peel, Clementine and a little floral honey. The mid palate has a mild caramel note. Drying, bitter and juicy on the finish, this beer is medium light in body and softly carbonated. Quite excellent.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 4.25 | overall: 3.75 Canned on 12/12/18. 12oz bottle poured into a tulip. Pours golden with some haze to it along with some subtle clarity to it as well; creamy eggshell white head that falls slowly leaving great retention and sticky lacing. The aromas have some citrus and floral notes going on. Some bread, crackers and caramel. Malts are there. The aromas are kind of mild, but open up a bit as it slightly warms. The flavors have a nice scathing bitterness. Citrus is there. Some grapefruit and orange. Lots of pine resin. Hints of caramel. More bread and crackers. Malts do their thing without dominating the hops. It finishes juicy and dry at the same time. Alcohol basically goes unnoticed. Mouthfeel is full-bodied with moderate to active carbonation. It's fluffy, creamy, thick and sharp. It's pretty smooth for the most part.     This is a solid IPA. It's pretty bold. The craftsmanship is on point and really takes this one to the next level. I might not be personally crazy about this one, but I appreciate it and am enjoying it.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 16oz from the tap.  Cooper, a little maltier than expected. Low carbonation.     It's pretty good, but it came with some higher expectations than it delivered. Not sure why it's held in such high esteem. Availability, maybe?   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4.25 | overall: 4.5 Balanced and delicious IPA. Makes living in the Tampa Area that much better. 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 3.25 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 From notes 12/7/11: Pours a deep gold producing 2.5 fingers of loose, frothy, eggshell tan, lasting head. Aroma is malty sweetness, honey, lots of citrus hop notes and apple juice. Taste is grapefruit up front, sweet caramel malt in the middle followed by by a nice, mild hoppy bite. Finishes acidic with a hoppy bitterness that builds and lingers in the aftertaste.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Had this with Rich at Sierra Tavern 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 Nice malty backbone. This beer has changed over the years but still an excellent IPA. 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 Canned on 07/31/18 stamped on bottom of 12 oz. can:    Pours golden, with a thin white pillow head. Lacing sticks.    The smell is of orange, caramel, and a touch of aspirin.    The is citric - especially orange. Lightly caramelized malt mixes in. Aspirin-like bitterness in the finish.    It has a firm medium body.    Leaves a bitterness without much flavor in the aftertaste.     Overall, it's a nice IPA (though nothing particularly special or outstanding.)   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 3.75 Very fun of the mill IPA. Really nothing truly special about this IMHO. The stouts from Cigar City Breweing are something really special. This was mundane.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 ABSOLUTELY MY FAVORITE IPA OF ALL TIME!! Had the pleasure of trying this on draught multiple times on vacation in Clearwater, then I moved to Tampa shortly after. This beer is so great on draft and surprisingly great out of a can. Unfortunately they don’t bottle it but if you don’t live in an area that sells it often you should get your hands on it. You won’t regret it if you truly love IPA’s.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 Solid beer for what it is 
+look: 4 | smell: 4 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3 | smell: 2.75 | taste: 3 | feel: 2.75 | overall: 3 Don't understand the 4.0s and higher. This is a run of the mill west coast style IPA, dime a dozen in my opinion. Very simple taste profile, mainly bitterness. Not that it's bad, but not a 4.28 average at the time of this review. That's getting into Treehouse range, and there's simply no way this beer flies at that altitude. Much prefer Sam Adams NEIPA and Rebel to this, as well as Voodoo Ranger, SN Celebration Ale and Torpedo, Lagunitas Sucks and Maximus at this price point or lower.   
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.75 | overall: 3.5 L: coppery color, clear  S: citrus forward aromas  T: surprising bitter punch followed by some grapefruit notes. very little complexity  F: maybe a little too much bite  O: I don't really think of Florida as a hot market for craft beer so maybe relativity explains the high ratings for this. But honestly I don't get it. This isn't bad by any means but it is blown away by many other flagship IPAs out there.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.5 Love Cogar City 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4 | overall: 4.25 I drank and loved classic east coast ipa. my early years were ballantine ipa. that said this fruity ipa with  Grapefruit finish just makes sense in south Florida. you an buy this ale everywhere.. The local craft beers are doing variations of this style and many are a little better but you can,t buy them in 7 11 type stores. Florida has its own style ipa and this brew deserves respect   
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4.5 | overall: 4.75 Delicious and light. This is a beer that has every kind of note you want out of a mellow IPA. Not too strong and great introduction to the style, no wonder why CCB has been so popular, they do not play around when it comes to refreshing beers!   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Nice IPA. Solid drinkable IPA 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 Poured from 12 oz can dated 8/23/18 , so about a month old. into the test glass.  A - Deep copper color, slightly opaque, stunning frothy cap.  S - Nice blend of citrus and pine, pineapple rings, sweet malt and orange reduction.  T - Follows the nose well, add a bit of spicy hops, solid malt base.  M - Medium in body, water profile is not to soft, which I like, the start is tangy, the mid adds the bitterness, and the final is semi sweet .  O - A very good beer, the malt base and hop treatment are like Fred and Ginger, effortless in its balance.  Well done.   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 A very tasty IPA. 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 An easy to find IPA that is refreshing and from first to last. It's not overly bitter, but maintains its taste thru the glass. It never loses flavor from first sip. Reasonably priced.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 On tap. 16 oz. into a plastic cup. It was at a pool bar in Key West, so I'll let the plastic cup slide.    L---Burnt orange color. Nice white head with good retention. It was in a plastic cup, that's really about all I have on its look.    S---Citrus (grapefruit & orange). A little bit of pine adds some bitterness to the sweet fruit.    T---Hoppy. Citrus is obvious, mostly orange, but the grapefruit hasn't totally disappeared. Some pine as well. A pretty good amount of bitterness.    F---Well enough carbonated. Smooth. Not juicy, but not dry, either, a medium mouthfeel.     O---High quality IPA. I suppose it probably got some bonus points out of me b/c I was at a pool in Key West, but screw it, that's where I had it, so it can have the bonus points. It's a Florida beer after all.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 Very nice balance of mostly citrus fruits with some pine hop and not overly bitter at first then a punch of tangy orange hop flavor and caramel malt sweetness finishes this beer. Well done from the Sunshine State. Cans FTW!   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 12oz can dated 7/25/18 purchased at Town Center. Hazy amber color and citrusy nose. Citrus taste with orange, a touch of caramel malt and orange peel/grapefruit on the finish. A very good enjoyable beer.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.5 One of the best beers you can find in shitty stores across the country 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 It was an old can of Jai Alai, unfortunately. 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 Delicious ipa with notes of tangerine. 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 4.75 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 Best Florida beer I've had. Readily available, and pretty high quality. As a Bostonian, I'm always worried about not having craft beer readily available in new places I visit, but Jai Alai has made my trip down south one to remember.     L: Dark haze  S: Orange  T: Malty, bitter orange  F: Smooth, fizz at end  O: Solid   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 On tap. Dark orange color with frothy white head. Smells of citrus. Medium feel. Grapefruit-like hop flavors dominate, but it's well balanced with malt. A great IPA.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4 Really good. Little lingering taste or I would have rating higher. 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 WOW another fine brew from Cigar City. Perfect balance of citrus and malt. 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 This was the first IPA I actually liked when I was new to the IPA scene. Now they come in 12 packs which is ideal for hosting parties to preserve your own stash or if you’re looking to supplement your weekly pick-up.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 L - Hazy, opaque, burnt orange/copper with a medium to thick, frothy/creamy light tan head that sticks around and leaves a nice amount of lacing behind.   S - Bitter hops with notes of citrus and caramel - somewhat faint.   T - Follows the nose with bitter hops up front followed by notes of sweet citrus - mostly orange or tangerine?, held nicely together with a caramel malt backbone.   F - medium to full bodied with a moderate amount of carbonation. Smooth and somewhat creamy.   O - Everything is perfectly balanced in this IPA - the hops, citrus, malt - is it my favorite IPA? Probably not, but this truly is one of the best all around IPAs I've ever had. Well done Cigar City.   
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 3.25 | overall: 3.75 Delicious. This is a staple for me whenever I venture down south on vacation. Fantastic taste, the mouthfeel is a bit on the lighter side which really highlights the hops. Try to get your hands on the cedar aged version if you can!   
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 Mesmerizing clarity, with a medium amber body. The frothy, off-white head melts slowly...yet surely...leaving evenly spaced rings of lace in its wake.     The scent is light yet lovely, with honeydew, citrus, and resinous hops melding perfectly against a soft caramel backbone.     The taste is equally smooth and round, matching the scent for the most part, while adding a surprisingly impeccable secret ingredient in the form of a dash of black pepper. Meanwhile, the honeydew steps it up a notch, evolving into a sweet limeade flavor. Medium bitterness is notable and lasting, yet well balanced by more more detail-oriented surprises: Juicy peach and buttery peanut brittle add to the delicate and detail-oriented balance.    The finish is less dry than similar IPAs and the carbonation is less prominent, but the bright, hop-focused recipe maintains this inconspicuously packaged beer’s rightful place in the IPA canon.    Overall, this is a deceptively complex beer with a little something for everyone. Both classic and surprising, both palatable and daring, it’s tame, but goes through the mark.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 This IPA pours a dark coppery color with a medium frothy white head that leaves some nice lacing. The smell is nice and crisp with some nice citrus hop presence, but with mild malt scents as well. The flavor is quite nice with some citrus flavors from the hops; orange, papaya, and a touch of grapefruit. There is a significant malt presence as well with some bread flavor and a mild caramel sweetness. The body is medium, but on the high end for a standard IPA. There is a nice smooth, almost creamy mouthfeel to it also. I would call this a malt forward IPA, which would undoubtedly be considered a slight by some people, However, I think that while many malt forward IPAs feel forced and fall into a trap of diminishing the hop character that is so essential to an IPA, this comes off as balanced and makes it clear that this is in fact an IPA and the hops are the star of the show. In that respect this is an impressive IPA. That being said the flavors are in no way exotic. This is just a classic, well balanced IPA done really well.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 i saw someone else call this the IPA by which they judge all others, and I agree.     perfect amount of hops and citrus for a fabulous crisp and refreshing beer.     it gets easier to find it on tap the closer you get to tampa, but almost everywhere that sells canned/bottled beer in florida will carry it.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 3.5 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Good, did not change my life. 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 This is the IPA that I judge all others by. Admittedly, I think the more hops the better. This is the perfect combination of ABV & IBU. Great citrus notes! Delicious!   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Really enjoyed this one. Flavorful and ABV well hidden. Less boomy grass/fruit and more tea. Never tried Cigar City before, but this is a winner for sure!   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 12oz can. Poured out a clear, golden amber color with a large, off-white head of foam. It smelled of pine, orange peel and roasted malt. Piney hop bite with a citrusy kick. Strong roasted malt backbone with caramel.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.25 Finally found this- in Eastham , Mass!? Not sure if my taste buds were so screwed up from the "Cape Crap Breweries" but this stuff is fantastic. If you are from the CT area this is Sea Hag on HGH- Awesome   
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 Absolutely love this beer. Super balanced and smooth. 7.5% is hidden well. Tropical smell on the nose and exceptional taste. My new go to beer. 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 Deep copper gold color with white cap and lacing.    Distinctly citrus hop aroma that's fresh and bright.    Hop forward flavor on entry with enough rich malt to serve as support. I get a melange of citrus notes (brewer mentions candied orange peel and tangerine) that are so well blended together no single one stands out but the mix is quite pleasant. I do get a hint of orange in the finish but that may be the power of suggestion working on me.    Medium texture with balancing carbonation.    This is a very good IPA that certainly leans toward the citrus side of things and it's so well made I neither scent nor taste any of the listed 7.5% alcohol.   
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.5 $10 (Including tax)/six pack of 12 ozers ($ 0.139/oz). Franklin Beer, Franklin, PA. Reviewed 7/5/18.  Can marked on bottom “Canned on 05/03/19”. This one was run at Oskar Blues, NC. On shelf at distributor. Stored and served at 42 degrees in a hand-washed and dried Jester King snifter.  Appearance – 3.75.  Body – Bright orange, hazy.  Head – Large (Maximum 6.8 cm, controlled center pour), off-white, high density with rocks, good retention, diminishing to an irregular three to ten mm ring, a thick complete layer, and scattered tattered lacing on the insides of the glass.  Lacing – Fair. Partial rings of tiny to small bubbles  First pour – Yellow, slight haze.  Aroma – 3.5 - Initial blast of grapefruit, followed by some weak generic citrus fruitiness. Fades away.  Flavor – 3.5 - Begins moderately bitter with some grapefruit rind, followed by some maltiness. Ends slightly bitter. No alcohol, no diacetyl, no dimethylsulfide.   Palate – 3 – Medium, watery, soft carbonation.  Impression and summation – 3.5 – After all the hype over the last few years, I found this disappointing. It’s a decent IPA but not exceptional. At the current price point, I may pick up another six-pack or two, but no cases will appear.   
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 Deep burnt orange color and a one inch off-white to tan colored head.    Smells strongly of hops and perfume. Strong grapefruit and pine notes. Despite the hop load there is a quite floral aroma to this IPA. Slightly woody but only as in orange oil on a pine board. As I sense it this is Bitter orange oil, grapefruit and pine. Distinctive scent of Bergamot oil like in Earl Grey tea.    Starts out savory and sweet. Citrus and woody are the first tastes that standout. Stays mildly sweet. Orange and the taste of Earl Grey tea. Bergamot oil.    Mouthfeel is Full.    Overall a tasty and enjoyable IPA even for those that are weary of IPAs.   
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 A beer of legend around the craft community. To be quite honest my hopes aren't all that high seeing as most highly regarded brews don't turn out to be all they're cracked up to be once they hit a larger distribution. BUT I will remain optimistic.    Look - Nice sunset orange with a golden hue. Finger of slightly off white head and a moderate carbonation on the bubble factor.    Smell - Smells kinda like a subdued born yesterday. Lotsa orange and some floral aspect. Touches of malt to round things out.    Taste - Definitely orange dominant with a pretty substantial dosage of malt. I'd say the orange dominates at about a 65/35 ratio over the malt. All orange and malt. No other fruits that I can discern.    Feel - Full and surprisingly slick bodied for the style with a low carbonation. Malts turn a touch towards odd in the mouth and the beer swallows easy.    Overall - Is this thing a legend? Maybe a decade ago. In my personal opinion I feel that it is better than the American average canned IPA on the market and that is without a doubt. I noticed some complaints about this tasting different in MI than in FL but I hold little cadence to that fact. As is typically, given the hype and years of drooling over reading reviews when this was a Florida exclusive, I am disappointed. Solid, but I'll live without buying it again.   
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 Pours a medium amber color with a frothy head, lots of syrupy lacing. Aroma is mild and doesn't really give anything away. Tasting, an explosive blast of resinous hops with a strong, slightly sweet malt backbone - definitely gets your attention. Tingles a bit on the tongue and then slowly fades to a lingering hop bitterness. This is an outstanding beer and a pleasure to drink. A really nice alternative to all of the juicy, fruity NEIPA of the week.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 Love the look of this Florida IPA...big frothy head and beautiful copper color...the taste does not disappoint as it is full bodied and yummy. Not sure on the after taste, but overall a big thumbs up!   
+look: 4.25 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 Pours a fairly clear, golden color. It has a 2 finger white, and insanely frothy head with some nice lacing on the glass. The retention is decent.   The nose is decent with pine and some citrus aromas.   Taste - The pine and the citrus mix together up front and on the backside it is a smooth pine flavor that lingers for a long time .  This beer is very sticky. The hops really linger for a long time in my throat, and the feel from that is amazing.   Solid IPA, and very well built. It is great fresh, and it's even good at 3 months, which was the age of the last one I had before today.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Dangerous at 7.5%. So delicious; could crush a 6pk like nothing! Not among the very best ipa's I've had, but clearly stands above the majority out there! Wish I had this on the regular here in Louisiana as it would be a repeat but often.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4 | overall: 4.75 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.25 | feel: 3.25 | overall: 3.25 To me its just another IPA. Decent and worth a sixer but nothing that will blow you away. 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.75 | overall: 4.5 Jai ALai was a welcomed nicely balanced ipa on a hot summer day. From Florida, it’s made to give you a quick hit of citrus and a very pleasant finish. It looks nice, and certainly a nice ipa which is not overly bitter for those who are sensitive to such. In short, I loved the beer and wouldn’t hesitate to have it again and again.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 3.75 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Came across this beer while golfing with some hosers (duffers) in FL. It was my gateway into the world of IPAs. Out of the 30+ IPAs I've tried since then in VA, only a few beers compete. The taste is light malt and heavy hops with a citrusy balance. The aftertaste is what makes this hoppy beer gold. The fact that jai alai made it's way to VA (wegmans) justifies my rating. Golden amber ipa with a flavor that can't be beat.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 Dated 5/18/18 on the bottom of the can, 3.5 weeks since brewing.    Pours a clear bronze in the glass with two fingers of rocky white head. Nose is a mix of big citrus and a sweet malt. Notes of tangerine peel, orange juice, dark caramel malt, yellow grapefruit, candied peach, candied papaya and a hint of pine resin. Definitely focusing on the sweeter side for the nose. Taste is more mellow than I expected with a yellow grapefruit kick at end, quite a bit of the darker caramel malt too. Smooth medium mouthfeel, goes down easily. Medium-high sweetness coming from both the malt and citrus. Short bitter grapefruit bite. I could totally see myself picking up a pack of these for the end of a hot summer day. Sweet lingering caramel malt, candied citrus and an underlying bitter hop bite define this brew.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 I'm not sure how it pours or what the color looks like since it comes in a can and goes directly in me. The flavor is great. It's a citrusy tropical fruity one with notes of caramel and a subtle hoppiness. Now available in the Chicago area, so it’s one of my regular go-to beers.   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.25 12 oz. Can purchased from local market.  First time I've tried it and bought based on positive reviews I had read.  It did not disappoint.     This is my first ever review, but a worthy beer for my first.    Poured into a frozen pint glass.   Pours an almost orange color, almost a two finger head, with a good amount of carbonation, yet a very smooth mouthfeel.    Smell up front is citrus and a lil fresh bread.    Drank the first one quickly before I could finish the review, so I poured another.    Taste is lightly fruity up front, but quickly into a mild hops and malt finish.    The 7.5 abv is hidden well   Tastewise, except that as I finished my first, I noticed I had a nice buzz.  A fabulous beer, and one that may just have become my goto..   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 Look: Amber  Smell: Slightly hoppy, not as aromatic as I would have expected.  Taste: Much like aroma. I expected more, but its good.  Feel: Good mouthfeel, crisp with good carbonation.  Overall: Good. Would order again.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Orange and hazy, white long lasting head.  Hoppy smell with a bready malt sweetness.  Taste is malty sweet at 1st, hoppy bitterness follows. Well hidden but noticeable alcohol after it warms a bit.  Typical IPA carbonation with a medium rich mouth feel.    Drank this beer in South West Florida near it's home.  1st out of a 12 oz. can into a 16 oz. mug (I like to swish and swirl) less than 2 months old.  2nd on draft at Pelican Larry's.   Wrote down notes from the can experience.   Highly recommended, an IPA lovers must try.   
+look: 3.75 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.25 | taste: 4.25 | feel: 3.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 west coast look, reminds me of pliny elder.. really! 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 Very nicely surprised by this beer - was worried that with its hype and reputation the reality couldn’t possibly live up, but I was wrong. Nice golden color with some moderate head and lingering lacing. Smells mainly of hops, more fruity than floral. Tastes of some citrus hops - orange zest, lemon zest, grapefruit - as well as floral hops, caramel, malt and a trace of herbal hops. The more intense hoppiness was definitely balanced by the malt backbone. Finishes clean with just a little bitterness but it was very pleasant. Mild mouthfeel, decent carbonation throughout even as the beer warmed.   
+look: 3.75 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 Well poured from a 12 ounce can 45 days new into a tulip glass. Looks clear orange with a modest head but excellent lacing. Smells sweet and juicy. Tastes even better. The first sip was sweet and smooth. Thick mouthfeel and sticky on the lips. It tastes tropical with just the right touch of malt to keep it in check. It is sweet and fruity with a very slight bitter finish. A winner in my book. I have nothing negative to say about it.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.5 Canned 14 days ago.    L — Amber-orange body with total clarity. Three fingers of soapy off-white head produced with moderate pour. Good retention and some lacing	  S — Sweet floral, pine resin, orange pith, dried mango, touch of caramel malt   T — Caramel, citrus rind, floral, woodsy earthiness, honeydew melon. Semi-sweet. Decent amount of lasting bitterness, but nothing too overwhelming   F — Medium mouthfeel, medium carb. Some fluffiness and creaminess	  O — Glad to be seeing some limited distribution of this in MA! Great value for the quality @ $12/6er of 12oz cans and definitely tasty when fresh    84/100   
+look: 4.75 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 solid west coasty ipa from the eastern west coast (think about that for a minute)    great beer from Tampa 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 Cigar city has been long awaited in my area.  Poured a semi-cloudy golden color with a 4F head in a Spiegelau IPA glass.  Good head retention.    Pine, fragrant, floral aroma.    Excellent MF. Smooth, viscous, easy drinking , which transitions well to the taste: citrus and tropical fruit.    I really like the smooth, moderately bitter finish which rounds out the character of the beer.    If this beer was regularly available it would be my go to IPA.   
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.75 Looks golden with nice creamy dollops of head remaining. Smells of grapefruit pith,pine cone,biscuit, orange marmalade. Taste is refreshing and mildly puckering. Nice malt backbone to compensate for this hop bomb. I have had triple IPA's that don't have this hop zing as this. Feels nicely carbonated, (not oily or slick) Almost a semi dry finish. Overall I would have again and recommend it.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 12 oz. can into tulip. Dated 5/21/18.  Fairly clear dark orange look. Smell is unique, mangoes, passion fruit, papaya, tangerines. Taste follows smell. more juicy as it warms. Very distinct taste not too much of anything very well balanced. Feel is medium to light. Overall this is a very different tasting IPA with a unique profile. Would buy it when I can find it.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 Solid IPA, has a nice citrus quality and likely mosaic? Has that blueberry like fruitiness to it. Really what I like about the flavor though is a nice malt backbone, toasty and slightly caramelized sugar note, provides a nice backbone without being overwhelming. Mouthfeel is a tad heavy but still for the most part easy drinking, a bit dry however.  Bitterness level is medium, carbonation on the higher end.   Really this is a great beer that's likely quite sessionable   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 5 | feel: 4 | overall: 4.75 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 My first time trying the fabled Jai Alai. Cigar City is new to MD and the can is 18 days old. From what I hear, this may be the only time I see this beer fresh. Haha. Anyhow, it looks great with a nice white head. Smell is of citrus and tropical fruit with a touch of pine and alcohol. Solid but not anything special. Oh well.   
+look: 5 | smell: 5 | taste: 4.75 | feel: 5 | overall: 5 Just wow. The moment I saw this in Whole Foods' fridge, I was struck with desire. I recognized it immediately because it was in a can, and the image on here is of a can. The bottom depicts a canning date of 2/20/18 followed by the clearly rhetorical question: HOW JAI ARE YOU? This quirky phrase apparently indicates that Oskar Blues brewed this beer for Cigar City, which explains its distribution in my state of sunny Southern California.    L: What a beautiful can it is; tastefully decorated with bright bold colors and sporting an equally developed and cultured theme of the sport of Jai Alai.  Poured fridge temp into a nonic pint, it produces three fingers of thick and whippy cream head that leaves wide bands of lacing when it finally settles down. Orange amber body has a notable chill haze. Once it warmed to about 50° I could read this page through it. Retention is incredible. About a quarter inch of film lingers over 30 minutes.    S: Immediately a rich maple syrup note pops out, followed by tropical hop notes of ripe banana, mango, papaya, pineapple and tangerine, balanced by dry underripe plum and lemon rind with a hint of herbal sage. The malt presence is resinous and roasty, with touches of agave nectar and honey; it acts as an excellent canvas for the fresh hops.    T: Follows that nose profile perfectly, as banana and mango tumble over a field of wheat drizzled with sticky maple syrup, into a tangerine orchard, then get tangled in a sage bush while running away from the farmer.    F: So juicy, so smooth, this is a joy to drink. Thick, creamy texture on the tongue, light and crisp feel on the finish: perfect.    O: Damn. I’ve had great beer. But I’ve never rated anything a five across the board. This is the first one. And it absolutely deserves it. Juicy, velvety smooth, robust, balanced and charming. 100 out of 100. A+    Oh, and in answer to the question, I’m JAI AF.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 Dark orange with large frothy head.    Citrus, subtle hops. Maybe some other fruits I can't quite place.    Interesting unique flavor, the dry and piney aspects of the hops come through - but the earthy, herbal notes aren't as apparent as they are in IPA's. This sort of essence of the hops combined with a sweetness. Halfway between a juicy IPA and a regular IPA.    Medium bodied, light to medium carbonation.    Nice, a very nice beer.   
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Exceptional IPA 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Look - 2 week old can into a tulip. Deep and vibrant amber-orange with a towering soapy 3 finger head. Not quite translucent but certainly not a "milkshake". I'm more than okay with that.    Smell - of pine and citrusy pineapple. Even with such volatile head I'm grasping to get a good handle on any aromas in depth.    Taste - Dank, bitter, citrusy, pungent. Very sticky ipa that finishes leaving a piney gooey malty slick behind on your tongue. I'm truly amazed that this is only said to be 65 ibu's.     Feel - is sticky and caramely. Like your tongue got trapped in a glue trap baited for a rodent with hops. Fairly high carbed.    O - I'm an old school ipa guy and this hits the spot. Only thing I dock it for is the aroma being a bit muted. Reminds me quite a bit of fathead's head hunter which is an all time favorite.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Poured from 12 oz can into pint glass. A 2" sudsy off white head drops slowly with moderate lacing. Color is cloudy orange with plenty of streaming carbonation. Aroma of citrus, pineapple, and bread dough. Mouthfeel is medium, sticky, and puckering with a damp finish. Flavor of very strong citrus, grapefruit, and pineapple. Malt is definitely kept in the background on this one. The alcohol is also well concealed and I would never guess the ABV is 7.5%. Overall an excellent IPA.   
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 2.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Poured from can to tulip glass. Amber-tinged orange in color with a finger of nice foamy head that leaves clingy lacing. Aroma is sweet orange, grapefruit, papaya, and biscuit malts. Tastes follows with a good amount of citrus expertly balanced against the malt. A nice welcome to Michigan.   
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 Appearance: Hazy dark blonde holds an eighth of an inch of rocky white foam.    Aroma: Slightly skunky, very wet hops, earthy, citric and pine, with some mild tropical notes.     Taste: Bitter front end is lemon peel and grapefruit, goes into a more earthy hop note, then into a pine hop note, and THEN into some mild malt base. It keeps the total profile somewhere into balance, at least supports all the yummy hop flavors.     Mouthfeel: Oily finish with a hint of burn, low carbonation, medium body.    Overall: Nice IPA, very heavy hop flavors in the profile I like, the base is pretty clean. It may be just a bit, dare I say, too hoppy. Still, very happy I got the 6, and happy to see Cigar City in Texas, hope to see more.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 5 | feel: 4 | overall: 4.75 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 This has been my go-to ipa for years. They just introduced 12 can packs under 20 here in NY. I have my personal favorites but there's no way you'll get this quality at this price. ***Lt. Archie Hicox: I must say, damn good stuff, Sir.***   
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Nice citrusy above average ipa. The woodlands, TX April 2018 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 I acquired this beer in a beer trade from a gentlemen from Florida. We are getting it here in Minnesota in a month but, I couldn't wait after reading all of the reviews on it. Poured from the can into a pint glass.  Look: Orange to a darker hue of orange almost amber. 3 finger head that was snow white  Smell: Right off the bat notes of tropical fruit, pine and of course hops.  Taste: The taste of this beer is more of what I'd expect from an IPA. There is a very strong dose of hops which is lovely.   Feel: This beer had a little more carbonation than most IPA's I drink but, it by no means is unpleasing.   Overall: I can't wait for this beer to come to MN and I will more than likely always have some in my fridge. A solid IPA that lives up to the hype.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 2.75 | overall: 3 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 Maybe my favorite IPA, certainly the best from Florida. Lots of power, citrus, and hops but goes down really smooth. It's commonly on tap in pints in SW Florida, which is slightly dangerous if you don't stop at two. But it has so much flavor that it's nice to sip slowly, so two is plenty for three hours listening and dancing to the Mudbone Blues band.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 Pours a substantially hazy gold to copper. Aromas of ripe tropical fruits, oranges, and chewy sweet caramel but veey subdued. Nose would benefit from more prominent hop aromas. Beer is bitter with bits of mango and tropical fruits. Well balanced between bitterness and sweet malt, but I'm left wanting more hop flavor. Medium body.   
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.75 | overall: 4 Favorite Florida brew 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 A - Pours a lightly hazed amber with a two finger foamy white head. Tons of soapy lacing.    S - Aroma is orange peel, grapefruit and piney hops.    T - The taste is orange peel, grapefruit, caramel malts and piney hops.    M - Medium body with medium carbonation. Creamy mouthfeel with a soft finish.    O - A pretty solid IPA. The flavors are nice and clean. Super crushable at 7.5%.   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.5 | overall: 4 Reminds me of Deschutes inversion, but not quite as flavorful. 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 4 Beautiful lacing with a thick puffy head.Pours with a medium copper appearance. Hops,citrus and pine resin up front on the nose. Body is quite thin with a sharp grapefruit finish. Quite drinkable.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4.75 | overall: 4.5 A great session IPA, one of my go to beers if nothing more substantial is available and I think that really counts for something. Even though I don’t put this is the same league as sculpin or dogfish 90, it’s cheaper (in my location) and I’d drink it all day.    L: Amber, nothing fancy but a nice shade nonetheless     S: The citrus notes hit hard, there’s some earth in there though if you dig for it    T: citrusy and hoppy with solid bites of pine. I feel as though the bitterness is marginal although I’ve heard otherwise. Well masked by the orangey tang and lush hops IMO    M: Clean, feels initially like it should end on a dry note but again, contrary to what many seem to say, it’s a bit of a wet finish if you ask me. I think that’s good in this case too, it’s still very standard IPA, just a tad less leathery than average and that is a great session quality.    Overall: I pretty much said it all above, it’s a great beer to take down all day. I’d imagine a wonderful beach ipa as it is readily available canned. Very easy to drink, with just enough balance and sophistication to make it interesting.   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 This is a nice ipa. Crisp clear and packed with citrus. Smell is dank and has citrus notes. Has some heat for being 7.5%, but it actually is kinda nice. Flavor is citrus, pine, some caramel malt. On the bitter side, but not too dry for me. I'm enjoying this. I don't know that I'll buy it a lot (due to having so many options) , but I'm glad I bought it.   
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 2 finger head.   Nice color.   Guava and tangerine nose.   Hop forward with a bitter citrus finish.   A great straight forward IPA. 
+look: 3.5 | smell: 3 | taste: 2.25 | feel: 2.25 | overall: 2.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 The verdict is in, Favorite IPA. Look, Great; Smell; Fruity, citrus; Taste, Best; and Feel, Fantastic. 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 2.75 | taste: 3.25 | feel: 3 | overall: 3 Having ridiculously high expectations for jai alai I thought maybe this batch would be different. Zero aroma, minimal hop presence. Total letdown again   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 Type: 12-oz. can  Glass: Beer Nerd 12-oz. tulip  From: Bine & Vine Bottle Shop in Normal Heights (San Diego), Calif.   Price: $2.24 (because of 10 percent off for a variety 6-pack)  Purchased: March 17, 2018  Consumed: March 20, 2018  Reviewed as: American IPA  Misc.: Canned on Feb. 22, 2018 at 9:43 a.m. ET; Brewed in Austin, Texas    First time seeing Cigar City in stores out here. Looked like it was just the core beers for now, but was excited to get to try this one. Can description read, “The merry game of jai alai provides inspiration for this citrus-forward India Pale Ale with notes of clementine, orange peel and caramel malt creating an IPA that’s both bold and approachable.” After some searching, found the six (6!) hops as Amarillo, Simcoe, Cascade, Motueka, Centennial and CTZ. Usually not a fan of that many hops. Should be interesting.    Poured an amber semi-clear color with three fingers of rocky off-white head. Lots of slow moving bubbles creeping up the sides of the glass, reminding me of a shaken snow globe. Excellent sporadic uneven foamy lacing. Almost perfect retention. (Sight - 4.50)    Smelled pine, resin, Cascade, spicy Simcoe, papaya, mango, guava, tangerine, caramel and red grapefruit. From the can even more tropical notes with mango, guava and papaya leading the way. (Smell - 3.75)    Taste was a bit better than the nose. Lots of stuff going on here with the hops, but lots of tropical notes on the back end. In order got spicy Simcoe, papaya, mango, guava, red grapefruit, dank pine, Cascade, floral, passion fruit, caramel, pineapple, herbal and lingering peppery spices. (Taste - 4.00)    Medium body. Oily texture. Average carbonation. Spicy finish. (Feel - 3.75)    This beer was a bit of a letdown overall. Could have been the Austin canned on location, but not sure. Still very good overall. (Overall - 3.75)    3.90 | 88 | B+   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.25 it's okay. It's medium-bodied but dry like a true IPA. I would say it's kin is Sierra Nevada Torpedo IPA which I would buy over this. Probably won't buy again.   
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.5 Jai Alai has made its way to Chicago and it turns out it's as good as they say. Nice copper color, pleasant citrusy aroma, but taste and feel are just phenomenal. Great balance of citrusy hops and caramel malt. Fantastic texture. Feels and tastes almost like a DIPA.   
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 Dark and a little hazy. No nose. Nothing exciting about the taste or leave with this. 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 As expected ipa 
+look: 4 | smell: 4 | taste: 4 | feel: 4.75 | overall: 4.25 L) Pours a lovely honey amber with a creamy white head. Decent retention and great lacing.    S) The nose is floral, sweet, and sappy. You can get luscious light caramels and spicy citrus zest. It is balanced quite nicely and very inviting.    T) The taste is quite juicy and well balanced as well. Everything present in the nose is on the palate. It has a surprisingly dry finish although some resinous hop notes linger.    F) The brew is quite creamy for the style, and has a perfect medium carbonation. An absolute pleasure to sip.    O) A great six-pack ipa in general. I could knock back pints of this all day.   
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 It pours a nice copper orange. It's smells of tropical fruit. Great aroma. Taste is citrus fruit, slightly sweet with a nice hope bitterness. A lot of hype around this IPA and it's very good. But the more I find these the more convinced I am that nothing beats solid local craft fresh off the tap and this can is dated 3/6 so it's fresh.   
+look: 5 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 5 Look: orange, semi cloudy, dense head, good lacing. Aroma: passion fruit, mango, flower bed, those chalky heart candies from Valentine's Day. Taste: nice, sharp bitterness up front, passion fruit, grapefruit, mango, pineapple. Finish: dry with lingering bitterness. Mouthfeel: silky texture, lively carbonation. Comments: this is one of the best IPAs I've yet drank.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Dark-orange colour, cloudy, pouring with a nice head.  Fruity and herbal smell, with some honey on the back.  Tastes initially like sweet caramel with some fruits (peaches, apricots, grapefruit), with a bitter-dry finish. Honey and dried fruits, raisins in the aftertaste. A herbal-hoppy background can be felt during the complete tasting. The alcohol content is completely hidden.  Probably goes well with a spicy food, like recommended on the can.  Very good!   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Can dated 03/01/2018. Pours a copper orange with a bit of white head. Aroma is mostly citrus fruits - tangerine, grapefruit, orange, slight tropical fruit. Taste is similar - dominated by orange, tangerine, grapefruit flesh, clementine. There's also a sweetness that gives it a dried orange slices/orange marmalade note as well. Notes of pine and resin as well but in the background of all the citrus flavors. Feel is slightly thick but I think near perfect for the style, which I would call classically West Coast. Overall, I was excited to see this on the shelf and I'm happy that Cigar City is now distributing to California. This beer definitely lives up to its reputation and I found it very enjoyable.   
+look: 4.5 | smell: 4.5 | taste: 1 | feel: 4 | overall: 2 I must have gotten a bad can. I love IPA’s. I was very excited when I found this on the shelf. Anyway... not for me, which is surprising! I’m not going to get into the undertones as I only had 1 can and that wouldn’t be fair. Given the reputation, I will try it again someday.   
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Pours a slightly cloudy, deep amber coloration with a small. fizzy head. Smell is a pleasant mixture of caramel malts and citrus hops, with notes of orange rind, grapefruit and a strong pine aroma. Taste follows the nose, with a very nice balance of caramel, bready malt and resinous, citrus/tropical hops. Quite a resinous character, with notes of orange rind, grapefruit, tangerine and just a tiny hint of pineapple as well. Finishes with a medium/strong bitterness, lots of pine and a little booze. Smooth mouthfeel with a medium body and strong carbonation. This seems like the perfect marriage between and west and east coast IPA with its resinous character, piney bitterness, but also strong maltiness and citrus and slight tropical fruit notes. Probably even nicer when not 4 months old...   
+look: 3.5 | smell: 4 | taste: 4 | feel: 4 | overall: 3.75 Taste: crisp, non bitter, balance blend of 6 hops that work together well, mellow clean finish. Fresh and mellow floral hop nose. Amber/gold hue, semi clear,tall foam head with partial ring lattice. Medium body. Easy drinker. 65 IBUs   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Let me start by saying I live in Tampa so I am partial to this beer. It is literally at every store, every bar and every party you go to. People in Tampa love it. Joey Redner has created a brewery that everyone in the city is proud of. Damn good beer   
+look: 4.75 | smell: 3.75 | taste: 4.25 | feel: 4.75 | overall: 3.75 Cigar City Jai Alai    A: The flagship IPA and perhaps the best-known beer from Florida stalwarts Cigar City (except Hunahpu, maybe) pours a brilliantly clear darker orange, the color and clarity of IPAs past and out of vogue at this point. Two-and-a-half fingers of bone white head stick around forever, and the lacing left behind after every sip is also great. Of course, time has sort of passed this look by, but as with everything, a classic (almost) perfected never goes out of style. 4.75/5    A: Orange, grapefruit, orange peel, tangerine, clementine, and pineapple all leap out of the glass alongside an ample piney hop back bone, boht vying for superiority over a mat of sweet malts: caramel, simple syrup, and just general malted barley. The strength of the fruit notes eventually win out, but the greenery never surrenders, and a rindy bitterness even joins its ranks if one digs further. The yeast is certainly contributing some mild-to-moderate fruity esters as well. Alcohol is completely absent in the nose, which is an achievement at 7.5%. The malt is a bit too forward for most West Coast IPAs, perhaps Cigar City's nod to their East Coast location or the influence of classic East Coast IPAs like Dogfish Head 60 Minute and 90 minute. This is old-school, but it does fairly well within that template. 3.75/5    T: The West Coast character really comes out in the flavor with the piney, oniony, dank hops and their pithy allies decisively counterattacking. The tropical flavors that the beer's marketing and aroma evoke are subjugated almost entirely under a torrent of bitter blows. The flavors that do make it out somewhat unscathed are that orange peel, tangerine, clementine, and just a hint of pineapple. Sweet, bready, caramel malts bring balance and juiciness to the second half of the flavor profile. Pleasant biscuit tones, graham cracker, and yeasty dough add a nice depth of flavor. Orange marmalade on toast comes to mind as one steps back to take it all in as the dryness creeps in and takes over with only a citrus syrup stickiness left on the palate along with a little sweet, herbal tobacco. Here, it is evident what many saw in this beer when it was first released and gaining hype. 4.25/5    M: Perhaps it was intentionally ahead of its time, or perhaps it is just a happy coincidence, but the body comes off moderately full, not quite in the New England sense, but one can almost see the progression, intentional or not (maybe it is just the relatively high ABV for a single IPA). Bitterness and dryness are moderately high for a beer with such an obvious malt presence, but it never becomes overwhelming and never oversteps its bounds. The aforementioned stickiness is within the realm of acceptability. Alcohol is unnoticeable. Carbonation is soft, yet active, effervescent even, a brilliant touch. This is the best part of the beer. 4.75/5    O: Cigar City definitely built themselves up on the backs of Jai Alai and Hunahpu, but Jai Alai did (and continues to do) the heavy lifting in the trenches: the market, and it is not hard to see why: this is a friendly IPA with a little something for everyone. The balance is very good (though not as perfect as some greats in the style, namely Bells Two Hearted).. I enjoy the beer well enough, and I think it ticks almost all of the boxes that a beer of this style and a beer of its time should. That said, it really does not set itself apart all that much from, say, Sierra Nevada Torpedo, Bells Two Hearted, Deschutes Fresh Squeezed, and Ballast Point Sculpin, all of which are priced similarly or lower (save for Sculpin). The malt presence and the candied citrus peel/marmalade element are interesting, but is it enough? For me, no. I will buy this from time to time now that it is here, but ultimately, I will probably stick to Two Hearted or a local IPA for even my old-school itch-scratching. Pair with Silverstein's nostalgic comeback album, "Dead Reflection." 3.75/5   
+look: 4 | smell: 4 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 3.75 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 2.5 | taste: 3 | feel: 3 | overall: 2.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 Poured from 12oz can into Spiegelau IPA glass. Canned on February 22nd, 2018.    L: Pretty red-orange color, finger width off-white head has good retention.     S: Citrusy, grapefruit and tangerine.     T: Again citrusy, grapefruit and tangerine, dank pine and some leafiness that eludes. Very nice.    F: Light, crisp, lingering citrus.    O: Wonderful. Where simplicity creates elegance without being one-dimensional.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Piney, smooth, alcohol hidden well 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 It’s good to see some east coast IPA on the west coast. I’ve lived and worked on both sides. This IPA will do well on the west coast.   It has an utmost flavor with an east coast tropical twang!......Jai Alai (unless you watched “Maimi Vice”) a sport that most don’t know on the west coast.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Had to start visiting Tampa for work when I tried this beer. Hard to miss- it’s everywhere down there. Love this beer. Some classic IPA elements, but reflects the quasi-Tropical origin. There’s citrus in there for sure, but there’s a juicy maltiness balancing it out. Perfect for drinking outside on a hot Tampa night. Thankfully I finally found it on a shelf here in Cali, where it tastes just as good indoors on a crisp sorta-winter night. So glad I don’t have to load up a suitcase with this stuff for my flight home. Now if they will just release the white oak edition out here I’ll never need to visit Florida again...   
+look: 3.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Good beer. Been enjoying this for over 10 years. I can fetch this beer locally for $8.49 a sixer every day of the week. Found it on a visit to Disney on a trip for my girl Angela a few years back around 2010 or so. Fla has this everywhere, including gas stations. If you're in the mood for the citrus taste of the tropics, as I am when visiting Fla, you know what I'm talking about, mid summer, Jai Lai simply taste like your visit when you get there. That's why you visit. Cheers, hop seeker.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 5 | taste: 5 | feel: 4 | overall: 4.5 Lol, watching Jai Alais rating tank since Stone became their distributor here on the West Coast. Just yesterday this was 4.8 (3/08/18), now today it's a 4.3. Man F U casuals. Go grab some haze and claim the other gimmicked trashed is the best you've ever had.    Look: Clear golden body, 2 finger head, nice retention    Smell: Subtle malt, sweet, orange, mango, peach rings    Taste: Very much like the nose, I love the malt backbone on this.    Feel: Light in body, nice amount of dry on the backend, and a piffy orange zest comes on an exhale. After letting this beer come to room temperature, it's very much like bubble gum, in a good way, juicy fruit good. Hell the burps of this aren't bad either, like enjoying your farts on a car ride alone.    Overall: This is everything an IPA should aspire to be. In a world plagued by haze, Jai Alai belongs in the WIPA inspired Hall of Fame with Sculpin, Enjoy By, Sip of Sunshine, and Pliny. My only complaint is how damn drinkable this beer is for 7.5%. This review only took me 8 minutes and this can is gone. It's a near perfect beer. That 7.5% is right in the sweet spot.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Great Citrus IPA without being overwhelming. I had this beer in Disney World and was excited it was available to dull the pain from crowds and screaming kids.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4.25 Pours a clear golden orange with a white head, good retention and lacing.  Grapefruit aroma was quite noticeable, a hint of pine and something I perceived as an "additive". Lotsa citrus and tropical fruit flavors. A little thin, good carbonation. My first beer from Cigar City, a solid offering.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 At first rather thin looking once poured but with a generous head, lasting and with a bit of lacing. Its strongest and most imposing trait is a strong piney aroma perceivable at a distance. It’s taste is certainly very piney as well, with a rather moderate bitter kick behind it but a less-than-full body that, while below standard for category, plays out more like british pales and is pleasing to those of us recently put off by ever more violent IPAs. In all, a decent brew.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Slightly hazy light coppery color with a frothy white head, quite lacy. The hops are just noticeable in the mild aroma. Smooth mouthfeel. Mild flavor with a hoppy aftertaste.    Drinking from the cans from a six-pack of Jai Alai on ice in the cooler by the pool, my companion, not a beer connoisseur, says, "Hey, this tastes like new mown grass smells." I guess that's what the term grassy, that I've read in various beer reviews, means. The reason I had the Jai Alai in the first place was that we had had White Oak Jai Alai recently in a restaurant in Tarpon Springs. It was great. When I tried to get it locally, only three hours away, I discovered that it is seasonal and not available. So, until White Oak Jai Alai is available, regular Jai Alai will do.    Update: I compared Jai Alai White Oak to the regular Jai Alai. They look and smell alike. The White Oak has a slightly smoother mouthfeel and just a hint of something extra in the flavor, vanilla maybe. They are so similar, but the seasonal White Oak has just a weensy bit extra.   
+look: 3.75 | smell: 4 | taste: 4.5 | feel: 3.75 | overall: 4.5 Very solid IPA and 7.5% is very well hidden 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 A - Great looking hazy orange body, full white head, lots of lacing.    S - Smell is creamy citrus, dank herbal notes, and a light cracker hit.    T - The flavor follows the nose, with big juicy citrus, primarily tangerine and orange, mild pine, and a nice herbal fade. Bitter but not punishing.    M - Brisk carbonation, mild weight, dry finish, but does not build much.    O - Worthy of the hype. A lush fruit experience, West Coast inspired, but a solid contribution of its own to the IPA conversation.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 L- Pours a two headed dark golden beer. Very deep and sophisticated color.  S- Grassy, piney and citrusy hops. Sweet tropical fruit punch aroma. Slight boozy nose follows.  T- Grapefruit, orange, bitter and grassy hops combined with a slightly sweet tropical flavor. Extremely tasty IPA.   F- Medium bodied, a little sticky to the tongue.  O- I haven't had anything from cigar city. This is because I'm a little bit reluctant to try it, I guess. I don't know why it took me so long. This is a delicious IPA. It meets and exceeds every standard of the style. If you haven't tried it and have it in reach, please do yourself a favor and grab it.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 Finally having my first Cigar City and enjoying it but reminds me a lot of Stone's Ghosthammer as well as their Hop Revolution Hercules. Not a bad thing I suppose:    L: orange buttery body with cream head that dissipates to thin bubbly lacing    A: citrus jello but very tamed aroma    F: medium mouth feel but wish it was more Piney with more hop sting    T: citrus pine jello with some orange juice zing    O: if sun was shining while laying by the water this would fit the mood. It's a good IPA, but nothing that stands out amongst what I can get close by. I can now cross it off as a beer I had been desiring yet never would seek out again however I will definitely enjoy my other 5.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Had my first Jai Alai on a trip to FL sucked down plenty while staying at a Disney property for a work meeting. Now I live in FL and I'm never disappointed to see it on tap. Solid IPA....7% standard IMO.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 12oz can, tulip, canned 1/3/18.     It's a fine looking IPA, no, really a very nice looking IPA. The glowing orange body, thick, creamy light tan head, and fantastic lacing is classic.    Edge of pine, yellow grapefruit peel, pretty normal citrus centric IPA nose. A strong caramel malt background emerges as it warms.     The flavor is familiar; it's painted from a palette of grapefruit and orange. It's like fresh squeezed juice, without the same level of citrus sourness. Soft, but intense. Bitterness is medium-high, but finishes clean.     The texture is also soft. Honestly, it has a creamy feel.     Jai Alai is a classic that has soft edges, but doesn't lack flavor. It's nice to see Cigar City's larger distribution these days.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.25 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Awesome IPA. Can’t wait until I can try this fresh in Florida in a few weeks time. 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 This finally made it to Texas. Poured from a can into a tulip glass. Slightly cloudy golden yellow with a fluffy white head and great lacing. Fragrant citrus smell. Grapefruit and orange flavors. Some nice pine bitterness. Excellent beer!   
+look: 4 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.75 | smell: 4 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Probably my favorite “old school” IPA! So good! 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 3.75 This is very nice IPA. Had it from a can purchased at the Sheetz by my house. Freakin’ Sheetz! Could not have imagined such a thing when I was a younger jerk. Beer and gas stations have come a long in the last couple of decades. I mean back in the day it was Old Swill and a hot dog from a roller at Dairy Mart. Now you can a good IPA with good character (but not as much citrus character as promised by the can or the smell) and a made to order(ish) chili dog and cheese curds from the local gas station. We’re living in a wonderful time my beer drinking friends.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Solid, great taste, one of my favorites 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.5 Serving: 12 oz can (stamped “canned on 01/03/ [email protected] :15 cold outside!”) poured into a Spiegelau IPA glass.    Appearance: Hazy orange gold with a tall, lush, frothy head of white foam. Sticky clumps of white lace.    Smell: Fruit laden nose: stone fruit, tangerines, citrus and candied citrus rind. Rounded out by biscuit malt and earthy minerals.    Taste: Crisp, biscuit malt and gently caramel body carries a complex, fruit body body from the nose with stone fruit, tangerine and lemon. Closes with a few dank notes and earthy, herbal hops and balancing bitterness.    Mouthfeel: Medium body with moderate carbonation.    Overall: A solid, contemporary IPA with complex fruit character - tropical, stone, and citrus - and plenty of balanced hop character.   
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 Canned 1/5/18 from the brewery. Consumed on 2/5/18.     I enjoyed Jai Alai immensely, wish I could get my hands on this one, although I don’t think the brew would be as good since it is so widely distributed.     Very good from the brewery!   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 One of my favorite IPAs.   look: light golden amber with a very thick, foamy head that clings to the glass  smell: refreshing, juicy, citrus, and tropical  taste: same as smell... nice bitterness that is balanced by the juicy flavor   Feel: considerably different whether drinking from the can or from a glass. The carbonation is heavy and is very noticeable from the can. When poured into a glass with a nice frothy head, it's very smooth.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 Okay, it's not as though we need any more reviews of this acclaimed brew. But after cracking open a can a few minutes ago I was moved ... nay, INSPIRED to rate it, having never done so before. I live in the Baltimore area, where I've never seen it available. Luckily, my mother-in-law lives in Fort Myers, so I grab-n-guzzle a sixer (from the nearby Publix) whenever we visit. Every time I get reacquainted with Jai Lai it's like deja vu all over again. It's just SO delicious. And that's all I have to say about that.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.75 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 12oz canned on 1-3-18  Pour an opaque orange-gold with some sediment floaties. 1/4" white head falls to a cap quickly and laces nicely.  Ripe oranges, Orange Julius...vanilla, creamsicle. White grape note. Faint malty tone.  Oranges, wet weeds, light caramel - lemon sour late. Tangy. Fairly complex.  Full bodied, low to mid carbonation...has a sweetness to it but never gets too sweet. Good lingering bitterness.  Nice, unique IPA...I'm happy to now be able to buy this locally.   
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Pours a somewhat hazy amber color with a 1/2 finger width foamy head. Head retention is decent. Lacing is good. Has a nice citrus and tropical fruit aroma with some piney resin. Nice, mellow taste. A little more on the malty side. More tropical fruit taste with a good transition to a bitter piney resin. A little soapy at the end. Good beer. Light to medium bodied with mild to moderate carbonation.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 heavy and citrusy, not dry. one of Florida’s best 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.5 Pours a bright gold with a fluffy white head on top.     Kind of a weak nose, but I get lemon peel mostly.     It tastes like a hop-charged honey sickle - the honey being subtle. There's also a bright citrus taste and bitterness that lingers after the swallow (lemon peel, orange rind, pineapple, tangerine).     It's kind of chewy which is nice - not in a stout kind of way, more of a hop chewiness. Awesome carbonation and bright "prickly" feel.     Overall this is a great IPA. It's like a hop nougat. It's worth seeking out, especially for the price. Dangerously drinkable. I will definitely buy again.   
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 As with many IPAs, this one is certianly subject to how fresh it is. Ive lowered my total score by (0.5 points) purely based on having a can that was four weeks old.   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 Fantastic "Go-To" IPA. Priced reasonably. Great citrus flavor. Pours darker colored, nice lacing. Great tasting with a pleasant aftertaste as well. 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.5 Pours a nice lacy head in a tulip glass, Smell is awesome with a great hop nose, taste is world class balanced malt and, hoppiness . Feel is balanced from start to finish with no off flavors. A solid almost perfect offering. This beer is always consistent even being from a can.   
+look: 5 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 A great beer. The tropical flavors explode. Tasted pineapple and a cornucopia of blended tropical. An amazing beer available in my supermarket. 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 5 | feel: 5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 3.75 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 12oz canned 11/22/17 poured into a tumbler glass at fridge temp 7.5% ABV. The beer pours bright light orange honey in color with off white head. The head recedes to a thin cap with some nice lacing. The aroma is orange, grapefruit and tropical fruit. The taste is slight caramel with accents of citrus and tropical fruit. Mouthfeel is medium bodied, adequately carbonated and mostly dry in the finish. There is a nice bitterness and balance to this beer. Overall, very good. I always look forward to finding this beer fresh.   
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 Nice powerful citrus pop in the mouth at first mouthful, but not overwhelming. Continues with orange, tangerine , grape, grapefruit in that order . Beautiful pour into a pint glass creating a clear light orange - amber glow in the sun. Drinking this one on a golf course in Boca Raton. Life is good   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Great taste, and even better kick 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 I love this. Pours a light copper, hoppy citrus smell, grape fruit bitterness tempered by a brown sugar sweetness. Refreshing mouthfeel, Kind of perfect.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 5 | feel: 4.5 | overall: 4.75 I called it 4.75 overall because there may be something better out there, I just haven’t had it yet. My all time favorite, all styles. Perfect citrus bitter bite. Ruined all others for me, most of all “a-ipas”. Maybe because Jai Alai was my first memorable ipa, but I always find myself saying, “still wish it was a jai alai.”  Plus, my wife think it smells like catpee, which is fun.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 3.75 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3.25 | taste: 3.75 | feel: 3.25 | overall: 3.5 Smells of caramel and vanilla, almost like it was aged in oak barrel... good taste (scotchy) solid finish ... overall good beer but not a favorite... 1-2 is limit at any given time   
+look: 1.75 | smell: 1.5 | taste: 1 | feel: 1.5 | overall: 1.25 In Florida and have had a few and they are all bad. Did the Hedge Fund ruin Cigar City? And for that matter, I am having a Dale's bought by the same Hedge Fund, and it sucks as well.    Contract brewing is crap!    I will stick with the SweetWater!!!!!   
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Poured to an Ora et Labora taster.    A: Body is yellow-ish to orange and is very crystalline. No carbonation visible. Head is midway from white to beige. Awesome retention. Good looking lacing. Very good appearance.  S: The aroma is incredibly earthy and grass. It almost smells like dirt. In the back, just a minor resinous profile.  T: The taste is very green, herby and grassy. The transition to the end of the beer is very very smooth and ends with an almost bone-dry finish with a medium to high bitter finish.  M: Body is medium. Carbonation is high. Bitterness is high. Alcohol is unnoticeable.  O: Very nice West Coast style IPA.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 Jai Alai is my favorite beer and it’s not really close. It has the perfect blend of bitter hoppiness and sweet citrus flavor. 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 4.5 | overall: 5 Absolutely delicious. Packs some nice, toasty vanilla and citrus flavors... mango, passionfruot, guava, melon. Very well balanced flavor and texture. Nice head that sticks around for a while  Beautiful aroma. Well done.   
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 Pours a huge, soapy head. Fruity, amazing aroma; touch of candied tropical fruit. Hazy, straw-orange color. Starts with a wonderful, fruity front. Medium bitterness. Lots of fruit and citrus rind behind that.    I like this one. A really nice range of fruit flavors, with a touch of citrus rind. I'm not crazy on the latter, but this is still nice.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 This beer is really nice.   I have to admit that, being a snob from New England (Massachusetts, to be specific...the heart of the east coast IPA boom), in the past, I've snubbed Cigar City.  Shame on me.  I come down to Bradenton periodically and, yet, today is my first experience with the green can. It wasn't until I learned that Shawn Hill had collaborated with Cigar City, that I realized I was missing out.   Oh, jeez. I didn't realize that this was brewed in N.C. by Oskar Blues. Very tricky. But that's ok...I like Oskar Blues.  Hey, I've been drinking all kinds of NEIPAs for quite some time...hazy, juicy, and canned....but, the Jai Alai is good. It comes across as kind of old school, based on its clarity and subdued citrusiness, but it's balanced, smooth, and you'd never guess it comes in at 7.5% abv. Oh, and it's easy to get...no driving for an hour to stand in line for an hour.  I checked out the website, and thought it was funny that there was an explanation on why it's in a can. All I can say is that, in New England, all the good modern beer is canned; if it's not in a can, then I don't buy it.  I wish I could sneak a case of this onto the plane, to bring home. In the mean time...cheers!   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.5 had this on tap and from can (not fresh)     getting grapefruit and other pithy citric notes, some moderate piney bitterness, herbaceous and green, sweeter malty notes providing balance. light-medium bodied, very easy drinking. overall tasty stuff!    subsequently got a chance to drink a can that was about 3 weeks old- overall score adjusted. this fresh can brings a great balance between honey like malt sweetness, green piney and herbaceous character, and some tropical fruits of pineapple, orange, and grapefruit. almost a candied like fruit quality. light mouthfeel. quite basic but also very enjoyable and well executed!   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Must try 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Poured from a 12oz can into glass. Stamped canning date is 07/06/17, by Oscar Blues NC for Cigar City. Not as fresh as liked.  White head settles to thin ring, scattered lacing. Orange colored body, a little hazy.  Muddled aroma of tropical and bready.  Taste is also muddled, tropical hops come forward, a little grapefruit at the end.  Medium mouth feel.  A well regarded IPA, would like to try a fresher example.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 Probably wasn’t fresh 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.25 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 A: Golden orange in color with a foamy white head and sticky lacing.  S: Pineapple citrus galore! Notes of pine and fruit punch added in. Hint of bubblegum as well.  T: Similar to the nose along with a dry grapefruit like aftertaste. There is a bubblegum like sweetness as well.  M: Crisp, dry finish. Loaded with hops! A bit bitter to the palate.  O: A very unique IPA. I'm glad that I was able to finally secure a can!   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.5 I don't mind this IPA, but only bought it once. It looked kind of weird, and the can mentioned something about some game that no one plays anymore that the beer was named after and it recommended pairing it with spicy food. This beer is pretty good with food I must admit. This beer was a bit syrupy for me, a bit too sweet and caramel malty, but it is still a very bitter beer, and a tad spicy, which I like.   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 There is no IPA from bottle or can that I like better. Excellent IPA. 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 Pours a hazy gold with thick head and sticky lacing. Nose is full on hops, citrus, floral, and sugar. Taste follows the nose, this one is awesome, clean hops with juicy citrus, some sweetness on the back end, zero bite. I have wanted to sample this for some time and have to say I know why its so popular, its a world class beer. Clean finish light to medium feel.   
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.75 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 A thick, murky honey color. A very strong flavor of fruit and spices that lingers. Price is decent and it's readily available. This is a very enjoyable beer.   
+look: 4.5 | smell: 5 | taste: 5 | feel: 4.5 | overall: 4.5 Pours fairly clearly; smells citrusy but not particularly overwhelming; tastes great - just the right amount of hops. My favorite IPA! 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Pours a fairly clear amber color with a thick, white head a little over a finger thick. Smell is citrus, malt, pine, and tropical fruit. Taste is bitter, pineapple, caramel, guava, grapefruit, and a hit of pine at the end. Medium body, quick clean finish. It's good, there is a pleasant balance between the hops and malt, Wide variety of flavors. Not my favorite IPA, but something I would certainly enjoy now and then.   
+look: 5 | smell: 4 | taste: 4 | feel: 3 | overall: 4 This beer is a party in a can. Amazingly flavorful citrus and spice without being overwhelming. It's kind of like an amped up Blue Moon with a lot more flavor and hops. It's not a party beer but it's like your own personal party, in that it is really enjoyable on its own. Fresh, original, and unique. If this beer was a woman she'd be an exotic princess and a keeper in all ways. Fun, satisfying, and worthy of lots of respect.   
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Pours medium amber with a thin persistent head  Smells springy, citrusy, and fresh   Tastes citrusy and sweet with some hop bitterness   Overall an extremely solid ipa I couldn't imagine someone not liking   
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 Purchased a sixer of cans while at the beach. Either my palate has changed a lot over the years or the brothers were working on their 10th or 11th beer at the time they reviewed this one. Perhaps it is a little of both. IMHO, with the quality of American IPAs we have access to today everywhere, it is nowhere close to a 100. I'd put it right in the middle of an 80 and 90. It is a good IPA and has all the stops, but the aroma is lacking and the malts are a little out of balance. Not getting any pine on the nose - all malts and it was canned only a month ago. The beer does, however, taste better as it heats up. The best sips are about half way through a can. I think Jai Alai is a little over hyped or the stuff they are brewing in NC now just isn't as good as it used to be. Or maybe my palate has changed...   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 Sampled from can 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 5 | taste: 5 | feel: 4.5 | overall: 4.75 12 oz. can reviewed, citrus smell and strong citrus hops, caramel background.   Great with salty foods or BBQ.  Carbonated a tad more than most I.P.A.'s.  One of the top I.P.A.'s I've ever had.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 Tasted in a Spiegelau IPA glass from a 12 fl oz can on July 24, 2017. Canned on 07/07/17. Look is copper. Smell is citrus and tropical fruit. Taste is bitter citrus, tropical fruit and caramel malt. Feel is smooth and creamy.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Rating: just drink it.  Price: $$    It's all about whether you'll drink the beer again. This one I'll grab anytime there's a steak on the table. Super drinkable, well balanced. This is not a hop explosion but who needs a hop explosion all the time? Clean, super drinkable. Who would've think Florida could put out such a good beer?    12 oz can   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 Great ivory colored head that shows up, stays, and leaves tons of lace, and nice chunks. A relatively clear, coppery, dark oaken fluid. You know just by sight the hop content is serious and the supporting cast shows commitment.     Nose is big and juicy, with a surprising amount of caramel coming through. Lots of tropical fruit and mild pine, An overlay of citrus grove adds a nice edge.    Taste follows the nose. No surprise really as this has such a big flavor that the nose basically betrays all. Big chewy caramel malt steps up first and then Bam! Grapefruit and hop oil. A tingly mint. More oil. Some pineapple and hint of guava. More hops. Wow. So big, but not overwhelming. Finish is dry and not quite as long as one might think, given the ton of hops in each sip.     Feel is a smooth and well carbonated treat. Lightly creamy with a medium weight this one goes down quite easily for such a strong brew. Really. It drinks like something with much less abv. You almost want to session it.     A top tier IPA. One of the best Iv'e had. No surprise really as Cigar City has established itself as a top tier brewery imo.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.75 FANTASTIC IPA. Looks nice. Smells not too strong on the hops. A well balanced mouthfeel. The taste is so very good. Up there with and maybe better than 90 Minute. This is an outstanding IPA. On draft at Miller's Ale House, Destin, FL. Need this one in Texas.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Pours an orange copper with medium head that leaves some lace. Nose is not nearly as big as I expected from other reviews. Citrus heavy, with some earthy undertones, but even a 4 is being generous here. Taste has an initial fresh orange zest that fades to serious bitterness. Not really much malt backbone here, but enough to prevent it from being astringent. Finish loses the fruit and retains just bitterness and a bit of an ashtray mouth from some odd tobacco notes. Overall, a good beer but not as good as expected. I do like that it is a bit different than every other IPA.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 12 oz can    Pours a slightly hazy honey amber. Eggshell head is coarse and retains well.    Smells of hemp, bread malts, earthy and citrus hops.    Flavor follows, hemp and bread malts, orange blossom honey, grapefruit hops, and a mild earthy finish.    Medium to full body with tingly carbonation on the tongue.     Very good IPA, I understand the hype. Tasty, excellent balance. Definitely try if you find it.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 5 
+look: 4 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.75 | smell: 4 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 Pours a foggy, nearly opaque, orange with two fingers of white head. Good head retention, with a good amount of lacing. Aroma is citrus, and herbal hops with caramel as well. Lovely aroma that provides loads of aroma, but without being overwhelming. Flavor profile is citrus, resin, and herbal hops. Caramel hits in the back. Nice deep flavor profile, and yet is plenty quaffible. It may be 7.5%, but it drinks much smoother. Mouth feel is fizzy, with a medium thickness. Overall, an absolute delight to consume.    Served in a 12oz snifter from a 12oz can.   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 5 | feel: 4 | overall: 4.5 This is my all time favorite IPA from the Craft Beer industry, thus far. For me, there is nothing not to like... color, smell, TASTE suits my pallet just fine.   
+look: 4.75 | smell: 4.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4.25 Look: Translucent honey orange with a thick eggshell head. Mild activity. Very nice lacing.     Smell: Marmalade, tangerine, grapefruit zest, and caramel malt. Fruity and sweet.     Feel: Medium bodied. Sits on the tongue. Medium bitterness. Booze is a bit astringent on the finish. Malt is sweet but balancing.     Overall: A well balanced IPA. The bitterness and the malt jive really well together. The booze not is a bit much though. Enjoyed this one.   
+look: 4.25 | smell: 4.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 compliments of my brother Tom...thx Bro!  canned on 5/24/17 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 Amazingly floral and citrusy. Pours a see through golden with a white head. Smells of citrus and pine but the taste is very floral with citrus and again citrus with a dry finish. A very solid IPA that's goes down smoooth with a light bitterness.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4.25 I like. Can't pinpoint why it is so smooth. 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 I have got this brew a couple times now down in Alabama. Today I poured 3 of them into a thermos and jumped into the pool sipping on them for a couple hours. The tropical fruit stands out. And a biscuit flavor comes through at the tail end. Perfect for in the hot sun. I can see why Cigar City, Flordia loves to brew this one. This is now one of my go to ipa's when I come down south...   
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 Cigar City's Jai Alai enjoys a stellar reputation-- and with good reason. This is an exceptionally well balanced beer with a deft hand managing the balance between hoppiness, malt and citrusy notes. I can only imagine the pairing of this beer with equally well made empanadas or deviled crab cakes-- both of which Ybor City produces with deserved pride. If you can find this beer, get it for the true IPA lover in your life. Unless that's you. Then don't share it at all.   
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 5 | smell: 5 | taste: 4.75 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4 | overall: 4.5 As a Disney nerd in addition to a beer nerd, this is the beer I seek out whenever I'm in Florida. Nice balanced beer with an excellent mix of hoppiness and citrus. On my short list of "buy it if ever you see it" beers.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.5 Golden to orange in color that only appears richer once sipped. The aromas don't do justice to the well combined tropical and hopped flavors. The feel is rich and also delivers great effervescence providing a wonderful balance of depth while maintaining it's delicateness. All in all a beautifully balanced IPA.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Good citrusy base with a good hop load! Better on draft than in the can. 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 On vacation i picked up a 6er in Lakeland. Its delicious. Kinda burnt out on IPAs but this one is a winner. Citrusy floral aroma matches the taste. Easy drinking makes for an enjoyable IPA. Well done.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Perfection! 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4.5 | overall: 4 A 12 fl oz can with a canned on date of 21st March 2017. Poured into a Lost Abbey teku glass.    Appearance: A slightly hazy light copper orange colour with a two finger slightly off white head that had great retention and left lots of nice lacing.    Aroma: Lots of citrus grapefruit peel, orange rind and lemon with hints of tropical pineapple and pine.    Taste: A nice sweet-ish malty caramel and biscuit backbone, followed by some nice citrus grapefruit and orange with a touch of pineapple and a mildly bitter finish.    Mouthfeel: Medium bodied with moderate carbonation.    Overall: To be fair, perhaps this was hidden in my fridge a bit too long. It was however, still well balanced and enjoyable to drink.   
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 Canned on 6/1 so about 6 weeks old. Copper color that had a nice fluffy head when poured in a teku, must have a bit of chill-haze as a little amount of light comes through initially but it clears as it warms. Good lacing on the glass as the head settled. Had a very citrusy smell when the can popped but it faded so quickly, getting a little more bready smell now. Flavor is underwhelming for me. In all fairness I bought this from a Total Wines off the shelf, not out of a cooler. Not sure for how long it had been warm but I have to imagine it's impacting the flavor. Very malty, substantially bitter as it lingers in between sips, a little bit of pine, Drinks lighter than most IPAs, decent amount of carbonation. I am going to blame the conditions this was kept in prior to purchase   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 On tap at the Hangar restaurant, St Pete Airport. Golden bubbles in the glass, and a nice subtle head. Instant hops presence in the nose, with a piney rich flavor on the tongue. Nice malt backbone, but this beer is all hops. Well balanced and enjoyable--and perfect with my spicy shrimp and grits. Loved it!   
+look: 4.5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 Clear orange-gold pour with a dense and slightly off-white head. Strong hoppy aroma and flavor with lots of pine, resin, tropical fruit and orange peel. Medium bodied and somewhat juicy.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.75 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 Look: Apricot gold colored body with super fluffy head and lingering carbonation, slightly off white. Looks great.  Smell: Citrus, pineapple, mildly piney with some other tropical fruits in there.  Taste: Mirrors the smell, although the bittering of the hops really comes through here. Malt bill is noticable in the background as well.   Feel: Light body, slightly foamy, a bit slick actually, but for a refreshing beer, I'm pleased  Overall: I'm not an IPA guy but I'll give credit where due, Cigar City did a good job.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 Excellent IPA... Hard to find in Michigan 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 DATE: July 1, 2017... OCCASION: chilling with Jer after Spikes game with a Liqour Factory growler ($5 off--criminal!)... GLASSWARE: Hopshop 20 oz. pint... with a golden amber body that forms a triple-fingered head of white foam that craters slowly, its creamy body substantial and lasting... mango, grapefruit, the classic citric aromas associated with an IPA (lemon, orange peel, resin)... pepper and other spices suggest a round, full profile... smooth, textured sips whose body belies its 7.5% ABV... a comfortable finish lasts between sips... the resin and tropical fruits build a lively, engaging taste that is at home and encouraging of its next sip... bitterness is short-lived... more than six years after the party began, I finally experience CC's JA's greatness, a balancing act of malts and hops that delivers a nuanced, flavorful IPA...   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Bottle Date: 5/20/17  Palate Contaminants: other beer    Look is medium amber. Slightly opaque, too. Moderate amount of white head.    Medium-strong marmalade scent. There's also some spice, turmeric and piquant lemon rinds. There's also a bit of pilsner tilt to matters. There's also a little bit of something sweeter, maybe nectarine. Too bad it's not stronger.    It's malty, but there's lots of stuff that grows outward from that. First, the sweet stone fruit (nectarines and juxtaposed sour cherries) are stronger. There's also a little savory depth to the fruit flavors, but not a whole lot. Sweet grass and lemon are stronger, yet I can't quite say lemongrass. Whereas the nose was spice, the taste is far more herbal, moderately dill and slightly cilantro. Mild bitterness arrives late.    I don't get a lot of carbonation, either way. It's neither fine nor course, but it just seems like there should be more of it. The aftertaste has some citrus astringency, but it's pretty light.   
+look: 3.75 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.5 Very smooth and delicious 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 I'm able to get this super fresh in NJ, and it's reasonably priced. It's no Stone IPA but, it's pretty damn good 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Found this in OBX, NC today randomly; cans dated 6/16/17, so for a MA guy who cannot find this beer on my home turf, this categorizes as a nice freshie find   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.25 
+look: 5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Excellent balanced IPA     On draft at Oceans bistro in Avon Nc 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4.5 | smell: 5 | taste: 5 | feel: 4.5 | overall: 4.75 Love this one, the fresher the better. Not good at adjectives, but my favorite warm weather IPA. Refreshing citrusy aroma, deliciously hoppy but not sharp, delightful, not too bitter finish. Wears its fairly serious ABV very well. Enjoyable right out of the can, very, but a glass shows of its hazy golden color, creamy head, lacing, and of course its aroma best.   
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 Look: Nice orange color - quite hazy. Only about a 2 finger head pouring from a can. Nice head retention.  Smell: Powerful tropical and citrus fruit. Some malt. Smells sweet.  Taste: Powerful blast of hops (tropical and citrus flavors). Slight bitterness at first. 70 IBUs are not as noticeable with the sweet malt and caramel flavors that rush in next. Super flavorful.  Feel: Feels medium, but close to a full body - seems thick and a bit syrupy.  Overall: Very very good IPA - May be my favorite IPA right now. I am so happy that Cigar City is now distributing in Colorado (since the relationship with Oskar Blues). This was one on my beer bucket-list that I finally knocked off. There aren't too many beers that I buy in a 6 pack (usually do singles, 750s, and bombers), but I will grab 6s of this for sure.   
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4.25 16 oz Pils glass.  Nice orange glow with a slight haze. Aroma is very fresh, fruity and wet.. with a citrus/floral mix. Taste is well balanced, with your typical hopped flavors. Malt base keeps the bitterness in check. Very smooth and creamy. Carbonation level was also very good.     The MF for this beer was the highlight. CC has done a great job with this one.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 what a surprise down south. Especially when you can get it at the Rays game!!!!! 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 This is my go to beer. I've tried to find another I like better.. but so far this is the one I keep going back to. It looks good, smells good, taste great and very refreshing with just enough buzz juice to keep you toasty.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Great copper orange gold with a slight haze. Rocky head that dissipates to a small lacing after a few minutes. Nice hop nose. Great clean malt taste and intense pine and citrus hop flavor with an intense but pleasant hop bitterness. A classic American IPA done right.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 The appearance is a somewhat hazy though clear light golden amber/somewhat light yellow and clear colored body. There is a super small carbonation is seen rising at an adequate pace; the head - well holy moley dude this thing absolutely defines "rockiness" in the head and how it sustains itself at least to me is quite a show (practically never seen anything like this). The smell has well, this takes a somewhat kinda downfall here, and I realize this is an AIPA that I had after almost 2 months, ok, all I have to say is gee weez - where the heck did the caramel come from and why is it displacing so much of the bitter hops that I typically enjoy in an AIPA (this is why I did this now and not after I got through the entire 6 pack). The taste is super sweet through the caramel malts, and some light hop presence. The aftertaste is somewhat "swarmy" through the caramel malts trying desperately to combine with a bitter "hoppiness." For the most part, it really didn’t. Hmmm... did I have this too old? However, I will say there is a nice dry finish. The palate is sits about a sort of a medium body of sorts, and it leaves a super dry feel coating the mouth and tongue all around. Overall, in my opinion, I think I need to try this fresher.   
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 This is my "go-to, impress my visitor (from CA) friends and family" IPA. Readily available in supermarkets here, which is a good thing. The juicy tropical hops aroma and flavor are both just....delicious. It has just the right amount of sweetness to counter the wonderful bitterness. Color is a bright copper/orange with some nice haze. This is a 9.9 as far as IPA's go...I rounded up to a 5/5. My favorite Florida beer, hands down.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 2 | taste: 3.5 | feel: 4 | overall: 3.5 12 oz can, canned on 5/9/17. Pours slightly hazy golden orange with a big fluffy white head that retains well and leaves little lacing.    The aroma is subdued - sweet soapy biscuit malts and slightly metallic hops.    The flavor is sweet fruity grainy malt with a fairly big piney resiny slightly ashy hop finish. The mouthfeel is medium to full bodied with slightly sharp carbonation.    Overall, a decent IPA that I liked a lot better on tap.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 After this last experience, I had to edit my review... First let me say, some of the cans I've had have been perfect 5's in every category. But then some have been about 4.5. I think the key is having one less than 3 months old and letting the can sit at room temp for about 20 minutes or so before you pop the top. If you get it right, Jai Alai, judged in the category of IPA, has the potential to blow your mind! This review describes Jai Alai at its best.     Canned on 3/8/17, enjoyed on Memorial Day 5/29/17. 2nd fresh 6 pack in October 2017.    L: Can said pour gently so I did. Poured a beautiful bright, almost glowing, golden yellow orange. A little cloudy. Clean, thick and dense white amber head, lots of sticky lacing. Even the graphics on the can look hoppy and dank! (the old graphics)    S: Mellow, rich, fruity hops with a very nice citrusy grapefruit twang. Citrus, apricot, mango, white grape peach. It's got some dank in there too. Can't keep my nose out of the cup!    T: Fruity hops on the front, pleasant, citrusy and clean. Excellent, smooth enjoyable bitterness. Very good! Not too piney, bitter or sweet but a good dose of them all. This is what I think of when I think of the perfect IPA. SO GOOD!    F: The most resinous and hoppy oiled IPA I've ever had. Just enough carbonation. Medium to full bodied. This must be the threshold of an IPA/DIPA. Amazingly drinkable.    O: It's IMPERATIVE that you let this one warm up. I had a couple that were straight out of the fridge and they weren't nearly as good. When you hit the right temperature, Jai Alai is a bold yet balanced IPA that pushes the limits in every category while remaining very friendly and welcoming. The end result is a very flavorful and drinkable IPA that should be experienced by everyone. Definitely one of my favorite IPA's if not my favorite. Wishing they had a DIPA as readily available. Found a six pack on the shelf at Publix for $10. Amarillo, Simcoe, Cascade, Motueka, Centinnial and CTZ hops.   
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4.25 | overall: 4.75 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 Unique can info: CANNED ON 05/09/ [email protected] :53 THE GOODIES    Slightly hazy, golden-orange body; thick, sudsy, sticky head. Loads of citrus fruit smells. Well-balanced flavors of toasted grains; some fruity esters, kind of like orange rind; robust hop bitterness that lingers long into the finish. Heavy body; coarse yet warm on the palate; mostly dry finish.    An all-around, very fine IPA. Balance, depth, complexity, all very tasty and enjoyable with every sip.   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 12 oz. can, canned 20 days ago.    Pours copperish orange with a thin white head.    Nose is peach, orange, caramel, and pine. Somewhat subdued.    Taste is a smooth, easy-drinking blend of tropical fruit, grapefruit, hop resin, and biscuity malt.     Mouthfeel is medium.    Overall, solid. A good 6 pack IPA. Goes down easy. Nice on a May day in Florida. 8.5/10   
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 5 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 4 Very nice sweet fruit aroma. Citrus and other mellow fruit. Moments of excess that seems to grow as it opens up (too bad). I little earthiness in the hop presentation too.  Slightly cloudy bright orange/amber. Off-white head with some lacing.  It's really on the edge between a Am. IPA and a DIPA. The intensity of the hop is pushed. Fairly big bittering and it lays on the finish for a good long while. The hops are fresher and sweeter in the aroma, but still show some of those characteristics. Enough malt firmness and a little sweetness help. The body is mixed. It starts big and fluffy and finishes feeling almost thin. KInda' thin and full simultaneously.   This is a good drinker. Not as good as I had hoped but a worthwhile Am. IPA nonetheless.  thanks bro for this little Florida gem.   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 12oz can dated 4/12/17 poured into a hotel water glass  A: Slightly hazy orange with a solid one-finger head that lingers  S: Loads of grapefruit, pine, herbs and tropical fruit  T: Citrus and tropical fruit up front with an herbal finish  M: Medium-bodied, quite smooth  O: A rather delicious IPA   
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.5 Crisp fruity smell. Great hop combinations and finish. No bitterness only citrus smoothness. 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 4.75 Tough to beat when on tap. Wonderful citrus flavor, no bitterness. Well-balanced and incredibly smooth for 7.5 percent, maybe too smooth. It does lose a little bit of its luster when it's more than a few months out, but what IPA doesn't?   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 Look: Yellow, with big fluffy head that sticks around.  Smell: Cirusy, lemon, pepper, and tangerines.  Taste: Citrusy, dank, pepper, and tangerines. Masks alcohol very well, with no bitterness.  Mouthfeel: Tropical, smooth, and easy drinking.  Overall: An excellent fruity, easy drinking ipa.   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Great balance in this IPA. Reminds me a lot of Founders Centennial. Caramel malts, floral, pine, lots of orange citrus. A bit of sweetness. Really nice. yb   
+look: 4.75 | smell: 3.5 | taste: 3.5 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 Bought a six pack while on vacation. The beer pours with a large head and a very clear, dark golden copper color with eventual thick lacing on the sides. Aromas are rich in pine wrapped in medium citrus. Taste generally follows the nose with a tasty, light but flavorful orange citrus. Mouthfeel is decent with the carbonation, allowing for a very refreshing IPA. Overall, a great look and taste makes this enjoyable and refreshing.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 Copper-bronze with a white head, not much retention but it leaves some lace.    Nice tropical fruit aroma. Huge mango flavour, followed by nectarine, apricot and a bit of piny resin. Nice assertive bitterness.    Moderate mouthfeel has a slight residual sweetness, with a slightly drying finish.    Thanks BakaGaijin!   
+look: 4.75 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.5 Look - slightly hazy golden amber with a gigantic off-white head that is rocky and creamy, the bubbles dissipate to a solid ring, there's great retention, and tons of lacing.  Smell - citrus, grapefruit, and pine hop notes are most prominent, but there is also a good deal of sweet malts in the form of caramel and bread.  Taste - pretty similar to the nose, but man is this balanced. It's like all of those notes exist separately but are completely intertwined at the same time, and it ends surprisingly dry and crisp.   Feel - high carbonation, medium body, creamy mouthfeel, and super smooth.  Overall, this is worth the hype. I kinda feared that it would just be a super hop bomb (which it is in some sense), but I was happy to see that it strikes a spectacular balance of malts and hops, which is what I really want from an IPA anymore. This is so incredibly smooth, yet complex, that you can drink it all day.   
+look: 3.5 | smell: 3 | taste: 2.75 | feel: 2.25 | overall: 2.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 I'm lucky enough to be only 40 minutes from Cigar City Brewery. This IPA is great and I highly recommend it to any beginner in IPA beers. It is very drinkable compared to other IPAs I've been told by non craft brew drinkers. It has a strong, hoppy aroma that can be picked up with quite a distance from the glass or can. Very refreshing on a hot Florida day. A taste that keeps you wanting another with its slightly light taste compared to other Beers in this category. Cigar City really accomplished a lot with this beer.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.75 | smell: 4.25 | taste: 3.5 | feel: 3.25 | overall: 2.75 I have read a bunch of reviews on this beer and I must have a very unsophisticated palate. Perhaps it is because it is 5 1/2 weeks old. I bought this in Cape Coral and brought it up to New Jersey where I have been really enjoying the local IPAS like 609,Double Nickel and Spellbound, which for me have high marks on all categories.     Poured into a frosted glass to a nice one inch head. Aroma was nice but not overpowering. The first sip I thought I got all foam. Second sip went deeper and there was not a whole lot there. Very fizzy. I was looking for that blast of flavors but it wasn't there until the aftertaste,which was dank and not pleasant.     In all fairness, I may have killed this beer myself. I stopped at a wine store headed out of town and all they had was refrigerated 6 packs. 35 hours later I got one in the fridge. I was sorely let down.    Second can today and it is much better! Either the first one was funky or my taste buds were off because of lunch. Still would grab a can of Spellbound, Double Nickel, Brickface locally or Ballast Point sculpin, Racer 5 for my taste.   
+look: 3.75 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Pretty good 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 Absolutely wonderful and delicious beer I received from my Dad and Sherrie when they were in Florida for this last year's winter vacation of 2017. They gave me a 12 ounce can. Tried it right away and was not disappointed at all. Tangy and tasty..... More than any IPA I've ever tried. A MUST HAVE! Thanks Dad and Sherrie!   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Poured into a pint glass    Appearace: Clear golden amber with a thick white head and lacing.    Smell: Very powerful, citrus - mostly orange/tangerine.    Taste: Citrus and a little sweet.    Mouthfeel: Very smooth, medium carbonation.    Overall: Really nothing to complain about here. Very satisfying, great beer.   
+look: 3.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 A: Already my kind of IPA. A classic semi-clear light amber with a fluffy and sticky white head.    A: Smells of citrus, pine, and faint traces of papaya and sweet malt dancing in the background.    T: Citrus and tropical fruit blend seemlessly with a touch of sweet lightly toasted biscuits, followed by a mild pine presence.    F: Smooth, medium carbonation, and some good bitterness make this dry finishing IPA something to cherish in this day and age.     O: It's nice to see other breweries still focusing and getting the attention they deserve on classic and clean, bitter IPA's like this in today's changing scenery. I'm no one to argue, as I love all the styles, but I always get a warm and fuzzy feeling when I get to taste a new-to-me beer like this, as it is what I was raised on in the beer world, and still love more than most. Cheers!   
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Hazy orange color, foamy white head. Tropical fruit aromas, very West Coast in nature. Earthy hop profile, notes of orange. Somewhat sweet, resiny, lingering finish.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Poured from a 12 oz can dated about 3 months out.    Pours a hazy Amber color with a finger of off-white head. The head settles into a film, leaving a few splotches of lace as it goes.    The aroma is faintly piney with tons of malt. Doughy, subtly tart, with some caramel sweetness.    The taste follows the nose, with some pine up front, followed by a huge wave of malts. The finish is full of citrus and pineapple.    The feel is medium bodied with moderately high carbonation. A tad oily, but very smooth. Alcohol is very well hidden.    Overall, a good and well-balanced IPA. This can may not be too fresh, but the beer holds up well and is extremely drinkable despite the higher ABV. Would love to try a fresher can to see the difference.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.75 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Clean brass and golden yellow color with creamy lacing that seems to hold substantially. Smells like spices as well as blended hops and malt. The citrus is there in the nose as well of notes of pine and floral plants. The taste is effervescent with a strong malt tanginess. I am also finding a little mango as well as orange marmalade. The spices are blended well with the hops and make this IPA seem complex. Definitely not something to guzzle down, but enjoy with all its flavor.   
+look: 3.5 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 In Florida so I decided to give this popular brew a try. Nice looking slightly hazy copper color with an off white head. Citrus and pineapple scent with some slight pine and malt. Good IPA flavor with my first impression is that it is very much like a Hopdevil. Lively carbonation and slight bitterness on the finish.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 We had this at least twice, trying it at different temperatures, and overall we were underwhelmed, perhaps because the rating is so high. It's good, but nothing about it stood out (note: the last little bit in my glass that came to about room temperature showed some promise in the complexity in the taste and aroma, but that's not the temperature I want to drink this beer at)   
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 12 oz can 3/5/17 poured into an IPA glass. Cloudy copper/orange with a one finger head that dissapates quickly to a thin layer of retaining foam . The aroma is tropical fruit (pineapple/mango) and pine/herbal notes. The taste is balanced, lemon citrus piney hops with crystal malts. The mouthfeel is solid, medium carbonation and medium heft with a bitter finish. Overall, glad to finally see this in the area and try it. A well balanced IPA.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Purchased at a Publix in Naples, FL on spring break 3/23/17 and drunk straight from the can. Pours a hazy bright orange copper color. Smells of mango, tangerine, orange and pineapple, plus other citrus fruits I've never heard of. Taste is citrus and mild hops, but not bitter, similar to a double IPA due to the sweetness. Very refreshing on a warm spring day, definitely worth the hype.   
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 2 | taste: 5 | feel: 4.25 | overall: 4.25 Very rich and hoppy. 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 3.75 | smell: 4.5 | taste: 4.5 | feel: 5 | overall: 4.5 Yellow, white foam.    Hay and citra hops.    Very citric but rounded off, doughy NE quality to it. Dank and rich, sticky, no pine or berry or floral flavor.    Light carbonation, lends to the candy taste.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 Pours orange gold/copper. Medium, thick, off white head. Lasts shortly    Smells caramel malts, citrus, tropical, light dank and juicy.    Tastes citrus, tropical, doughy malts, sweet and light bitter. Well balanced. Finish is dry and lingering pine. Medium body and smooth medium carbonation.   
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 This beer is delicious. I've never had it on draft but it is delicious directly out of the can or poured into a glass. Not overly bitter hops. Just a damn good beer.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 3 | overall: 4.25 Draft with a rich copper color and one inch of a dense white head. The smooth creamy head gives way to a crisp citris falvor. Mild bitterness easily handled by a non IPA guy. Enjoyable!   
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 On tap at Libations. Delivered in a tulip glass with a nice golden hue, minimal foam. Citrus and pine notes were evident, but didn't overpower. A complete IPA, nicely done Cigar City.   
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 4.5 | feel: 3.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 CANNED 03/01/17    Hazy orange with a dense slab of foam that diminishes to patchy, soapy bubbles on the surface. Nose is hoppy with malt to balance, but it's not a huge hoppy wallop...grassy orange, earthy pine sap, under-ripe mango, and toasty caramel. Flavor is similar with a resinous bitterness, orange marmalade, peach, melon, and flowers over a little malt. Creamy medium body, finishing dry and not too sweet. Not bad, kinda old school, but muddled and not particularly refreshing.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.75 | overall: 4.5 This IPA pours a golden amber with a bit of haze. Steady streams of carbonation keep the two fingers of fluffy and chunky white head afloat. Lace is left in chunks.    The nose is extremely bright and bursting with fresh citrus. Sticky, slightly syrupy pineapple mixes with juicy tangerine and tangy lemon. Fresh grass, fresh pine, fresh all things green. Its light on its feet with plenty of zing.    Freshly cut grass and green pine are on a more level playing field with the tangerine, pineapple, and heaps of citrus peel. A bit of citrus tartness is intertwined with a leafy and earthy bitterness that makes its way into the finish. Its malt bill is more fleshed out as well with biscuit and a drop of caramel rounding its edges.     The level of carbonation and bitterness cuts and cleans. It's medium bodied with a bit of stick and plenty of dryness. It's extremely well rounded and devilishly balanced.     This IPA has it all. I was hard pressed not to say the term "fresh" in every other sentence. Citrus forward and bright with a refreshing level of bitterness and extremely rounded body. A standout IPA.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Second time trying this one. First one was canned over a month before I got to it which I liked but found nothing remarkable about it, and I'd read that the flavor tends to fall off after 3-4 weeks. This time I got to try one 2 weeks post canning and what a difference. Deliciously balanced IPA   
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 5 | taste: 3.5 | feel: 5 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 It's no juicebomb, but bright, a bit resinous and delightful front the front to the back of the mouth. 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 3 Word to the wise : Jai Alai fades faster than a junior high crush. It also seems some batches last longer than others, which means buying this beer is a lot like playing Russian Roulette. I had a can recently of 6/1/18 that was excellent 10 days out, but just yesterday (7/10/18) I cracked the can and it was just an awful mess of stale caramel malts and onions. I have never encountered a beer that fades that fast and drops off that dramatically. To make matters worse, Jai Alai is HARD to find fresh, but when you do (meaning within one week of canning), buy it up, and drink it THAT NIGHT. I can't express to you how incredibly difficult it is to enjoy this beer. Invasion is that way also to a lesser extent. Expect to put all of your other fridge beers on the back burner while you rip through your Cigar City six pack like it's gonna vaporize tomorrow. A 12 pack flying solo is like risking sneaking a fart when you have food poisoning. It's not fair, and it will keep me from buying as much CC in the future. Due to its horrendous drop off I have to decrease the rating. Finding fresh Jai and having it remain fresh in your fridge when you're not a backyard tailgate smasher is a rare whale poaching indeed.    When it is good :    |  |  \/      Pours a honey-amber color with a fluffy, sudsy stark white head of 2 fingers.     The nose on this is really nice. Aromas of pure hop pellets, I'm guessing Amarillo. Just grassy, herbal, and ever so slightly piney aromas. Very fresh. You know the type.     Solid flavor profile. Caramel malt base for sure, lots of hop resins, some slight dew grass, followed by tropical rinds and some rindy grapefruit. Resins cling to the palate.     Feel is likewise resiny and oily with no mercy. Lots of natural hop action going on all the way through this beer from the aroma to the feel. Mild carbonation provides a little boost to an otherwise whip-creamy mouth feel. Slight graininess as well.    Overall, if you want to know what hops smell, taste, and feel like, without much alteration from their natural state, this beer will capture it for you. Total freshness in a freshly opened hop foil pouch-like way. Lots of great resins, fruity flavors, and great yeast action throwing some kind esters out there. Highly recommended, glad I traded for it.   
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.25 | overall: 4.5 Citrus bouquet (maybe grapefruit or orange?), Bold hops...Smooth. 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.75 12oz. canned 11/25/16    Pours slightly hazy amber-gold with a creamy frothy white foam head. Smells like toasted caramel malts, mild peppery spice, mango, orange citrus, grapefruit, papaya, guava, melons, pineapple, with floral earthy herbal grassy pine. Tastes like toasted caramel malt, mild peppery spice, mango, orange citrus, grapefruit, papaya, guava, melons, pineapple, with floral earthy herbal grassy pine. Feels medium bodied, creamy with moderate low carbonation. Overall a really nice IPA.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 From Saveur-Biere. In Teku glass. Playing Technobabylon. Smoothness and refreshness are its more remarkable qualities. Full.of tropical fruits with a non-agressive bitterness inciting to drink more   
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.5 Bought at Krogers @ Swift Creek Midlothian Virginia on 2/15/17. 6 pack 12oz cans cost $11 plus tax with date on bottom of can - 2/02/17! Fresh as that! Great Find! Pours a golden copper color with 1 finger head. Nice lacing on glass. Great hop aroma (grapefruit, some lemon maybe? oranges peach and a hint of spice!) with a considerable underlying malt backbone to support. Awesome and very well balanced taste!! Tasty! 70 IBU'S but not noticeably bitter! Excellent job by Cigar City and Thank the Beer Gods they sold to Oskar Blues! Will definitely look for this beer in the future!! Enjoy more beers! SEH   
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 I went to Disney during the '16 food festival. I'm not sure where I saw her or how the conversation started, but a stranger in Epcot told me she was drinking the best Beer to be had in the park... Jai Alai. I looked everywhere during my weeklong visit and never found it. A month later I was back home in Florida and found this beer in a Panama City Walmart. Loaded up on it and brought it back to try with friends. Finally getting around to review this fine beer.     Poured from a can into a Spiegelau IPA glass. Thin head never fades on the cloudy amber/hay hued beer. Personally, the appearance beer other than a nice stout rarely seems to me worth dwelling on.     Smell is a little bitter grapefruit with a sweet, maybe caramel, note. Not super complex, just clean and balanced.    Taste is similar to smell its a few more sweet notes. Still a hoppy IPA and true to the style, but with the smallest hint of mango and apricot to level it out. Nice to find a solid IPA that doesn't taste like a pinecone.     Carbonation is there, nothing noteworthy which is how it should be. Beer might be the slightest bit sticky.    Overall, a favorite.   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Poured the 12oz can into a teku glass.    God, how coud I lived to 33 without ever having tried this ? Smells like orange peel citrus and tropical fruits. Taste the same.       Unfortunately I was only able to buy one yet I'm sure this make an excellent session IPA.     The best I have ever tried from the southeast.   
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 I picked up a 6-pack of cans ($13.99) while passing through Wilkes-Barre PA a few weeks ago. Have had a couple but now it's time to put thoughts into the record while watching more snow come down here in Southern New Hampshire.... They were canned on 12/28/16....    Poured one into a small tulip.... It is ever so slightly cloudy, and the color is deep golden-bronze. There is scattered carbo within, and the head is a thin, creamy, fine layer of off-white foam. Lacing is pretty good as well. The aroma has lots of citrus, with grapefruit, pineapple and apricot mixing nicely. The body is a solid medium, and it's not rough at all on the tongue.    Flavor has a touch of caramel and toasty malt, though the hopping is where it's at. It has a nice balance of sweet fruit and bitter. On the sweet side is some apricot and tangerine, while the bitterness comes from some grapefruit, resiny pine and some rindy notes. The hops linger nicely on the palate in the finsih. Quite tasty, all-in-all! Prosit!!    4.23/5 rDev +0.7%  look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25    1890   
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 5 | feel: 4 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 From the growler, it pours a lightly hazy amber with a modest head, lacing as you enjoy it. Some pine in the nose. The mouth revels in the well balanced flavor of hops and malt. Yumm!   
+look: 4.5 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 5 | feel: 5 | overall: 5 Great balance that a lot of IPAs seem to lack. The bitterness has a place, and actually enhances the flavor instead of being there just to slap the IPA label on it. This isn't some gimmicky beer trying to take advantage of the popularity of IPAs. It was clearly well thought out and deviated from the regular IPA formula to make a delicious unique beer.    The bittersweet hoppy/grapefruit flavor is strong, but its still smooth enough to be chuggable. It has a nice fruity/musky odor and taste that sits on top of the hoppiness.    The flavor remains consistent even after drinking an entire 6 pack. It lacks the harshness of a lot of IPAs, which keeps your palate intact after many drinks, and it sits well in the stomach.    A lot of IPAs are unpleasant and lead to headaches after a few. This one gives the cleanest buzz of any IPA I've tried, which is what keeps me coming back. Living in Tampa, they have these in every store. Needless to say, I've drank hundreds and never had any kind of hangover or negative effects.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Tasted this along side the white oak version while escaping the snow on vacation in Florida. The hops are very present in both the nose and taste. Clearer look than the oak version. Overall a great beer for the hop heads out there. M   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 This IPA is delicious with great fruity flavors and aromas from the hops. I wish that this beer was distributed in St. Louis, I make sure to get one every chance that I have.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 best beer at Disney, never heard of it before.Had no access to phone , and ordered this. Delicious, had it both on draft and from 12 oz can.   Nice dark copper color, really fruity scents and flavors, with a malty sweet finish. very well balanced   
+look: 3.5 | smell: 3.5 | taste: 1 | feel: 1 | overall: 2.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 2.75 | taste: 3 | feel: 3.5 | overall: 3.5 Canned 1/5/17.. Pours copper with 1 finger white head.    Smell is very weak and mild , bit of pine resin ,not much else.    Taste is much like the smell , not very hoppy tatsting or malty , just bland for an IPA especially .    Feel is pretty good medium body , certainly not watery.    Overall we just got this in TN this month and ive heard about it online so maybe I had too much hopes for it, kind of let down , have had many better IPA.. Would not buy again..    So far maduro is the best thing ive tried from cigar city..   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 This is a classic of the style, and probably Florida's most famous beer. I pick up a sixer every time I can get down here.     It has a big caramel malt sweetness that really stands out but has the chops and hops to overwhelm it mid sip. Citrus, pine, and the whole shebang. This is designed with hop heads in mind and is suitably revered for the effort.     A big, flavorful IPA that improved the beer credibility of an entire state single handedly. Not my personal favorite, but in the pantheon of best in style.   
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.25 | overall: 4.75 Plenty of reviews on this delicious IPA.  So I give a quick and dirty.    Juicy Citrus, floral, and tropical fruit explode into the nose and palate. Malty sweetness follows as the piney deliciousness comes to the rescue.    Cigar city hit a grand slam with this one.    Pale row, Honey malt, citra, cascade, and mosiac hops come to mind drinking this.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 Canned 1/10/17. Pilsner glass.    A:bright copper gold, slow streaming bubbles in the center. Two fingers of bright white head. Excellent lacing.    S: had on tap earlier this evening, and the smell was classic citrus, floral, and hop resin. Very traditional citrus, tangerine, lemon peel aroma. Some mild malt backing it up.    T: floral hops on the arrival, crisp, crackery malt, turns barely sweet citrusy, then lengthy bitter grapefruit peel finish. Superb. Very traditional, classic IPA, a lot like two hearted ale.     M: very well attenuated, relatively low carbonation, extremely clean. Lingering hops.    O: a very classic, traditional IPA, not too hoppy, not too sweet. Citrus driven and mildly sweet. If I lived in Florida, would drink this regularly.   
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 Truth be told I'm a bit let down with this one. I've anxiously awaited this for quite awhile so when my buddy brought home a pack from Florida after his trip to the CFP Championship game, I was super stoked. The nose was super subtle, almost non-existent, and the hop profile was very understated. I picked up just a hint of the orange, but the rest of the expected fruit/hop blast I had hoped for was nowhere to be found. The taste followed the nose, and it reminded me more of a low IBU pale ale. Let's just hope it was an old vintage and not typical of what this beer is like fresh.   

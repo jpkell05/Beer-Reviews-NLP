@@ -1,0 +1,1000 @@
+look: 5 | smell: 5 | taste: 4.5 | feel: 5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 5 | smell: 3.5 | taste: 3.75 | feel: 4.5 | overall: 4 Poured from one of those widget cans into a glass. Beautiful nitro pour with huge thick off white head. Light roast aroma. Tastes mildly roasty with a hint of malt sweetness coming through. Balanced bitterness, no hop flavor or aroma. Super silky mouthfeel. Great experience when nitro tap setup is not available. A classic beer, rich and rewarding given the lower abv.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 3 | feel: 3 | overall: 3.25 
+look: 5 | smell: 3.5 | taste: 4 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 The stout for folks who don't want their stout to taste like a stout. The look is extremely deceptive. Weak, flavorless, and watery. Many others are much more efficient, not to mention far thicker and tastier. If you're really set on a Guinness, Extra Stout is the way to go.   
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3.5 | taste: 3 | feel: 3.25 | overall: 3 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 A solid stout without much in the way of adulteration. A little thin, otherwise it’d be just about a clean 4. 2018/12/27 
+look: 3.75 | smell: 2.5 | taste: 2 | feel: 3 | overall: 2.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 3.25 | taste: 3 | feel: 3.75 | overall: 3 
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 On tap at my local Irish pub. Poured into a imperial pint glass. Guinness pours jet black with some ruby highlights when held up to a light. Aroma was faint but I detected hints of toffee, chocolate, roasted coffee. The taste of Guinness is about what you might guess. Notes of choco, toffee, breadcrust, roasted malt. Mouth feel was smooth and creamy. No bitterness at all. Over all Guinness from a pub or nitro can is excellent. I avoid the bottled version though. Don't ask me why, Would I recommend Guinness to a mate? Yes I would.   
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 4.25 | overall: 3.75 
+look: 3.5 | smell: 1.5 | taste: 1.5 | feel: 3.5 | overall: 2 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 3 | taste: 4 | feel: 3 | overall: 4 
+look: 5 | smell: 4 | taste: 3.5 | feel: 4.25 | overall: 3.75 Guinness Draught Nitro, 4.2% ABV. Pours black, with a two finger ivory nitro head. Incredible looking beer. Nose is malt and slight chocolate, taste is malt, slight chocolate, slight sweetness and slight bitterness. Taste comes off pretty bland. Outstanding smooth mouthfeel. Overall excellent, too bad the flavor doesn't match the looks.   
+look: 1 | smell: 1 | taste: 1 | feel: 2 | overall: 1 Never have I tasted a worse beer. In fact, I made an account here for the first time just to warn people about this. I'm no beer snob. You may laugh, but my go to beer is pbr so you know my standards are pretty low. This beer tastes like mildly flavored sparkling water. There is no "beer" in it what so ever. After drinking several of them, I did not even feel the slightest buzz. I've gotten more drunk from nonalcoholic beers.   
+look: 3.5 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3 | smell: 3.5 | taste: 4 | feel: 4.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 5 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 3.25 | smell: 4.25 | taste: 3.5 | feel: 3 | overall: 3.25 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3.25 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 4.25 | smell: 3.75 | taste: 4.5 | feel: 4.5 | overall: 4.25 On draft many places. Prior to 1990 Guinness draft in the US was not handled properly. Stored too cold. Not pushed up with the right nitrogen. Overall a pale comparison to a pint in Ireland. After 1990 the brewery began to send stout gurus across the Us in and effort to improve and standardize what a proper pint of the black should be. By and large they succeed as long as the bar maintains the standard and the beer is turned around. Perfect black the. Burgundy when backlit. Toasted chocolate and tobacco nose with a rich malty mocha taste and finish. Guinness is good for you.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 4.75 
+look: 5 | smell: 3 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.25 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.5 Fantastic! Impressive look with a great foam growing from a Nitro. Creamy, tan head. Coffee, toasted malt aroma. Medium sweet malty flavor with a nice dry finish. It is a classic beer. Are they better beers than this? Yes. Is it a definition of a style? Yes. Must try beer and my long time one of the favorites.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 3 | taste: 5 | feel: 4.25 | overall: 4.5 Only came to Vancouver in 1986, alas a lot of wasted time. Favourite beer ever since. 
+look: 5 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 Poured into a Guinness glass straight from the 14oz. can. WOW, what a beautiful beer, this is the prettiest beer ever! The cascading head settling into a 1/2 inch off-white foam on top of a very dark brown almost black beer, and the head has a bit of lacing as the beer goes. Scent is a faint roasted barley, and not much else. Taste is surprisingly very mellow, more roasted malty flavor that is very even thru the mouthful. Feel is interesting-- surprisingly light, evenly carbonated, with a creamy finish. Finish is not as dry as the name 'draught' implies, and is pretty clean overall with a very slight roasted taste that remains.    This beer surprised me. It is not heavy at all, nor is it as dry or bitter as I originally thought. A very sessionable stout beer overall, I can even see this beer being refreshing in the summer if it is very cold.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 I’ve been drinking Guinness everyday on draft or in a can for last 4 years. I won’t drink anything else. Hands down the best beer ever made. 
+look: 3.25 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 2 | overall: 3.25 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 3.75 
+look: 4.5 | smell: 3 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 Lighter stout with good flavor. Drank from the limited edition bottle so i can't comment on the pour or the beautiful surge. The presentation is very cool as far as the label is concerned. Beginning with smell. The aroma I get from this guiness is somewhat like olives. Also seemingly reminds me of barbecue sauce. Aroma is a tad muted. Now for taste, the flavor is lighter than the extra stout. The top end is very dull. As you sip, the flvor builds up into a nice dark malt character with some fairly good hop bitterness. The end is dry. So far, the flavor is not intense as I imagine stout to be. There is no top end sweetness or depth. Im not completely satisfied with it and was expecting a little more. The feel is simular to milk or cream. Sort of ompsous with very little carbonation. The beer is extremely smooth and very easy to drink. Overall, this is a good well made ale but could use some depth like its extra stout counterpart.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 my go-to beer to have a burger with 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 3 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.5 First, no beer is as beautiful a Guiness, just poured from a nitro widget can. The glorious cascading head sliding down the sides of pint glass is the apex of beer craft. You can disagree, but then you’d be wrong.     There is little to smell, and the taste is simple. I’ll suggest, however, a beer doesn’t need an initial 32 flavor notes and a slowly evolving flavor profile to qualify as incredible. When simple is nearly perfect, it is. That’s a Guinness.     Mouth feel is incredible, like nearly any nitro would be.     Overall, this is your go to sessionable stout, available in every grocery store and most gas stations. It’s good on a hot day (shock your friends)! It’s great on a cold day. Guinness deoch an fuinnimh!   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 3.75 | taste: 2 | feel: 2.25 | overall: 2 
+look: 4 | smell: 3 | taste: 4 | feel: 4 | overall: 3.75 더블린에서 마신 기네스는 그 어떤 맥주보다도 부드러웠다. 목넘김이 없다시피 한, 너무도 깔끔했던 느낌. 향과 맛은 과하지 않고 적당했다.   
+look: 5 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 4.75 | smell: 3.25 | taste: 3.5 | feel: 3.75 | overall: 3.5 From notes 1/14/13: Pours a ruby tinted brown/black producing 3 fingers of frothy, lasting, light tan head that leaves a thick coating of clumpy lace. Aroma is thin and faintly sour, chocolate, roasted malts with a hint of dark fruit. Taste is a watery version of the nose with a dry, lightly bitter and sour finish which dominates the aftertaste. Mouthfeel is light-medium bodied and thinly creamy with a peppery bite.   
+look: 5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 3.75 | feel: 3.5 | overall: 4 Guinness Draught is an old standby, as far as I am concerned. It delivers a great look and aroma, and tastes very nice as well. I love the fact that this stout has a low price tag, yet tastes and feels great.  Something that's cool about this beer is the head. It is very thick and tan-colored, while the beer itself is so dark. I don't know why, but I love that.   
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 3.5 | taste: 2.75 | feel: 3.25 | overall: 3.5 
+look: 4.5 | smell: 3.75 | taste: 3.25 | feel: 3.25 | overall: 3.5 Look- dark with a nice surge to start things off. Head is around two fingers thick and tan colored.  Smell- muted notes of dark chocolate and coffee.  Taste- really smooth and creamy, but that’s it’s downfall. It’s so smooth the flavors seem to be muted, I was left wanting more from this stout.  Mouth feel- medium to thick.   Overall- it’s an ok stout, but I prefer Ten Fidy, or Left Hand Milk stout instead.   
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 1 | smell: 1 | taste: 1 | feel: 1 | overall: 1 
+look: 4 | smell: 3.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 4 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 4.5 | smell: 3.5 | taste: 3 | feel: 4 | overall: 3 
+look: 5 | smell: 3.5 | taste: 4 | feel: 2 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 4.25 Pours your typical Guinness color with plenty of offwhite color head and reduces to a thin ring around the top of the brew. Smell is also on point for Guinness as well. Taste is definately there but a little milder than the extra stout, and not as sweet either. The feel is much lighter than others in the style. Overall a very drinkable lighter feel stout that I look forward to many more of.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 5 | smell: 3.75 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 4.25 | smell: 3.5 | taste: 3.25 | feel: 4 | overall: 3.25 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.75 | smell: 3.75 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3 | smell: 3.25 | taste: 3 | feel: 2.5 | overall: 3 A decent beer to get when you're playing it safe. Great product for the price. Can't go wrong here so don't. Haha. 
+look: 3.25 | smell: 3.5 | taste: 3.75 | feel: 3 | overall: 3.25 
+look: 5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 I've definitely had this in my previous (pre-BA) life, but never since I've been on-site... Totally worth the return... And damn if it ain't better than I'd recalled... Classic cascading pour into a pint finally reveals a pitch-black beer with a creamy almost white foam cap that drags down the side of the glass... Next-level smooth, mild with dark roasty chocolate malts and hints of espresso and char... Mildly sweet, mildly bitter - and, again, so smooth and soft... Probably one of the fluffiest, softest beers... Ratings seem a little soft - I think this beer is exactly what it meant be, and it's a classic Irish stout - and that's how I scored it...   
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 5 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 3.5 | taste: 5 | feel: 4.5 | overall: 5 Great tasting, much smoother going down than I thought it would be.hint of coffee flavor with some chocolate notes.can't go wrong with this beer. 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 5 | smell: 4 | taste: 5 | feel: 5 | overall: 5 Always a pleasure to watch the glorious cascade. And then, yumm! 
+look: 4 | smell: 3 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 Pours a pitch black color with a mocha head. smell has roasted malts ,chocolate and coffee notes. Taste was light and watery for a stout not like the smell. Mouth was very creamy and smooth with some chocolate bitterness in the finish. Ok to have on tap from time to time.   
+look: 4.75 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 One of the first beers that I tried outside of the normal range of American beers. Still love the creamy,bitter, coffee-like taste. 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 4 | taste: 4.25 | feel: 5 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.75 Look: Black, with a solid white head. You gotta love the look of a well-poured Guinness.    Smell: Roasty malts, some hints of dark chocolate, I detect a little bit of hoppiness.    Taste: Not a lot of flavor when it's in your mouth, sort of subdued, but after you swallow and take a breath while it's still on your tongue you get a mix of roasted malts, coffee, and dark chocolate.    Feel: Really smooth, kind of creamy. Pretty low carbonation, lots of really little bubbles if that makes sense.    Overall: It's not my absolute favorite beer, even as a stout lover, but it's certainly a pleasurable brew!   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 4.75 
+look: 4.75 | smell: 3.75 | taste: 3.5 | feel: 2.75 | overall: 3.5 
+look: 4.75 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 Guinness is one of those beers that North Americans enjoy wrong! You do not need to chill this beer. In fact, by doing so, you are missing some very important subtilties of the flavor. This should be consumed at a cool room temperature. The pour from a can or draft is amazing. The cascade is the best part of pouring a Guinness. As someone who lives in Canada, this is a great winter beer to be kept by a window near or your back door or basement concrete floor and enjoyed after a hard day of work. It would be even better if the alcohol content were a bit higher ;-)   
+look: 5 | smell: 4.75 | taste: 5 | feel: 4.25 | overall: 4.75 Unique beer for many reasons.  The main reason is the carbonation - Nitrogen.  That’s right! It’s not CO2. I think the nitrogen affects the flavors in a good way.  Don’t let a dark beer scare you away. Dark in color, but light on the tongue. Malt notes but nothing overpowering. Hops are only enough to perfectly balance the beer. Watching the beer settle in the glass is a show and part of the experience.    Color: Dark 9/10  Taste: malt 6/10  Hop: slight 3/10  IBU : low (10ish?)   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 3 | taste: 3.5 | feel: 4.5 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.75 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 3.75 | smell: 3.75 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3 | taste: 3 | feel: 3.25 | overall: 3 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.5 | smell: 3.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 4.5 | overall: 4 
+look: 5 | smell: 4 | taste: 4 | feel: 5 | overall: 4.25 
+look: 5 | smell: 3.5 | taste: 3.75 | feel: 4.5 | overall: 4 
+look: 5 | smell: 3 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4 | taste: 4.5 | feel: 5 | overall: 4.5 Delicious beer. For a macro brew this has a lot of flavor. Great carbonation. Could be fuller bodied. The heaviness of the beer suits me well. 
+look: 4.75 | smell: 3 | taste: 4.25 | feel: 4.5 | overall: 4 
+look: 4.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 If you want a beer to take you back to Ireland this is the one. I can imagine drinking this in an Irish Pub every time I drink it. It is key for the bar tender to know how to pour the draught the right way which does take time. It is so smooth and easy to drink. This is the beer I drank for my 21st birthday. I had great memories with good friends and a mug of this beer.   
+look: 4.5 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.5 15 Oz Can poured into glass  Look - Dark brown color. Takes a while for the tan foam to settle, some lacing on glass.  Smell - Similar to a hot chocolate. Some creamy coffee and believe it or not jelly beans  Taste - A lot lighter body than i was expecting. Watery roasted malt. Certainly creamy characteristic maybe that is the nitro. The bitterness from the roast is there but i wouldn't call it bold. Easy to drink, low-medium carbonation.     It's not bad i was just expecting a more fulfilling robust beer. Tastes like 50% water, 50% stout. It may serve as a good session beer but i don't want this kind of flavor over and over again. I will give this beer a grade of B   
+look: 3.75 | smell: 3 | taste: 2 | feel: 2 | overall: 2.5 Poured from a bottle into a pint glass. Nice head. Not as much lacing as I remember from the pubs. It smells the same but tastes watered down. Not the same mouthfeel at all. Like a soft drink. What did Diageo do to Guinness???!   
+look: 4.5 | smell: 4.25 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4 | taste: 2 | feel: 1.5 | overall: 2.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 If you have ever been on a golf trip to the UK do yourself a favor and drink Guinness the entire time. To this day I drink one and am taken back to the roots of golf.   
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4 | overall: 4.5 Guinness is a solid beer that is consistent in delivery. If buying a draught can pint be sure to open the can and quickly flip the can upside down into a pint glass and shake out the beer to get a true pour. Cheers   
+look: 4.25 | smell: 3.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3.75 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 4 | smell: 4 | taste: 2.5 | feel: 2.5 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4 | taste: 4 | feel: 5 | overall: 4.5 Look: One finger creamy white head, black body.    Smell: See below.    Taste : Roast, dark chocolate, burnt grains.    Feel; Light body, mildly bitter finish, dry. Medium carbonation.   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 What can I say I'm about 3/4 Irish and I love Guinness. 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 Followed the instructions on the 14.9-oz. can. Poured gently into a 20-oz. mug.  Dark chocolate color with ruby highlights on the edges when held up to light. Rich creamy finger sized khaki head that slowly shrunk to pencil size with thick sticky lacing.  Smell is mostly bready yeast, a little bit sour.  Taste features a blend of roasted and semi-sweet malt, coffee and a mellow hop bitterness.  Thin watery mouthfeel with almost no natural carbonation, gets some support from the malt blend.  Follows the style guidelines, not much flavor other than malt and hops. Easy drinker.   
+look: 5 | smell: 5 | taste: 3.75 | feel: 3.75 | overall: 3.75 It looks astounding, I got this in a can with some amazing artwork truly was different. Had a 4 pack from some local corner store the pour was b-e-a-utiful really enjoyed that look of all the carbonation and bubbles rising to the top. Looked like some java mixer but boy when I tasted it I was asking "that's it"?   Doesn't taste the least bit bad just nothing as immense and exciting as the way it poured in the glass from the can. Either way decent beer really don't have a lot to complain about when it comes to this brewski.    Enjoyed it.   
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 3.5 | feel: 2.5 | overall: 3.5 
+look: 5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 4.5 | smell: 3.25 | taste: 3.25 | feel: 4 | overall: 3.5 Not the best or most complex stout out there by any means but this pours a draft that’s just so fucking pretty and it goes down as easy as almost any beer out there.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.75 | overall: 4.25 
+look: 3.25 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 3 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 5 | overall: 4.75 Lovely beer. 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Love Guinness. 
+look: 5 | smell: 3.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 2.75 | taste: 3.5 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 This is a classic stout with a rich creamy, malty taste. It is, being a stout, a bit of a heavier beer but you can drink this warm or cold. I have had it both ways, room temperature and cold and I like it either way. You can't go wrong with this beer if you like a good stout.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.25 Smooth and Delicious! 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 5 | taste: 4.75 | feel: 5 | overall: 5 The best beer for a hot Arizona day. 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 3 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.25 | taste: 3 | feel: 3.25 | overall: 3 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3 | taste: 4.25 | feel: 4.5 | overall: 4 Smells like soy sauce, but easier to drink than chocolate milk. One of my favorite beers to get during the cold months. 
+look: 4 | smell: 4 | taste: 4 | feel: 5 | overall: 4 
+look: 4.5 | smell: 3 | taste: 3.75 | feel: 4 | overall: 3.5 If you haven't seen or had this beer, I don't know what planet you're from. The dull brownish-black body is topped with that classic dense, creamy dark tan uniform souffle. This actually has tangy notes of minty chocolate through the semi-bitter baker's cocoa and mild roast, while maintaining one of the thickest bodies of the more widely available beer pantheon.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 4 | taste: 4.5 | feel: 5 | overall: 4.75 It’s hard to imagine how a dark beer could look better: ruby black accented by a gorgeously creamy head, the mesmerizing sight of tiny bubbles cascading in a waterfall of umber. The smell is mild, with delicate aromas of roasted barley, coffee, chocolate, and malt. Not particularly exciting, but well done nonetheless. The taste is similarly light; there are certainly stouts that pack more of a punch, but there’s not a fault to be found in the lightly bittered blend of toasty flavors. Its resultant endless drinkability is one reason I name this my favorite beer over heavier, richer options. Lastly, it would be folly to neglect to recognize the perfection in a dry, slightly carbonated, black beer complemented by the soothing creaminess of nitrogen. Drinking a guinness is like drinking...well, nothing else, really. Its practically perfection.   
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4 | taste: 3.5 | feel: 3 | overall: 3.75 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 3.5 | taste: 2.75 | feel: 3 | overall: 3 
+look: 4.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 5 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.5 | smell: 3.25 | taste: 3 | feel: 3 | overall: 3.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 It’s just gotta be better than normal when you have it at the Guinness Storehouse. 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4 | taste: 4 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 The CO2 cartridge in the bottom of the bottle or can is a nice add Decor almost a tap glass of Guinness. Smooth nutty chocolatey coffee tasting milkshake of a beer. The bottle of Guinness is okay the Guinness Draught is the next step up and of course the tapped Guinness is one of the top beers   
+look: 5 | smell: 3 | taste: 4 | feel: 4.5 | overall: 4 If you enjoy a good dark beer and don't want to spend too much then Guinness is the beer for you. It tastes great, looks great, has a decent scent and abv. It's a great beer. It might take some time to get used to the flavor, but once you do you'll definitely enjoy the blessing that Ireland has given you.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3 | taste: 3 | feel: 2 | overall: 2.5 
+look: 4.25 | smell: 3.5 | taste: 3.25 | feel: 4.25 | overall: 3.25 
+look: 4 | smell: 4 | taste: 3.25 | feel: 3.5 | overall: 3 
+look: 2.75 | smell: 2.5 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 5 | smell: 5 | taste: 4 | feel: 4 | overall: 4.5 This is the best all around macro beer. The original light beer and session beer before they were a thing - have it for dessert, with a meal, for break fast, in the winter or summer at the beach. Good cold, still good on the warmer side. Available everywhere. Cutting calories? - this beer is for you. For a few calories more than a light beer you get a better tasting over all beer. College kid drinking cheap lager? This beer can be your bridge to better beer. I've done the ladder of all kinds of beers - Guinness is my default beer. I didn't appreciate it when I was younger but I have come back in my older age.     Creamy mouth feel.  Rich in color.  Taste is not overpowering, or bitter.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4 
+look: 3.5 | smell: 3.25 | taste: 3.75 | feel: 4 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 2.75 | taste: 3.5 | feel: 4.5 | overall: 3.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.5 | smell: 3.25 | taste: 2.5 | feel: 2.75 | overall: 2.5 Looks great but tastes like a creamy beer water. Nitro carbonated, so doesn't have any fizziness, but does have a creamy mouthfeel. In spite of that though, the drink itself is actually very thin and watery. There's some light coffee malt bitterness flavor, but mostly it's kind of watery.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 2.75 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 5 | smell: 4.25 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 4.5 | smell: 3 | taste: 2.75 | feel: 3.5 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 2 | taste: 4.5 | feel: 3.75 | overall: 3.5 My favorite part of the beer was the head, it was surprisingly creamy! The body was light, for being so dark there was little flavor, somewhat watery, though I picked up roasted notes, coffee like. A bitter hops flavor was noticable at the end. Not a bad session beer, a step up from the American Macro lagers   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 3 | taste: 3 | feel: 4 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3 | feel: 3 | overall: 3.5 
+look: 4.25 | smell: 3.25 | taste: 4 | feel: 3.25 | overall: 4 
+look: 4 | smell: 3.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 2.25 | overall: 4 14.9 oz. can poured into nonic    L: dark but clear amber-purple, lots of brown in it, topped with small head of super thick creamy beige foam about 1/3-inch tall; no major lacing or sticking, but the head lasts forever    S: chocolate milk with a pinch of rye or coriander ... some subtle spice    T: roasted bakers chocolate, some wood but very lightly toasted wood not charred, sweet coffee drink ... mocha latte; the flavors are subtle but consistent    F: light and watery, close to flat but the nitro feel is growing on me and it seems like I'm detecting some kind of bubbly thing helping move along each swallow; overall it's standard for nitro cans    O: if I dug the nitro mouthfeel, this might be my go-to stout; it's super tasty, understated but solid, and the 4.2% ABV is exactly the kind of thing I dig; I'm still not a fan of cask/nitro beer, but this stuff is good enough to keep giving it a try and giving my palate a chance to adjust; if you're into cask/nitro, this is fantastic   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.25 
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 3.5 | smell: 3 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.75 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 Poured from the nitro widget can into a Guinness glass. The 14.9 fl oz can doesn't do the Guinness glass justice... doesn't even reach the mid-point of the harp, with the head just barely topping the harp. Mild aroma. Surprising. I expected more from the roasted malt. It's there, along with hints of coffee, but very subdued. Deep dark black color, with tinges of brown around the edges. 1/2 inch very thick creamy slightly off-white head that hangs around for a long time. Thick, creamy lacing when you tip the glass to take a drink. Gorgeous appearance overall. This beer looks the part, better than just about any other stout. The mouth feel is thin but creamy, if that makes any sense at all. The smooth feel likely comes from the nitro widget. Toasty malt taste, coffee, but still quite mild. Just a hint of fruit in there somewhere. Surprisingly simple flavor. Little bittering until the finish and aftertaste, then it hits pretty strongly. This is the iconic Irish dry stout, and is very drinkable and reasonably flavorful considering its ABV.   
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 Pours a dark brown, ruby around the edges and almost completely ruby colored when held to the light. One-inch head dissipates somewhat, but keeps a thick full residual velvet head. Velvet lacing coats the glass as the beer is consumed.    Aroma has notes of milk chocolate, cocoa, condensed milk, roasted malts, and a touch of sweetness on the nose.    Taste has notes of milk chocolate, cocoa, roasted malts, and bitter earthy hops come through and linger on the palate. On the sweeter side than some of the other examples I’ve had given the more prominent milk chocolate notes. A touch of tobacco like notes come through as the beer warms.    Feel is very light and smooth, medium bodied. Light to mild carbonation.    Overall a well-done example of the style. The nitro does the flavor no favors, but it’s well crafted.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 Nitro can     L- The beer pours a dark brown to black with the nitro cascade give it the appearance of cream poured into coffee. The head is typical of a nitro beer with tan dense head made up of tiny bubbles. The head has stuck around and not receded as I type this review up.  S- The nose gives off a toasty quality. There are hints of chocolate and coffee but are rather faint behind the toast.  T- The palate is almost the opposite of the nose. Up front there is a light roasty coffee aspect. That is quickly overridden by a slightly sweet creamy aspect.  F- The nitro actually does it's job here. The beer while still being slightly thin has a nice creaminess that adds to the enjoyment. Overall I'd give the mouthfeel a medium grade.  O- I find that I enjoyed this one more than the Murphy's. This guinness can is not quite as bitter or dry as the Murphy's and that's the way I prefer it. I'll have no problem finishing the other 3 cans.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 After the tiny cascading bubbles settle, the beer sits pitch black in the glass with a dense, creamy, khaki colored head. Roasted malt up front that finishes with a bitter bite. Lower sweetness level. Thin bodied. Nitro carbed gives it a feeling of stillness. It's a classic irish dry stout.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 4 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 4.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 11.2 oz. Bottle    Poured into a Tired Hands glass a pretty nice dark brown color, pretty nice carbonation, with a nice thick/creamy one-finger light tan head, which leaves some sticky lacing behind. The nose is malty, with some chocolate/toffee, very slight vanilla. The taste is malty, with some chocolate/toffee, very slight vanilla. Medium body, ABV is hidden very nicely. Overall, a tasty brew.   
+look: 5 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 Had this on 2018-03-16 in West Hempfield, PA at Trio Bar and Grill on tap for St. Patrick's Day.    Right before having this, I had a Yard's Brawler, which is also 4.2% ABV. I preferred the Brawler, which had a richer flavor; like a light Vienna Lager. The Guinness had a great looking, creamy head but was more watery in feel and had a less pronounced flavor. It was fine though with some nuttiness, roasted grain and light chocolate. I did enjoy it for St. Patrick's Day.   
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 3 | taste: 3 | feel: 3.25 | overall: 3 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4.5 | overall: 3.75 Guinness draft is a simple go to beer if you want something drinkable, easy, and relatively cheap. It's got a great taste, great mouthfeel, and is an all around classic stout.    Look: dark brown, almost black, with a surge of nitro at the pour, culminating in a thick creamy head.    Smell: toasty malts, some coffee, and dark chocolate.    Taste: malts, light coffee taste, hints of dark chocolate, similar to the nose. Rather light compared to others but very drinkable. Not too filling.    Mouthfeel: Guinness shines here. The nitro makes the beer soft and bubbly, almost like drinking black silk. Lingering head really bolsters this.    Overall: a classic, drinkable beer. Especially good if you don't care for Budweiser, Miller, or other more watery beers, and want flavor without the price. It may be a lighter tasting stout but it's overall pretty damn good.   
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 The original smooth dark beer. Its refreshing but strong and heavy. If your new to beer start here, so you now what great tastes like. Oh and drink it from a glass so you get that nice foam   
+look: 4.75 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 Look: Amazing dark color, and lots of carbonation making for a large, frothy head that dissipates rather quickly.  Smell: Mostly of malt and a slight hint of coffee, as is expected of a stout.  Taste: Compared to other stouts, kind of watery, but still has the characteristic roasted flavor. The coffee taste comes out as it warms. A bit more refreshing than other stouts at the price of some flavor. Not too bad.  Feel: Noticeably thinner than most other stouts, as I expect of a lower ABV. Not much body but still a crisp finish.  Overall a good stout for those first trying one. It was my first stout, and still my go-to when I'm looking to drink stout but not wanting anything too heavy.   
+look: 3.75 | smell: 3 | taste: 3 | feel: 3 | overall: 3 Looks great as it’s being poured. Always lots of carbonation. Nice dark color. Light malty fragrance. Feels very thin for a stout. If you’re palate is accustomed to a light American Adjunct Beer, the flavor may seem strong and heavy. However, if your palate has been used to good stouts and porters then this may seem like a light beer. This is the beer that moved me from drinking AABs to more flavorful beers...a crossover beer for me. And lots of restaurants carry this beer when there are no other real beers available and it is my choice when all else is light beers or AAB or lagers (beers for mass production, not taste). Not a bad alternative.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 5 | smell: 3.75 | taste: 3 | feel: 4 | overall: 3.75 I think that Guinness looks awesome in a nice thick glass. The head looks like creamy perfection and the deep color is almost completely black. I also enjoy watching the nitrogenated carbonation descend after pouring. As far as taste, it is a highly drinkable beer, but lacks the subtlety and complexity of many other stouts. The best things it has going for it are appearance and mouth feel, which is enjoyable creamy.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 Poured from a bottle - very dark brown with light tan head and bubbly lacing .Nose is faint roasty malt and dark coffee. Taste follows nose ,not as pronounced as I remember it being in Ireland. A decent low abv dry stout with a thinner mouthfeel than I am used to.   
+look: 5 | smell: 3 | taste: 2 | feel: 2 | overall: 2 Very watery and sweet for a stout 
+look: 4.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.25 | taste: 3 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 This is my favorite stout and my go to beer. It is not as bitter and bold as extra stout but it is more smooth and a tad more sweet in my opinion. It pours a beautiful cascade waterfall of frothy and creamy bubbles with a great head. The aroma is dark coffee with a sweet medley of burnt wheat and malt. The taste is complex with notes of burnt grain,dark chocolate,molasses,and dark coffee. This is what they call the black stuff in Ireland and I love it !!!!   
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 4 | taste: 4 | feel: 5 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 5 | smell: 3.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 Have had on draft hundreds of times, in a pint glass.    L---Pitch black. Thick head that has perfect retention and leaves lovely lacing. A properly poured Guinness is what a beer should look like.    S---Roasted malts come out as coffee & chocolate.    T---Follows the nose, but taste is stronger than the smell.     F---Creamy & rich. Coats the mouth and lingers.    O---As good as it gets and it's a mass produced one as well. Why can't other big brewers be like them?   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 The best mass produced beer ever made. Sublime. Well played Ireland!     Creamy, complex, thirst quenching, a delight at any time of year.     It is my favourite beer by a long way! I couldn’t do without it, sheer perfection.   
+look: 5 | smell: 4 | taste: 5 | feel: 5 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.5 Very dark with a beautiful tan fluffy wow fading head - they have mastered the pour! Smooth silky and dark, a nice mass stout with no hop. Best cold and quick as taste starts to fade as warms.   
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.25 | taste: 3.5 | feel: 4.25 | overall: 3.5 Poured from can into a pint glass  Looks great, jet black with a massive creamy head, excellent retention, some lace.  S: faint aroma of toasted or burnt malts. Not bad just faint,  T: sweet and dry. Has a slight cream lactose sweetness  F: super silky, low carbonation, super quafflable, rich and full but light body.  O: very approachable beer, haven’t had this in awhile cuz I drank to many at the bar one night a few years ago. But definitely worth a revisit   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 Pours solid black,light carbonation and despite a slight creamy element it comes off a little thin. Aroma isn't overpowering, roasted malt and coffee mostly. Taste was identical, much better and complex as it warms up   
+look: 5 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 4.5 | overall: 4 Draft taster at WL.    A: jet black with beautiful frothy, sandy/tan head. Missed the cascades, as this is only a taster. Great lacing and retention.    S: not really much; sourish dry malt?    T: creamy, smooth, dry, slightly burnt toast, liquefied. Not anything sweet about this.    M: decidedly light, some lingering sour malt notes. Creamy and smooth, absolutely the highlight of this classic beer.    O: it's Guinness for goodness sake! Who hasn't had it!? It's good. Great with food. Great with conversation.   
+look: 4.5 | smell: 3 | taste: 2.5 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.75 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 One of the greatest beers ever brewed. 
+look: 4 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.75 Looks silky black, and it is a very deep black, can't see any light through the corner, silky medium head  Smell is light for a stout, but very delicious and chocolatey   Taste is sweet with just a tinge of bitter, if rasputin was a real chocolate bar, this would be like milk chocolate, barely enough bitter to be noticed and then sweet on top of it   Mouth feel is pure nitro, not much carbonation left after the pour, just extra tiny nitro bubbles  Overall, flavorful and drinkable, not much compared to other stouts but it's more drinkable   
+look: 4 | smell: 3.5 | taste: 3 | feel: 3.75 | overall: 3 
+look: 4.5 | smell: 3 | taste: 2.5 | feel: 4.5 | overall: 3.25 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.25 
+look: 4 | smell: 3.25 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 5 It's the best tasting dry stout I ever had.   It's smooth and has a high drinkability.  Also the cascade like look that forms after you pour it is awesome.   Too bad it's quite pricy and rare where I live.   
+look: 4.5 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 3.75 BA'ers love to bash mass. Of all the mass beer in the world, if I'm stuck with one, it would be Guinness.   Most dont realize how light a beer the draught is, 4.2% ABV, less calories than Amstel, floats on your IPAs (and sweetens/ tempers them in Black and Tans) and pleases the ladies. I often order a black and tan /ipa when out to keep things lighter. To me Guinness or coffee are about the only additives to beer that work.     a) Black body with a roiling head from a 14.9 oz nitro can, creamy light tan head remains dense, lasts, laces.   s) While the aroma begins light, by the half way mark on the glass, it's coffee, charcoal, and dark roasted malts.  t) Flavor is more ample especially at cask temp - extremely smooth, coffee, roast malt, a bit of faint hop, creamy.   f) While creamy, it's also light, thin, and refreshing. Like good cold-brew coffee, no bitterness.   o) Defines light and session ale. Classic.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3.5 | taste: 3 | feel: 3.25 | overall: 3.25 Classic 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 5 | smell: 3 | taste: 3 | feel: 4.75 | overall: 3.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Its like pouring liquid gold down your gullet. the irish have finally pulled a woll over the worlds eyes not even God him could make a immortal beer,your a pussy coward if you dislike champion liquid ps me me screwed   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Not the best stout, however it's great for a session stout. 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 On-tap at Portside, Pensacola.  Who doesn't love this beer? A classic and original representation of the style. You could even say this defined the style. Super tasty and incredibly smooth with insane drinkability. Non-beer nerds can't believe it isn't heavy or chocolate milk. Can't wait to try it over in Ireland one day.   
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 5 | taste: 4 | feel: 5 | overall: 4.5 
+look: 4.75 | smell: 3 | taste: 3.75 | feel: 5 | overall: 4 Look: Pitch black. When first poured into a glass, it resembles milk chocolate before slowly forming from the bottom-up into a black stout with a perfect 1.5 finger head that stays perfect even as you drink.     Smell: Roast malt, coffee, but not much else.     Taste: The most drinkable of stouts even for a beginner. Mild coffee, chocolate, and roast malt. Not spectacular and world-shattering but also won’t scare you back to Bud.     Mouthfeel: Creamy and thick like milk.     Overall: If all you’ve had is Bud and Miller, have a Guinness. It’s a perfect stepping stone to more complex and strong tastes.   
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 2 | taste: 3 | feel: 2.5 | overall: 3 
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.5 No fuss no muss - it is everything you'd expect and nothing else. Easy to drink, light toasted malt, a little cream, oat, can be watery but it is a light beer so what do you expect? Perfectly fine for what it aims to be   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 Love this stout. Especially in the pint cans. Could drink it all day, but have to be in the mood for something heavy. 
+look: 4 | smell: 2 | taste: 1.75 | feel: 3.5 | overall: 2.5 
+look: 5 | smell: 3.5 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 2.75 | overall: 3.25 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 3 | taste: 3.5 | feel: 2.5 | overall: 3.5 Looks almost pitch black, save for hints of dark red at the bottom of the glass. Topped by a thick, creamy, nitro-wrought beige head. Retention is flawless, and lacing coats the glass in thick sheets.    The aroma is almost non-existent; stale black coffee, dark chocolate, coffee, burnt toast, slight creaminess.    The flavor is bitter cacao, dark roast black coffee, burnt toast, malted milk balls, and cream. Finishes decidedly dry.    The mouthfeel is very light, smooth and creamy, but light to the point of being watery.    The definitive Irish dry stout. It is what it is.   
+look: 4.5 | smell: 3.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 3.25 | feel: 2.75 | overall: 3 
+look: 5 | smell: 3 | taste: 4 | feel: 5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 The classic Irish stout. This is what I drink when I don't want to think about what I'm drinking. Pours a very thick, creamy head. Smells like dark malt. Tastes like malt and a hint of coffee. Easy on the hops. The mouthfeel is near perfect. Better than the classic Extra Stout in my opinion.   
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.25 | taste: 3.25 | feel: 4 | overall: 3.5 
+look: 5 | smell: 4.25 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 2.75 | taste: 2.75 | feel: 2 | overall: 2.75 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 3.5 | taste: 2.75 | feel: 3.5 | overall: 2.75 
+look: 4.75 | smell: 4.5 | taste: 4 | feel: 4.75 | overall: 4 
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.25 | taste: 3.25 | feel: 4.25 | overall: 3.5 
+look: 4.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 A good but not great stout. Beer pours a strong coffee color with a light tan head. The smell is dark malts and some caramel. The flavor is watered down coffee and malts. Overall not one of the better offerings from Guinness.   
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 4 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 2.75 | feel: 2.5 | overall: 2.75 L -- Pours a very dark filtered amber with a two-finger cream colored head produced with moderate pour. Phone flashlight shines through the glass no problem. Decent retention and minimal lacing   S -- Bittersweet chocolate, dark roasted barley malts, nuts. Maybe a touch of cream?   T -- Bakers chocolate, metal, barley malts, cheap adjuncts....   F -- Incredibly watery. Absolutely no body whatsoever, for a stout. Medium- mouthfeel, medium carb. Would not have guessed this was nitrogenated   O -- Cheap, but pretty disappointing especially compared to the original version     < 60/100   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 I love it, I will always love it. This beer when properly tapped and pulled, is one of the best things on earth. The beautiful dark ruby color, the surprising light yet flavorful taste. So many people think of Guinness as a heavy beer. I always shake my head and wonder if they've ever actually drank it? Love in a glass.   
+look: 4 | smell: 3 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Well had so many of these suppose I should review it. poured from a Nitro can into a Guiness Pint glass. i know, I know, how unpure! listen, as good as we Canadians can get ok. pours black tar night. nose of roasted toasted malt. the collar is what it is so well known for and the Nitro can still does the trick - think rich, and long lasting. taste - like no other stout . Starts sweet and ends just slightly bitter. Father was told to drink it “like a cold glass of milk on a hot summer day” when he first experienced it. try five of them and you will never claim to be lactose intolerant again.   
+look: 4.5 | smell: 4 | taste: 2 | feel: 4 | overall: 2.5 
+look: 5 | smell: 3.5 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3 | smell: 2.5 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 3.75 | taste: 3.25 | feel: 2.75 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 2.75 | taste: 3.25 | feel: 2.75 | overall: 3.25 
+look: 4 | smell: 4 | taste: 2 | feel: 2 | overall: 2.25 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4.25 Bottle version.   A light beer that's very drinkable  Its been good forever  Also a great beer for home brewers and just peel off the lable  no soaking 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 87 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.25 Anoter pure classic, cant go wrong with this beer either. There is a reason they have been making it as long as they had. I prefer the more bitterness of the extra stout but this beer is no slouch either. Great taste and great black look that guinness offers.   
+look: 4.5 | smell: 3.25 | taste: 3.25 | feel: 4.25 | overall: 3.25 Coal black, nitro head. very little nose. Mild malt taste. Super smooth but watery. Baseline brew. 
+look: 5 | smell: 4 | taste: 4 | feel: 5 | overall: 4 Mild taste. Beautiful color. Nice head. Great beer 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.25 | overall: 2.5 watery 
+look: 3 | smell: 3 | taste: 4 | feel: 2 | overall: 3 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 5 The best beer on the planet! 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 3.25 | taste: 3.5 | feel: 2.25 | overall: 3.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 3 | taste: 4.5 | feel: 4 | overall: 4.25 A nice beer that's easy to drink and tastes great. 
+look: 4.25 | smell: 3.75 | taste: 3.25 | feel: 1.5 | overall: 2.5 Guinness Draught is a dark coffee color. When you pour it, it doesn't have a lot of head at first, but the bubble in the liquid rise to the surface and the head grows. - a rich creamy foam. As it recedes, it leaves its signature on the sides of the glass. It looks great. The aroma is nice, but not exceptional. The mouthfeel is awful! It feels flat. The flavor is mild, a hint of richness, but somewhat unremarkable, ruined by the mouthfeel.     In England last year I had several stouts, with more or less the same reaction. One, I think it was a different brand, advertised itself as not being 'gassy'. Hit the nail on the head - it's the opposite of gassy. It has a decent head, but it feels flat. This famous beer is a big disappointment.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.5 14.9oz nitrogenated can filled 5/7/17 poured into a tulip pint glass at fridge temp. The beer pours dark brown and impenetrable to light. The head is sticky, milky whitish tan and settles to a quarter inch cap. Aroma is dark malt and a little chocolate and coffee. Tastes is mildly sweet roasted malt that transforms to lightly roasted bitterness on the end. Mouthfeel is medium to thin bodied. The nitrogen mutes flavor, but gives a deceptively big mouthfeel and creaminess. The finish is dry. Overall, a classic that is what it is. Enjoyable and sessionable.   
+look: 3 | smell: 2.5 | taste: 2.25 | feel: 1 | overall: 1 From the bottle to my glass, two drinks, and promptly to the sink.     I could tolerate this occasionally if it was the only beer on Earth. 
+look: 5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 A - Nearly opaque, mild to moderate carbonation, 1” foam head, and great lacing. Poured standard nitro can into standard pint glass. Beautiful look to this beer. Great head retention.    S – Roasty toasty malt, coffee, subtle caramel/ toffee notes. Hints of chocolate.     T – Fantastic. There are really no other words to describe it. All the smells listed come through even stronger on the taste. For a stout, it’s so clean that you’ll swear it’s not.     M – Somehow, Guinness makes a stout that is crisp, clean, and refreshing. It’s an amazing thing really; most stouts leave a person with that oil slick feeling at the back of the throat. Not this one.    D - Guinness Draught is my all-time favorite Guinness available stateside. It’s amazingly drinkable but, for me, it’s not session-able. However, I wouldn’t session any stout beer so that’s no points against this one. It’s a macro with consistently flawless quality. I can’t recommend this one enough.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 2.75 | overall: 4.75 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 5 | overall: 3 
+look: 5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 My go to every day drinker. This stuff is effing delicious. Smooth, creamy, light and refreshing. Goes great with a good steak, or a decadent dessert. Love it!   
+look: 3.25 | smell: 3.25 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.5 Good traditional Irish Stout, can't say much more 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 3 | taste: 4 | feel: 5 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 1.75 | feel: 3.5 | overall: 2.5 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 5 
+look: 4.75 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 3.75 | taste: 3.25 | feel: 4.25 | overall: 4 Poured PROPERLY (Open the can, place glass upside down on top, pork directly over the head until reaching the top of the glass or emptying the can) into a standard pint glass.    The look is unique. A creamy looking head that fades down into a thin light tan foam that does not dissipate for the remainder of your drink.     The smell is that of the standard chocolate and earth that any stout has, with a metalic scent from the can however not in a bad way by any means.     Taste is my least favorite of the Guinness experience. It's very bland with a huge disappointing lack of flavor. The smell is where most of the taste comes from. It has its own unique, one of a kind taste that can be enjoyed but the extra dry stout is slightly bland overall.     Feel is second to none. The nitrogen carbination is a special feel that is very different from your typical CO2 carbonation. You hardly notice the carbonation not giving it the overcabination (like Budweiser and Blue Moon have) even thought it was carbonated the second you opened the can.     Overall its very unique only lacking in flavor of all things. Look And Feel take the cake on this one. Excellent as a dessert or with a dessert.     Worth a try by all means. Be mindful though it is very heavy on the stomach despite the low ABV. Not something I would want to drink all night long.   
+look: 5 | smell: 4.25 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 3 | smell: 3 | taste: 2 | feel: 3 | overall: 2.75 
+look: 4 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 From 12 ounce bottle to wine glass	  Sight: Black, dark brown on the edges when held against the light, medium dark tan foam	  Smell: malty, nutty	  Taste: low bitterness	  Feel: very good, lively carbonation, good finish and follow through	  Overall: Overall good beer, ok to repeat but not look for   
+look: 4.5 | smell: 4 | taste: 2.75 | feel: 4 | overall: 3 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 A nice smooth beer with an alcohol content much lower than you would expect. Like this if I'm driving and want good taste and a slow drink. 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 This is my favorite beer. 
+look: 4.75 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 A wonderful Stout to drink and looks the part. While not super thick, it is very satisfying to drink, even after a few. Lightly malty and chocolaty, with a distinct bitter and lightly mossy note. A crowd favorite for a reason.   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 5 | smell: 3 | taste: 2.75 | feel: 2.5 | overall: 2.75 Pours a wonderful tan that dissipates I to a near black from the nitrogen. It leaves a nearly unnoticeable roasted malt aroma. The texture and taste falls far short of a stout. While smooth, it is too watery. The flavor is of some chocolate malt, although, hardly noteworthy.     If you want to expose a person to an ale that isn't Miller or PBR, offer them this. If you're a beer nerd, skip this.   
+look: 4.5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3 | taste: 3 | feel: 3.25 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3.75 | taste: 2.5 | feel: 3.25 | overall: 3 
+look: 5 | smell: 3.75 | taste: 4.25 | feel: 5 | overall: 4.25 Usually get this in the can with the nitro widget. Definitely my favorite "light" stout. Very creamy, especially on those first few sips through the nitro foam head. Creamy, a little chocolatey, and very roasty. Extremely drinkable. That being said, this is a light, watery stout compared to any dense craft brew. People are obviously comparing this to heavy, flavorful stouts. If you're in the mood for densely flavorful, heavy stouts, don't get this. If you're in the mood for an extremely drinkable, creamy, toasty stout - get this.   
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3 | taste: 3 | feel: 2.5 | overall: 3 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3 
+look: 5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.5 | overall: 4 Dark body almost black with soft white bit of coloring foam soft bitter rather smooth frothy cream slightly watery in the finish, alternate for the subtle skinny and low-grade beers   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Honestly not much to say. My go to beer when I go out if they don't have craft.    Draft > Can > Bottle.    I am disappointed with inconsistencies from can to can though.   
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 3 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 5 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 5 | overall: 4.75 
+look: 5 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.5 There's something about a Guinness that keeps me coming back for more. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.75 | overall: 5 Love it if I want a dark beer I always go for a guinness on draft. 
+look: 4 | smell: 3 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 2.75 | taste: 4.5 | feel: 3 | overall: 4.25 Who doesn't love a Guinness? Its iconic at this point. The real Irish stout.     It pours black with a solid head that sticks around. Remember to two step pour since its a nitrogen beer!    It loses points on the nose because it doesn't really have much of one. Very feint in the glass.    On the taste it's AWESOME. maybe a bit malty for people that don't drink stouts. It has the perfect dry creemyness that beers should chase. It tastes like coffee, cream, and malt. Delicious.    It loses points on the mouthfeel because it's a bit thin for what I want but that doesn't make it bad.    Overall Guinness is iconic for a reason. It's friggin delicious! This is my goto beer whenever craft isn't available.     Everybody go have a Guinness!   
+look: 4 | smell: 3 | taste: 3.5 | feel: 2 | overall: 3 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 2 | smell: 2 | taste: 2 | feel: 2 | overall: 2 A watered down stout which is short on texture and flavor. 
+look: 5 | smell: 3.5 | taste: 4.5 | feel: 5 | overall: 4.75 In my opinion Guinness draft is one of the best beers ever. The look of the beer is unmatched when poured into a pint glass. The smooth creamy but yet ever so delicate and light mouthfeel is a thing of beauty. The taste is of coffee and dark roasted malt at just the right strength. If this beer lacks in anything its the smell. Not that it smells bad it just doesn't have a whole lot of smell. I would literally drink Guinness all day everyday if my wallet and liver could handle it.   
+look: 4.5 | smell: 3.5 | taste: 3 | feel: 3.5 | overall: 3.25 It just depends so much on where you get this and if it is can versus tap, and if the irish water is in it or not. This rating is the best I ever had it, on tap in Sydney. I'd say it gets a bit better in Ireland, but not a lot. Probably more to do with the craic.   
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 3.25 | taste: 3.5 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3 | taste: 4 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3 | taste: 3 | feel: 3 | overall: 3 Poured from 16oz can with widget into Spiegelau Stout glass. No Date.     L: Nearly black with ruby edges, one finger of tight bubbled light khaki head (nitro) with excellent retention.     S: Some grain with a lactose like scent.     T: Lightly roasted grains.     F: Thin and watery, light body, nitro, clean finish.     O: Really expect more from the best selling Guinness brew. Their Extra Stout is far better than this.   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 4.25 | taste: 3.5 | feel: 5 | overall: 4 
+look: 4 | smell: 3.5 | taste: 2.75 | feel: 4 | overall: 2.75 L - dark brown, black coffee; off-white head  S & T - watery, slightly roasted barley, toasted breadiness, slightly bitter chocolate-y, but all so very slightly  F - light, sessionable, good carbonation    O - I tasted other Guinness products before, such as the Special Export Stout and the West-Indies Porter, and those were vastly, vastly superior to this one. This one was just so... 'slightly' flavored. More watery than anything else. Bit of a shame, as I know that they can make mighty fine beers. A porter in the style of a macro-lager. But it's easily sessionable, I guess.    I don't recommend this one.   
+look: 4 | smell: 2.75 | taste: 3 | feel: 3.25 | overall: 3 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 The appearance is a jet black body with a two finger off white foamy head with some speckled spider web lacing. The smell has some coffee, tobacco, and slight malts in the background. The taste is basically the same. On the palate, she sits about a medium, comes across fairly sessionable, and has a dry bitter aftertaste and finish. Overall, this isn’t a bad beer and this is the American made one. I could only wish to get back to Ireland to have the real stuff as this runs in my blood. Its so hard to knock this one, yes I would have this again.   
+look: 4 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.25 | taste: 3.75 | feel: 5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 2.75 | smell: 2.25 | taste: 2.5 | feel: 3 | overall: 2.75 
+look: 3.25 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 3.5 | taste: 2 | feel: 4.25 | overall: 3.75 
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 2.75 | smell: 2.75 | taste: 2.5 | feel: 2.5 | overall: 3 
+look: 4 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 3.25 | taste: 4 | feel: 3.5 | overall: 4 I enjoy this beer on tap wherever I can. Despite being a craft beer nerd, this beer hits the spot sometimes.   Look: from the tap, it pours a black color with ruby red tinges. The head looks like a dollop of Cool Whip and does not go anywhere. It laces the glass all the way down and does not go anywhere.   Smell: Thin. Light roasted note. Bits of coffee. A touch of sweetness on the nose.   Taste: Roasted barley, coffee, sweet, and minerals in the water.   Feel: Creamy but also kind of thin.   Overall: The thin and watery quality of this beer is probably why others rate it so low. But I don't see this as a negative. It's creamy with the roasted malts without being thick and heavy. It's very refreshing. Getting a coffee and roasty notes without being weighed down. Again, beer nerd, but I absolutely love this beer.   
+look: 5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.75 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 2.25 | taste: 1.75 | feel: 2 | overall: 1.75 Look - Cola black in color with ruby highlights, two fingers of dense off white foam, good retention, minimal lacing.  Aroma - Iron, grains, ashy.  Taste - Like the aroma. Mineral-like, very very thin burnt malt, soapy bitterness, weak and watery, cardboard, ashy/charcoal finish.  Feel - Light-Medium bodied, watery.    Overall - Garbage.   
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 5 | taste: 4.25 | feel: 1 | overall: 4 
+look: 4.5 | smell: 3.5 | taste: 3 | feel: 1.5 | overall: 3 
+look: 4.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 4 
+look: 4 | smell: 2 | taste: 2.75 | feel: 4 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 While not a craft beer or unique taste as many other beers, it should be the favorite for all beer drinkers. If I was stuck on an island and could only drink one beer for the rest of my life (not that I want this to happen), it would be Guinness. I would of course want it served on tap. And with a pour done as well as at the Gravity Bar at Dublin's Gate.    This is a great beer to introduce to your friends who are not diverse in their styles of beer. Most of them would be scared of the color and think it would be too heavy, not taste good, etc. If Guinness is served at the right temperature with a good poor,they may find themselves pleasantly surprised and be willing to try others!   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Obviously a way higher rating than most. The reasoning is personal. It was my first beer love. 
+look: 4 | smell: 3.25 | taste: 3.75 | feel: 3.25 | overall: 3.5 Very dark brown body with a fair tan head and mediocre lacing. It smells a lot like, well, not much, actually. Faint roasted malts, nearly burnt wheat bread, and even fainter fruit and yeast. Tastes the same as I expected with some typical, standard, light roasted malts, toast, watered down cold-brewed coffee, a wee bit of caramel and dare I say taffy in there somewhere, and a dry, slightly bitter malty finish without much from hops. The mouthfeel is very average, if you're gonna have it you should try to get one that's on nitrogen.    I've had one Guinness at a pub off nitro, didn't think it very special and didn't expect to want it again, but I decided to toss in a bottle of Guinness Draught into a "mix your own six pack" and had it with breakfast this morning. It's a great breakfast beer, I must say, though for any other time it's just mediocre for me.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.5 If you give Guinness on draught anything less than an 85 then you haven't had it in Ireland.    The key to a good Guinness is a perfect pour. Nothing can beat the look of a jet-black Guinness with cream bubbles creeping up the side of the glass for a perfect, iconic head. The creaminess is accentuated in the smell and taste. The feel is silky smooth.    Go have a Guinness poured in a 12th century pub and see how it treats you.   
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 2.75 | taste: 2.75 | feel: 3 | overall: 3 I revisited Guinness because I felt like I unfairly judged it for years, for it is the reason I thought I didn't like stouts, but I have learned I just don't like this stout. There wasn't a deep aroma, the flavor was bland, and the feel was average. I feel free of any lingering guilt for not loving Guinness and can say with confidence that I now trust my pallet and I really do like stouts, good ones.   
+look: 3.25 | smell: 3 | taste: 2 | feel: 1.75 | overall: 2.25 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 2.75 | taste: 2.75 | feel: 3 | overall: 3 
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3 | taste: 3.75 | feel: 3.25 | overall: 3.5 Nitro draft at Irish pub:  Pours cloudy as the nitrogen settles, increasing the creamy tan head. Looks like a perfect cappuccino. Body is dark but obviously lets some light through, with a slightly reddish glow where it does.    Nose is pretty much missing initially, on a cold beer. Later in the pour there's a lightly bitter roast note - but it's still very weak.    The taste is a distinct mix of unsweetened chocolate malt roast, a little bitterness that doesn't seem from any char, and a lightly smoky roasted back end. Feel is rather light, even a tad watery on a warmer beer. The restrained boldness (yes, somewhat oxymoronic) of this beer I think is what makes it fairly universally enjoyed. There's roast - but it's not acrid or charred; there's bitterness - but it doesn't consume your palate; there's chocolate - but it is not at all seeet.    Of course, I've had this numerous times. In some cases I've found it watery. In others, bland. Today I might have lucked into one of the better tastings I've had.   
+look: 5 | smell: 1.5 | taste: 1.5 | feel: 4 | overall: 2 
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 The first beer I ever had where beer finally clicked for me. I had it on tap in a pint glass at Nana's Irish Pub in Newport, Oregon.  L: A very dark brown with a nice light brown head that slowly settles.  S:Roasted Malt and Chocolate  T:Pretty much the same as the smell with a hint of coffee.  F: It was very smooth and everything about it was just fine.  O: A solid experience especially while eating shepherd's pie at a nice little Irish Pub. The flavor profile didn't blow my mind but it was a subtleness that changed my mind that beer could actually be good and shifted me away from the liquors that I had held dear. Would absolutely have it again but it was definitely a one pint and I am done especially with a hardy meal.   
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 Pours with a deep, rich color with a slight brown head that holds. Smell is a slight nuttiness with a hint of coffee and some chocolate. Taste is like the smell and is smooth going down due to the carbonation. Overall this is a solid beer that is widely avalible for a decent price and I can see myself going for this beer when I'm not feeling craft beer prices.   
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 This is my go-to beer. To me, it's as close to a damn good craft stout as you can get. ALWAYS pour it - never drink it straight from the bottle. It pours a nice thick head with very good retention. The aroma is bittersweet chocolate and coffee, and the taste is similar with a little molasses. It goes down very easy and isn't too carbonated. Overall, I really like Guinness Draught. Certainly one of the best.   
+look: 4.5 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3 | taste: 4.25 | feel: 3.5 | overall: 4 
+look: 5 | smell: 4.5 | taste: 4 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4 | taste: 4 | feel: 5 | overall: 4 
+look: 4 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.75 | smell: 2.75 | taste: 2.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3 | taste: 3.25 | feel: 2.75 | overall: 4 
+look: 4.25 | smell: 3.5 | taste: 3.25 | feel: 4.25 | overall: 3.25 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.75 | overall: 4.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.5 | smell: 3.75 | taste: 3.5 | feel: 4.25 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 4.25 | overall: 3.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 From Untappd 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 1.25 | taste: 1.75 | feel: 2.5 | overall: 4 
+look: 3.5 | smell: 3.25 | taste: 2.5 | feel: 3.5 | overall: 3.25 Not what it used to be! Taste is not stout like , it's been mellowed, maybe to attract beer or lager drinkers. Now just a dark red beer not a stout anymore, disappointing.   
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3 | overall: 3.5 Can't say this is the best beer I've had.    It looks really nice and dark, but I can't help but notice it's a very "flat" tasting beverage and lacks many flavors in quality. In a way, it's like tasting a sort of a weak "tea-bagged" kind of water that takes multiple sips to really get its experience and there isn't much else beyond that. Overall, it's all right to have as a substitute if you don't have an availability of greater beers in the fridge but it's not something I'd have everyday.   
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 Starting with the black look, pouring it is orgasmic and watching it settle is just great. With its light ABV of 4.2 the beer has a great feel and not so alcoholic taste. It is very creamy so it slides down through your throat with a woody, nutty and coffee-ish after taste. You can feel different tastes in every different sip. Definitely one of my favorites. Cheers already!   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 4.75 It's funny, being a guy grown up on pale lager all his life, tasting Guinness for the first time, and absolutly loving it. It is a low carbonated beer so you dont have to burp and all the time, i love that. Tastes so fresh from a 425ml can. This is what i taste: Weak taste of burnt coffee, cream??, I am a beginner. Feels and looks very good, pitch black with a 1,5 finger creamy head.    Gotta love Guinness   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 2.75 | taste: 2.75 | feel: 2.75 | overall: 2.75 
+look: 4.25 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3.5 Poured into a Guinness glass from one of the special edition cans    L - The beer, when poured right, looks beautiful. The stout settles perfectly, and you get a perfect creamy tan head that lasts.  S - Roasted malts and chocolates.  T - Incredibly smooth, but but a little lacking in flavor (a bit watery). The roasted malts still come through though, making the beer feel nice and hearty.  F - simple mouth feel but a very easy drinker. Does taste like a draught beer even though it came from a can.  O - this is always a nice go-to stout, and Guinness will always be distinctive and unique. There might be better stouts, but I'm happy to drink one of these anytime.   
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 2.75 | feel: 3.5 | overall: 3.5 Beautiful color and feel but the flavor was mediocre, kind of like an very watered down extra stout. Definitely still enjoyable but nothing I would order again.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 3.5 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 5 | smell: 3.75 | taste: 4 | feel: 5 | overall: 4.25 Let's be honest, rated to style this is a 5 across the board. It's the original. Having said that, I'm reviewing this completely on my personal taste. No denying that it's beautiful; a cascading waterfall of dark brown turning into a smooth and complete black abyss with the tightest bubbled khaki foam of a head. Smell is a bit roasty, perhaps earthy, but not much going on. Flavor is the same. Bitter chocolate, roasted malt, earthy hops, and some blood like metallic flavor. Mouth feel, creamy and smooth. Could easily drink in a low lit bat all night long without thinking twice about it. Overall, it's Guinness!!! But there are others out there that I find a tad more delicious. Slainte!   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4 | taste: 4.5 | feel: 5 | overall: 5 Decanted into a conical pint glass from a nitro can; most recently L8304GH007 (would hazard a guess that is from late October 2018.   A: Pours with typical effervescent activity from bottom to top, clearing to black, with a persistent 1/2 inch, light khaki head, impressive retention, and rings of lacing down the side of the glass.   S: Aromas light; blend into something like a black coffee/toast/almond milk/nouget note.  T: Subtle and smooth blending of roasted malt flavors, akin to the nose, with bitterness excellently balanced and gently making itself tasted late.  M: Full, creamy mouthfeel despite relatively low alcohol content.  O: A classic. Guinness is good for you.     The draught nitro can replicates a fresh, recently tapped draught barrel (the gold standard of taste) remarkably well and as closely as technological possible and thus always appreciated for the great drinking experience that it is. Recently tried bottled draft and was also impressed.   
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 3.25 | taste: 2.5 | feel: 2.75 | overall: 2.75 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3 | taste: 2.5 | feel: 2.5 | overall: 2.75 
+look: 4.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 5 | smell: 4 | taste: 4.25 | feel: 4.75 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 Pours a thin black, when held to the light a tiny bit comes through around the edges of the glass. About an inch of off-white head, creamy looking with tiny bubbles to it, last quite a while. I'm a sucker for the cascading head effect, some things are just beautiful to watch. Smells of toasted malts with a little coffee. Tastes lightly of malts and coffee, with a slightly dark chocolate finish. Feel is watery and light. Overall, it's still one of the more beautiful beers I've seen but beyond that it's pretty average.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 OK. Nitro takes getting used to. Better cuz I poured it myself and drank it overlooking Dublin from the Gravity bar. 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Poured from a can, featuring the famous Turtle art, into an official Guinness glass.  Enjoyed with a bowl of clam chowder.     Let us raise a glass to honor the centuries of Guinness brilliance, and lament the 'blink of an eye', approaching a decade now, that Big Beer corporate sprawl policy has tarnished this mighty legend.     Black. Held to lamp light, brown-black. Thin head, tiny bubbles, moderate lacing.    Subtle. Malty chocolate and quite creamy-smooth. Too watery.     My first Guinness can was in the suburbs of Dublin, Ireland, in the summer on ninety one. I was totally shocked to see it outside a bottle or bar ... In the city proper beheld a shamrock impression artistically rendered into the canvas of my pint's foam!     Happy memory stats,   Cheers!!   
+look: 3.75 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 Near black with a super creamy finger of off-white head that lasts. Dry roasted malts in the nose and taste with a little creaminess from the head and a very, very slight sour twang. Light to medium bodied for the style, while still managing a creamy mouthfeel. Are there better stouts out there? Of course. But if you're looking for a throwback dry Irish Stout, this is delish.   
+look: 3.75 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.25 | smell: 3 | taste: 3.5 | feel: 3.25 | overall: 3.25 From an undated bottle. Pours black with a finger of tan head. Barely any smell, a hint of coffee and roasted malt. Thin but creamy feel. Bread and malt flavors. Overall, it's not bad but a little thin and light on flavor. I'll take this over most of the macro beers, but there are far better stouts out there today.   
+look: 4.5 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3.25 | taste: 3 | feel: 3.5 | overall: 3 
+look: 3.75 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3 14.9 ounce can into imperial pint glass, canned on 5/26/2016. Pours crystal clear very dark brown color with a 1 finger dense and creamy light tan head that lasts the whole glass. Thick creamy lacing clings down the glass. Fantastic appearance. Aromas of dark chocolate, cocoa, coffee, and toasted dark bread; with light nuttiness, smoke, dark fruit, herbal, and yeast/roast/toasted earthiness. Nice and pleasant aromas with good balance of roast/bready malt and light earthy hop/fruity yeast notes; with solid strength. Taste of dark chocolate, cocoa, coffee, and toasted dark bread; with light nuttiness, smoke, dark fruit, herbal, and yeast/roast/toasted earthiness. Light herbal/roast bitterness on the finish; with lingering notes of dark chocolate, cocoa, coffee, toasted dark bread, light nuttiness/smoke/herbal, and yeast/roast/toasted earthiness on the finish for a good bit. Good robustness and balance of roast/bready malt and light earthy hop/fruity yeast flavors; with a nice roasted bitter/sweet balance, and zero astringent flavors after the finish. Moderate dryness from roast/bitterness, increasing through the glass. Light carbonation and body; with a very smooth, fairly grainy/chalky, and slightly sticky mouthfeel that is okay. Very thin with no creaminess at all. Zero warming alcohol as expected of 4.2%. Overall this was a decent Irish dry stout. All around good robustness and balance roast/bready malt and light earthy hop/fruity yeast flavors; very smooth and easy to drink. This was too thin and bit watery than I expected; but it was still quite enjoyable overall, and a good style example.   
+look: 4.75 | smell: 3.25 | taste: 2 | feel: 3 | overall: 2 Presentation: 11.2 oz bottle with no freshness date invert poured into a Guinness pint glass.    Look: Dark, dark brown almost black with a tan 1.5 finger head. Head retention is superb and watching the nitro pour in action is always cool.    Smell: Rather weak, slightly sourish malts with some roasted malts in the background.    Taste: Tastes like a 50/50 mixture of Guinness Extra and water.    Feel: Thin creamy body with low carbonation.    Overall: Terrible.   
+look: 4 | smell: 3 | taste: 2.5 | feel: 2.5 | overall: 3 This beer pours a very dark brown color that is semi translucent and has ruby highlights when held directly to light. The head is two fingers, tan and very creamy. Retention is excellent and there is no lacing.    Smell is minimal and very bland. Roasted barley with a hint of coffee, chocolate and a touch of bitter hops.    Taste is similar, but even more bland. There is really nothing to this beer.    Feel is thin and watery with very little carbonation.    Overall this is not good. I remember drinking my first Guinness when I was 14 years old and thinking it was thicker than a milkshake. Other than chugging Irish car bombs on St. Paddy's Day I haven't had one in 15 years, and now it seems watery thin.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 When one considers ABV and calories, there are few out there that can match a Guinness for lower alcohol content, lower calories, and taste. Yes there are Stouts out there that are more robust but not at 4.2%. And this is one sexy looking beer!   
+look: 4.5 | smell: 5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 5 | smell: 4.75 | taste: 4 | feel: 4.75 | overall: 4.5 
+look: 4.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 2.75 | feel: 2.75 | overall: 3 Poured from a tall boy into a nonic pint glass.  L- Dark chocolate brown with an amber glow. A very creamy, off-white head that looks quite appetizing.  S- Yeast, dark chocolate, yeast, espresso, dates, dark fruit, smokey campfire, grass.  T- Flavor is very underwhelming. Notes of typical stout flavors of espresso, vanilla, chocolate, caramel but overall quite watery.  F- Medium body with a pleasant creaminess. It is too thin for my liking and needs more of dry bitterness on the finish.  O- This is great for an intro stout because of how light it is but if you are really into dark beers this comes off far too mild.   
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 When one considers ABV and calories, there are few out there that can match a Guinness for lower alcohol content, lower calories, and taste. Yes there are Stouts out there that are more robust but not at 4.2%. And this is one sexy looking beer!   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 3.75 | taste: 2 | feel: 4 | overall: 2.25 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 3.75 | smell: 3 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.25 | taste: 2.25 | feel: 2.75 | overall: 2 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 3.75 | taste: 4 | feel: 4.75 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.5 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.25 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 2.25 | feel: 1.5 | overall: 3 
+look: 4.5 | smell: 3.5 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.75 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.75 
+look: 5 | smell: 3 | taste: 2.75 | feel: 3.25 | overall: 3 
+look: 5 | smell: 3.75 | taste: 4 | feel: 3.25 | overall: 4 Probably my go-to stout due to the availability and easy drinkability compared to some of my other stouts.    L: Looks wonderful and pours great from a can.    S: I like the smell, but some find it to not smell very good    T: Easily drinkable. Not as heavy as some other stouts that I have had, such as Dragon's Milk.    F: A little thin and dry, but doesn't bother me personally.    Overall, this is a great beer, and I would definitely recommend it for those that are just getting in to stouts.   
+look: 4.25 | smell: 5 | taste: 5 | feel: 3.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.5 | overall: 4 L-Dark brown colored..    S-Roasted barley, light coffee, cola    T-Roasted barley, dark unsweetened chocolate, light coffee    F-Light bodied....thinnish....finishes slightly dry    O-Hits the mark for a dry stout. Nice light drinking beer with flavor. Sure beats a Bud light with only 15 more calories.   
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 3.5 | taste: 2.5 | feel: 2.5 | overall: 3 
+look: 4.5 | smell: 4 | taste: 4 | feel: 3.25 | overall: 3.75 Poured from a 15 oz can,into a Guinness beer mug.    Beautiful cascade lasts about 30 seconds before turning into a thick,creamy,off white,1 finger head.Jet black in color,with some dark brown hues around the bottom of the glass.    On the nose I get coffee,chocolate,toffee,and some hints of dark roasted malt notes.    The palate follows the nose with coffee,chocolate,toffee,and dark roasted malts.    The body is medium with a smooth finish.    My only complaint is the body is a little thin,other than that,this is a decent stout...Don't care what the beer snobs say.   
+look: 3.75 | smell: 3.25 | taste: 3 | feel: 3 | overall: 3.25 
+look: 5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 An old favorite of mine.   Beautiful pour, from the surge to the finished product. When held to light it's a deep ruby at the bottom that just gets darker as you look further up the glass. The creamy, perfectly smooth looking head draws a perfect even line between it and the beer itself. I usually spend a few minutes just staring at it before I drink it. It tastes of a delicious roasted barley, along with some malts... Followed by a roasted, dry aftertaste. It feels smooth and creamy. From the time I took my first sip of it several years ago, I loved it. I still do. When it comes to stouts, this is my benchmark.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 5 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 3 | taste: 2.75 | feel: 3 | overall: 3 
+look: 5 | smell: 3 | taste: 3 | feel: 4 | overall: 3.5 I used to drink this regularly so it was interesting to go back to it after several years.  A: Guiness always looks great with the the Nitro cascade in the glass  S: Not a great impression  T: I fount the high maltiness and the relatively low roasted notes a little disappointing.  M: Creamy nitro mouthfeel as I remember it.  O: Overall still a beer I would drink, but now only if the beer list is short!   
+look: 4 | smell: 1.75 | taste: 1.5 | feel: 1.25 | overall: 2 
+look: 5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 Okay the look a great black beer with a very light brown head sometimes I've had heads from the tap that are at least 3 fingers I pick up notes of maltiness a touch of coffeeish chocolatey notes under neath the malt notes typically I can pick up a touch of a toasty brain note on 1 that's not super cold (preferential in my opinion actually on this one) the taste wonderful a nice malty lightly bittered coffee notes bready for the most part , mouthfeel it's great creamy yet lighter bodied than an extra stout but still well bodied and smooth and overall definitely an amazing beer top notch in my opinion   
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 Figured I would wait until visiting the Guinness storehouse in Dublin before reviewing a beer I have drank for many years, man and boy. A pour in their onsite pub is a memorable one - and you know it isn't one of their overseas brewed replicated versions that seem to make it across the world. First things first - this is a great looking beer, the famous dark ruby red undertones balancing the initial deep black/brown. Mouthfeel is creamy yet light - more watery than you'd expect? Possibly but this is a true session stout. Bready notes and coffee come through alhough the flavor profile is light. There isn't a lot of complexity. Taken for what it is, this remains a classic of the macro brew world.   
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 4.5 | overall: 3.75 
+look: 4.25 | smell: 3 | taste: 3 | feel: 3 | overall: 3 Poured from a widget can into a pint glass.  Look: Dark black with cola-colored hues at the edges. Insanely stiff and creamy head. Like a Cool-Whip barrier.  Smell: Faintly dark roasted malts and minerals.  Taste: Mildly roasty. Not charred, but a little astringent. Some floral/herby bitterness and a lingering sweetness on the back of the tongue.  Feel: At first, super creamy from that ridiculous head. But that wears off. You are left with a nearly water-like, bubble-less thin beverage. Dry.   
+look: 4.5 | smell: 3.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 L- after inspection, it's a dark brownish red beer with a dark tan head.  S- has a mild malt smell to it.  T and F- like smell, the mild malt taste is present. I also taste slight chocolate notes to it. Easy to drink. One of the smoother Stouts out there.    Overall, well made beer. What you think, when it comes too an Irish Dry Stout.   
+look: 5 | smell: 3 | taste: 2 | feel: 2 | overall: 2 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 All other ratings are lies. This is the world's most perfect beer. Judging a Guinness is impossible unless you have it within the borders of Ireland. When you see the dark black foam of a nitro poured drink, you salivate. It is so decadent, you can smell the creamy goodness of this beverage. When you finally taste this beer, you understand what Nirvana is. The feel of this drink in your mouth, when perfectly poured and sipped, is unmatched by any other beverage! -Never settle.   
+look: 4.25 | smell: 3 | taste: 3.25 | feel: 4.75 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Very thin brown appearance with good head and carbonation. The aroma is a weak Guinness. Taste is watered down beer that is good on a hot day when you want something more than water.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 One of my favorites. Waited until I was 28 to try it. Great flavor, not too heavy. Easy to drink. 
+look: 4.75 | smell: 3 | taste: 3.25 | feel: 5 | overall: 2.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 The smooth creamy head completely tops off a perfectly sound taste and looks wonderful. One of my favorites. Wonderful brew. 
+look: 4.75 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 My last can from the 8-pack I picked up a while back. Canning date is a mysterious code on the bottom, including the number 188, which I can only assume means that this can is around 6 months old. Not too worried about age being an issue, though.    It looks like... well, Guinness. Take a look at the picture on the beer's profile page, it's like that except the head of foam on top may be just a tad darker tan. At a glance seems to be almost pitch-black, but a closer look shows some dark red-brown around the edges and my LED flashlight can penetrate a bit in the thinner parts of the glass (in the thicker ones I just get a circle of red dots barely visible on the other side.) The only downside of the appearance is that some big weird bubbles tend to form in the foam during the pouring, but that's probably down to me pouring from that big ol' can rather than any fault of the beer itself.    Smell is pretty faint, but what's there is pleasant -- definitely dark, roasty malt. I noticed it more while pouring, but it's very faint now that it's settled into the glass.    Taste is also mild, but not nearly as much as the smell. There's slightly-sweet roastiness that sort of gives a very faint almost-chocolate impression at times, but there's a bit more going on too, maybe an ashy/char sort of thing and something with a slightly sourish taste -- seems like a similar blend of flavors to what you get from this beer's "big brother" Guinness Extra Stout, but all-around milder and harder to distinguish. Considering the ABV and calorie count in this stuff though, this is essentially a "light" beer, and when compared to other light beers it's great stuff... even if it may fall short of a lot of the other stouts and porters out there.    I'm torn on the mouthfeel here. It seems like nitro is a weird thing in that area, especially with beers that are a lot lighter to begin with (and again, at 4.2% ABV and something like 110 calories this is very light!) It looks amazing, and the first couple of sips when the foam on top is still really thick (it never really goes away, but some of it does end up getting drank along with the liquid portion of the beer as time passes) are really nice. After that, though, things go in a direction that's a little more... watery. It never gets to a point when the mouthfeel is so thin as to be unpleasant, though, and the flavor and mouthfeel compliment each other (bigger gulps = more flavor, and it's so light that you end up taking big gulps very easily), so I kinda have to lean toward the mouthfeel being more of a positive overall.    Overall, a great-looking beer that's also decent-tasting and always reliable and easy to find just about anywhere. It's essentially a light beer for people who like dark beer, and certainly a much better choice than anything actually marketed as "light!"   
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 3 | overall: 3.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Perfection. I could drink this daily. 
+look: 5 | smell: 2 | taste: 3 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 3.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 2.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.5 | taste: 3.25 | feel: 3 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 1 | taste: 1 | feel: 1 | overall: 1 Wha tha..high cost, they knock it down to 11.2 oz to save..? a few pennies?? And the taste is a joke, if you have had real guinness. What are they doing? Adding 50% water? guinness marketing thinks US does not know the difference apparently. not buying another guinness, at a bar, pub, market, home or abroad.    Thanks Guinness.   
+look: 3.25 | smell: 3 | taste: 2.75 | feel: 3.75 | overall: 3 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Guinness Draught is without a doubt my favorite beer of all time. I have tried other draughts and none have been able to achieve the high level of Guinness for me. The color, smell, taste, smoothness, head, everything is perfect. This is the kind of beer I like to enjoy while relaxing at home. A+ all around.   
+look: 4.25 | smell: 3.75 | taste: 2 | feel: 1 | overall: 2.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.5 On tap. Pours black with a two finger tan head that lingers and leaves lacing all the way down the glass. Nose of roasted grain. Taste follows nose with roasted malt and a dash of chocolate. Creamy, full body and low carbonation.  The ultimate magazine cover beer. It takes the prettiest picture but falls short of the appearance rating everywhere else. I imagine it's better in Ireland than US, but as I have only had the US version, I'd say it's currently overrated.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 3.75 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 3 | taste: 3 | feel: 2.75 | overall: 3 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 3.5 | taste: 2.75 | feel: 3.25 | overall: 3.5 It has a very strong malt flavour, which is basically the only thing I dislike about it. I love that it is full-bodied, very smooth, has a slight caramel flavour, and has low carbonation. The malt flavour entirely overpowers any flavour of the hops.   
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 Poured from a 14.9oz widget can into a pint glass. Pours a lovely ruby brown color and produces a whopping 2-3 finger head. It also has that nitro can fizziness that settles into an almost jet black color. The smell is very faint. Hardly any scent. The taste....wahohoho....wow. Such an awesome flavor for a massively brewed stout. Loads of smokey charred coffee with hints of bitter chocolate. Such an initial taste. Once it settles there definitely a strong hoppy bitterness, but in a good way. I'm so blown away by how good this is. Mouthfeel is a hair thin, but very smooth and light velvety. Like a thin eggnog... I was expecting a loser, but golly this is wondeful. I recommend this to anyone looking for a beer with a nice resonate flavors. For price, taste, availability this is a winner. It's goddamn electric.   
+look: 4.75 | smell: 4 | taste: 4.75 | feel: 5 | overall: 4.75 Black with thick, beige head. Smells of fresh, sharp, and sweet malts. Hints of bright chocolate. The taste is luscious, with flavors of chocolate, black olives, coffee, and toffee; yet, every taste is subtle and restrained. Mouthfeel is phenomenal. Smooth, creamy and easy to drink. Arguably the best mass produced beer.   
+look: 3 | smell: 3 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 From notes taken 08/17/16:    On pour, what is normally opaque and nearly black appears a cola brown due to activity of fine nitrous bubbles. Soon settles to a darker brown, light seen through only near the edges. Less aggressive and smaller head when served chilled it seems. This was a 14.9 ounce can, but I couldn’t make it to the top of the 16 ounce glass, something I can usually even do with a 12 ounce bottle. One finger, thick filmy foam, biscuity brown, excellent retention. Smells like black olives, but could pass for sweet roastiness, toastiness, and even breadiness. Flavor is also less distinct when chilled, so I will let it warm a bit before continuing review. For now, suffice it to say, I detect smoky tart and almost metallic notes throughout, strongest up front, with faintest toffee and then burnt toast as it finishes. Mouthfeel comes as no surprise. Full and soupy but not quite syrupy thanks to nitro, smooth and barely tingly with extra fine carbonation. Mild astringency, was expecting more.   
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4.75 | smell: 3.5 | taste: 3.75 | feel: 4 | overall: 4 
+look: 5 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 4.5 | smell: 2 | taste: 1 | feel: 1 | overall: 2 I have used this site for a few years now to see what other opinions are for beers that I try (though I often can't find the beers because I drink a good deal of craft and micro-brew beers), and this is the first time I've gone to the extent of creating an account to give my two cents. My opinion is this: This is a ridiculously over-rated beer. It looks absolutely incredible, but the old saying "don't judge a book by its cover" could not be more true here, just in the reverse manner that is usually used. After the initial appearance, only disappointment follows with this beer. The ABV makes it a good session beer, but if I'm looking for a lower ABV sessioner, I would take most gose, a low ABV saison, or a dunkelweizen over this sorry excuse of a stout any day. Hell, I may even take a pilsner over this stuff.   That being said, I'm more of an IPA guy, so that could be why I find this beer to be so dull and flavourless. It has a decent, subtle coffee flavour to it, but I just can't see why so many people are diehard about this stuff...   
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Best beer in the World. That is all 
+look: 4 | smell: 4.25 | taste: 2.25 | feel: 4 | overall: 3 
+look: 4.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 I cannot believe how many times I have had this beer without reviewing it. There is nothing quite like the look of Guinness when poured properly, the cascade effect is beautiful. Smells of roasted malts, coffee and caramel. Tastes of roasted malts, coffee, dark chocolate, caramel and a hint of milk sweetness. Smooth and creamy mouth feel, a bit light bodied for a stout, but a solid beer none the less.   
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 From the can, the taste isn't apparent when it hits the tongue, but after a few seconds in the mouth, it has a mild, dark but ever-so-slightly pungent flavor. That flavor lingers on the tongue after swallowing the beer.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 If you have class you'll like this beer. When i had my first sip it hit me like a ton of chocolate bricks. Sweet yet its not overbearing like starbucks pos coffee. Damn if i had to choose between stopping a Guinness truck from going over a cliff, or going to my first job interview in 6 years, sorry Costco some things are more important. I'd traverse through the desert to get one sip. I'd pick a fight with Shaqs dick just to sniff this beer from 100 yards away. Got almighty you people haven't lived. YOU HAVEN'T LIVED. Big pepperoni out.   
+look: 5 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 Pour is a rich black with very nice white foamy head. Smells of malt, coffee, and some caramel notes. Taste is a creamy mix of malty milk with a little fizzy feel, mixed in are some hints of coffee and maybe some bitter chocolate. The finish is very crisp and smooth, an all around good beer with no alcohol bite at all. I really enjoy this beer on draft and when very cold.   
+look: 5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 4 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Guinness Draught from the 14.9 ounce can with a widget, 4.2% ABV.  Look: Pitch black with a light tan head. There is a one inch head with lots of lacing left in the glass.   Smell: bready, malts, earth, roasty, ash. I can't say that the smell of Guinness is that appealing, but everything else outweighs the need for a fresh scent.  Taste: The widget in the can gives the beer such a milky, silky texture that it is velvety smooth. Coffee, chocolate, bitter roasty middle and finish. The bitter aftertaste is there if you keep having more guinness.  Feel: very light considering that most regular beer drinkers think of it as the oatbran of beers. It has the silky, milky texture because of the nitro widget.  Overall: I have had this beer more than any other beer in my life. It has always been a favorite of mine and will continue to be the best of the best. You just can't go wrong with a guinness. It's the beer that you order if you don't know anything else at the bar. You can count on it unless the bar does not clean out there taps, or does not throw out extremely old beer. I love that on the can it has a list of the carbs, protein, calories and fat in the beer. I had to re-visit it and it has been a long time. Don't get it from the bottle. It is really best on a nitro tap, but the cans really are almost as good. It still has that milkyness to it. I don't care what anyone says this is the best stout ever and it has all of this flavor at 4.2%, amazing!   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 5 | smell: 4 | taste: 4.5 | feel: 3.75 | overall: 4.5 ... 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 Pitch black. Thick creamy lasting head.  Aroma of malt and toffee.  Taste is sweet, malty, coffee. Minimal chocolate.  Mouthfeel is thin and watery.  Okay stout when on tap in the Irish pub setting.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 2 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 3.75 | smell: 3.25 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.25 | smell: 4.25 | taste: 3.25 | feel: 3 | overall: 3.25 Dark coffee-like color. Got a great beer smell initially. "Stout" I suppose but not nearly as strong as some people say. Drinkable - but significantly better in the beginning then tends to trail off and I get a bit tired of it.   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 I know it's a mass-produced product from a large scale brewery, but when I'm at a bar with a limited selection of anything but traditional Hoppy brews or IPA's, I'll always ask if they have Guinness. Have had via can more often than tap, but I like the widget in the can that helps release CO2 to help mimic a tap pour.     Love the darker color; always enjoy that first sip that doesn't give me the bitter stun of a high hop brew. Good creamy mouth feel without being overly carbonated; taste is malty with hint of coffee/caramel.   
+look: 3.75 | smell: 3.25 | taste: 3 | feel: 2.75 | overall: 3 
+look: 4.5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 3.5 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 3.75 | taste: 3.75 | feel: 4.5 | overall: 4.5 Pours wonderfully (if done correctly). Great color and nice foam head. Taste is smooth and has a nice coffee, nutty flavor. Not overwhelming and can be drank by the barrels!!!   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 3.75 | smell: 3.25 | taste: 3 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3 | feel: 2 | overall: 3 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 5 | smell: 3.25 | taste: 3.5 | feel: 5 | overall: 3.5 
+look: 4.5 | smell: 3 | taste: 3.25 | feel: 2.5 | overall: 3.25 
+look: 4.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 2.25 | smell: 2.25 | taste: 2.75 | feel: 2.25 | overall: 3 
+look: 4.5 | smell: 3.5 | taste: 3.25 | feel: 3.75 | overall: 3.25 Hadn't had this in many years, so I though I'd give it a go at the pub today since there were not other good selections (wasn't my choice of pubs). Pour is lovely as you'd expect...blackness with a creamy head that can't die. Nose is muted and almost non-existent. However, some of the blame goes to the pub for serving it so damn cold. On the other hand, Guinness puts "serve extra cold" on the stupid tap, so I guess you have to blame them as well. Anyway, very light coffee and roasted black malts, but not much. Flavor is similar. Light coffee and roasted notes and on the watery side. Not much of a beer really unless you want to pound stouts all night.   Edit...I just had this in Dublin and it isn't any better.   
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 3 | taste: 3 | feel: 2.75 | overall: 3 A masterful appearance, solid cascading mixture, tan head stands resolute at a full inch mast. Aroma is kind of muted though for its rad appearance. Thought you'd be able to pull roast out of it.     The taste reveals a very easy drinking stout, thin body, low roast and almost no hops. Watery feel. Carbonation low despite seeming ample when poured. Creamy feels, this is usually the stuff drank by the heavier alterna sport guys.   
+look: 5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 It truly is a lovely day for a Guinness. I agree with those who love it and why. Guinness has character and I have found that most people who enjoy it have character also. There are other Stouts...now. But the progenitor comes from Dublin.   
+look: 3.75 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3.5 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 The best beer on the planet. The only stout you will ever need. All others will try to be like it and will fail. The perfect head and body that goes perfect with its own special glass. Smooth like water with a perfect coffee flavor in the back. If I was only allowed to drink one beer for the rest of my life, I wouldn't even have to think about it. Guinness for life.   
+look: 4.25 | smell: 3 | taste: 2 | feel: 2 | overall: 2.75 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 5 Guinness is my go to beer. Tried hundreds of others but this is my favorite. For me it's a perfect beer. I'm tired of crap IPAs and craft beers. Stick with a winner. Drink Guinness.   
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 3 | taste: 2.25 | feel: 1.75 | overall: 2.5 Beer lovers overate this beer. Looks great taste is average coffee like feels very flat despite its large head. OK beer that I'll more than likely never buy again   
+look: 5 | smell: 5 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.5 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 4 | taste: 4 | feel: 4.75 | overall: 4.75 
+look: 5 | smell: 2.5 | taste: 3 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 3.5 | taste: 2 | feel: 2 | overall: 2.25 I love Guinness but not this one maybe because it was in a can and not on draft or bottled but I'm not fan of this one 
+look: 4.5 | smell: 3 | taste: 3.5 | feel: 4.5 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 4 | overall: 3.25 
+look: 4.75 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.25 Tackling the stout icon.     It pours black, with a medium-thick (2.5cm) off-white head with tight bubbles. It lasts an extremely long time, but with no lacing left behind. The look is perhaps the best aspect of this brew. Just iconic with its head formation and retention. The aroma is so-so, with notes of lactose, and roasted malts peaking through. It is incredibly mellow. The flavor profile is watery, and thinned out with notes of roasted malts and lactose poking through a thin exterior. It leaves a lot to be desired. Mouth feel is thin, watery, and otherwise lacking - especially for a stout. Overall, it's an icon, and is easy to pound, but doesn't have the tasty, depth characteristics of a better rounded beer.     Served in a 12oz snifter.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3 | taste: 4.25 | feel: 5 | overall: 5 
+look: 3.5 | smell: 3 | taste: 3 | feel: 3 | overall: 3.25 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.25 Note: this rating is based on brews had while I was in Ireland, not the United States. 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3 | taste: 2.75 | feel: 3 | overall: 3 
+look: 4.75 | smell: 3.25 | taste: 3 | feel: 3.75 | overall: 3.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Heaven. 
+look: 3.5 | smell: 2.75 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 3.75 | taste: 3.25 | feel: 3.75 | overall: 3.25 
+look: 5 | smell: 4 | taste: 4.75 | feel: 3.75 | overall: 4.75 
+look: 5 | smell: 3.5 | taste: 5 | feel: 5 | overall: 4.75 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 3 | overall: 3.5 
+look: 4.75 | smell: 3.75 | taste: 4.75 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 2.25 | taste: 1.75 | feel: 2 | overall: 2.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 4.25 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.25 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3 
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3 | taste: 3.75 | feel: 4.25 | overall: 3.75 
+look: 3.5 | smell: 4 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 3.25 | feel: 3 | overall: 3.25 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 5 | smell: 3.75 | taste: 5 | feel: 5 | overall: 5 Smooth a little on the watered down tasting. Almost bland compared to the extra stout, which is my favorite. 
+look: 4 | smell: 2.5 | taste: 2.5 | feel: 3 | overall: 3 
+look: 4.75 | smell: 3.25 | taste: 4.25 | feel: 4.25 | overall: 4 This is an historical beer. We must show it respect. 
+look: 5 | smell: 5 | taste: 4.75 | feel: 5 | overall: 5 
+look: 5 | smell: 4 | taste: 4.5 | feel: 5 | overall: 4.75 
+look: 4 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Call me a bit biased because of my heritage, but I love Guinness. This is my go to beer. It is the first one that made me understand the flavors to a beer. Prior to Guinness, like many people, I mostly drank american Pilsner (Hey... we were all early 20 somethings at one time, LOL!!! I've since changed, gotten into crafts, and won't touch light Pilsner anymore). I didn't understand why it tasted like flat coffee until I read about how it was made and why. My next try at it and I was hooked. I grew to love this beer!!! It has one of the prettiest pours there is, in my opinion. Best off a nitro tap or from a can with the widget. It does create a creaminess. It is a dry stout, with virtually no fizz, and lots of coffee, along with chocolate and roasted malt. At least that is what I taste anyway. It is light compared to a number of the Stouts I've gotten into since acquiring my Stout love. Many call it legendary. Some say it stinks. To me, it is legendary, and oh so good!   
+look: 5 | smell: 3.5 | taste: 4.25 | feel: 5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 3.25 | taste: 4 | feel: 4.5 | overall: 4 
+look: 4.75 | smell: 4 | taste: 3.75 | feel: 1 | overall: 3.25 
+look: 4.5 | smell: 3.5 | taste: 1.75 | feel: 2.5 | overall: 2.75 
+look: 4.25 | smell: 3 | taste: 3 | feel: 4 | overall: 3.25 This is what a stout should like like, you can't beat the creamy head that only Nitro can provide. The smell and taste are good, Roasted Barley, Chocolate, Caramel, oh and a ton of harsh bitterness. It's good, but if you've never had a Guinness, it's bitter, plain and simple. Not even necessarily in a bad way, sometimes too bitter is better than too sweet.   
+look: 5 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4.75 | smell: 3.75 | taste: 3.75 | feel: 4.75 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 4 | feel: 3 | overall: 3.75 Being the inventor and pioneer of the oxygenated "Widget" that creates creamy, distinct, signature pours with towering heads that linger forever, I have no choice but to give Guinness Draught's appearance a solid 5. I often label other stouts (often Nitro'd) that have great creamy heads as "Guinness-like" (read my reviews), SO - this is a standard to be judged by. A deep, dark chocolate mocha colored body with 100% opacity. 5 all the way to the bank.     Dark, roast malts, deep fresh handfulls of coffee beans, freshly unwrapped dark chocolate. Slight herbal as well. There is nothing wrong with this aroma....at all.    Flavor is liberally roasted malts with dark chocolate drizzles, with a roasty coffee dryness. The coffee lingers to the finish. The flavor profile is mild, lightly bitter, exceptionally sessionable, and easy to drink. Both a sipper and a swigger, a rarity among stouts.     Because of the afformentioned sipper/swigger remarks, this one DOES get docked in the mouthfeel category, as it is insanely thin for being a "stout". It's not chewy, it's not thick, it is like skim milk in consistency and flows down about the same. Easily the weakest category here, but still not down for the count.     Guinness Draught does not get the ratings it deserves. It's a mass-produced beer, but it's a damn good one. I'd take a Guinness over most any other mass produced inexpensive beer, and that's no lie.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 5/25/16 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Nice full bodied beer. The taste is wonderful. It is a bit heavy and not for cooling off on a hot summer day. But if you like beer that tastes like beer then this is the beer for you.   
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 2.75 | taste: 2.5 | feel: 3.75 | overall: 3 
+look: 4 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 Smooth genuine wonderful like burnt ends and onion rings on some white bread with good bbq sauce. Maybe not the best but hey like moms potato salad and fried chicken it's familiar consistent delicious.   
+look: 5 | smell: 4.75 | taste: 5 | feel: 4.25 | overall: 4.75 
+look: 4.5 | smell: 2 | taste: 1.5 | feel: 3 | overall: 2 Meh. I wanted to like it, because it is a classic, isn't it? Loved by many, but I couldn't finish the glass. I like the creamy head, but the taste is like bitter water, without carbonation, without any aroma, without a body and without a hint of sweetness. Beer without the tiniest hint of sweetness is a no go for me.  That said, Guinness has two awesome, in every way superiour beers: the fabulous West Indies Porter and the Special Export.   
+look: 4.5 | smell: 3 | taste: 2.75 | feel: 3.25 | overall: 3.25 
+look: 4.75 | smell: 3.25 | taste: 3.75 | feel: 4.75 | overall: 3.75 
+look: 5 | smell: 3 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 Jet black, smooth, creamy, malty, roasty with a little char. A light-bodied stout that comes in light on taste and aroma but is enjoyably smooth and very easy to drink. Hops manifest themselves with a moderate bitterness that hits midway through and lingers a touch after the pint glass settles on the table.   
+look: 4.75 | smell: 5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Mother's milk 
+look: 5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 5 | smell: 3.5 | taste: 4.5 | feel: 3.5 | overall: 4.25 
+look: 5 | smell: 4 | taste: 2.25 | feel: 2.75 | overall: 2.25 
+look: 5 | smell: 3.75 | taste: 3.25 | feel: 2.75 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Best on tap. 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 4.75 A pint of the black stuff. Creamy with low carbonation. Easy to drink with low alcohol content which makes it easier to drink all night long. A beer that should be poured into a glass and enjoyed.   
+look: 4.25 | smell: 3.5 | taste: 3 | feel: 4 | overall: 3.25 From tap at Red Robin (Home of the Brew or some other such nonsense. That's a story for another day. Great burgers, but not a home for anything but average brews) waiting for Jordyn and Leah. Has a creamy mouth feel, but that's about all that it had going for it. Average taste if anything can be said about this. Slightly flavored water is about all I can say.   
+look: 4.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 4.25 | smell: 3 | taste: 3 | feel: 3.75 | overall: 3.25 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.25 Gives of a nice black color, minimal head and some lacings on the glass.  aroma is mostly of roasted malts and cofee. Taste roasted malts, water and some small hop notes.  very watery and that combine that with low carbonation this is not my preferable beer.  Is a ok beer , but nothing more than okay   
+look: 3 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.5 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.25 | taste: 3 | feel: 2.75 | overall: 3 
+look: 5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 have always loved this beer. is always perfect for me in every aspect. 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 3 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.5 | smell: 3.25 | taste: 2.75 | feel: 3.5 | overall: 3 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Black with ruby see through draft pour; thick and creamy, four finger head which quickly settled to a firm off white cap; good clarity. Lite roast malt nose. Lite roast malt flavor with a dry roast and dark bread finish. Creamy lite mouthfeel; moderate carbonation. Lite roast linger - ok.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 5 | smell: 4 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4 Draught guinness smells and tastes great. pity it takes a while to draught them. 
+look: 4.5 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 4.25 From a nitro can.  Fascinating to Look at. (How many beers can that be said about.) Watching the tiny bubbles come to the top and form a luxurious white head on top of an opaque body is something to admire. Drink me.  Smells and Tastes are just a classic dry Irish: well-roasted malts and barely enough hops to keep the dry dry.  We can argue about Feel and the critics of this stout's thin-ness is a point well-taken. But, this is an extremely smooth beer designed for a long session in a pub.     Guinness' reasonably successful effort to put its draught in a can is an effort to bring this product to home-bodies like me. It is just another example of their marketing genius.    Personal note: On the way to study Ireland's largest inter-city train station in Dublin, I went by Guinness' main facility. Never will I forget that extraordinary smell. I'm just glad it did not come out of this can.   
+look: 3.5 | smell: 3 | taste: 3.25 | feel: 3 | overall: 3.5 
+look: 3.25 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4.5 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 4.5 | overall: 3.75 A- Pours a deep black with that absolutely classic, beautiful creamy beige head that Guinness is known for.    S- Not much going on here. Burnt, toasted malts with some chocolate hints.    T- follows the nose, with burnt malts being the primary flavor.    F- Very smooth thanks to the nitro, but with a light body due to the low ABV.    O- A true classic. Are there much better craft beers out there? Sure, but as an Irish guy, something about drinking this just feels so damn right.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 4 | taste: 4 | feel: 5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.25 | taste: 3.25 | feel: 2.75 | overall: 3 
+look: 3 | smell: 3 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4.75 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.5 This is the one. If you want to try a nice black color beer, go try it.    The colors is a perfect black. Take a special attention when pouring it, the color change from brown to pitch black. The SRM color is way over 40.    The IBU, is not pronounced at all. You'll discover some nice taste, like molasses and other spices.    The 440 ml can retailed for 3.75$ (CAD) for an ABV of 4.2 %   
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3 | taste: 3.75 | feel: 4 | overall: 3.5 My first love.. perhaps my first non BMC ( maybe Lowenbrau or Sam Adams) back in the 90's . Of course it is lackluster these days, with so many quality alternatives popping up. But it is still a fine beer. Still pick it up from time to time as it's reasonably priced and a familiar friend. I feel it gets alot of undeserved hate.   
+look: 5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Pours dark with a nice creamy head. One of my favorites makes sure your bartender knows how to pour it never want to drink a Guinness before it has settled.   
+look: 4.75 | smell: 3.5 | taste: 2.5 | feel: 3 | overall: 4 
+look: 4 | smell: 4 | taste: 2 | feel: 3 | overall: 2.5 I really like the look and smell of dark beers, but my palate doesn't like bitter coffee flavored beer.   But I'll keep trying different ones till I find one that pleases my tongue. lol   
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 You either love it or hate it. I personally have always been a fan of this Guinness - some experiences being better than others. Overall, I just really enjoy a well poured Guinness. Rich, creamy, and smooth with a roasty malt hint to it. That's my extremely amateur review.   
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.75 Poured correctly from 16 oz can into pint glass. Pours a gorgeous jet black/dark ruby red color. Amazing to look at. Retains it's tan, creamy head for a long time and leaves nice spots of lacing.  Smells of roasted malt, and chocolate milk.   Tastes of dark chocolate, coffee and roasted malt. Delicious.  Mouthful is light, no carbonation. Dry finish, absolutely excellent.  Overall, Guinness is the go to stout deliciousness I like.  Absolutely amazing.   
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 3.25 | overall: 4 
+look: 4 | smell: 3.25 | taste: 3 | feel: 3 | overall: 3.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 4.75 
+look: 3.25 | smell: 2.25 | taste: 3 | feel: 3 | overall: 2.75 Good when you are in the mood for a cheap nitro. 
+look: 3 | smell: 3 | taste: 3 | feel: 3.5 | overall: 3.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 4 | taste: 3.5 | feel: 3 | overall: 4 
+look: 4 | smell: 2.75 | taste: 4.5 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 3.75 Poured well, this beer is extremely enticing. Black as night and a creamy finger of sturdy white foam that lasts the duration.    Milk chocolate, roasted malt, and some sweet cream/vanilla notes. All rather subtle.    Dark roast coffee, some subtle chocolate malt notes, and overall nice and roasty in character.    Medium-heavy bodied, medium carbonation, creamy smooth, subtle sweetness, dry finish.    Overall, when poured correctly this looks as good as any high quality brew and has a silky smooth mouthfeel, but overall it lacks a rich aroma and flavor. An easy drinking stout for sure.   
+look: 4.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 It has a great sized and creamy tan head. There is a dark amber color in the light, but it looks incredibly dark brown without the light. There are light brown notes fizzing up to the thick head. The head lasts very long, it lasts till the drink is gone. Smells like a fine roasted and creamy coffee. There is a faint chocolate aroma as well. Tastes creamy and of slightly sweety malts. What bitterness there is, is a smoky coffee taste. The mouthfeel is light, like a very liquidated milkshake. While it does have some stout like creaminess and weight, it is surprisingly light weight in comparison to some stouts. Overall, this is probably the greatest easily available stout or Irish beer in my book.   
+look: 3 | smell: 3.75 | taste: 2 | feel: 1.75 | overall: 2 
+look: 4.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.25 | overall: 3.75 
+look: 4.75 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 This is a great,smooth beer. It is wonderfully easy to drink and it has a very full taste. I enjoy Guinness Draught on most occasions and whenever I can find it on draft, I'm sold!   
+look: 4.5 | smell: 2.75 | taste: 2.75 | feel: 3.5 | overall: 3 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3.5 
+look: 4.75 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 2.5 | taste: 3.25 | feel: 3.5 | overall: 3.25 
+look: 4.25 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 3 | feel: 3.75 | overall: 4 I am not a fan of stouts, but I can't take anything away from this beer for that reason 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 3.25 | smell: 3.75 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 5 | smell: 3 | taste: 5 | feel: 3 | overall: 5 
+look: 4.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 3 | taste: 4 | feel: 3 | overall: 3.75 
+look: 5 | smell: 2.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3.5 | smell: 3 | taste: 3.5 | feel: 3.5 | overall: 3.25 
+look: 5 | smell: 4 | taste: 2.5 | feel: 5 | overall: 3 
+look: 3.5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 4 | taste: 4.25 | feel: 3 | overall: 4 Believe it or not, I made it until this St. Patricks' Day season without having a Guinness. But honestly, it's better than I expected.    This beer is beautiful to look at. It's black as night with some ruby red colors if you hold it up to the light. Just amazing, one of the best-looking beers on the market. 5 out of 5.    It smells like some dark roast coffee and maybe a bit of hops, but mostly it's just roasty and dark-smelling. Pretty good, 4 out of 5.    I know a lot of people complain about this beer not having much taste, but I just can't see it. It's got a dark chocolate and coffee bean taste to it. It's not sweet in the slightest, but it's almost as if it were made to be sweet but just didn't have the sugar added. It's a great-tasting beer, and goes down really easy for a stout.    I mean, Guinness doesn't have the greatest mouthfeel. It's a bit watery, and too thin for a stout. Nonetheless, it doesn't detract much from the experience, so that's excusable.    Overall, it's a good beer. I understand why some people who like Russian Imperial Stouts may look down on Guinness, because it isn't in the same league as beers like that go. But as an Irish Dry Stout, it's pretty damn good, and fantastic for the amount that's produced.   
+look: 4.25 | smell: 3.75 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 3.25 | smell: 3 | taste: 3.5 | feel: 3.75 | overall: 3.5 Poured into bubbled pint glass, despite recommendation to "enjoy straight from the bottle." At only 11 oz, I see why. Microbubbled head. Dark but clear.    Smells of coal and roast.    Taste: the roast is faint coffee, watery with some skunk. Flavor is almost ghostly.     Mouth is very smooth, not thick at all. Leaves your throat wet.    Guiness is "baby's first stout." A refresher that isn't over roasted or creamy. A watery, casual flirtation with darker beer. It's okay to look, boys.   
+look: 4 | smell: 4 | taste: 3.25 | feel: 4 | overall: 3.75 
+look: 5 | smell: 3.5 | taste: 3 | feel: 3 | overall: 3.75 L= Ok, this beer looks wonderful poured into a pint glass. It's a show to watch.  S= Lighter than I expected. You pick up on the coffee and malt notes, but not a lot.  T= Not what I expected. It is meant to drink all night long so I knew it was going to be on the light side, but I was still expecting more. Still, I'd sit down and watch a football match and drink this all day.  F= More watery than I would have thought.   O= Not bad. I get how people can drink a ton of this during a night out. Definitely would have this again.   
+look: 5 | smell: 2.25 | taste: 3 | feel: 1.75 | overall: 3 I have been looking for a beer that has the roasted quality of this one. I have been craving something like this in my head, but without ever having tasted anything that got close. After my first sip, I said aloud "I have finally found it". Unfortunately, I had changed my mind a few sips later.     Sure, the roastiness is superb. Yes, the coffee notes are delicious. And it is also the best looking beer that I have ever laid my eyes on.   BUT......  Eventually, I noticed that there is a metallic wing to it at the finish. Not pleasant at all. Secondly, the beer is far too watery. If it had more body, a tad more bitterness, and if the metal taste was taken away it would be my go-to beer.   
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 3 | overall: 3.75 
+look: 4 | smell: 2.5 | taste: 2 | feel: 2.5 | overall: 2.5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 3 | taste: 2.5 | feel: 3 | overall: 3 
+look: 4 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 2.25 | taste: 1.75 | feel: 2.25 | overall: 2.75 I only bought this to get the Untappd badge...     Black beer with a creamy,beige-brown head.   Not much of a nose. Just a hint of roasted malt.   A small taste of roasted malt, a little bit of coffee and nothing more...  Smooth with a dry ending. Almost no carbonation. Waterish mouthfeel.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.5 | taste: 3.25 | feel: 4.25 | overall: 3.75 
+look: 3.25 | smell: 2.25 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4 | smell: 3.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 

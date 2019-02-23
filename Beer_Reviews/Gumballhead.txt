@@ -1,0 +1,1000 @@
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 I usually don't like hoppy beers, but I sure liked this one! Didn't taste hoppy to me, just refreshing and ready for another. 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 Plain and simple. Damn good beer. 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 one of the best wheat pales 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 3 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 4.5 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 A: poured from a 12 oz bottle into a pint glass, amber with a nice white head that lingers leaving good lacing, clear    S: heavy on citrus hops, pine, grapefruit    T: grapefruit and pine, lemon, bitter, finish is resin    M: full with good carbonation    O: an IPA for the bitter hop purist   
+look: 2.75 | smell: 3 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3 | smell: 3 | taste: 2 | feel: 2 | overall: 2 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 First had on tap at 3 Floyds, then single bottle from Whole Foods in Chicago - snuck into my luggage back to Edmonton. Pours a bright slightly hazed golden straw colour with one finger uniform head and lively carbonation. Aroma is distinctly hoppy wheat malt, some citrus - orange and grapefruit - mild pine and hints of bubblegum.  Taste is a hoppy wheat with pine, citrus, bit of pineapple - pleasantly hoppy and bitter but somehow finishes really smooth with background sweetness. So well balanced with perfect carbonation. Outstanding!   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 3.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.5 3 Floyds Gumballhead - 5.6% ABV - 35 IBUs   Date: 07/14/18 - 8/17-18  Appearance: Slightly hazy and pale yellow in the glass, accompanied by a creamy white head that goes nowhere fast.  Aroma: Piney dankness, touches of citrus, and wheat are all in the foreground with floral notes all around the parameter.   Taste: Nice and quite hoppy with not a lot of bitterness. Light bodied with a creamy mouthfeel and a good amount of carbonation. For an American made wheat beer, Gumball head is reasonably complex and so well hopped that it drinks more like a pale ale. Pine, wheat, grapefruit, tangerine, and that pleasant floral notes from the nose all show up. Very clean and easy drinking, seasoning these, one could put away three bottles with no problem.   Biased comments: Another well made beer from 3 Floyds, but not world class. While there is nothing particularly wrong with this beer, it simply fails to blow my hair back after experiencing other more interesting offerings of the craft beer world. Also, what I fail to understand is how this constantly outsells the, in my opinion, vastly superior Alpha King, Lazer Snake, and Necron 99.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 Poured from the tap into a pint glass. The appearance is a clear golden flow color with a medium sized white head. The aroma is sweet lemon and wheat. The taste is wheat, lemon and hops.   
+look: 4.5 | smell: 4 | taste: 4 | feel: 5 | overall: 4.25 Look: Pale gold with moderate carbonation and a finger and a half white head with large bubbles glass aleady looks to be leaving good lacing on the glass. The lacing indeed carries through drinking the beer. Bubbles die down, but the mouthfeel is wonderful.     Smell: lemon pound cake. wheat presence is definitely there. Not very complex, but it is quite appetizing for the style.    Taste: Big hit of wheat up front. Lemon/citrus rounds it out with a light bitterness from the hops on the finish. Very crisp.    Feel: Refreshingly crisp with a perfect amount of carbonation to give it a lively and light feel. Not watery, just incredibly drinkable.    Overall: Definitely a more American style wheat beer. The head regenerates easily with some swirling and this is damn refreshing and quaffable. Inoffensive, unbelievably pleasant. One of the most quintessential wheat beers I've tried. The hop bitterness is just spot on. It's not too much, but it makes its presence known. Keeps things really well balances with the wheat and citrus flavors.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 3 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.25 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 3.25 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 Pour: 12oz bottle, bottled 3-16-18. Poured into a tulip glass. Nice 1-2 finger white head. Dissipates into lots of clouds and some bubble lacing. Golden color with a fair amount of haze. Very attractive.     Nose: grapefruit, some bready malt.     Taste: citrus hops; mix of pineappple and grapefruit. Fair amount of bitterness. A little wheat malt but not a lot.     Mouthfeel: fairly viscous but with a clean finish. High carbonation.     Overall: reminds me of Founders PC Pils with a little more substance due tot the wheat. It’s a very nice looking pour that drinks well. Would buy again but I wouldn’t go out of my way for it.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Serving: Bottle  Bottled: Apr-16-2018      A:  Pours a fairly clear gold (slightly hazy with the dregs) with active carbonation and an ample head. Decent retention; puffy clouds of lacing. (4.25)    S:  Lemon zest, white bread, bubblegum. (4)    T:  Bready with a fairly bright hop character with a kind of tea-lile, earthy finish. (4)    M:  Medium body with moderate carbonation and a smooth finish. (4)    O:  A very nice, balanced-but-interesting American Hefe.  It looks like a hefeweizen. The aroma and flavor are both hopped-up versions of a hefe as well. Nice citrus hops with some bubblegum from the yeast. Hop tea-lile aromatic characteristic and general not half bad. Drinkable and refreshing. (4)   
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 Poured into a tall clear glass. Has a hazy, glowing goldenrod color. Fluffy finger tall head, lots of lacing.    Very floral and citrusy smell, mostly consisting of orange and tangerine. Nice dancing subtle grassy scent as well. Slight lemon peel scent and earthy wheat. Moderate carbonation.    Lemongrass and orange peel upfront. Crisp crackers, tangerine, lime, and even gumball in the taste and aftertaste as well for a sweet candy flavor. Altogether mixed with a wheat malt that balances it all out.     Light-bodied, but well-composed. Feel smooth and creamy.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4.5 | overall: 4 
+look: 2.5 | smell: 2.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 Bottle dated 04/09/18 into a tumbler.     Pours golden with subtle haze, 1 finger of variable density white head with good retention and left ringed lacing.    Nose is bright, floral and citrus, with just the subtlest hints of grassyness.    Taste pops more than the nose, and follows it well. Finishes with subtle bitterness and astrigency, which linger pleasantly on the palate.    Lighter bodied with medium carbonation, dances on the tongue without too much acidity/tingling, bright clean finish.    Wow, thought Modern Times Fortunate Island was by 'unicorn' sessionable wheat pale....until I met this. Both are great, and I 'tip my hat' to MT for the can format, but I think I like Gumballhead just a smidgeon better. Bravo!   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.25 | smell: 3.25 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 12oz bottled 4/9/18 (12 days ago) poured into a snifter at fridge temp, no ABV listed on label. The beer pours the slightest bit hazy, orange amber in color with off white head. The head recedes to a thin ring, but leaves nice lacing. The aroma is bright with citrus, mostly orange. The taste is tangy wheat malt with a bit of caramel and big bitterness jumping in on the finish. There is a little citrus in the flavor as well. Mouthfeel is thin to medium bodied, adequately carbonated with a sharpness that I can't place and mostly dry in the finish. Overall, very good. Awesome summer beer and fresh as well.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 2.5 | smell: 2.25 | taste: 2.25 | feel: 2.25 | overall: 2.25 
+look: 4.5 | smell: 3.25 | taste: 2.5 | feel: 2.5 | overall: 2.75 I always heard great things about 3 floyds, so I was excited when my work finally started carrying their beers. Gumballhead is their first one I've tried, and I'm really disappointed. The initial taste is a bit too tangy, but it does have a decent after-taste. The thing i dislike most is it's just not smooth at all. Every drink felt harsh as it hits your throat, and it wasn't pleasant at all. I hope some of their other products are better!   
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.5 Look- nice golden color  Smell- low hop smell, slight hit of citrus  Taste- definite hop taste with a nice wheat flavor  Feel- light body with nice high carbonation  Overall- very drinkable beer    3/23/2018  3/   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Delicious and drinkable wheat ale. 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Picked up on a recent trip to Kentucky/Ohio and brought back with me to Kansas City. Part of an entire trunk load of beers I brought back. I kind of thought of myself as a modern day Smokey and the Bandit, just not as cool. And 1000 miles north, going the opposite direction. And what I did was totally legal. And I was in a Ford C-Max. But other than all that, pretty much the same thing.    Appearance- Pours a beautiful clear yellow with a soapy one finger head that dissipates quickly but leaves solid lacing.     Smell - The nose is probably this beers strongest feature, in that you can smell the hops and wheat coming through, as well as some other fruitiness. Maybe a little lemony bitterness in there as well.    Taste - Didn't quite follow the nose exactly, but close. You still get the good hop flavoring at the back end. Great wheat and hops balance, really like the intermixing of the flavors here.    Mouthfeel - Finishes like a pale wheat ale should. Real smooth, good flavor blend, great session beer. You could drink a lot of these and not realize it.    Overall - This is a good beer. I had to drink it more than once to truly appreciate its quality, but I came in and changed my rating after the second go around. That happens sometimes.I would absolutely recommend this beer. Another strong FFF showing   
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Unique beer that tastes almost like a hybrid between a Wheat and an IPA. Great for warm weather. 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.75 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4.25 A: The beer is clear yellow in color and has a light amount of visible carbonation. It poured with a thin white head that hardly died down.  S: Moderate aromas of citrusy hops—oranges stand out in particular—are present in the nose along with some hints of melons.  T: The taste follows the smell, having somewhat stronger flavors of melons in the finish.  M: It feels light- to medium-bodied on the palate and has a moderate amount of carbonation.  O: This beer is extremely drinkable seems to be like a lighter version of an APA.    Serving type: bottle   
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 5 | feel: 4.5 | overall: 5 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 4.25 | overall: 3.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 Poured into a “Sophia” glass @40 degrees. Lots of carbonation with a half-finger head which rapidly disappeared. Unmistakable pine aroma with something a bit off putting in the background. That notwithstanding, the flavor is there, pine along with an (unidentifiable by me) fruit undertone. Very smooth. The best wheat I’ve had, and I’m not a wheat fan.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3 | taste: 3.25 | feel: 2.5 | overall: 3 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3.5 | smell: 5 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 This was the beer that started it all for me. But I've never done a review of it. So here I go. Poured from a 12 oz. bottle into a weizen glass.   Beer pours a beautiful golden straw color and has a white crown that sits on top.   Oh that smell that is so beautiful to me. Lemon, straw and a dankness to go with it.   The taste is the beautiful citrus up front and then straw/wheat in the back.   Crisp and refreshing.   Overall, this would be the one I choose to live the rest of my life with.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 Excellent favor 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.25 | feel: 4 | overall: 3.5 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 Very easy to drink. 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.75 My favorite of the 3 Floyds. Have had from the bottle and on tap. Lucky to have it on tap around here a bit. Grab one when you get the chance and you won't be disappointed!   
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3.25 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4.5 | feel: 4.25 | overall: 4.25 Pours pale but develops into a peachy glow with a fluffy 2 finger head in the snifter.     Aromas are kind of faint but consist of orange, orange peel, lemon zest, and slight earthy wheat.     Flavor is hoppy to start with hints of lemongrass and orange peel, following with a crisp cracker, tangerine, and wait for it...freaking gumball. It's so crazy how the finish is like I just spit out a gumball. That really thin, fruity, paper thin gum from the ball at the candy globe. It's great! Especially right away at the head.     Feel is crisp, clean, slightly oily, with a semi-dry finish.     Overall, I'm regretting not getting more. This beer just kills it for a wheat pale. Love it.   
+look: 4 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 4.75 | taste: 5 | feel: 4.25 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 Pours an amber color with a finger width white head with lots of lacing. Smell is of tangerines. Taste is similar with a pine aftertaste. Mouthfeel is crisp and refreshing. Light bodied beer. Overall, love this wheat beer.   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 This Regional and sought after Brewer never misses the mark. This wheat beer is another fine example of their quality craftsmanship and delightful taste making abilities.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.75 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Bottle purchased 8/15/17 at brewery.    L: 1F+ head with good retention. Leaves lots of lacing and a cap and ring. Beer is a clear amber.    S: Lots of orange, tangerine notes and wheat malt.    T: Light citrus in the form of orange, tangerine, and lime. Wheat malt gives solid body, but keeps it light.    F: Light bodied, decent zippy carbonation. Good construction and balance. Clean and crisp.    O: Nice wheat IPA. Wouldn't call it a session, but definitely in that realm.   
+look: 3.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Great beer! Not usually a fan of wheat beers but this One is best i have had. Great scents, great taste and simply fun, enjoyable beer. I would take this over a zombiedust any day!   
+look: 3.5 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4.5 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.5 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4.5 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.5 | smell: 4.25 | taste: 3.5 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3 | taste: 2.75 | feel: 3 | overall: 3 I had read lots of hype about this beer so expectations were fairly high. I was expecting a wheat beer to taste something like a wheat beer I've had in the past but this one doesn't. Very hoppy and fairly tart, none of the smoothness that I expect from wheat ales. More like a watery IPA. Does 3F just like to mislead with its labels? Zombie Dust is an IPA by every parameter I can think of but they want to call it an APA. I didn't hate this beer but we won't be meeting up again.   
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 3.75 | feel: 3.75 | overall: 4 Too hoppy for a wheat for me. 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4 12 ounce bottle into pint glass, bottled on 6/19/2017. Pours slightly hazy medium golden yellow color with a 2 finger dense and rocky white head with fantastic retention, that reduces to a nice cap that lasts. Dense soapy lacing clings down the glass, with a light amount of streaming carbonation. Fantastic appearance. Aromas of big tangerine, grapefruit, pineapple, lemon zest, orange peel, light pine, wheat, biscuit, light honey, and floral/grassy earthiness. Damn nice aromas with great balance and complexity of citrus/floral hops and bready malt notes; with great strength. Taste of big tangerine, grapefruit, pineapple, lemon zest, orange peel, light pine, wheat, biscuit, light honey, and floral/grassy earthiness. Light pine/grassy bitterness on the finish. Lingering notes of tangerine, grapefruit, pineapple, lemon zest, orange peel, light pine, wheat, biscuit, light honey, and floral/grassy earthiness on the finish for a while. Fantastic complexity, robustness, and balance of citrus/floral hops and bready malt flavors; with an awesome malt/bitterness balance, and zero cloying/astringent flavors after the finish. Slightly increasing dryness from bitterness as well. Medium carbonation and medium-plus body; with a very smooth, moderately creamy/bready/grainy, and lightly sticky balanced mouthfeel that is awesome. Zero warming alcohol as expected of 5.6%. Overall this is an incredible American pale wheat ale! All around fantastic complexity, robustness, and balance of citrus/floral hops and bready malt flavors; very smooth and refreshing to drink with the lightly bitter/drying finish. Awesome hop juiciness and vibrancy, with great malt balance. A highly enjoyable offering, and amazing style example.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 5 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Had on-tap at the Yard House in Indianapolis. Poured into a pint glass.     L: Clear ligjt golden copper pour. 2 fingers of foamy white head. Great lacing.     S: Amarillo hops... citrus and fruit.    T/F: Wheat and grains... light malts and fruity esters. Strong 3 Floyds hop profile. Citrus/grapefruit. Not terribly bitter... floral and delicious. Medium to light in body. Very drinkable.     O: An outstanding hoppy wheat from 3 Floyds.... great hop flavor, low bitterness, and well crafted.   
+look: 5 | smell: 5 | taste: 4.5 | feel: 4.25 | overall: 4.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 She pours a nice bright yet clear golden color and leaves the same colored body, however, its slightly hazy here and there, streams of carbonation are rising at a moderate pace, a one finger white foamy head lasts for about a minute before dieing, some moderate sticky lacing. The smell has the hops up front, slightly citrusy, slightly grassy, and the wheat is very subdued. The taste has a balanced sweet fruity grassy citrusy hops, wheat is once again very subdued, slight malty aftertaste, crisp dry finish. The palate is about a light to medium, semi-sessionable. Carbonation is actually a lot smoother than most APWA’s I’ve had, actually, I would say this is quite impressive for me and for the style. Overall, I’ve had a fair amount of APWA’s over the years, and I would say this is probably the smoothest one anyone could ever find.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.25 | smell: 3.5 | taste: 3.5 | feel: 4 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4.5 | overall: 4 Traditional golden straw color, not much head or carbonation. Aroma is essentially pure amarillo hops - dry citrus, grass - which is fine, but maybe you want a little more from the actual wheat base. It is essentially a pale ale - not much wheat involved at all - and it is pretty straightforward & well done as far as it goes. Vague tropical hop notes of blood orange and grapefruit, not super bitter, pretty crisp finish.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 great medium straw with a nice fluffy white head  nice zesty aromas, pine too. orange, a bit tropical.  spicy with just enough sweet for me to cut the citrus  crisp and clean. an American wheat that is enjoyable.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 This is a stellar wheat pale ale.    This is an attractive beer, with a somewhat sticky white head and straw color. The smell is... ambiguous. It's a bit tropical on the nose, but it's subtle. I cannot really smell the beer until I've tasted it.    The taste is remarkable: ripe tropical fruits, bready malts, with a background tartness and bitterness. It so well rounded that it's hard to compliment it enough.     This beer is so easy to drink that it's dangerous. Well crafted, well executed.   
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 The beer pours a golden color that is not quite hazy but it isn't perfectly clear either - it looks a bit "muddy". The head was short and short-lived - barely a quarter inch. It did leave a few floating islands.    The nose is heavy citrus - lots of grapefruit, some lemon, some orange. The orange emerges as the beer warms up. A whiff of fruity candy - Juicy Fruit gum maybe? There's an different scent too that reminds me of aspirin.    The taste is pleasant and refreshing. There's enough wheat that you can taste it, but the hops are the star here for sure. The citrus is balanced off by a more resinous note and I do get the candy/gum thing as well but more or less layered over the top. My only knock is that it is so smooth the taste vanishes almost immediately - nothing much lingers but a little bitter note. It is a little on the one-dimensional side.    The feel is pleasantly slick with a lively level of carbonation.     Overall, a nice drinking beer, but the flavor drop was not expected. It kind of falls away in the middle, which I suppose means drink some more. Recommended.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 Not bad, but I'm pretty disappointed. It's just not super flavorful. It's wheaty just like other shelf wheat beers with a stronger citrusy hop flavor. I'm glad I tried it, but I would seek it out.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 One of my favorite wheat beers!!! 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 Pours hazy dark gold. Thick, medium, white head lasts a while with lacing.    Smells citrus, wheat, malt, pine hints.    Tastes juicy, citrus, bready malt, light wheat, light grassy, hints of pine. Finish is dry with a sharp pine bitterness. Medium body and creamy medium carbonation   
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2.5 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 Poured from a 12 oz bottle into a pint glass.  L - Pours a light Amber with a frothy white head.  S - Smells of hops and light citrus.  T - Tastes of lemon and breads hops.  F - Medium body and carbonation.  O - Very tasty wheat ale.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 Pours a deep straw yellow with a hint of orange. Nose is of ripe fruits, grass and subtle pine. Taste of grass and hay with a bit of over ripe fruits that push the beer to boarderline sweet. Light citrus also getting pick up.Getting a lot more alcohol taste than I thought I would. It's not hot but it is there. A little syrupy on the mouthfeel with a semi wet finish.   
+look: 5 | smell: 3 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 Gumballhead pours a hazyish copper color with a long lasting lacing head. Hoppy aroma, with lots of floral notes. Taste is creamy, with noticeable wheat flavors, but finishes with a bitter wet hop flavor. Good body and feel. Overall, its a wheat beer and then a pale ale, nice unique flavor.   
+look: 3.5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Have not ever been disappointed by 3 FLOYDS. This is a hoppy yet more hints of wheat and mild malty flavored tasting brew. I like some of the other of FFF stuff, Zombie Dust, Alpha King, Space Station Middle Finger a little better. But my son, a Navy pilot down at NAS Jacksonville always wants me to bring Gumballhead down when we visit from here in northern Indiana...FFF country. Heck yes!   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 A spiraled blend of clear and hazy bod (i.e. ,like a cloudy twister in the center of a clear outer body); thick, sticky, foamy white head. Grassy and pine-like aroma; malt and hay. Wheat and cereal grain flavors; some old fruit sweetness; muted hop bitterness. Heavy body; syrupy with a rough edge.    An interesting beer, grainy, with a heavy yet dull sweetness. It coats the tongue and delivers a nearly honeyed grain sweetness, just enough to tickle the palate without being cloying. Enjoyable..   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 Liked it. Not my favorite from there list 
+look: 4 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 5 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 2 | taste: 4.25 | feel: 4 | overall: 4 Wow a really nice beer. My girlfriend and I drank it together, and she is normally very picky about beer (likes Stella and little else) and she liked it more than I did, which is surprising because it is so different from Stella.    Very distinct taste, but is extremely well-balanced. Gumballhead is, regardless of your tastes, a pleasure to drink.   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.25 | taste: 4 | feel: 3.75 | overall: 3.75 My wife and I were returning home from Thanksgiving and 3 Floyd's was on the way and at a good time for an early dinner (finally!). I had been wanting to visit forever, but without success until this day. This one was ordered by my wife, but as always, I got a couple sips to try it out :)    This beer pours a clear, dark golden hue that has low carbonation and a white, frothy head that dissipates slowly to a thin layer with a neck. 3.75/5 The aroma is quite muted and has a light tropical fruit hop profile along with some caramel and light malt. It smells somewhat sweet, but the muted nature makes it hard to discern any true notes. 3.25/5 The flavor is much better than the aroma in terms of strength and starts of with a caramel sweetness that is back up by wheat bread and a graininess that brings both sweetness and an earthiness to the beer. Fresh cut hay and herbal hops come out on the back end with only light bitterness that does not linger after swallowing. As the beer warms the flavor profile flips one me. The hops move to the front and the malt/sweetness moves to the end. Very interesting temperature flip. 4/5 This is a medium bodied beer that has a heavy carbonation burn that quickly dissipates and becomes wet and coating. There is very little drying and no lingering dryness. This one is much more crisp than anticipated. 3.75/5 This is a very good beer that is more suited to my wife's tastes than mine, but I really enjoyed it nonetheless. The malt and hops are very well balanced and make for both an interesting and tasty drinking experience. The aroma is quite muted, but the flavor is very well crafted. 3.75/5   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.5 | taste: 5 | feel: 5 | overall: 4.75 
+look: 3 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.5 
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 One of my favorite wheat ales. That nice wheat Aroma, with bubblegum mixed with citrus fruits mingling in the frothy head. Some soapyness. The flavor is where the wheat kisses a pale ale. Wheat, bubblegum and pineapple, with citrus, mango, and a tiny bit of pine. Smooth feel.   
+look: 3.25 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Extremely fine beer. Easy to drink, not too heavy. Limited availability at Binny's but will keep looking. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.5 Very nice wheat ale. Nice aroma and cooler and easy to drink with a great mouth feel and finish. Love the holiness in the ale. This one is easier to get than others from 3 Floyds. Have a few left in the fridge, need to drink them soon.   
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.75 Very good craft beer, and made in Indiana too! Smell is predominantly citrus-tasting hops (which they are in all 3F products.), taste is a clean wheat beer initial taste, with strong citrus/pine tasting hops towards the end. Finish is clean, beer is not over carbonated, and no bitter aftertaste. Imagine a good quality wheat beer crossed with an IPA-- that is what Gumballhead is most like-- which is different and great tasting. This is my favorite craft beer right now.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.25 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 From Milwaukee bottle shop to a pint glass. Enjoyable, but similar to Toppling Goliath, the hops overpowered the flavor, making it a misnomer wheat. 
+look: 4 | smell: 3.5 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 3.25 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 So much citrus in both the yeasts and aroma! Love it! 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Golden color and surprisingly clear. Good starting head but it settles to rim bubbles. Scalloped lace.     I smell sage and no wheat. I get some barley grain.     The flavor creates a bit wheat bite but it far more like a pale ale with a good hop bite in the swallow. Richer than the style. Proper carbonation. The aftertaste is shorter than expected.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 No one does a hoppy wheat quite like three floyds. This beer is as weird and as tasty as it gets. My buddy hit the nail on the head and explained to me as "a hot girls armpit". In the best way possible.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 3.5 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 Pours light amber with huge head, smells distinctly of citrus and hops. Has a nice, smooth hoppy taste with wheat on the nose. Easily sessionable, and has all the perks of a pale ale without going full-on with the hops.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Poured from a 12 oz. bottle into a chalice.    Appearance: Pours a bright golden orange with a moderate amount of bubbles. Solid finger of white head that settles into a thin creamy layer.     Smell: A crisp and juicy hop forward aroma with a scent of citrus fruit and pine. Upfront citrus hop scent of orange peel, grapefruit, lemon, mango, melon, and pineapple. Earthy hop hints of pine and grass. Malt hints of wheat, grains, and cracker with yeast. A very nice aroma.     Taste: Like it smells, a juicy and crisp hop driven taste with notes of citrus fruit and pine. Juicy citrus hop notes of orange peel, grapefruit, mango, lemon, and melon along with some pineapple. Earthy hop taste of pine resin and grass. Background malt notes of wheat, grains, and cracker along with yeast. A pretty good taste.    Mouthfeel: Light to medium bodied with a moderate amount of carbonation. Juicy, crisp, and smooth with a drying finish.     Overall: A very good hopped up Wheat Ale. Big citrus fruit flavor with a lighter body.   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.25 | taste: 2.75 | feel: 2.5 | overall: 2.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4.5 | feel: 4 | overall: 4.25 A friend of mine sent me the Gumball Head Pale Wheat Ale. I thought it might not have a lot of taste but it was really very tasty.      Look - It has a cloudy light golden hue with a thick white head.    Aroma - The aroma is citrus and some pine.    Taste - There's wheat but also pine and tropical fruit, pineapple, mango, grapefruit. Tastes like a wheat ale IPA hybrid but very well balanced, juicy, and its dank (in a good sense).    Overall - It is light/medium and easy drinking.   
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 Nice clear golden with frothy 2 finger bone white head. Clove spiciness, wheat and bubblegum on the nose. Taste follows, more wheat and less belgian phenol notes though, tough on lemon girl scout cookies, very good. Easy drinking, great summer beer. If it was more readily available and not 12.99 a sixer this would be a wonderful everyday drinker   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 4 | taste: 4.5 | feel: 4.75 | overall: 4.5 From bottle dated 6/21/2016. Thanks KK for this one.    Had again in bottle dated 1-2017, consistent. Semi sweet wheaty malt smoth aftertaste. 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 First had poured from 12-oz. bottle, stamped "BOTTLED ON 4-25-16," into Pilsner glass. Certainly competitive with and possibly displacing A Little Sumpin' Sumpin' as my favorite in the style.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3 | taste: 2.5 | feel: 2.75 | overall: 2.75 L: Hazy golden-yellow, with moderate head and lacing.  S: At times I caught a pleasant bubblegum scent. However the smell was mostly off-putting, as of rotten citrus fruit.  T: Blech! Like lemon and battery acid.  F: See below.  O: This was my first experience with a Three Floyds beer, and I was sadly disappointed. I'm normally a big fan of wheat beers, but this one had an astringent acidity that made it rather hard to finish.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 From the 12 oz bottle in a snifter via a friend form work---Thanks Kevin!  This fine brew pours a lightly cloudy pale amber tinged straw color with a   very nice head of white foam that lingers long and finally settling to a thick  ring and nice thick layer with excellent lacing. Nose of soft wheat and zesty   citrus hop notes showcasing pineapple and lemon zest. Flavors lightly   exceed the nose by force of the strong hop character that is lightly imbued   with soft wheat notes and subtle honey malts making for a refreshing citrus  forward ale with plenty of hop bitterness that is still relatively balanced by   sweet honey malts. Solid. Good after mowing brew.    Cheers   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.25 | overall: 4.5 Totally delicious. Golden body, low malt with an awesome hop flavor. Hits your nose perfectly as you tilt the glass to your lips. I might put this above Zombie Dust   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Very interesting beer. Nice nose with citrus and funky wheat. Mouth filling flavor, nice bitterness and a distinct wheat finish. Well carbonated and balanced   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 4.5 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 My favorite wheat beer and another great beer from three floyds. 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 Beautiful, pristine white bubble bath head. Atop a glowing golden elixir.    Nose is orange blossom, citrus Zealand bitter hops. Hints of mango are there as well. Tree sap and pine play a mild supporting role.    Flavor profile is citrusy, bright, orangey l hop character followed by a bitter drying hop bite and finishing with a warm hug of wheat grain.    Mouth feel is slightly sticky, but drinkable and with enough balance to offset the resinous notes with drying and juicy notes.    Overall a very nice beer that I'd be happy to drinkmost days.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.25 Hits those hazy wheat strides, mild 1/4" head. Golden in color, dark gold. Aroma is so much Amarillo hop. Very well done. Just wow.    Taste, amazing, immediately leaps into 1st tier, world class hoppy wheat ale territory. All kinds of juicy fruit impact, lesser citrus than you would expect, more stone fruit impressions like peach and soft red wheat.     If this was available in my area, I would crush it all summer long, great, phenomenal stuff.   
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.5 | smell: 4.75 | taste: 5 | feel: 4.25 | overall: 5 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 3.5 | taste: 4.25 | feel: 4.75 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 12 oz bottle served cold into a tulip glass.    This beer has traveled from Indiana to Ohio to Oregon and finally to Colorado. Thanks to Jeff for thinking of me on his travels.    Gumballhead is a hazy straw yellow color with thick white head. It has good retention and leaves some spotty lace as it settles.    Aroma is mildly hoppy and fruity. It lives up to its name with a certain juicy fruit character that seems pretty unique.    Flavor is bitter for a wheat beer but nicely balanced for an IPA. Sweetness up front with characteristic wheat beer traits. The hops bring some bitterness from middle to end but never overwhelm. They compliment the malts and yeast.    Mouthfeel is medium light in body and perfectly carbonated. Almost creamy.    Overall a very good pale wheat that blurs the lines between styles. I've been wanting to try this beer for a while now so does it live up to the hype? For me, probably not but I'm very glad I got a chance to try it.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 On tap in South Bend; clean, refreshing, slightly fruity wheat ale. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 Bottle from Dale. While not a huge fan of American wheat ales, this one could convert me. Smooth and delicious, mildly creamy. Bready, but in a good way. Soft and silky. Solid throughout.   
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 Bottle dated 7-15-16. DFH Tulip.    A: pours a crystal-clear light gold with 1 finger just off-white head and streaming rows of carbonation. Retains a big island of foam on the middle, and a thick ring around the edge. Nice rings of lace as it goes down.     S: smells like citra. Light, crisp, citrusy and Resiny. Lemon peel and light pine sap. Smells fresh and crisp, like mineral spring water. More tropical as it warms: a little mango/kiwi, but the thrust is lemon and light pine.    T: arrives light, crisp, lightly Resiny, dry as can be. Some wheatiness on the middle, but not a bit of sweetness here, not malty either. Just super crisp and refreshing.    M: feels how it tastes. Lighter side of midweight, slightly slick, highly carbonated. A little carbonic tingle, which I like. Feels lighter than it is because of the carb. Not totally clean on the finish, but super crisp.    O: an excellent hoppy wheat ale. My ou can hardly tell it's a wheat beer though. It feels like a session IPA with wheat to smooth it out a little. Reminds me of Land Grant Glory, but that is wheatier. Reminds me of Lagunitas Sucks, but lighter and crisper. If I could get this regularly, I would in the summer.   
+look: 4.25 | smell: 4.75 | taste: 3.75 | feel: 4.25 | overall: 4 Bottled about 3 weeks ago and poured hard into a pint glass. Light honey color with a thick, frothy white head. Great head retention. Leaves a ton of lacing. Huge pineapple smell, mandarin, maybe mango and a little pine but VERY tropical nonetheless. Definitely taste the wheat. Nice and crisp with initial bitterness that fades. Not as much tropical fruit in the flavor. Finishes dry. Leaves a little bit to be desired as far as flavor. Low carbonation and again very dry and drinkable.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 Poured from a bottle into a weisse vase, the beer is a slightly hazed, yellow-gold coloring with a steady flow of carbonation throughout the body, feeding a fluffy, clingy, dense, off-white head. Aromas of grassy and peppery hops, with a follow of tropical fruit sweet notes of pineapple, melon, and mango. Flavors are very tropical sweet forward, again with pineapple, mango, and melon, with some subtle citrus notes of grapefruit and orange, with a subtle bitterness blend of grass and pine. Definitely leans to the fruit side, but fairly well balanced, on a slick, mid-body. The aftertaste is more of the tropical fruit sweetness, with some herbal and pepper spice. Smooth, slightly effervesced, slightly dry finish. Good beer.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3 | taste: 3.25 | feel: 3.25 | overall: 3.75 
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.5 A fantastic sour wheat beer with a most pleasant aftertaste. Smells as good as it tastes! A very sessionable brew. Definitely not a word but hey this is my review. Hope to have more soon.   
+look: 4.25 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 3.25 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 american sud store 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 Great American Wheat for the Hop Lover! 
+look: 5 | smell: 4.5 | taste: 5 | feel: 5 | overall: 5 Everything about this beer is great. Surprised it's considered a wheat ale because it tastes like an IPA. Not as citrusy as Zombie Dust but pretty close in taste.   
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 Pours a slightly hazy yellow/straw color with an impressive white foamy head. Aroma is super citrusy with notes of grapefruit and orange. Taste follows the nose, getting more orange this time than I have in the past, but also grapefruit and lemon zest on the finish. Just a tremendous beer, not sure how they get so many citrus notes out of this wheat beer. A favorite for sure.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 All around great beer, summertime sippin' especially good for drinking while making whimsical birdhouses in your garage listening to mid-70's GD. 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 Not what you normally get in a wheat. Nice and light hoppy flavor but not overpowering. A little lemon shines through and one of the cleanest finishes I have ever had. Goes with a slickness.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 On draft at local establishment.  Nice citrus smell.  Crisp & clean with a nice big hop bitter that endures throughout.  The really big question is always whether you'd drink it again, & yes, yes I would.   
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.5 | smell: 5 | taste: 4.25 | feel: 4.75 | overall: 4.5 Rock solid juicy smell of various tropical fruits.     Smell is similar to nose, but with more nuance. Mouthfeel is great. I feel like there are so many beers that I describe as 'good summer beer', which often feels similar to describing an NFL quarterback as a game manager. This is a great summer beer, which makes me question all the other beers I've called solid summer beers.     You heard it here first. Gumballhead is the Russel Wilson of beer.   
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.75 | smell: 4 | taste: 4 | feel: 3.75 | overall: 3.75 Just past a finger of pure white foam, even surface except at the pour point, very good retention, the laces forms broad streaks yet they lack longlasting stick. Darkish golden amber colored liquid, silty floaties throughout adds to the haze, the bubbles are fat and randomly spread throughout. Soft wheatiness to the nose, more direct via orange peel, peppercorns, pine and apple, pear, pineapple fruit that edges towards but does not cross over to tropicality, has some underlying yeasty notes, at the end there’s more woodsy pile of cut wood or forest trail sort of not dirtiness but just not clean, overall displays good staying power in the nostrils. Medium-bodied, dry yet the general fluffy and soft mouth feel allows it to not seem parching. Again, dominated by citrus, a blend of lemon, tangerine and hint of grapefruit. Piney and peppery, retains that dead yeast cell sort of thing. The pineapple, green apple fruit leads the way, not sweet enough for mango but there’s a touch of apricot perhaps. The wheat is subdued and on the whole the bitterness is slight. The carbonation is active without being distracting. Leaves a dry residue behind. Quite drinkable, switches gears sufficiently sip to sip that you do not bore quickly of it.   
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 Pours a clear golden color with a thick carbonated head. Retention is mild. Lacing is good. Has some wheat in the aroma with a hint of piney hop. Light aroma. Some piney hop with a good wheat edge. Very drinkable beer. Mild astringency at the end.   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 Pours a slightly hazy deep golden color with literally no head whatsoever. It was like an old tan guy who lost his hair.    The aroma was incredibly faint for me. I get some light grapefruit and some hop spice. Pleasant, just wish I could smell it better.    The taste is very piney with some grapefruit notes. Also picking up some lemon and grass on the finish.    The feel is medium bodied with moderate carbonation. Crisp, yet smooth and easily drinkable. Lightly dry.    Overall, a good but disappointing beer given the hype. I dont pick up any wheat at all and the aroma is barely noticeable.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 Tasted in a Spiegelau wheat glass from a 12 oz bottle on numerous occasions. Look is gold with a thick foamy white head and sticky lacing. Smell is fresh cut pine, pink bubblegum, grapefruit, orange blossom, lemon, and hints of wheat. Taste is crisp pine, bubblegum, bitter citrus and some sharp wheat malt flavors. Feel is light to medium in body with a crisp feel and finish.   
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 Copper colored with plenty of fine sediment suspended within the body making for a hazy complexion. Moderate lacing. There's a quarter inch of off white head resting on top. Aroma is of pale wheat and light fruity notes of banana and lemon. I taste pale wheat with just a hint of lemon and a gentle dose of citrus hops. The lemon helps give the mouth a slightly cool feel. It's very smooth and quaffable, yet offers plenty of flavor.   
+look: 4 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4 Well, who doesn't like Gumball head? 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4.5 | feel: 3.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 I can see why this is considered to be perhaps the leading example of the style. It's certainly closer to an IPA than a hefeweizen or wit, with strong citrus flavours. The wheat adds a nice, light crispness. Drinks very easily. Great for a nice warm day.   
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 5 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4.25 Pretty good. Smells like malty beer, not picking up any specific aroma beyond good beer. Taste is a melange of sweet Carmel, ctirus. Obviously the hop bill helps to impart such a mixture of flavors and it works phenomenally well. Probably one I'd the best ambera I've ever had.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 A - nice clear golden color with big billowy white head that leaves nice lacing  S - big fruity notes, melon, honeydew, passion fruit, cantaloupe, gummy bears  T - follows the nose, same notes  M - light, alcohol completely covered, aftertaste is wheat malts and fruity hops  O- great beer, best happy wheat ale I've had   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4.5 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 In the same session, this followed Zombie Dust.  And at half the hops (IBUs), Gumballhead was a welcome relief for my buds.  While the hops and the yeast/wheat interplay are balanced in the nose and taste, the hops come through too strong for me in the finish.  Listed in the "1001", Gumballhead deserves to be there.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 4.75 | overall: 5 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 Golden honey color with limited head. Hints of the Amarillo hops come through along with wheat. Very light on the palate but refreshing. Slight hops on the front that falls away on backside. A nice beer but may be better with a lemon slice.   
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 2.75 | smell: 2.5 | taste: 3.5 | feel: 3 | overall: 3 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 Poured into a pint glass. Slightly hazy golden straw color with a frothy and puffy white head. Great retention and lacing. Nice fruity aromatics with dough and wheat. Big taste: orange, berry, wheat, cracker, and dough. Really well-balanced. Clean finish.   
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 3 | smell: 3 | taste: 3 | feel: 3 | overall: 3 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4.25 | overall: 4 Pours hazy gold, small head, lots of lacing, lots of bubbly activity.     Smells of fresh grass, wheat, citrus. Taste follows suit. Citrus, honey, bit sour. Lemon drop meets bit o honey. Light backbone, refreshing, smooth transition to lingering sweet finish.     Nice refreshing wheat, what it lacks in complexity in makes up for in balance.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 Go to 3 Floyd in warmer weather for me. Temperature on this beer is more important than originally thought. Tried it first when it was 38 degrees or so and didn't think it was all that great. Had another one at about 45 to 50 degrees and flavor comes out. Tastes a little of citrus and wheat. Aftertaste at correct higher temperature is a little like a gumball or slightly sweet aftertaste. If I were to drink a lot of expensive beer this would be my choice. Not overly filling, easy to drink, great summer beer.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 Pours a bright yellowish golden hue, cloudy with a nice white head that slowly dissipates.    Smell is very citrusy and bright, do catch some undertones of the wheat. Taste is pleasant, very hop forward with minimal notes of the wheat. It is a wheat ale, so I would have liked more notes of the wheat - the hops tend to dominate the taste - and I think that detracts from the beer a bit.     pretty carbonated, but I like it with the flavor - very drinkable. Overall a very tasty hoppy pale ale, just was a bit disappointed in how the hops dominated the wheat flavor. Otherwise a very tasty beer.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 The very best American wheat beer I've ever had. I wish 3 Floyds had a bigger distribution than they do. Well worth ordering a six pack just to see what we're missing.  Think a hoppy Oberon and you'd be close.   
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 Bottle.    A: Lots of citrusy/lemony hops with a bit of wheat and estery yeast.    A: Golden color, slightly hazy with big frothy white head that slowly recedes, moderate lacing is left in the glass.    T: Citrusy/slightly piney hops upfront – pretty crisp. There is a faint amount of breadiness from the wheat, but very light. The beer has a semi-dry finish and while hoppy isn’t particularly bitter.    M: Medium-light bodied with moderate carbonation.    O: Super hoppy wheat, very clean and super easy to drink. While the wheat character isn’t particularly prominent the hops are pretty aromatic and tasty.   
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 Bubblegum hefe sweetness lurks. Clean, crisp, citrus, lemon, tropical fruit. Dry. 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 Pours a hazy orange, with a white head. Oodles of lacing left behind. Very pleasing, just would expect a larger head. Citrus, and peach rise to the front of the aroma. Nice malt biscuit in the background. Taste is a sweet rendition of citrus, peach, and slightly spicy seasoning notes. Mouth feel is smooth, and easy to drink. A little harsh carbonation at the end, but still good. Overall, a very solid pale wheat ale. Certainly some good attributes to it. I wouldn't try to get any more after this glass, but I certainly would pick it up if it was distributed in my area.    Served in a 12oz snifter.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4 Great citrus taste and smell all year round. Although I love wheat beers (this one as well), but definitely have had some better hefeweizen beers over the years.   
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 Meh. Pours a nice golden color w/ 2 finger head that retains. Hops on the nose. Body is a bit thin for my liking, to me hops balance nicely with the thin malty presence. Could drink a few, but prefer other FFF offerings more. Not at a price point I care for either.   
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.75 | smell: 4.25 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4 Pretty orange color, one finger of head dissipates quickly. Smell is strong, hoppy, but taste doesn't deliver what the smell promises, a little thin. Lots of citrus. Feel also seems thin. Pleasant, but maybe not a style that I favor.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 Nice lil wheat beer. Cool haze color to it, hoppy on the nose. Taste is a bit more mellow in terms of hops vs yumyum. Interesting little session beer...wouldn't turn it down if had the chance but not exactly would be seeking it out either   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Sessions are not my thing. This is the only one I thoroughly enjoy and can drink any time. A good balance of fruit and hops. Hoppyness helps balance the session character.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 4.5 | feel: 4 | overall: 4.25 Have had this and off for a while, review relates to the 2/2/2016 batch. In general I am not a big fan of wheat beers, but the hops of this make it very good. Like the general description there are lots of lemon flavors, but they are more natural than say a Summer Shandy. Overall, just a really big fan of this beer, on a hot summer day after working outside would be easy to pound several in a row with no real effort.   
+look: 4.5 | smell: 5 | taste: 5 | feel: 5 | overall: 4.5 
+look: 3 | smell: 3.5 | taste: 3.25 | feel: 3 | overall: 3 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 4 12 Fluid Ounce Bottle  Served in a Pint Glass  Bottled on January 21st, 2016  Reviewed on February 6th, 2016    Eyes  Poured a hazy pale gold body with plenty of bubbles circulating throughout. Nice white head, well over two fingers deep. Lots of sticky lacing.    Nose  Very hop-forward. Blend of herbal and citric hops. Lemon peel. Touch of wheat. Hint of yeast.     Tongue  Citrus and lemongrass hit the tongue first. Lemon peel. Pine. Lacked malts, just a hint of cracker. Semi-dry finish with a bittersweet blend of tangerine and tart grapefruit.    Mouthfeel  Light-bodied. Moderate carbonation. Very crisp and easy to drink.    Notes  Very hoppy pale wheat ale. "It's not normal" certainly describes this brew. Delicious and dangerously drinkable. I'm what they call a "repeat customer".   
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 3 | feel: 3.5 | overall: 3.25 L: hazy yellow with a thin white head that stays on the beer  S: subtle hop, very delicate yeast  T: glutenous, slightly bitter  F: zesty carbonation 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 It's a good wheat ale but nothing to write home about. 
+look: 5 | smell: 4.75 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 Big shout out to my friend Bill F. who brought me back one of these from a trip through Indiana. Thanks, Bill!    Appearance 4.25: Pours out a pale golden color. Great looking, 1/2" head. Excellent lacing.    Smell 4.5: Excellent bouquet. Very hoppy with accent on piney hops. Promising!    Taste 4.0: Front is dry and that's about it. Middle is dry also, but features a very nice wave of hop blends that fades into a silky smooth, citrusy Finish. Surprisingly little else going on with this beer, but what is here is darn good.     Mouthfeel 4.0: A bit watery in the mouth, but satisfying and smooth.    Overall 4.25: A great wheat. Would be perfect for sessioning and I imagine they would go great with food. The taste is actually like a light IPA, what with the hop-forward taste, but -as an IPA lover-- that is not a bad thing. Definitely worth tracking this one down.   
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 3.25 | feel: 3.75 | overall: 3.75 
+look: 5 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 3 | smell: 4.25 | taste: 4.25 | feel: 3 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 I've waited to try this for year and it lived up to the hype. Great cracked wheat flavor with hints of bubblegum and citrus. Just enough bitterness to balance it all out.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.75 | feel: 4 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 3.5 | taste: 2 | feel: 2.5 | overall: 3 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4.25 Poured at 45°F from a 12oz bottle (bottled on 02Nov15) into a Weizen glass. Consumed on 02Jan15.  LOOK: Pours with a finger's worth of white foam that halves itself after 1 minute and 15 seconds. Straw yellow in color with a moderate amount of cloudiness. Rising bubbles are high in quantity and both small and medium in size. Lacing is large in quantity and mostly thick with a few areas being very thick.   SMELL: Strong aromas of grapefruit, tangerines, and oranges entangle with mild aromas of wheat, floral hops, and lemony zest. This smells like a wheat IPA instead of an American Pale Wheat Ale.   TASTE: Strong grapefruit, tangerine, and orange flavors enter at first and are immediately followed by strong wheat flavors. Mild lemony zest and floral hop flavors along with hints of bitter hops enter lastly as all previous flavors persist.   FEEL: Medium-bodied and moderately carbonated. Goes down somewhat smooth. Finishes crisp.   NOTE: For the amount of hop flavors that was in this, the bitter hop flavors that followed were very slight, and I loved it. A definite great in this style. FFF continues to impress me.   
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 3.75 Nice clear golden color, thick 2 finger head, lots of carb streaming up. Fruity aroma, skittles, kind of astringent end to the aroma. Bitter taste up front, bitter taste in the middle, you guessed it, bitter at the end. Very pleasant though. More of a green, grassy, type of hop bitterness in the taste rather than the fruity hop presence on the nose. Very nice. Has that house malt backbone three floyds pales and IPAs all seem to carry. Another nice one here.   
+look: 5 | smell: 4 | taste: 3 | feel: 4 | overall: 3 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Definitely does not smell like a wheat ale. Smells more like an IPA (citrus). But offers a wonderful taste and is yet another treat from 3F Brewing. 
+look: 2.5 | smell: 2.5 | taste: 2.5 | feel: 2.5 | overall: 2 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 22oz bomber poured into tulip glass:    Look: Pours a nice hazy orange with a nice amount of head with lacing present.    Smell: This beer smells more like an IPA or pale ale than a pale wheat ale. Tons of hints of citrus, grapefruit, hops, and some wheat coming thru.    Taste: Less hops come thru in the taste than on the nose but they are still present. Some wheat pokes its way thru along with some lemon/citrus. Very tasty brew!    Feel: Medium bodied.    Overall: This is probably the best pale wheat ale I have had to date. This would be a great summer beer that I could sip on all day long. Crisp and refreshing and would be great on a hot summery day. I will definately revisit if I can get my buddy to bring more of this back to PA the next time he comes home!   
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 3.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.5 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 Crystal clear yellow gold with a large, pearl white head of tiny bubbles.    Smell is wheat, grass, and some kind of indescribable attribute that the amarillo hops provide that I've still yet to experience in any other beer. Lemon is prominent as well. The wheat and the lemon push back against each other, ensuring neither dominates the beer.    Flavor comes through much the same, downright dominated by that indescribable, maybe walnutty?, wheatgrassy attribute that at first may be off-putting, but with each new sip pulls you in more and more. Wheaties, crisp light lemon, grass. Very light, yet very substantial and satisfying all at once.    This is certainly weird, but in a good way. I can't believe they can consistently recreate this flavor profile every year.    When 3 Floyds says their beers are not normal, this year-round beer is the embodiment of that motto. I really don't know how they can call Alpha King their flagship when this beer is so damn unique, and also more available, at least in Ohio.    This beer is so damn weird, but one of the best wheat beers in existence.   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 Hazy orange color with a fluffy white head. Light bodied beer with light lemon/lime notes, and big hoppy profile without being bitter. Sharp, crisp mouthfeel, very drinkable and awesome beer.   
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 Great go-to crisp refreshing beer. Bright gold in color, slightly hazy, bright white head. Vibrant aroma of fresh cut grass, bright lemon zest, orange peel, wheat, and some dankness. Very crisp on the palate, incredibly refreshing and drinkable. Identifiably as a wheat beer paired with the hopping of a pale ale. Amarillo well represented here. Great beer, though overpriced if not purchased at the brewery.   
+look: 4.25 | smell: 4.5 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.75 | smell: 3.75 | taste: 3.5 | feel: 4.5 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 5 | smell: 5 | taste: 5 | feel: 4.5 | overall: 5 
+look: 3.75 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 5 
+look: 3.5 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 12 ounce bottle poured into a tulip glass    A: Pours a honey orange color with a white head, lots of lacing, some carbonation, clear, not much head retention.    A: Lots of citrus, grapefruit, mango, guava, picking up sweet malts, no alcohol on the nose, smells more like an IPA than a pale wheat ale.    T: Like the nose, but subdued, hints of grapefruit, mango, guava, slight bitterness in the middle, finishes smooth with semi grassy, hay characteristic coming through, picking up some lemon notes as well, very easy drinking.    M: Light body, semi dry finish.    O: This is definitely easy to drink, love the aroma but the flavor is nothing compared to all the citrus that comes through on the aroma, very sessionable, I could see myself drinking a lot of this during the summer.   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3 | taste: 4 | feel: 4 | overall: 4 Not sure what to expect here. Is it gonna be really hoppy, or just an easy summer sipper? Let's find out. 12 oz. bottle into a tulip.    A - A beautiful, clear, bright yellow orange. Head is pretty thick with tiny bubbles - off white. Looks very inviting.    N - Not much on the nose. Slight hops with a bit of wheat.    T - A little bit of both. I definitely get some hop bitterness, but it's very light, as is the wheat. A very pleasant lawnmower beer.    M - Actually more interesting than I expected. Lots of froth and coating, which is nice. Dry on the finish.    O - Yep, very pleasant and easy drinking. Could drink this all afternoon and/or evening.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 Great summer beer. This is really a wheat, but I've heard it called an IPA and a pale. Huge wheat, citrus, lemon, solid hop profile. Great after cutting the grass!   
+look: 3.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 From the bottle, it pours a hazy gold with a dense and creamy white head that sticks around.  Aroma is sharp, lemmony, orange, resin, a hint of sweet fruit.  Tasty beer. Juicy, tart and bitter. Lemon pith, a touch of sour OJ, some bitter lemon pitch and a hint of spice and bubblegum.  Mouthfeel is medium, smooth and bubbly.  Really tasty.   
+look: 4.25 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 Great beer. I first had it when it was about a month or two old, but was blown away when I had it fresh. Hops all over the place that weren't that present the first time. Like the other reviews say, wheat, citrus, spiciness, and whoa hops. Drink it fresh for the best experience.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 3.75 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 4.75 | taste: 5 | feel: 5 | overall: 5 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 poured from bottle into boulevard wheat glass.     Pours a translucent gold with mild carbonation visible. 1-finger/white head.    The nose contained lots of citrus, specifically lemon zestiness. I can pick up on the wheat as well. As some have said, I noticed some spiciness.     flavor goes along pretty well with the nose. Lots of lemon zest and the wheat comes through to balance. Its a pretty good, refreshing flavor, but not quite on par with the other FFF beers I have had.     Light bodied, with medium carbonation. Little spicy burn.     Above average beer. I would buy another 6-pack.   
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 3 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4.25 | overall: 4.25 Great wheat ale. Lots of flavor. Clean refreshing aftertaste. Not too hoppy but still has bite. I'll have some more please. 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 This is a great pale wheat ale. The wheat adds some body and texture and a great hazy color, while the hops and their magic entice my taste buds, and scream for another sip. Thank you FFF.   
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 Look - Golden color, clear in appearance   Smell - Tropical, citrus, lemons, bubblegum   Taste - TONS of lemon, lemongrass, wheat, hints of pineapple, awesome hop presence for a wheat    Overall - Think I just found my new favorite wheat beer!   
+look: 4.25 | smell: 4.5 | taste: 5 | feel: 4.5 | overall: 4.75 
+look: 3.5 | smell: 4.5 | taste: 4 | feel: 3.75 | overall: 4.25 
+look: 3.5 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 12 oz bottle poured in a stemmed glass. The citrus Amarillo hops really shine, and this beer is outstanding for American pale wheat ale. Easy drinker all day.   
+look: 3.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Another overrated 3F brew. Nothing special, just blah. I'm so done trading for 3F stuff, everything I've had has been ridiculously overrated. Don't believe the hype.   
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 poured into an IPA glass    White head, very good head retention. The beer is a super clear straw color, which threw me off because the bottle said it would be hazy.     aroma isn't what I thought of Amarillo. Its very lemony and zesty, almost spicy. maybe a tiny bit of pickle juice or cat piss coming through. Very pleasant, but I previously thought of Amarillo to be more berry-like    Flavor is a lot of the same, zesty and lemon lime. Theres a dry herbal component there that's easy to get with low abv hoppy beers. overall a very dry beer. Not really any doughy wheat coming across. mostly just hops and a slight indescript malt sweetness.    enjoyed the beer, but I feel like it is far over hyped.   
+look: 4 | smell: 4.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 Poured into a weizen glass.    4.0 A: Clear golden yellow color. Two fingers of pillowy white head. Retention is very good and a finger of lacing is left.    4.5 S: This smells amazing. Fresh, resiny hoppiness smashes your senses. It really does smell like there are actual hops in the glass. Big citrus featuring lemon and lime. Neutral wheat and maybe the slightest touch of cat piss. Dank and stanky the way it should be. The only things missing are the wheat ale flavors. There's nothing in terms of spiciness, banana, or bubblegum. Well, maybe there is, but it's impossible to detect through the hops.    3.5 T: The taste is markedly less hoppy than the nose, but there's still quite a bit in there. Mild to moderate bitterness, citrusy lemon and grassy hoppiness. Neutral wheat with perhaps a touch peachy fruitiness. It's good, but neither the malts or hops are really impressive.     3.5 M: Lighter medium body. Good moderate carbonation. Lacking some of the creamy chewiness that tends to come with wheat brews. The filtering of this brew may not have done it any favors.    3.5 D: Very strong start, but ultimately came up short where it counts. It's still a fine brew and the nose is amazing enough to revisit again and again.   
+look: 4.75 | smell: 4.75 | taste: 4 | feel: 4 | overall: 4.25 Smells like a hoppy Spree candy. Lemon, lime, and tropical fruit. Some floral tones. This is not like most pale wheat ales - rather a hybrid pale ale with some of the wheat to cut the dryness.   
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 5 | overall: 4.25 
+look: 4 | smell: 5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 3.75 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 2.75 | smell: 3.5 | taste: 4.5 | feel: 3 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 On tap at Thai 9. Served in a La Chouffe tulip glass.     Appearance: Bright gold with a ¼” white head with plenty of lacing.     Smell: When first served, I got aromas of peach and leafy hops which became more citrusy and floral as the beer warmed up.     Taste: Nicely hoppy, but not aggressively so, with citrus and leafy hops. Clean wheat tang and malt middle. The finish has a light lingering bitterness with pine and citurs.     Mouthfeel: Chewy, with good carbonation. Overall pretty smooth.    Overall / Drinkability: A nice well hopped, but flavorful and not a “to the extreme” hoppy summer wheat ale. Very drinkable and I would not have minded at all having a larger glass or another one. It went quite well with yellowfin tuna sushi rolls.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 5 | feel: 4.75 | overall: 4.75 
+look: 3.5 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.75 | smell: 3.75 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 3.75 | smell: 3.75 | taste: 4.5 | feel: 5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 12 oz bottle. Medium golden orange with thin layer of head that maintains the entire time. While the aroma isn't powerful, i like it a lot, citrus pulp and melon. The taste follows, Amarillo hops are delicious, orange peel and melon rind and tropical. Great balance. Finishes dry with a wheaty taste. Medium thick mouthfeel and exceptionally smooth. Overall one of the best wheat ales I've had, so flavorful and easy drinking.   
+look: 3.5 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 Damn fine wheat ale, one of the flagships IMO. A pretty, yellow-gold pour, with nice head retention and lacing. On the nose, citrus and tropical hop aromas mix with a slightly sweet, slightly spicy wheat-malt aroma. The flavor, like the aroma, is surprisingly hoppy, focused on a characteristic 3F citrusy-tropical flavor. Malts provide a nice balancing act with the hops, fairly dry and slightly spicy, with the barest hint of honeyed sweetness. Medium-light body, nice level of carbonation, and fairly light and refreshing while still being laden with flavor. Very good.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.5 | smell: 3.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.5 | overall: 4.5 Poured into a tulip glass.    L: Pours dark straw yellow with about a finger of white head.    S: Amarillo hops invade my nostrils immediately. Citrus notes emerge with some melon and peach. I can also literally smell the wheat. This beer smells quite sweet.    T: The sweetness comes through immediately. The amarillo hops are a great hop to use in a wheat ale. The citrus, melon and peach flavors come through and eventually fade into strong wheaty flavors. This is really nice.     F: I definitely could drink a lot of these. This beer is very dry, which I expected from the wheat. The alcohol is non-existent and there is a light to medium feel. Very pleasant.    Overall: I can see why this beer is highly regard. I was sent a very fresh bottle of this. The hops and wheat play off each other in a very complementary way. 3 Floyds is obviously known for having extremely hopped beers (with the exception of Dark Lord, of course.) I had expected this beer to be a hop punch in the face, which it was when I initially tasted this. As I progressed through this, the wheat came through to balance the hops and made this a pale wheat ale that I wouldn't mind having again and again.   
+look: 4.75 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 4 | smell: 3.75 | taste: 4.25 | feel: 4.5 | overall: 4.25 Was pleasantly surprised when I took my first drink. Very nice citrus ending. I plan on growing my own hops next season and will definitely look into the Amarillo hops that's used in Gumballhead.   Nice, hop filled flavor.   
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 Pours a pure honey golden color. Aroma is sweet and you get the maltiness. Flavor balanced you get the "gum ball" flavor. Light finish. Overall a very nice beer   
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 This is the beer that started it all. I could of gave 2 shits about craft beer until I drank this one. This beer is perfect...hoppy...dank...and very well balanced. Many other brewery's try and copy this one without coming close. Much easier to get than it was in the past so if you see it in your Midwest liquor store you won't be disappointed.   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 Very good beer. I tend to favor the apas but this is close behind. 
+look: 3.5 | smell: 4 | taste: 4 | feel: 4.25 | overall: 4 
+look: 5 | smell: 5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.5 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 5 | smell: 5 | taste: 4.75 | feel: 5 | overall: 4.75 A slightly hazy golden color. A nice thick head with good retention after an aggressive pour from the bottle. The aroma really sets this beer apart from the other hoppy wheat ales. Great citrus aroma complemented by the wheat background. Flavor follows closely with great citrus and the wheat picking up a little heavier balance in the flavor than in the aroma. Flavors are really well matched with good bitterness in the middle. Very smooth and clean finish. Still the best of the hoppy wheat ales.   
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3 | smell: 3.5 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 5 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 3.5 | taste: 3 | feel: 4.5 | overall: 3.5 
+look: 3.75 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4 | smell: 4 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 Poured from a 12oz. bottle into a tulip.    A - Poured a clear gold, billowy white head.    S - Citrus, with a hint of breadiness.    T - Big citrus hop burst from the start, fading into a residual bitterness and being overtaken in flavor by crisp, sweet, light bready notes. The grain taste is fresh and light. Pretty pronounced residual bitterness.    M - Medium-light body, moderate carbonation. Slightly dry.    O - One of the most characterful pale wheats I've ever had. FFF takes the characteristics of a wheat ale and amps them up to 11.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.25 | smell: 3.75 | taste: 3.5 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 3.75 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 3.5 | overall: 3.75 12oz bottle received via trade. about two months old  A: slightly Cloudy     S: Wheat, Hops, a little sweet bread    T: might have been a little off as it was Not super fresh when I had it so I will need to re rate at a later date.     F: had a light feel decent finish.    O: Good beer but I might be great when fresh, I will visit again when a fresh bottle or tap is available   
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.75 | taste: 4.25 | feel: 4.25 | overall: 4.5 This was pretty good...my first 3floyds. Great hop nose. I haven't had too many hoppy wheat beers so this was a new animal for me. Sweeter/maltier than I expected and got sweeter as it warmed up. Great beer though...enjoyed it but wouldn't drink a bunch in a row.   
+look: 4 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.25 | feel: 3.75 | overall: 3.5 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 L - basic wheat ale, cloudy. Good carbonation.    S - Like a wheat ale, with a kiss of citrusy hops    T - Same as the smell, no difference    F - Feels like wheat     Overall - don't know how this is in the new top 250   
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 3.25 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 3.5 | taste: 4 | feel: 4 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 had this last year, really want to try a fresh one again soon.. 
+look: 3 | smell: 2.75 | taste: 3 | feel: 2.75 | overall: 2.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 Fresh 12oz. bottle poured into a snifter tasting glass.    A=Poured clearer than expected, yellow to amber, thin white head.    S=Some sweetness and bready malt, lightly scented overall.     T=Malt characteristic of a pale wheat beer, has some hop bitterness and flavor but much more malt forward.    M=Moderate level of carbonation with body on the light side of medium.    O=Good easy drinking beer, nice change of pace to typical American Wheat offerings, light and refreshing with some crisp hop flavor and bitterness.   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.5 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 5 | overall: 4.75 Three Floyds has this style that allows the hops to really shine. This beer lets Amarillo shine like the masterful hop it is. The color is a clear golden light brown, the head left something to be desired but there was lacing and the beer was well carbonated otherwise. The mouthfeel was truly amazing however, velvety. The flavor profile is perfectly constructed so there are no strong highs or lows but a casual ride that's enjoyable through and through. There's a nice lemon twist at the end as well. The smell was of a sweet hop and a bit of citrus, and obviously it tasted of the hops but not in an overpowering manner and the grain profile was supportive of the hops.   
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.5 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 4 | overall: 3.75 
+look: 4.75 | smell: 4.75 | taste: 4.75 | feel: 4.75 | overall: 4.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 This is another one of 3 Floyds amzing IPAs. This one is great, but does not stack up against some of their other offerings. THe nose smells of strong hops and the flavor is nice, but not the most balanced.   
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.75 | overall: 3.5 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.75 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.5 | overall: 4.5 
+look: 4.5 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 3.25 | taste: 4 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.5 | smell: 3.5 | taste: 3.75 | feel: 3.5 | overall: 3.5 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4.75 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.25 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 First time trying this style, and I was more than pleasantly surprised. Not typically a wheat beer fan, but adding tons of Amarillo hops was a stellar move. The citrus on the finish just made this beer. I will try to get my hands on more of this in the future.   
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.75 | overall: 4.75 Definitely my favorite Wheat Beer of all time. 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 3.75 | overall: 4 Just the right amount of hops with a strong malt backbone. My favorite pale wheat. It tickles my wheat and hop fancies. It's honestly so much better within a week of being bottled. Fresh bottles are the only ones that should be judged.   
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.5 Gumballhead is easily my favorite wheat beer. 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.25 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 12oz bottle dated "0585-0588 / 05/07/2015"    A — Pours a light bubbly yellow color, great clarity. There is also a nice and puffy light white colored head that leaves behind very consistent and sticky lacing.    S — Smells of sweet fresh hops and a nice wheat background. Very juicy and sweet.    T — Tastes like the nose, little bit of noticeable wheat malt is present in the beer, quite juicy and hoppy.    M — Light-Medium bodied, nice and medium-long finish.    O — Great overall, a nicely executed hoppy wheat beer.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.25 I know that three floyds is popular, but this beer did not live up the hype. Overall a good beer, but I won't be seeking it out again. 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4.75 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 4 | taste: 3.5 | feel: 3.75 | overall: 3.5 Not what it used to be. Pretty average at this point. 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 1st FFF beer! Slightly hazy yellow with a small head. Smells awesome and hoppy. Wheat and hops dominate the taste. Very crisp and well carbonated. Awesome brew. Bonus points for the awesome cat artwork.   
+look: 4 | smell: 3.5 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 I had one of these before going to see Lynch Mob at Tailgaters this month & it's not too far from the 3Floyds brew house -this is the best wheat beer I have ever had!...& before I was turned on to ipa's & porters,wheat was my favorite of all the beers...unless I was drinking a miller high life (I know,I know,come a long way)...anyway,when I got to the bar,I thought 3floyds would be on tap,but no! Had to drink guinness from there on out...   
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4.5 | overall: 4 
+look: 3.75 | smell: 3.25 | taste: 3.5 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 Poured into a Asheville Beer Week 2015 slender pint glass. Bottleneck says 06/11/2015.    A- Pours a clean medium amber color with a 1/4 inch off-white head that retains a bit before becoming a thick ring around the edge of the glass and a mostly full sheet of surface foam. Non-resilient lacing slides quickly down the glass.    S- The amarillo dry-hopping is very apparent and accentuates the sweetness of the wheat. Slight yeasty characteristic gives that bubble gum aspect.    T- Very mild flavor of light hops and substantial wheat malt. Very, very drinkable as it has that slight amount of bitterness that wears off quickly making you want to go back for more. Kind of soily mid-palate.    M- Crisp with medium carbonation and a body leaning toward the lighter side.    O- A neat interpretation of a wheat beer. The hop presence gives it character while the complementary sweetness gives it drinkability. A pretty solid go-to I have to say.   
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 Best wheat beer I have ever had. Not usually a fan of the style 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.25 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 This may be my favorite beer for all seasons. Zombie Dust may be the gold standard when it comes to 3 Floyds, but I like this one just as much. I typically buy this a case at a time. So good, so drinkable. Next time you are on I-80 near Munster, jump off and get yourself a case of Gumballhead and share with your friends.   
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4.25 My first craft beer purchase was a 6-pack of Gumballhead almost one year ago. Very solid beer and worth buying if you can find it. 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4.25 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 
+look: 3.75 | smell: 4 | taste: 3.25 | feel: 4 | overall: 3.75 Tastes very plain, A refresher thats for sure. A lot different than the other 3 Floyds brews 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 5 | overall: 4.5 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.25 | overall: 4.5 Unique. Fun. Lots of flavor. One of the best wheat beers I've ever tasted. 
+look: 5 | smell: 4 | taste: 4.75 | feel: 4.25 | overall: 4.75 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4.25 | overall: 4 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 3.75 | smell: 4.5 | taste: 4 | feel: 4.25 | overall: 4 
+look: 3.75 | smell: 3.25 | taste: 3.25 | feel: 3.25 | overall: 3.25 Not a lot of taste to this beer. More of a hot weather refresher. 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 The strangest wheat beer I've ever tasted, but it's a very unique flavor and it is one worth trying for sure! Now one of my new favorites! For sure the best 3 Floyds beer out there. It's very light, but full flavored at the same time. It has light flavors of a traditional wheat brew but with normal flavors of a session IPA like light citrus and slight hops. Very hoppy on the nose, but not as much on the palate even though it's referred to a "hoppy wheat" brew. Not sure what they used to pull off the sweet flavor, but I can see where they got the name from as I get a sweet candied taste reminding me of candy like flavor almost like a gumball on the back end. VERY unique and a must try if you ever get the chance.   
+look: 3.75 | smell: 4 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.25 | smell: 3.5 | taste: 4 | feel: 3.25 | overall: 3.75 
+look: 4.25 | smell: 4 | taste: 4 | feel: 3.75 | overall: 4 This opens and pours nicely, with a generous head and nice lacing It's hazy and yellow The aroma and look both said IPA, even though I knew that it was not. A very sweet, hoppy aroma.    The unique taste immediately changes gears from the smell. My bottle was nutty tasting at first, then more normal for the style. Perhaps I should have let it sit for a month or two - it was bottled a couple weeks ago. It has a mildly bitter, malty taste, and slightly yeasty taste too. It improves as it warms, but it does not leave me itching for another. The aftertaste is a sweet-bitter lingering.    This unique brew is recommended for a taste.   
+look: 3.75 | smell: 4 | taste: 3.5 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.25 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 3.25 | smell: 3.75 | taste: 3.75 | feel: 3.25 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 4 | feel: 3.75 | overall: 4 
+look: 4.25 | smell: 3.75 | taste: 3.75 | feel: 4 | overall: 3.75 
+look: 4 | smell: 4.25 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 4.25 | overall: 4 
+look: 4.25 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 3.75 | smell: 4.5 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 3.75 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4.5 
+look: 4.5 | smell: 5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.75 | smell: 4 | taste: 5 | feel: 5 | overall: 4.75 
+look: 3 | smell: 4 | taste: 4.5 | feel: 3.75 | overall: 4.5 
+look: 4 | smell: 4.75 | taste: 3.25 | feel: 3.25 | overall: 3.5 
+look: 4 | smell: 4.25 | taste: 4.25 | feel: 4 | overall: 4.25 One of the more flavorful wheat beers that I've had. 
+look: 4.25 | smell: 4.5 | taste: 4.75 | feel: 4 | overall: 4.5 Very good. I see why they call it gumball :) 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 4.25 | smell: 4.25 | taste: 4.25 | feel: 4.25 | overall: 4.25 
+look: 4 | smell: 4.75 | taste: 4.25 | feel: 4 | overall: 4 
+look: 3.75 | smell: 4 | taste: 4 | feel: 4.5 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4.25 | taste: 4.5 | feel: 4 | overall: 4.5 
+look: 4 | smell: 4 | taste: 3.75 | feel: 4 | overall: 4 
+look: 4 | smell: 3.5 | taste: 3.25 | feel: 4.5 | overall: 3.75 
+look: 3 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4.25 
+look: 4 | smell: 4.5 | taste: 4.25 | feel: 4.25 | overall: 4.25 Tons of citrus in the nose and up front, wheat taste prevalent, excellent brew 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.25 | overall: 4.5 
+look: 4.5 | smell: 4.5 | taste: 4.5 | feel: 4.5 | overall: 4.5 
+look: 4.25 | smell: 4 | taste: 4.5 | feel: 4.25 | overall: 4.25 A very good American Pale Ale that I will be making a road trip to Indiana to visit the brewery! A good scores across but the taste of this brew was very good!   
+look: 4.5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 bottle was a week old straight from brewery. the hop addition nicely complements the malt profile. I will always seek this out. a holy grail beer 
+look: 4 | smell: 3.75 | taste: 4 | feel: 4 | overall: 4 
+look: 3.75 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4.5 | smell: 4.25 | taste: 4.5 | feel: 4.25 | overall: 4.5 A very unique tasting wheat beer. Different than any other wheat beer I have had, in a good way. 
+look: 3.5 | smell: 3.5 | taste: 3.5 | feel: 3.5 | overall: 3.5 
+look: 4 | smell: 4 | taste: 4 | feel: 4 | overall: 4 
+look: 4.25 | smell: 4 | taste: 4.25 | feel: 4 | overall: 4 
+look: 4.75 | smell: 4.5 | taste: 5 | feel: 5 | overall: 5 I have no words to truly describe this beer. What I can say is that I've been trying to track it down for 18 months. The best description I can give is that it takes the best parts of an IPA and mixes then with a Hefeweizen to result in one of the best beers that I've ever tasted! It's not perfect, the scent is a little pungent on the nose and the color does not quite fit the taste but this beer has to be tasted to be understood. As an added bonus, the packaging is very fun. Now, to hunt down more!   
+look: 4.5 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.5 
+look: 5 | smell: 5 | taste: 5 | feel: 5 | overall: 5 
+look: 3.5 | smell: 3.25 | taste: 3.5 | feel: 3.25 | overall: 3.25 
+look: 4.75 | smell: 4.5 | taste: 4.75 | feel: 4.5 | overall: 4.75 Probably the best wheat beer i've ever tasted. Very drinkable and refreshing! 
+look: 4.25 | smell: 4 | taste: 4 | feel: 4.25 | overall: 3.75 12 oz bottle poured into Snifter dated 4/10    A: light gold orange color with great clarity bubbly thick head    S: very hoppy citrusy has that overripe melon smell     T: very nice citrusy taste very similar to yum yum though     M: not bad a little creamy for a wheat it's thicker which is nice     O: this is a great wheat beer but with none of the wheat taste it's just a citrusy hoppy beer. Tastes a lot like Yum yum I tried earlier. The beers are quite similar in taste maybe a water thing this is a nice pale ale but kinda a shitty wheat if that makes sense   
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.75 | overall: 3.75 
+look: 4 | smell: 3.75 | taste: 3.75 | feel: 3.5 | overall: 3.75 
+look: 4.5 | smell: 5 | taste: 4.75 | feel: 5 | overall: 4.75 
